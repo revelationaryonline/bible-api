@@ -1,1 +1,65 @@
-{"data":[{"book":"Psalms","chapter":"122","verse":"1","text":"I was glad when they said unto me, Let us go into the house of the LORD."},{"book":"Psalms","chapter":"122","verse":"2","text":"Our feet shall stand within thy gates, O Jerusalem."},{"book":"Psalms","chapter":"122","verse":"3","text":"Jerusalem is builded as a city that is compact together:"},{"book":"Psalms","chapter":"122","verse":"4","text":"Whither the tribes go up, the tribes of the LORD, unto the testimony of Israel, to give thanks unto the name of the LORD."},{"book":"Psalms","chapter":"122","verse":"5","text":"For there are set thrones of judgment, the thrones of the house of David.122.5 are…: Heb. do sit"},{"book":"Psalms","chapter":"122","verse":"6","text":"Pray for the peace of Jerusalem: they shall prosper that love thee."},{"book":"Psalms","chapter":"122","verse":"7","text":"Peace be within thy walls, and prosperity within thy palaces."},{"book":"Psalms","chapter":"122","verse":"8","text":"For my brethren and companions’ sakes, I will now say, Peace be within thee."},{"book":"Psalms","chapter":"122","verse":"9","text":"Because of the house of the LORD our God I will seek thy good."},{"book":"Psalms","chapter":"122","verse":"1","text":"I was glad when they said unto me, Let us go into the house of the LORD."},{"book":"Psalms","chapter":"122","verse":"2","text":"Our feet shall stand within thy gates, O Jerusalem."},{"book":"Psalms","chapter":"122","verse":"3","text":"Jerusalem is builded as a city that is compact together:"},{"book":"Psalms","chapter":"122","verse":"4","text":"Whither the tribes go up, the tribes of the LORD, unto the testimony of Israel, to give thanks unto the name of the LORD."},{"book":"Psalms","chapter":"122","verse":"5","text":"For there are set thrones of judgment, the thrones of the house of David.122.5 are…: Heb. do sit"},{"book":"Psalms","chapter":"122","verse":"6","text":"Pray for the peace of Jerusalem: they shall prosper that love thee."},{"book":"Psalms","chapter":"122","verse":"7","text":"Peace be within thy walls, and prosperity within thy palaces."},{"book":"Psalms","chapter":"122","verse":"8","text":"For my brethren and companions’ sakes, I will now say, Peace be within thee."},{"book":"Psalms","chapter":"122","verse":"9","text":"Because of the house of the LORD our God I will seek thy good."}]}
+[
+  {
+    "id": "888949690398212097",
+    "book": "psalms                             ",
+    "chapter": "122",
+    "verse": "1",
+    "text": "I was glad when they said unto me, Let us go into the house of the LORD.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                "
+  },
+  {
+    "id": "888949690753843201",
+    "book": "psalms                             ",
+    "chapter": "122",
+    "verse": "2",
+    "text": "Our feet shall stand within thy gates, O Jerusalem.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     "
+  },
+  {
+    "id": "888949691117731841",
+    "book": "psalms                             ",
+    "chapter": "122",
+    "verse": "3",
+    "text": "Jerusalem is builded as a city that is compact together:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                "
+  },
+  {
+    "id": "888949691488436225",
+    "book": "psalms                             ",
+    "chapter": "122",
+    "verse": "4",
+    "text": "Whither the tribes go up, the tribes of the LORD, unto the testimony of Israel, to give thanks unto the name of the LORD.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               "
+  },
+  {
+    "id": "888949691845017601",
+    "book": "psalms                             ",
+    "chapter": "122",
+    "verse": "5",
+    "text": "For there are set thrones of judgment, the thrones of the house of David.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               "
+  },
+  {
+    "id": "888949692207857665",
+    "book": "psalms                             ",
+    "chapter": "122",
+    "verse": "6",
+    "text": "Pray for the peace of Jerusalem: they shall prosper that love thee.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     "
+  },
+  {
+    "id": "888949692564635649",
+    "book": "psalms                             ",
+    "chapter": "122",
+    "verse": "7",
+    "text": "Peace be within thy walls, and prosperity within thy palaces.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           "
+  },
+  {
+    "id": "888949692932325377",
+    "book": "psalms                             ",
+    "chapter": "122",
+    "verse": "8",
+    "text": "For my brethren and companions’ sakes, I will now say, Peace be within thee.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          "
+  },
+  {
+    "id": "888949693294608385",
+    "book": "psalms                             ",
+    "chapter": "122",
+    "verse": "9",
+    "text": "Because of the house of the LORD our God I will seek thy good.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          "
+  }
+]

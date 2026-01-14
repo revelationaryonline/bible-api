@@ -1,1 +1,51 @@
-{"data":[{"book":"Psalms","chapter":"120","verse":"1","text":"In my distress I cried unto the LORD, and he heard me."},{"book":"Psalms","chapter":"120","verse":"2","text":"Deliver my soul, O LORD, from lying lips, and from a deceitful tongue."},{"book":"Psalms","chapter":"120","verse":"3","text":"What shall be given unto thee? or what shall be done unto thee, thou false tongue?120.3 What shall be given…: or, What shall the deceitful tongue give unto thee? or, what shall is profit thee?120.3 done: Heb. added"},{"book":"Psalms","chapter":"120","verse":"4","text":"Sharp arrows of the mighty, with coals of juniper.120.4 Sharp…: or, It is as the sharp arrows of the mighty man, with coals of juniper"},{"book":"Psalms","chapter":"120","verse":"5","text":"Woe is me, that I sojourn in Mesech, that I dwell in the tents of Kedar!"},{"book":"Psalms","chapter":"120","verse":"6","text":"My soul hath long dwelt with him that hateth peace."},{"book":"Psalms","chapter":"120","verse":"7","text":"I am for peace: but when I speak, they are for war.120.7 for peace: or, a man of peace"},{"book":"Psalms","chapter":"120","verse":"1","text":"In my distress I cried unto the LORD, and he heard me."},{"book":"Psalms","chapter":"120","verse":"2","text":"Deliver my soul, O LORD, from lying lips, and from a deceitful tongue."},{"book":"Psalms","chapter":"120","verse":"3","text":"What shall be given unto thee? or what shall be done unto thee, thou false tongue?120.3 What shall be given…: or, What shall the deceitful tongue give unto thee? or, what shall is profit thee?120.3 done: Heb. added"},{"book":"Psalms","chapter":"120","verse":"4","text":"Sharp arrows of the mighty, with coals of juniper.120.4 Sharp…: or, It is as the sharp arrows of the mighty man, with coals of juniper"},{"book":"Psalms","chapter":"120","verse":"5","text":"Woe is me, that I sojourn in Mesech, that I dwell in the tents of Kedar!"},{"book":"Psalms","chapter":"120","verse":"6","text":"My soul hath long dwelt with him that hateth peace."},{"book":"Psalms","chapter":"120","verse":"7","text":"I am for peace: but when I speak, they are for war.120.7 for peace: or, a man of peace"}]}
+[
+  {
+    "id": "888949684730789889",
+    "book": "psalms                             ",
+    "chapter": "120",
+    "verse": "1",
+    "text": "In my distress I cried unto the LORD, and he heard me.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  "
+  },
+  {
+    "id": "888949685097922561",
+    "book": "psalms                             ",
+    "chapter": "120",
+    "verse": "2",
+    "text": "Deliver my soul, O LORD, from lying lips, and from a deceitful tongue.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  "
+  },
+  {
+    "id": "888949685466791937",
+    "book": "psalms                             ",
+    "chapter": "120",
+    "verse": "3",
+    "text": "What shall be given unto thee? or what shall be done unto thee, thou false tongue?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      "
+  },
+  {
+    "id": "888949685839790081",
+    "book": "psalms                             ",
+    "chapter": "120",
+    "verse": "4",
+    "text": "Sharp arrows of the mighty, with coals of juniper.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      "
+  },
+  {
+    "id": "888949686206562305",
+    "book": "psalms                             ",
+    "chapter": "120",
+    "verse": "5",
+    "text": "Woe is me, that I sojourn in Mesech, that I dwell in the tents of Kedar!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                "
+  },
+  {
+    "id": "888949686730293249",
+    "book": "psalms                             ",
+    "chapter": "120",
+    "verse": "6",
+    "text": "My soul hath long dwelt with him that hateth peace.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     "
+  },
+  {
+    "id": "888949687094083585",
+    "book": "psalms                             ",
+    "chapter": "120",
+    "verse": "7",
+    "text": "I am for peace: but when I speak, they are for war.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     "
+  }
+]

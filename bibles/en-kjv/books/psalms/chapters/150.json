@@ -1,1 +1,44 @@
-{"data":[{"book":"Psalms","chapter":"150","verse":"1","text":"Praise ye the LORD. Praise God in his sanctuary: praise him in the firmament of his power.150.1 Praise ye…: Heb. Hallelujah"},{"book":"Psalms","chapter":"150","verse":"2","text":"Praise him for his mighty acts: praise him according to his excellent greatness."},{"book":"Psalms","chapter":"150","verse":"3","text":"Praise him with the sound of the trumpet: praise him with the psaltery and harp.150.3 trumpet: or, cornet"},{"book":"Psalms","chapter":"150","verse":"4","text":"Praise him with the timbrel and dance: praise him with stringed instruments and organs.150.4 dance: or, pipe"},{"book":"Psalms","chapter":"150","verse":"5","text":"Praise him upon the loud cymbals: praise him upon the high sounding cymbals."},{"book":"Psalms","chapter":"150","verse":"6","text":"Let every thing that hath breath praise the LORD. Praise ye the LORD."},{"book":"Psalms","chapter":"150","verse":"1","text":"Praise ye the LORD. Praise God in his sanctuary: praise him in the firmament of his power.150.1 Praise ye…: Heb. Hallelujah"},{"book":"Psalms","chapter":"150","verse":"2","text":"Praise him for his mighty acts: praise him according to his excellent greatness."},{"book":"Psalms","chapter":"150","verse":"3","text":"Praise him with the sound of the trumpet: praise him with the psaltery and harp.150.3 trumpet: or, cornet"},{"book":"Psalms","chapter":"150","verse":"4","text":"Praise him with the timbrel and dance: praise him with stringed instruments and organs.150.4 dance: or, pipe"},{"book":"Psalms","chapter":"150","verse":"5","text":"Praise him upon the loud cymbals: praise him upon the high sounding cymbals."},{"book":"Psalms","chapter":"150","verse":"6","text":"Let every thing that hath breath praise the LORD. Praise ye the LORD."}]}
+[
+  {
+    "id": "888949806038188033",
+    "book": "psalms                             ",
+    "chapter": "150",
+    "verse": "1",
+    "text": "Praise ye the LORD. Praise God in his sanctuary: praise him in the firmament of his power.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              "
+  },
+  {
+    "id": "888949806403977217",
+    "book": "psalms                             ",
+    "chapter": "150",
+    "verse": "2",
+    "text": "Praise him for his mighty acts: praise him according to his excellent greatness.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        "
+  },
+  {
+    "id": "888949806767865857",
+    "book": "psalms                             ",
+    "chapter": "150",
+    "verse": "3",
+    "text": "Praise him with the sound of the trumpet: praise him with the psaltery and harp.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        "
+  },
+  {
+    "id": "888949807139618817",
+    "book": "psalms                             ",
+    "chapter": "150",
+    "verse": "4",
+    "text": "Praise him with the timbrel and dance: praise him with stringed instruments and organs.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 "
+  },
+  {
+    "id": "888949807515631617",
+    "book": "psalms                             ",
+    "chapter": "150",
+    "verse": "5",
+    "text": "Praise him upon the loud cymbals: praise him upon the high sounding cymbals.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            "
+  },
+  {
+    "id": "888949807887089665",
+    "book": "psalms                             ",
+    "chapter": "150",
+    "verse": "6",
+    "text": "Let every thing that hath breath praise the LORD. Praise ye the LORD.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   "
+  }
+]
