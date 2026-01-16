@@ -1,1 +1,261 @@
-{"data":[{"book":"Job","chapter":"34","verse":"1","text":"ADEMÁS respondió Eliú, y dijo:"},{"book":"Job","chapter":"34","verse":"2","text":"Oid, sabios, mis palabras;"},{"book":"Job","chapter":"34","verse":"3","text":"Porque el oído prueba las palabras,"},{"book":"Job","chapter":"34","verse":"4","text":"Escojamos para nosotros el juicio,"},{"book":"Job","chapter":"34","verse":"5","text":"Porque Job ha dicho: 34.5 cp. 33.9.Yo soy justo,"},{"book":"Job","chapter":"34","verse":"6","text":"¿He de mentir yo contra mi razón?"},{"book":"Job","chapter":"34","verse":"7","text":"¿Qué hombre hay como Job,"},{"book":"Job","chapter":"34","verse":"8","text":"Y va en compañía con los que obran iniquidad,"},{"book":"Job","chapter":"34","verse":"9","text":"Porque ha 34.9 cp. 9.22,23 y 21.7,15 y 24.1.dicho: De nada servirá al hombre"},{"book":"Job","chapter":"34","verse":"10","text":"Por tanto, varones de seso, oidme;"},{"book":"Job","chapter":"34","verse":"11","text":"Porque 34.11 Sal. 62.12.él pagará al hombre según su obra,"},{"book":"Job","chapter":"34","verse":"12","text":"Sí, por cierto, Dios no hará injusticia,"},{"book":"Job","chapter":"34","verse":"13","text":"¿Quién visitó por él la tierra?"},{"book":"Job","chapter":"34","verse":"14","text":"Si él pusiese sobre el hombre su corazón,"},{"book":"Job","chapter":"34","verse":"15","text":"Toda carne perecería juntamente,"},{"book":"Job","chapter":"34","verse":"16","text":"Si pues hay en ti entendimiento, oye esto:"},{"book":"Job","chapter":"34","verse":"17","text":"¿Enseñorearáse el que aborrece juicio?"},{"book":"Job","chapter":"34","verse":"18","text":"¿Hase de decir al rey: Perverso;"},{"book":"Job","chapter":"34","verse":"19","text":"¿Cuánto menos a aquel 34.19 Dt. 10.17. 2 Cr. 19.7.que no hace acepción de personas de príncipes,"},{"book":"Job","chapter":"34","verse":"20","text":"En un momento morirán, y á media noche"},{"book":"Job","chapter":"34","verse":"21","text":"Porque sus ojos están sobre los caminos del hombre,"},{"book":"Job","chapter":"34","verse":"22","text":"No hay tinieblas ni sombra de muerte"},{"book":"Job","chapter":"34","verse":"23","text":"No carga pues él al hombre más de lo justo,"},{"book":"Job","chapter":"34","verse":"24","text":"El quebrantará á los fuertes sin pesquisa,"},{"book":"Job","chapter":"34","verse":"25","text":"Por tanto él hará notorias las obras de ellos,"},{"book":"Job","chapter":"34","verse":"26","text":"Como á malos los herirá"},{"book":"Job","chapter":"34","verse":"27","text":"Por cuanto así se apartaron de él,"},{"book":"Job","chapter":"34","verse":"28","text":"Haciendo venir delante de él 34.28 cp. 35.9. Stg. 5.4.el clamor del pobre,"},{"book":"Job","chapter":"34","verse":"29","text":"Y si él diere reposo, ¿quién inquietará?"},{"book":"Job","chapter":"34","verse":"30","text":"Haciendo que no reine el hombre hipócrita"},{"book":"Job","chapter":"34","verse":"31","text":"De seguro conviene se diga á Dios:"},{"book":"Job","chapter":"34","verse":"32","text":"Enséñame tú lo que yo no veo:"},{"book":"Job","chapter":"34","verse":"33","text":"¿Ha de ser eso según tu mente?"},{"book":"Job","chapter":"34","verse":"34","text":"Los hombres de seso dirán conmigo,"},{"book":"Job","chapter":"34","verse":"35","text":"Que Job 34.35 cp. 35.15.no habla con sabiduría,"},{"book":"Job","chapter":"34","verse":"36","text":"Deseo yo que Job sea probado ampliamente,"},{"book":"Job","chapter":"34","verse":"37","text":"Porque á su pecado añadió impiedad:"}]}
+[
+  {
+    "id": 17011,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "1",
+    "text": "ADEMÁS respondió Eliú, y dijo:"
+  },
+  {
+    "id": 17012,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "2",
+    "text": "Oid, sabios, mis palabras;"
+  },
+  {
+    "id": 17013,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "3",
+    "text": "Porque el oído prueba las palabras,"
+  },
+  {
+    "id": 17014,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "4",
+    "text": "Escojamos para nosotros el juicio,"
+  },
+  {
+    "id": 17015,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "5",
+    "text": "Porque Job ha dicho: 34.5 cp. 33.9.Yo soy justo,"
+  },
+  {
+    "id": 17016,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "6",
+    "text": "¿He de mentir yo contra mi razón?"
+  },
+  {
+    "id": 17017,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "7",
+    "text": "¿Qué hombre hay como Job,"
+  },
+  {
+    "id": 17018,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "8",
+    "text": "Y va en compañía con los que obran iniquidad,"
+  },
+  {
+    "id": 17019,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "9",
+    "text": "Porque ha 34.9 cp. 9.22,23 y 21.7,15 y 24.1.dicho: De nada servirá al hombre"
+  },
+  {
+    "id": 17020,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "10",
+    "text": "Por tanto, varones de seso, oidme;"
+  },
+  {
+    "id": 17021,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "11",
+    "text": "Porque 34.11 Sal. 62.12.él pagará al hombre según su obra,"
+  },
+  {
+    "id": 17022,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "12",
+    "text": "Sí, por cierto, Dios no hará injusticia,"
+  },
+  {
+    "id": 17023,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "13",
+    "text": "¿Quién visitó por él la tierra?"
+  },
+  {
+    "id": 17024,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "14",
+    "text": "Si él pusiese sobre el hombre su corazón,"
+  },
+  {
+    "id": 17025,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "15",
+    "text": "Toda carne perecería juntamente,"
+  },
+  {
+    "id": 17026,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "16",
+    "text": "Si pues hay en ti entendimiento, oye esto:"
+  },
+  {
+    "id": 17027,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "17",
+    "text": "¿Enseñorearáse el que aborrece juicio?"
+  },
+  {
+    "id": 17028,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "18",
+    "text": "¿Hase de decir al rey: Perverso;"
+  },
+  {
+    "id": 17029,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "19",
+    "text": "¿Cuánto menos a aquel 34.19 Dt. 10.17. 2 Cr. 19.7.que no hace acepción de personas de príncipes,"
+  },
+  {
+    "id": 17030,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "20",
+    "text": "En un momento morirán, y á media noche"
+  },
+  {
+    "id": 17031,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "21",
+    "text": "Porque sus ojos están sobre los caminos del hombre,"
+  },
+  {
+    "id": 17032,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "22",
+    "text": "No hay tinieblas ni sombra de muerte"
+  },
+  {
+    "id": 17033,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "23",
+    "text": "No carga pues él al hombre más de lo justo,"
+  },
+  {
+    "id": 17034,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "24",
+    "text": "El quebrantará á los fuertes sin pesquisa,"
+  },
+  {
+    "id": 17035,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "25",
+    "text": "Por tanto él hará notorias las obras de ellos,"
+  },
+  {
+    "id": 17036,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "26",
+    "text": "Como á malos los herirá"
+  },
+  {
+    "id": 17037,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "27",
+    "text": "Por cuanto así se apartaron de él,"
+  },
+  {
+    "id": 17038,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "28",
+    "text": "Haciendo venir delante de él 34.28 cp. 35.9. Stg. 5.4.el clamor del pobre,"
+  },
+  {
+    "id": 17039,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "29",
+    "text": "Y si él diere reposo, ¿quién inquietará?"
+  },
+  {
+    "id": 17040,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "30",
+    "text": "Haciendo que no reine el hombre hipócrita"
+  },
+  {
+    "id": 17041,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "31",
+    "text": "De seguro conviene se diga á Dios:"
+  },
+  {
+    "id": 17042,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "32",
+    "text": "Enséñame tú lo que yo no veo:"
+  },
+  {
+    "id": 17043,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "33",
+    "text": "¿Ha de ser eso según tu mente?"
+  },
+  {
+    "id": 17044,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "34",
+    "text": "Los hombres de seso dirán conmigo,"
+  },
+  {
+    "id": 17045,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "35",
+    "text": "Que Job 34.35 cp. 35.15.no habla con sabiduría,"
+  },
+  {
+    "id": 17046,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "36",
+    "text": "Deseo yo que Job sea probado ampliamente,"
+  },
+  {
+    "id": 17047,
+    "book": "job                                     ",
+    "chapter": "34",
+    "verse": "37",
+    "text": "Porque á su pecado añadió impiedad:"
+  }
+]

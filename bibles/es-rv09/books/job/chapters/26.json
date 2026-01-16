@@ -1,1 +1,100 @@
-{"data":[{"book":"Job","chapter":"26","verse":"1","text":"Y RESPONDIÓ Job, y dijo:"},{"book":"Job","chapter":"26","verse":"2","text":"¿En qué ayudaste al que no tiene fuerza?"},{"book":"Job","chapter":"26","verse":"3","text":"¿En qué aconsejaste al que no tiene ciencia,"},{"book":"Job","chapter":"26","verse":"4","text":"¿A quién has anunciado palabras,"},{"book":"Job","chapter":"26","verse":"5","text":"Cosas inanimadas son formadas"},{"book":"Job","chapter":"26","verse":"6","text":"El sepulcro es descubierto delante de él,"},{"book":"Job","chapter":"26","verse":"7","text":"Extiende el alquilón sobre vacío,"},{"book":"Job","chapter":"26","verse":"8","text":"Ata las aguas en sus nubes,"},{"book":"Job","chapter":"26","verse":"9","text":"El restriñe la faz de su trono,"},{"book":"Job","chapter":"26","verse":"10","text":"El cercó con término la superficie de las aguas,"},{"book":"Job","chapter":"26","verse":"11","text":"Las columnas del cielo tiemblan,"},{"book":"Job","chapter":"26","verse":"12","text":"El rompe la mar con su poder,"},{"book":"Job","chapter":"26","verse":"13","text":"Su espíritu adornó los cielos;"},{"book":"Job","chapter":"26","verse":"14","text":"He aquí, estas son partes de sus caminos:"}]}
+[
+  {
+    "id": 16795,
+    "book": "job                                     ",
+    "chapter": "26",
+    "verse": "1",
+    "text": "Y RESPONDIÓ Job, y dijo:"
+  },
+  {
+    "id": 16796,
+    "book": "job                                     ",
+    "chapter": "26",
+    "verse": "2",
+    "text": "¿En qué ayudaste al que no tiene fuerza?"
+  },
+  {
+    "id": 16797,
+    "book": "job                                     ",
+    "chapter": "26",
+    "verse": "3",
+    "text": "¿En qué aconsejaste al que no tiene ciencia,"
+  },
+  {
+    "id": 16798,
+    "book": "job                                     ",
+    "chapter": "26",
+    "verse": "4",
+    "text": "¿A quién has anunciado palabras,"
+  },
+  {
+    "id": 16799,
+    "book": "job                                     ",
+    "chapter": "26",
+    "verse": "5",
+    "text": "Cosas inanimadas son formadas"
+  },
+  {
+    "id": 16800,
+    "book": "job                                     ",
+    "chapter": "26",
+    "verse": "6",
+    "text": "El sepulcro es descubierto delante de él,"
+  },
+  {
+    "id": 16801,
+    "book": "job                                     ",
+    "chapter": "26",
+    "verse": "7",
+    "text": "Extiende el alquilón sobre vacío,"
+  },
+  {
+    "id": 16802,
+    "book": "job                                     ",
+    "chapter": "26",
+    "verse": "8",
+    "text": "Ata las aguas en sus nubes,"
+  },
+  {
+    "id": 16803,
+    "book": "job                                     ",
+    "chapter": "26",
+    "verse": "9",
+    "text": "El restriñe la faz de su trono,"
+  },
+  {
+    "id": 16804,
+    "book": "job                                     ",
+    "chapter": "26",
+    "verse": "10",
+    "text": "El cercó con término la superficie de las aguas,"
+  },
+  {
+    "id": 16805,
+    "book": "job                                     ",
+    "chapter": "26",
+    "verse": "11",
+    "text": "Las columnas del cielo tiemblan,"
+  },
+  {
+    "id": 16806,
+    "book": "job                                     ",
+    "chapter": "26",
+    "verse": "12",
+    "text": "El rompe la mar con su poder,"
+  },
+  {
+    "id": 16807,
+    "book": "job                                     ",
+    "chapter": "26",
+    "verse": "13",
+    "text": "Su espíritu adornó los cielos;"
+  },
+  {
+    "id": 16808,
+    "book": "job                                     ",
+    "chapter": "26",
+    "verse": "14",
+    "text": "He aquí, estas son partes de sus caminos:"
+  }
+]

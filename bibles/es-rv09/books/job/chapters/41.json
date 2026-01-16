@@ -1,1 +1,240 @@
-{"data":[{"book":"Job","chapter":"41","verse":"1","text":"¿SACARÁS tú al 41.1 Sal. 74.14 y 104.26. Is. 27.1.leviathán con el anzuelo,"},{"book":"Job","chapter":"41","verse":"2","text":"¿Pondrás tú garfio en sus narices,"},{"book":"Job","chapter":"41","verse":"3","text":"¿Multiplicará él ruegos para contigo?"},{"book":"Job","chapter":"41","verse":"4","text":"¿Hará concierto contigo"},{"book":"Job","chapter":"41","verse":"5","text":"¿Jugarás tú con él como con pájaro,"},{"book":"Job","chapter":"41","verse":"6","text":"¿Harán de él banquete 41.6 Lc. 5.7,10.los compañeros?"},{"book":"Job","chapter":"41","verse":"7","text":"¿Cortarás tú con cuchillo su cuero,"},{"book":"Job","chapter":"41","verse":"8","text":"Pon tu mano sobre él;"},{"book":"Job","chapter":"41","verse":"9","text":"He aquí que la esperanza acerca de él será burlada:"},{"book":"Job","chapter":"41","verse":"10","text":"Nadie hay tan osado que lo despierte:"},{"book":"Job","chapter":"41","verse":"11","text":"¿Quién me ha anticipado, para que yo restituya?"},{"book":"Job","chapter":"41","verse":"12","text":"Yo no callaré sus miembros,"},{"book":"Job","chapter":"41","verse":"13","text":"¿Quién descubrirá la delantera de su vestidura?"},{"book":"Job","chapter":"41","verse":"14","text":"¿Quién abrirá las puertas de su rostro?"},{"book":"Job","chapter":"41","verse":"15","text":"La gloria de su vestido son 41.15 cp. 40.13.escudos fuertes,"},{"book":"Job","chapter":"41","verse":"16","text":"El uno se junta con el otro,"},{"book":"Job","chapter":"41","verse":"17","text":"Pegado está el uno con el otro,"},{"book":"Job","chapter":"41","verse":"18","text":"Con sus estornudos encienden lumbre,"},{"book":"Job","chapter":"41","verse":"19","text":"De su boca salen hachas de fuego,"},{"book":"Job","chapter":"41","verse":"20","text":"De sus narices sale humo,"},{"book":"Job","chapter":"41","verse":"21","text":"Su aliento enciende los carbones,"},{"book":"Job","chapter":"41","verse":"22","text":"En su cerviz mora la fortaleza,"},{"book":"Job","chapter":"41","verse":"23","text":"Las partes momias de su carne están apretadas:"},{"book":"Job","chapter":"41","verse":"24","text":"Su corazón es firme como una piedra,"},{"book":"Job","chapter":"41","verse":"25","text":"De su grandeza tienen temor los fuertes,"},{"book":"Job","chapter":"41","verse":"26","text":"Cuando alguno lo alcanzare, ni espada,"},{"book":"Job","chapter":"41","verse":"27","text":"El hierro estima por pajas,"},{"book":"Job","chapter":"41","verse":"28","text":"Saeta no le hace huir;"},{"book":"Job","chapter":"41","verse":"29","text":"Tiene toda arma por hojarascas,"},{"book":"Job","chapter":"41","verse":"30","text":"Por debajo tiene agudas conchas;"},{"book":"Job","chapter":"41","verse":"31","text":"Hace hervir como una olla la profunda mar,"},{"book":"Job","chapter":"41","verse":"32","text":"En pos de sí hace resplandecer la senda,"},{"book":"Job","chapter":"41","verse":"33","text":"No hay sobre la tierra su semejante,"},{"book":"Job","chapter":"41","verse":"34","text":"Menosprecia toda cosa alta:"}]}
+[
+  {
+    "id": 17215,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "1",
+    "text": "¿SACARÁS tú al 41.1 Sal. 74.14 y 104.26. Is. 27.1.leviathán con el anzuelo,"
+  },
+  {
+    "id": 17216,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "2",
+    "text": "¿Pondrás tú garfio en sus narices,"
+  },
+  {
+    "id": 17217,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "3",
+    "text": "¿Multiplicará él ruegos para contigo?"
+  },
+  {
+    "id": 17218,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "4",
+    "text": "¿Hará concierto contigo"
+  },
+  {
+    "id": 17219,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "5",
+    "text": "¿Jugarás tú con él como con pájaro,"
+  },
+  {
+    "id": 17220,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "6",
+    "text": "¿Harán de él banquete 41.6 Lc. 5.7,10.los compañeros?"
+  },
+  {
+    "id": 17221,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "7",
+    "text": "¿Cortarás tú con cuchillo su cuero,"
+  },
+  {
+    "id": 17222,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "8",
+    "text": "Pon tu mano sobre él;"
+  },
+  {
+    "id": 17223,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "9",
+    "text": "He aquí que la esperanza acerca de él será burlada:"
+  },
+  {
+    "id": 17224,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "10",
+    "text": "Nadie hay tan osado que lo despierte:"
+  },
+  {
+    "id": 17225,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "11",
+    "text": "¿Quién me ha anticipado, para que yo restituya?"
+  },
+  {
+    "id": 17226,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "12",
+    "text": "Yo no callaré sus miembros,"
+  },
+  {
+    "id": 17227,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "13",
+    "text": "¿Quién descubrirá la delantera de su vestidura?"
+  },
+  {
+    "id": 17228,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "14",
+    "text": "¿Quién abrirá las puertas de su rostro?"
+  },
+  {
+    "id": 17229,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "15",
+    "text": "La gloria de su vestido son 41.15 cp. 40.13.escudos fuertes,"
+  },
+  {
+    "id": 17230,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "16",
+    "text": "El uno se junta con el otro,"
+  },
+  {
+    "id": 17231,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "17",
+    "text": "Pegado está el uno con el otro,"
+  },
+  {
+    "id": 17232,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "18",
+    "text": "Con sus estornudos encienden lumbre,"
+  },
+  {
+    "id": 17233,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "19",
+    "text": "De su boca salen hachas de fuego,"
+  },
+  {
+    "id": 17234,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "20",
+    "text": "De sus narices sale humo,"
+  },
+  {
+    "id": 17235,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "21",
+    "text": "Su aliento enciende los carbones,"
+  },
+  {
+    "id": 17236,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "22",
+    "text": "En su cerviz mora la fortaleza,"
+  },
+  {
+    "id": 17237,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "23",
+    "text": "Las partes momias de su carne están apretadas:"
+  },
+  {
+    "id": 17238,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "24",
+    "text": "Su corazón es firme como una piedra,"
+  },
+  {
+    "id": 17239,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "25",
+    "text": "De su grandeza tienen temor los fuertes,"
+  },
+  {
+    "id": 17240,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "26",
+    "text": "Cuando alguno lo alcanzare, ni espada,"
+  },
+  {
+    "id": 17241,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "27",
+    "text": "El hierro estima por pajas,"
+  },
+  {
+    "id": 17242,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "28",
+    "text": "Saeta no le hace huir;"
+  },
+  {
+    "id": 17243,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "29",
+    "text": "Tiene toda arma por hojarascas,"
+  },
+  {
+    "id": 17244,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "30",
+    "text": "Por debajo tiene agudas conchas;"
+  },
+  {
+    "id": 17245,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "31",
+    "text": "Hace hervir como una olla la profunda mar,"
+  },
+  {
+    "id": 17246,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "32",
+    "text": "En pos de sí hace resplandecer la senda,"
+  },
+  {
+    "id": 17247,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "33",
+    "text": "No hay sobre la tierra su semejante,"
+  },
+  {
+    "id": 17248,
+    "book": "job                                     ",
+    "chapter": "41",
+    "verse": "34",
+    "text": "Menosprecia toda cosa alta:"
+  }
+]

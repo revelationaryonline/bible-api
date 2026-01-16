@@ -1,1 +1,170 @@
-{"data":[{"book":"Job","chapter":"37","verse":"1","text":"A ESTO también se espanta mi corazón,"},{"book":"Job","chapter":"37","verse":"2","text":"Oid atentamente su voz terrible, y el sonido que sale de su boca."},{"book":"Job","chapter":"37","verse":"3","text":"Debajo de todos los cielos lo dirige,"},{"book":"Job","chapter":"37","verse":"4","text":"Después de ella bramará el sonido,"},{"book":"Job","chapter":"37","verse":"5","text":"Tronará Dios maravillosamente con su voz;"},{"book":"Job","chapter":"37","verse":"6","text":"Porque á la nieve dice: 37.6 Sal. 147.16,17.Desciende á la tierra;"},{"book":"Job","chapter":"37","verse":"7","text":"Así hace retirarse á todo hombre,"},{"book":"Job","chapter":"37","verse":"8","text":"La bestia se entrará en su escondrijo,"},{"book":"Job","chapter":"37","verse":"9","text":"Del mediodía viene el torbellino,"},{"book":"Job","chapter":"37","verse":"10","text":"Por el soplo de Dios se da el hielo,"},{"book":"Job","chapter":"37","verse":"11","text":"Regando también llega á disipar la densa nube,"},{"book":"Job","chapter":"37","verse":"12","text":"Asimismo por sus designios se revuelven las nubes en derredor,"},{"book":"Job","chapter":"37","verse":"13","text":"Unas veces por azote, otras por causa de 37.13 cp. 38.26,27.su tierra,"},{"book":"Job","chapter":"37","verse":"14","text":"Escucha esto, Job;"},{"book":"Job","chapter":"37","verse":"15","text":"¿Supiste tú cuándo Dios las ponía en concierto,"},{"book":"Job","chapter":"37","verse":"16","text":"¿Has tú conocido las diferencias de las nubes,"},{"book":"Job","chapter":"37","verse":"17","text":"¿Por qué están calientes tus vestidos"},{"book":"Job","chapter":"37","verse":"18","text":"¿Extendiste tú con él los cielos,"},{"book":"Job","chapter":"37","verse":"19","text":"Muéstranos qué le hemos de decir;"},{"book":"Job","chapter":"37","verse":"20","text":"¿Será preciso contarle cuando yo hablaré?"},{"book":"Job","chapter":"37","verse":"21","text":"He aquí aún: no se puede mirar la luz esplendente en los cielos,"},{"book":"Job","chapter":"37","verse":"22","text":"Viniendo de la parte del norte la dorada claridad."},{"book":"Job","chapter":"37","verse":"23","text":"El es Todopoderoso, 37.23 1 Ti. 6.16.al cual no alcanzamos, 37.23 cp. 36.5.grande en potencia;"},{"book":"Job","chapter":"37","verse":"24","text":"Temerlo han por tanto los hombres:"}]}
+[
+  {
+    "id": 17096,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "1",
+    "text": "A ESTO también se espanta mi corazón,"
+  },
+  {
+    "id": 17097,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "2",
+    "text": "Oid atentamente su voz terrible, y el sonido que sale de su boca."
+  },
+  {
+    "id": 17098,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "3",
+    "text": "Debajo de todos los cielos lo dirige,"
+  },
+  {
+    "id": 17099,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "4",
+    "text": "Después de ella bramará el sonido,"
+  },
+  {
+    "id": 17100,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "5",
+    "text": "Tronará Dios maravillosamente con su voz;"
+  },
+  {
+    "id": 17101,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "6",
+    "text": "Porque á la nieve dice: 37.6 Sal. 147.16,17.Desciende á la tierra;"
+  },
+  {
+    "id": 17102,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "7",
+    "text": "Así hace retirarse á todo hombre,"
+  },
+  {
+    "id": 17103,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "8",
+    "text": "La bestia se entrará en su escondrijo,"
+  },
+  {
+    "id": 17104,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "9",
+    "text": "Del mediodía viene el torbellino,"
+  },
+  {
+    "id": 17105,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "10",
+    "text": "Por el soplo de Dios se da el hielo,"
+  },
+  {
+    "id": 17106,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "11",
+    "text": "Regando también llega á disipar la densa nube,"
+  },
+  {
+    "id": 17107,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "12",
+    "text": "Asimismo por sus designios se revuelven las nubes en derredor,"
+  },
+  {
+    "id": 17108,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "13",
+    "text": "Unas veces por azote, otras por causa de 37.13 cp. 38.26,27.su tierra,"
+  },
+  {
+    "id": 17109,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "14",
+    "text": "Escucha esto, Job;"
+  },
+  {
+    "id": 17110,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "15",
+    "text": "¿Supiste tú cuándo Dios las ponía en concierto,"
+  },
+  {
+    "id": 17111,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "16",
+    "text": "¿Has tú conocido las diferencias de las nubes,"
+  },
+  {
+    "id": 17112,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "17",
+    "text": "¿Por qué están calientes tus vestidos"
+  },
+  {
+    "id": 17113,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "18",
+    "text": "¿Extendiste tú con él los cielos,"
+  },
+  {
+    "id": 17114,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "19",
+    "text": "Muéstranos qué le hemos de decir;"
+  },
+  {
+    "id": 17115,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "20",
+    "text": "¿Será preciso contarle cuando yo hablaré?"
+  },
+  {
+    "id": 17116,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "21",
+    "text": "He aquí aún: no se puede mirar la luz esplendente en los cielos,"
+  },
+  {
+    "id": 17117,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "22",
+    "text": "Viniendo de la parte del norte la dorada claridad."
+  },
+  {
+    "id": 17118,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "23",
+    "text": "El es Todopoderoso, 37.23 1 Ti. 6.16.al cual no alcanzamos, 37.23 cp. 36.5.grande en potencia;"
+  },
+  {
+    "id": 17119,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "24",
+    "text": "Temerlo han por tanto los hombres:"
+  }
+]
