@@ -1,1 +1,86 @@
-{"data":[{"book":"Psalms","chapter":"97","verse":"1","text":"The LORD reigns!"},{"book":"Psalms","chapter":"97","verse":"2","text":"Clouds and darkness are around him."},{"book":"Psalms","chapter":"97","verse":"3","text":"A fire goes before him,"},{"book":"Psalms","chapter":"97","verse":"4","text":"His lightning lights up the world."},{"book":"Psalms","chapter":"97","verse":"5","text":"The mountains melt like wax at the presence of the LORD,"},{"book":"Psalms","chapter":"97","verse":"6","text":"The heavens declare his righteousness."},{"book":"Psalms","chapter":"97","verse":"7","text":"Let all them be shamed who serve engraved images,"},{"book":"Psalms","chapter":"97","verse":"8","text":"Zion heard and was glad."},{"book":"Psalms","chapter":"97","verse":"9","text":"For you, LORD, are most high above all the earth."},{"book":"Psalms","chapter":"97","verse":"10","text":"You who love the LORD, hate evil!"},{"book":"Psalms","chapter":"97","verse":"11","text":"Light is sown for the righteous,"},{"book":"Psalms","chapter":"97","verse":"12","text":"Be glad in the LORD, you righteous people!"}]}
+[
+  {
+    "id": 27953,
+    "book": "psalms                                  ",
+    "chapter": "97",
+    "verse": "1",
+    "text": "The LORD reigns!"
+  },
+  {
+    "id": 27954,
+    "book": "psalms                                  ",
+    "chapter": "97",
+    "verse": "2",
+    "text": "Clouds and darkness are around him."
+  },
+  {
+    "id": 27955,
+    "book": "psalms                                  ",
+    "chapter": "97",
+    "verse": "3",
+    "text": "A fire goes before him,"
+  },
+  {
+    "id": 27956,
+    "book": "psalms                                  ",
+    "chapter": "97",
+    "verse": "4",
+    "text": "His lightning lights up the world."
+  },
+  {
+    "id": 27957,
+    "book": "psalms                                  ",
+    "chapter": "97",
+    "verse": "5",
+    "text": "The mountains melt like wax at the presence of the LORD,"
+  },
+  {
+    "id": 27958,
+    "book": "psalms                                  ",
+    "chapter": "97",
+    "verse": "6",
+    "text": "The heavens declare his righteousness."
+  },
+  {
+    "id": 27959,
+    "book": "psalms                                  ",
+    "chapter": "97",
+    "verse": "7",
+    "text": "Let all them be shamed who serve engraved images,"
+  },
+  {
+    "id": 27960,
+    "book": "psalms                                  ",
+    "chapter": "97",
+    "verse": "8",
+    "text": "Zion heard and was glad."
+  },
+  {
+    "id": 27961,
+    "book": "psalms                                  ",
+    "chapter": "97",
+    "verse": "9",
+    "text": "For you, LORD, are most high above all the earth."
+  },
+  {
+    "id": 27962,
+    "book": "psalms                                  ",
+    "chapter": "97",
+    "verse": "10",
+    "text": "You who love the LORD, hate evil!"
+  },
+  {
+    "id": 27963,
+    "book": "psalms                                  ",
+    "chapter": "97",
+    "verse": "11",
+    "text": "Light is sown for the righteous,"
+  },
+  {
+    "id": 27964,
+    "book": "psalms                                  ",
+    "chapter": "97",
+    "verse": "12",
+    "text": "Be glad in the LORD, you righteous people!"
+  }
+]

@@ -1,1 +1,233 @@
-{"data":[{"book":"Proverbs","chapter":"15","verse":"1","text":"A gentle answer turns away wrath,"},{"book":"Proverbs","chapter":"15","verse":"2","text":"The tongue of the wise commends knowledge,"},{"book":"Proverbs","chapter":"15","verse":"3","text":"The LORD’s eyes are everywhere,"},{"book":"Proverbs","chapter":"15","verse":"4","text":"A gentle tongue is a tree of life,"},{"book":"Proverbs","chapter":"15","verse":"5","text":"A fool despises his father’s correction,"},{"book":"Proverbs","chapter":"15","verse":"6","text":"In the house of the righteous is much treasure,"},{"book":"Proverbs","chapter":"15","verse":"7","text":"The lips of the wise spread knowledge;"},{"book":"Proverbs","chapter":"15","verse":"8","text":"The sacrifice made by the wicked is an abomination to the LORD,"},{"book":"Proverbs","chapter":"15","verse":"9","text":"The way of the wicked is an abomination to the LORD,"},{"book":"Proverbs","chapter":"15","verse":"10","text":"There is stern discipline for one who forsakes the way."},{"book":"Proverbs","chapter":"15","verse":"11","text":"and Abaddon are before the LORD—"},{"book":"Proverbs","chapter":"15","verse":"12","text":"A scoffer doesn’t love to be reproved;"},{"book":"Proverbs","chapter":"15","verse":"13","text":"A glad heart makes a cheerful face,"},{"book":"Proverbs","chapter":"15","verse":"14","text":"The heart of one who has understanding seeks knowledge,"},{"book":"Proverbs","chapter":"15","verse":"15","text":"All the days of the afflicted are wretched,"},{"book":"Proverbs","chapter":"15","verse":"16","text":"Better is little, with the fear of the LORD,"},{"book":"Proverbs","chapter":"15","verse":"17","text":"Better is a dinner of herbs, where love is,"},{"book":"Proverbs","chapter":"15","verse":"18","text":"A wrathful man stirs up contention,"},{"book":"Proverbs","chapter":"15","verse":"19","text":"The way of the sluggard is like a thorn patch,"},{"book":"Proverbs","chapter":"15","verse":"20","text":"A wise son makes a father glad,"},{"book":"Proverbs","chapter":"15","verse":"21","text":"Folly is joy to one who is void of wisdom,"},{"book":"Proverbs","chapter":"15","verse":"22","text":"Where there is no counsel, plans fail;"},{"book":"Proverbs","chapter":"15","verse":"23","text":"Joy comes to a man with the reply of his mouth."},{"book":"Proverbs","chapter":"15","verse":"24","text":"The path of life leads upward for the wise,"},{"book":"Proverbs","chapter":"15","verse":"25","text":"The LORD will uproot the house of the proud,"},{"book":"Proverbs","chapter":"15","verse":"26","text":"The LORD detests the thoughts of the wicked,"},{"book":"Proverbs","chapter":"15","verse":"27","text":"He who is greedy for gain troubles his own house,"},{"book":"Proverbs","chapter":"15","verse":"28","text":"The heart of the righteous weighs answers,"},{"book":"Proverbs","chapter":"15","verse":"29","text":"The LORD is far from the wicked,"},{"book":"Proverbs","chapter":"15","verse":"30","text":"The light of the eyes rejoices the heart."},{"book":"Proverbs","chapter":"15","verse":"31","text":"The ear that listens to reproof lives,"},{"book":"Proverbs","chapter":"15","verse":"32","text":"He who refuses correction despises his own soul,"},{"book":"Proverbs","chapter":"15","verse":"33","text":"The fear of the LORD teaches wisdom."}]}
+[
+  {
+    "id": 25906,
+    "book": "proverbs                                ",
+    "chapter": "15",
+    "verse": "1",
+    "text": "A gentle answer turns away wrath,"
+  },
+  {
+    "id": 25907,
+    "book": "proverbs                                ",
+    "chapter": "15",
+    "verse": "2",
+    "text": "The tongue of the wise commends knowledge,"
+  },
+  {
+    "id": 25908,
+    "book": "proverbs                                ",
+    "chapter": "15",
+    "verse": "3",
+    "text": "The LORD’s eyes are everywhere,"
+  },
+  {
+    "id": 25909,
+    "book": "proverbs                                ",
+    "chapter": "15",
+    "verse": "4",
+    "text": "A gentle tongue is a tree of life,"
+  },
+  {
+    "id": 25910,
+    "book": "proverbs                                ",
+    "chapter": "15",
+    "verse": "5",
+    "text": "A fool despises his father’s correction,"
+  },
+  {
+    "id": 25911,
+    "book": "proverbs                                ",
+    "chapter": "15",
+    "verse": "6",
+    "text": "In the house of the righteous is much treasure,"
+  },
+  {
+    "id": 25912,
+    "book": "proverbs                                ",
+    "chapter": "15",
+    "verse": "7",
+    "text": "The lips of the wise spread knowledge;"
+  },
+  {
+    "id": 25913,
+    "book": "proverbs                                ",
+    "chapter": "15",
+    "verse": "8",
+    "text": "The sacrifice made by the wicked is an abomination to the LORD,"
+  },
+  {
+    "id": 25914,
+    "book": "proverbs                                ",
+    "chapter": "15",
+    "verse": "9",
+    "text": "The way of the wicked is an abomination to the LORD,"
+  },
+  {
+    "id": 25915,
+    "book": "proverbs                                ",
+    "chapter": "15",
+    "verse": "10",
+    "text": "There is stern discipline for one who forsakes the way."
+  },
+  {
+    "id": 25916,
+    "book": "proverbs                                ",
+    "chapter": "15",
+    "verse": "11",
+    "text": "and Abaddon are before the LORD—"
+  },
+  {
+    "id": 25917,
+    "book": "proverbs                                ",
+    "chapter": "15",
+    "verse": "12",
+    "text": "A scoffer doesn’t love to be reproved;"
+  },
+  {
+    "id": 25918,
+    "book": "proverbs                                ",
+    "chapter": "15",
+    "verse": "13",
+    "text": "A glad heart makes a cheerful face,"
+  },
+  {
+    "id": 25919,
+    "book": "proverbs                                ",
+    "chapter": "15",
+    "verse": "14",
+    "text": "The heart of one who has understanding seeks knowledge,"
+  },
+  {
+    "id": 25920,
+    "book": "proverbs                                ",
+    "chapter": "15",
+    "verse": "15",
+    "text": "All the days of the afflicted are wretched,"
+  },
+  {
+    "id": 25921,
+    "book": "proverbs                                ",
+    "chapter": "15",
+    "verse": "16",
+    "text": "Better is little, with the fear of the LORD,"
+  },
+  {
+    "id": 25922,
+    "book": "proverbs                                ",
+    "chapter": "15",
+    "verse": "17",
+    "text": "Better is a dinner of herbs, where love is,"
+  },
+  {
+    "id": 25923,
+    "book": "proverbs                                ",
+    "chapter": "15",
+    "verse": "18",
+    "text": "A wrathful man stirs up contention,"
+  },
+  {
+    "id": 25924,
+    "book": "proverbs                                ",
+    "chapter": "15",
+    "verse": "19",
+    "text": "The way of the sluggard is like a thorn patch,"
+  },
+  {
+    "id": 25925,
+    "book": "proverbs                                ",
+    "chapter": "15",
+    "verse": "20",
+    "text": "A wise son makes a father glad,"
+  },
+  {
+    "id": 25926,
+    "book": "proverbs                                ",
+    "chapter": "15",
+    "verse": "21",
+    "text": "Folly is joy to one who is void of wisdom,"
+  },
+  {
+    "id": 25927,
+    "book": "proverbs                                ",
+    "chapter": "15",
+    "verse": "22",
+    "text": "Where there is no counsel, plans fail;"
+  },
+  {
+    "id": 25928,
+    "book": "proverbs                                ",
+    "chapter": "15",
+    "verse": "23",
+    "text": "Joy comes to a man with the reply of his mouth."
+  },
+  {
+    "id": 25929,
+    "book": "proverbs                                ",
+    "chapter": "15",
+    "verse": "24",
+    "text": "The path of life leads upward for the wise,"
+  },
+  {
+    "id": 25930,
+    "book": "proverbs                                ",
+    "chapter": "15",
+    "verse": "25",
+    "text": "The LORD will uproot the house of the proud,"
+  },
+  {
+    "id": 25931,
+    "book": "proverbs                                ",
+    "chapter": "15",
+    "verse": "26",
+    "text": "The LORD detests the thoughts of the wicked,"
+  },
+  {
+    "id": 25932,
+    "book": "proverbs                                ",
+    "chapter": "15",
+    "verse": "27",
+    "text": "He who is greedy for gain troubles his own house,"
+  },
+  {
+    "id": 25933,
+    "book": "proverbs                                ",
+    "chapter": "15",
+    "verse": "28",
+    "text": "The heart of the righteous weighs answers,"
+  },
+  {
+    "id": 25934,
+    "book": "proverbs                                ",
+    "chapter": "15",
+    "verse": "29",
+    "text": "The LORD is far from the wicked,"
+  },
+  {
+    "id": 25935,
+    "book": "proverbs                                ",
+    "chapter": "15",
+    "verse": "30",
+    "text": "The light of the eyes rejoices the heart."
+  },
+  {
+    "id": 25936,
+    "book": "proverbs                                ",
+    "chapter": "15",
+    "verse": "31",
+    "text": "The ear that listens to reproof lives,"
+  },
+  {
+    "id": 25937,
+    "book": "proverbs                                ",
+    "chapter": "15",
+    "verse": "32",
+    "text": "He who refuses correction despises his own soul,"
+  },
+  {
+    "id": 25938,
+    "book": "proverbs                                ",
+    "chapter": "15",
+    "verse": "33",
+    "text": "The fear of the LORD teaches wisdom."
+  }
+]

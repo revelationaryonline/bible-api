@@ -1,1 +1,37 @@
-{"data":[{"book":"Psalms","chapter":"15","verse":"1","text":"LORD, who shall dwell in your sanctuary?"},{"book":"Psalms","chapter":"15","verse":"2","text":"He who walks blamelessly and does what is right,"},{"book":"Psalms","chapter":"15","verse":"3","text":"he who doesn’t slander with his tongue,"},{"book":"Psalms","chapter":"15","verse":"4","text":"in whose eyes a vile man is despised,"},{"book":"Psalms","chapter":"15","verse":"5","text":"he who doesn’t lend out his money for usury,"}]}
+[
+  {
+    "id": 26562,
+    "book": "psalms                                  ",
+    "chapter": "15",
+    "verse": "1",
+    "text": "LORD, who shall dwell in your sanctuary?"
+  },
+  {
+    "id": 26563,
+    "book": "psalms                                  ",
+    "chapter": "15",
+    "verse": "2",
+    "text": "He who walks blamelessly and does what is right,"
+  },
+  {
+    "id": 26564,
+    "book": "psalms                                  ",
+    "chapter": "15",
+    "verse": "3",
+    "text": "he who doesn’t slander with his tongue,"
+  },
+  {
+    "id": 26565,
+    "book": "psalms                                  ",
+    "chapter": "15",
+    "verse": "4",
+    "text": "in whose eyes a vile man is despised,"
+  },
+  {
+    "id": 26566,
+    "book": "psalms                                  ",
+    "chapter": "15",
+    "verse": "5",
+    "text": "he who doesn’t lend out his money for usury,"
+  }
+]

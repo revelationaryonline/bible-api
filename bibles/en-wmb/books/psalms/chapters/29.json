@@ -1,1 +1,79 @@
-{"data":[{"book":"Psalms","chapter":"29","verse":"1","text":"Ascribe to the LORD, you sons of the mighty,"},{"book":"Psalms","chapter":"29","verse":"2","text":"Ascribe to the LORD the glory due to his name."},{"book":"Psalms","chapter":"29","verse":"3","text":"The LORD’s voice is on the waters."},{"book":"Psalms","chapter":"29","verse":"4","text":"The LORD’s voice is powerful."},{"book":"Psalms","chapter":"29","verse":"5","text":"The LORD’s voice breaks the cedars."},{"book":"Psalms","chapter":"29","verse":"6","text":"He makes them also to skip like a calf;"},{"book":"Psalms","chapter":"29","verse":"7","text":"The LORD’s voice strikes with flashes of lightning."},{"book":"Psalms","chapter":"29","verse":"8","text":"The LORD’s voice shakes the wilderness."},{"book":"Psalms","chapter":"29","verse":"9","text":"The LORD’s voice makes the deer calve,"},{"book":"Psalms","chapter":"29","verse":"10","text":"The LORD sat enthroned at the Flood."},{"book":"Psalms","chapter":"29","verse":"11","text":"The LORD will give strength to his people."}]}
+[
+  {
+    "id": 26783,
+    "book": "psalms                                  ",
+    "chapter": "29",
+    "verse": "1",
+    "text": "Ascribe to the LORD, you sons of the mighty,"
+  },
+  {
+    "id": 26784,
+    "book": "psalms                                  ",
+    "chapter": "29",
+    "verse": "2",
+    "text": "Ascribe to the LORD the glory due to his name."
+  },
+  {
+    "id": 26785,
+    "book": "psalms                                  ",
+    "chapter": "29",
+    "verse": "3",
+    "text": "The LORD’s voice is on the waters."
+  },
+  {
+    "id": 26786,
+    "book": "psalms                                  ",
+    "chapter": "29",
+    "verse": "4",
+    "text": "The LORD’s voice is powerful."
+  },
+  {
+    "id": 26787,
+    "book": "psalms                                  ",
+    "chapter": "29",
+    "verse": "5",
+    "text": "The LORD’s voice breaks the cedars."
+  },
+  {
+    "id": 26788,
+    "book": "psalms                                  ",
+    "chapter": "29",
+    "verse": "6",
+    "text": "He makes them also to skip like a calf;"
+  },
+  {
+    "id": 26789,
+    "book": "psalms                                  ",
+    "chapter": "29",
+    "verse": "7",
+    "text": "The LORD’s voice strikes with flashes of lightning."
+  },
+  {
+    "id": 26790,
+    "book": "psalms                                  ",
+    "chapter": "29",
+    "verse": "8",
+    "text": "The LORD’s voice shakes the wilderness."
+  },
+  {
+    "id": 26791,
+    "book": "psalms                                  ",
+    "chapter": "29",
+    "verse": "9",
+    "text": "The LORD’s voice makes the deer calve,"
+  },
+  {
+    "id": 26792,
+    "book": "psalms                                  ",
+    "chapter": "29",
+    "verse": "10",
+    "text": "The LORD sat enthroned at the Flood."
+  },
+  {
+    "id": 26793,
+    "book": "psalms                                  ",
+    "chapter": "29",
+    "verse": "11",
+    "text": "The LORD will give strength to his people."
+  }
+]

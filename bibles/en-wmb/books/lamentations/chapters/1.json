@@ -1,1 +1,156 @@
-{"data":[{"book":"Lamentations","chapter":"1","verse":"1","text":"How the city sits solitary,"},{"book":"Lamentations","chapter":"1","verse":"2","text":"She weeps bitterly in the night."},{"book":"Lamentations","chapter":"1","verse":"3","text":"Judah has gone into captivity because of affliction"},{"book":"Lamentations","chapter":"1","verse":"4","text":"The roads to Zion mourn,"},{"book":"Lamentations","chapter":"1","verse":"5","text":"Her adversaries have become the head."},{"book":"Lamentations","chapter":"1","verse":"6","text":"All majesty has departed from the daughter of Zion."},{"book":"Lamentations","chapter":"1","verse":"7","text":"Jerusalem remembers in the days of her affliction and of her miseries"},{"book":"Lamentations","chapter":"1","verse":"8","text":"Jerusalem has grievously sinned."},{"book":"Lamentations","chapter":"1","verse":"9","text":"Her filthiness was in her skirts."},{"book":"Lamentations","chapter":"1","verse":"10","text":"The adversary has spread out his hand on all her pleasant things;"},{"book":"Lamentations","chapter":"1","verse":"11","text":"All her people sigh."},{"book":"Lamentations","chapter":"1","verse":"12","text":"“Is it nothing to you, all you who pass by?"},{"book":"Lamentations","chapter":"1","verse":"13","text":"“From on high has he sent fire into my bones,"},{"book":"Lamentations","chapter":"1","verse":"14","text":"“The yoke of my transgressions is bound by his hand."},{"book":"Lamentations","chapter":"1","verse":"15","text":"“The Lord has set at nothing all my mighty men within me."},{"book":"Lamentations","chapter":"1","verse":"16","text":"“For these things I weep."},{"book":"Lamentations","chapter":"1","verse":"17","text":"Zion spreads out her hands."},{"book":"Lamentations","chapter":"1","verse":"18","text":"“The LORD is righteous,"},{"book":"Lamentations","chapter":"1","verse":"19","text":"“I called for my lovers,"},{"book":"Lamentations","chapter":"1","verse":"20","text":"“Look, LORD; for I am in distress."},{"book":"Lamentations","chapter":"1","verse":"21","text":"“They have heard that I sigh."},{"book":"Lamentations","chapter":"1","verse":"22","text":"“Let all their wickedness come before you."}]}
+[
+  {
+    "id": 19535,
+    "book": "lamentations                            ",
+    "chapter": "1",
+    "verse": "1",
+    "text": "How the city sits solitary,"
+  },
+  {
+    "id": 19536,
+    "book": "lamentations                            ",
+    "chapter": "1",
+    "verse": "2",
+    "text": "She weeps bitterly in the night."
+  },
+  {
+    "id": 19537,
+    "book": "lamentations                            ",
+    "chapter": "1",
+    "verse": "3",
+    "text": "Judah has gone into captivity because of affliction"
+  },
+  {
+    "id": 19538,
+    "book": "lamentations                            ",
+    "chapter": "1",
+    "verse": "4",
+    "text": "The roads to Zion mourn,"
+  },
+  {
+    "id": 19539,
+    "book": "lamentations                            ",
+    "chapter": "1",
+    "verse": "5",
+    "text": "Her adversaries have become the head."
+  },
+  {
+    "id": 19540,
+    "book": "lamentations                            ",
+    "chapter": "1",
+    "verse": "6",
+    "text": "All majesty has departed from the daughter of Zion."
+  },
+  {
+    "id": 19541,
+    "book": "lamentations                            ",
+    "chapter": "1",
+    "verse": "7",
+    "text": "Jerusalem remembers in the days of her affliction and of her miseries"
+  },
+  {
+    "id": 19542,
+    "book": "lamentations                            ",
+    "chapter": "1",
+    "verse": "8",
+    "text": "Jerusalem has grievously sinned."
+  },
+  {
+    "id": 19543,
+    "book": "lamentations                            ",
+    "chapter": "1",
+    "verse": "9",
+    "text": "Her filthiness was in her skirts."
+  },
+  {
+    "id": 19544,
+    "book": "lamentations                            ",
+    "chapter": "1",
+    "verse": "10",
+    "text": "The adversary has spread out his hand on all her pleasant things;"
+  },
+  {
+    "id": 19545,
+    "book": "lamentations                            ",
+    "chapter": "1",
+    "verse": "11",
+    "text": "All her people sigh."
+  },
+  {
+    "id": 19546,
+    "book": "lamentations                            ",
+    "chapter": "1",
+    "verse": "12",
+    "text": "“Is it nothing to you, all you who pass by?"
+  },
+  {
+    "id": 19547,
+    "book": "lamentations                            ",
+    "chapter": "1",
+    "verse": "13",
+    "text": "“From on high has he sent fire into my bones,"
+  },
+  {
+    "id": 19548,
+    "book": "lamentations                            ",
+    "chapter": "1",
+    "verse": "14",
+    "text": "“The yoke of my transgressions is bound by his hand."
+  },
+  {
+    "id": 19549,
+    "book": "lamentations                            ",
+    "chapter": "1",
+    "verse": "15",
+    "text": "“The Lord has set at nothing all my mighty men within me."
+  },
+  {
+    "id": 19550,
+    "book": "lamentations                            ",
+    "chapter": "1",
+    "verse": "16",
+    "text": "“For these things I weep."
+  },
+  {
+    "id": 19551,
+    "book": "lamentations                            ",
+    "chapter": "1",
+    "verse": "17",
+    "text": "Zion spreads out her hands."
+  },
+  {
+    "id": 19552,
+    "book": "lamentations                            ",
+    "chapter": "1",
+    "verse": "18",
+    "text": "“The LORD is righteous,"
+  },
+  {
+    "id": 19553,
+    "book": "lamentations                            ",
+    "chapter": "1",
+    "verse": "19",
+    "text": "“I called for my lovers,"
+  },
+  {
+    "id": 19554,
+    "book": "lamentations                            ",
+    "chapter": "1",
+    "verse": "20",
+    "text": "“Look, LORD; for I am in distress."
+  },
+  {
+    "id": 19555,
+    "book": "lamentations                            ",
+    "chapter": "1",
+    "verse": "21",
+    "text": "“They have heard that I sigh."
+  },
+  {
+    "id": 19556,
+    "book": "lamentations                            ",
+    "chapter": "1",
+    "verse": "22",
+    "text": "“Let all their wickedness come before you."
+  }
+]

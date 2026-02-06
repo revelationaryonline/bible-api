@@ -1,1 +1,156 @@
-{"data":[{"book":"Lamentations","chapter":"5","verse":"1","text":"Remember, LORD, what has come on us."},{"book":"Lamentations","chapter":"5","verse":"2","text":"Our inheritance has been turned over to strangers,"},{"book":"Lamentations","chapter":"5","verse":"3","text":"We are orphans and fatherless."},{"book":"Lamentations","chapter":"5","verse":"4","text":"We must pay for water to drink."},{"book":"Lamentations","chapter":"5","verse":"5","text":"Our pursuers are on our necks."},{"book":"Lamentations","chapter":"5","verse":"6","text":"We have given our hands to the Egyptians,"},{"book":"Lamentations","chapter":"5","verse":"7","text":"Our fathers sinned, and are no more."},{"book":"Lamentations","chapter":"5","verse":"8","text":"Servants rule over us."},{"book":"Lamentations","chapter":"5","verse":"9","text":"We get our bread at the peril of our lives,"},{"book":"Lamentations","chapter":"5","verse":"10","text":"Our skin is black like an oven,"},{"book":"Lamentations","chapter":"5","verse":"11","text":"They ravished the women in Zion,"},{"book":"Lamentations","chapter":"5","verse":"12","text":"Princes were hanged up by their hands."},{"book":"Lamentations","chapter":"5","verse":"13","text":"The young men carry millstones."},{"book":"Lamentations","chapter":"5","verse":"14","text":"The elders have ceased from the gate,"},{"book":"Lamentations","chapter":"5","verse":"15","text":"The joy of our heart has ceased."},{"book":"Lamentations","chapter":"5","verse":"16","text":"The crown has fallen from our head."},{"book":"Lamentations","chapter":"5","verse":"17","text":"For this our heart is faint."},{"book":"Lamentations","chapter":"5","verse":"18","text":"for the mountain of Zion, which is desolate."},{"book":"Lamentations","chapter":"5","verse":"19","text":"You, LORD, remain forever."},{"book":"Lamentations","chapter":"5","verse":"20","text":"Why do you forget us forever,"},{"book":"Lamentations","chapter":"5","verse":"21","text":"Turn us to yourself, LORD, and we will be turned."},{"book":"Lamentations","chapter":"5","verse":"22","text":"But you have utterly rejected us."}]}
+[
+  {
+    "id": 19667,
+    "book": "lamentations                            ",
+    "chapter": "5",
+    "verse": "1",
+    "text": "Remember, LORD, what has come on us."
+  },
+  {
+    "id": 19668,
+    "book": "lamentations                            ",
+    "chapter": "5",
+    "verse": "2",
+    "text": "Our inheritance has been turned over to strangers,"
+  },
+  {
+    "id": 19669,
+    "book": "lamentations                            ",
+    "chapter": "5",
+    "verse": "3",
+    "text": "We are orphans and fatherless."
+  },
+  {
+    "id": 19670,
+    "book": "lamentations                            ",
+    "chapter": "5",
+    "verse": "4",
+    "text": "We must pay for water to drink."
+  },
+  {
+    "id": 19671,
+    "book": "lamentations                            ",
+    "chapter": "5",
+    "verse": "5",
+    "text": "Our pursuers are on our necks."
+  },
+  {
+    "id": 19672,
+    "book": "lamentations                            ",
+    "chapter": "5",
+    "verse": "6",
+    "text": "We have given our hands to the Egyptians,"
+  },
+  {
+    "id": 19673,
+    "book": "lamentations                            ",
+    "chapter": "5",
+    "verse": "7",
+    "text": "Our fathers sinned, and are no more."
+  },
+  {
+    "id": 19674,
+    "book": "lamentations                            ",
+    "chapter": "5",
+    "verse": "8",
+    "text": "Servants rule over us."
+  },
+  {
+    "id": 19675,
+    "book": "lamentations                            ",
+    "chapter": "5",
+    "verse": "9",
+    "text": "We get our bread at the peril of our lives,"
+  },
+  {
+    "id": 19676,
+    "book": "lamentations                            ",
+    "chapter": "5",
+    "verse": "10",
+    "text": "Our skin is black like an oven,"
+  },
+  {
+    "id": 19677,
+    "book": "lamentations                            ",
+    "chapter": "5",
+    "verse": "11",
+    "text": "They ravished the women in Zion,"
+  },
+  {
+    "id": 19678,
+    "book": "lamentations                            ",
+    "chapter": "5",
+    "verse": "12",
+    "text": "Princes were hanged up by their hands."
+  },
+  {
+    "id": 19679,
+    "book": "lamentations                            ",
+    "chapter": "5",
+    "verse": "13",
+    "text": "The young men carry millstones."
+  },
+  {
+    "id": 19680,
+    "book": "lamentations                            ",
+    "chapter": "5",
+    "verse": "14",
+    "text": "The elders have ceased from the gate,"
+  },
+  {
+    "id": 19681,
+    "book": "lamentations                            ",
+    "chapter": "5",
+    "verse": "15",
+    "text": "The joy of our heart has ceased."
+  },
+  {
+    "id": 19682,
+    "book": "lamentations                            ",
+    "chapter": "5",
+    "verse": "16",
+    "text": "The crown has fallen from our head."
+  },
+  {
+    "id": 19683,
+    "book": "lamentations                            ",
+    "chapter": "5",
+    "verse": "17",
+    "text": "For this our heart is faint."
+  },
+  {
+    "id": 19684,
+    "book": "lamentations                            ",
+    "chapter": "5",
+    "verse": "18",
+    "text": "for the mountain of Zion, which is desolate."
+  },
+  {
+    "id": 19685,
+    "book": "lamentations                            ",
+    "chapter": "5",
+    "verse": "19",
+    "text": "You, LORD, remain forever."
+  },
+  {
+    "id": 19686,
+    "book": "lamentations                            ",
+    "chapter": "5",
+    "verse": "20",
+    "text": "Why do you forget us forever,"
+  },
+  {
+    "id": 19687,
+    "book": "lamentations                            ",
+    "chapter": "5",
+    "verse": "21",
+    "text": "Turn us to yourself, LORD, and we will be turned."
+  },
+  {
+    "id": 19688,
+    "book": "lamentations                            ",
+    "chapter": "5",
+    "verse": "22",
+    "text": "But you have utterly rejected us."
+  }
+]

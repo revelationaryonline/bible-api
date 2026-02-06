@@ -1,1 +1,100 @@
-{"data":[{"book":"Amos","chapter":"8","verse":"1","text":"Thus the Lord GOD showed me: behold, a basket of summer fruit."},{"book":"Amos","chapter":"8","verse":"2","text":"He said, “Amos, what do you see?”"},{"book":"Amos","chapter":"8","verse":"3","text":"The songs of the temple will be wailing in that day,” says the Lord GOD."},{"book":"Amos","chapter":"8","verse":"4","text":"Hear this, you who desire to swallow up the needy,"},{"book":"Amos","chapter":"8","verse":"5","text":"saying, ‘When will the new moon be gone, that we may sell grain?"},{"book":"Amos","chapter":"8","verse":"6","text":"that we may buy the poor for silver,"},{"book":"Amos","chapter":"8","verse":"7","text":"The LORD has sworn by the pride of Jacob,"},{"book":"Amos","chapter":"8","verse":"8","text":"Won’t the land tremble for this,"},{"book":"Amos","chapter":"8","verse":"9","text":"It will happen in that day,” says the Lord GOD,"},{"book":"Amos","chapter":"8","verse":"10","text":"I will turn your feasts into mourning,"},{"book":"Amos","chapter":"8","verse":"11","text":"Behold, the days come,” says the Lord GOD,"},{"book":"Amos","chapter":"8","verse":"12","text":"They will wander from sea to sea,"},{"book":"Amos","chapter":"8","verse":"13","text":"In that day the beautiful virgins"},{"book":"Amos","chapter":"8","verse":"14","text":"Those who swear by the sin of Samaria,"}]}
+[
+  {
+    "id": 7253,
+    "book": "amos                                    ",
+    "chapter": "8",
+    "verse": "1",
+    "text": "Thus the Lord GOD showed me: behold, a basket of summer fruit."
+  },
+  {
+    "id": 7254,
+    "book": "amos                                    ",
+    "chapter": "8",
+    "verse": "2",
+    "text": "He said, “Amos, what do you see?”"
+  },
+  {
+    "id": 7255,
+    "book": "amos                                    ",
+    "chapter": "8",
+    "verse": "3",
+    "text": "The songs of the temple will be wailing in that day,” says the Lord GOD."
+  },
+  {
+    "id": 7256,
+    "book": "amos                                    ",
+    "chapter": "8",
+    "verse": "4",
+    "text": "Hear this, you who desire to swallow up the needy,"
+  },
+  {
+    "id": 7257,
+    "book": "amos                                    ",
+    "chapter": "8",
+    "verse": "5",
+    "text": "saying, ‘When will the new moon be gone, that we may sell grain?"
+  },
+  {
+    "id": 7258,
+    "book": "amos                                    ",
+    "chapter": "8",
+    "verse": "6",
+    "text": "that we may buy the poor for silver,"
+  },
+  {
+    "id": 7259,
+    "book": "amos                                    ",
+    "chapter": "8",
+    "verse": "7",
+    "text": "The LORD has sworn by the pride of Jacob,"
+  },
+  {
+    "id": 7260,
+    "book": "amos                                    ",
+    "chapter": "8",
+    "verse": "8",
+    "text": "Won’t the land tremble for this,"
+  },
+  {
+    "id": 7261,
+    "book": "amos                                    ",
+    "chapter": "8",
+    "verse": "9",
+    "text": "It will happen in that day,” says the Lord GOD,"
+  },
+  {
+    "id": 7262,
+    "book": "amos                                    ",
+    "chapter": "8",
+    "verse": "10",
+    "text": "I will turn your feasts into mourning,"
+  },
+  {
+    "id": 7263,
+    "book": "amos                                    ",
+    "chapter": "8",
+    "verse": "11",
+    "text": "Behold, the days come,” says the Lord GOD,"
+  },
+  {
+    "id": 7264,
+    "book": "amos                                    ",
+    "chapter": "8",
+    "verse": "12",
+    "text": "They will wander from sea to sea,"
+  },
+  {
+    "id": 7265,
+    "book": "amos                                    ",
+    "chapter": "8",
+    "verse": "13",
+    "text": "In that day the beautiful virgins"
+  },
+  {
+    "id": 7266,
+    "book": "amos                                    ",
+    "chapter": "8",
+    "verse": "14",
+    "text": "Those who swear by the sin of Samaria,"
+  }
+]

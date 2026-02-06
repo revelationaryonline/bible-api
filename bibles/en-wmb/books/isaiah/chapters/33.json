@@ -1,1 +1,170 @@
-{"data":[{"book":"Isaiah","chapter":"33","verse":"1","text":"Woe to you who destroy, but you weren’t destroyed,"},{"book":"Isaiah","chapter":"33","verse":"2","text":"LORD, be gracious to us. We have waited for you."},{"book":"Isaiah","chapter":"33","verse":"3","text":"At the noise of the thunder, the peoples have fled."},{"book":"Isaiah","chapter":"33","verse":"4","text":"Your plunder will be gathered as the caterpillar gathers."},{"book":"Isaiah","chapter":"33","verse":"5","text":"The LORD is exalted, for he dwells on high."},{"book":"Isaiah","chapter":"33","verse":"6","text":"There will be stability in your times, abundance of salvation, wisdom, and knowledge."},{"book":"Isaiah","chapter":"33","verse":"7","text":"Behold, their valiant ones cry outside;"},{"book":"Isaiah","chapter":"33","verse":"8","text":"The highways are desolate."},{"book":"Isaiah","chapter":"33","verse":"9","text":"The land mourns and languishes."},{"book":"Isaiah","chapter":"33","verse":"10","text":"“Now I will arise,” says the LORD."},{"book":"Isaiah","chapter":"33","verse":"11","text":"You will conceive chaff."},{"book":"Isaiah","chapter":"33","verse":"12","text":"The peoples will be like the burning of lime,"},{"book":"Isaiah","chapter":"33","verse":"13","text":"Hear, you who are far off, what I have done;"},{"book":"Isaiah","chapter":"33","verse":"14","text":"The sinners in Zion are afraid."},{"book":"Isaiah","chapter":"33","verse":"15","text":"He who walks righteously"},{"book":"Isaiah","chapter":"33","verse":"16","text":"he will dwell on high."},{"book":"Isaiah","chapter":"33","verse":"17","text":"Your eyes will see the king in his beauty."},{"book":"Isaiah","chapter":"33","verse":"18","text":"Your heart will meditate on the terror."},{"book":"Isaiah","chapter":"33","verse":"19","text":"You will no longer see the fierce people,"},{"book":"Isaiah","chapter":"33","verse":"20","text":"Look at Zion, the city of our appointed festivals."},{"book":"Isaiah","chapter":"33","verse":"21","text":"But there the LORD will be with us in majesty,"},{"book":"Isaiah","chapter":"33","verse":"22","text":"For the LORD is our judge."},{"book":"Isaiah","chapter":"33","verse":"23","text":"Your rigging is untied."},{"book":"Isaiah","chapter":"33","verse":"24","text":"The inhabitant won’t say, “I am sick.”"}]}
+[
+  {
+    "id": 14904,
+    "book": "isaiah                                  ",
+    "chapter": "33",
+    "verse": "1",
+    "text": "Woe to you who destroy, but you weren’t destroyed,"
+  },
+  {
+    "id": 14905,
+    "book": "isaiah                                  ",
+    "chapter": "33",
+    "verse": "2",
+    "text": "LORD, be gracious to us. We have waited for you."
+  },
+  {
+    "id": 14906,
+    "book": "isaiah                                  ",
+    "chapter": "33",
+    "verse": "3",
+    "text": "At the noise of the thunder, the peoples have fled."
+  },
+  {
+    "id": 14907,
+    "book": "isaiah                                  ",
+    "chapter": "33",
+    "verse": "4",
+    "text": "Your plunder will be gathered as the caterpillar gathers."
+  },
+  {
+    "id": 14908,
+    "book": "isaiah                                  ",
+    "chapter": "33",
+    "verse": "5",
+    "text": "The LORD is exalted, for he dwells on high."
+  },
+  {
+    "id": 14909,
+    "book": "isaiah                                  ",
+    "chapter": "33",
+    "verse": "6",
+    "text": "There will be stability in your times, abundance of salvation, wisdom, and knowledge."
+  },
+  {
+    "id": 14910,
+    "book": "isaiah                                  ",
+    "chapter": "33",
+    "verse": "7",
+    "text": "Behold, their valiant ones cry outside;"
+  },
+  {
+    "id": 14911,
+    "book": "isaiah                                  ",
+    "chapter": "33",
+    "verse": "8",
+    "text": "The highways are desolate."
+  },
+  {
+    "id": 14912,
+    "book": "isaiah                                  ",
+    "chapter": "33",
+    "verse": "9",
+    "text": "The land mourns and languishes."
+  },
+  {
+    "id": 14913,
+    "book": "isaiah                                  ",
+    "chapter": "33",
+    "verse": "10",
+    "text": "“Now I will arise,” says the LORD."
+  },
+  {
+    "id": 14914,
+    "book": "isaiah                                  ",
+    "chapter": "33",
+    "verse": "11",
+    "text": "You will conceive chaff."
+  },
+  {
+    "id": 14915,
+    "book": "isaiah                                  ",
+    "chapter": "33",
+    "verse": "12",
+    "text": "The peoples will be like the burning of lime,"
+  },
+  {
+    "id": 14916,
+    "book": "isaiah                                  ",
+    "chapter": "33",
+    "verse": "13",
+    "text": "Hear, you who are far off, what I have done;"
+  },
+  {
+    "id": 14917,
+    "book": "isaiah                                  ",
+    "chapter": "33",
+    "verse": "14",
+    "text": "The sinners in Zion are afraid."
+  },
+  {
+    "id": 14918,
+    "book": "isaiah                                  ",
+    "chapter": "33",
+    "verse": "15",
+    "text": "He who walks righteously"
+  },
+  {
+    "id": 14919,
+    "book": "isaiah                                  ",
+    "chapter": "33",
+    "verse": "16",
+    "text": "he will dwell on high."
+  },
+  {
+    "id": 14920,
+    "book": "isaiah                                  ",
+    "chapter": "33",
+    "verse": "17",
+    "text": "Your eyes will see the king in his beauty."
+  },
+  {
+    "id": 14921,
+    "book": "isaiah                                  ",
+    "chapter": "33",
+    "verse": "18",
+    "text": "Your heart will meditate on the terror."
+  },
+  {
+    "id": 14922,
+    "book": "isaiah                                  ",
+    "chapter": "33",
+    "verse": "19",
+    "text": "You will no longer see the fierce people,"
+  },
+  {
+    "id": 14923,
+    "book": "isaiah                                  ",
+    "chapter": "33",
+    "verse": "20",
+    "text": "Look at Zion, the city of our appointed festivals."
+  },
+  {
+    "id": 14924,
+    "book": "isaiah                                  ",
+    "chapter": "33",
+    "verse": "21",
+    "text": "But there the LORD will be with us in majesty,"
+  },
+  {
+    "id": 14925,
+    "book": "isaiah                                  ",
+    "chapter": "33",
+    "verse": "22",
+    "text": "For the LORD is our judge."
+  },
+  {
+    "id": 14926,
+    "book": "isaiah                                  ",
+    "chapter": "33",
+    "verse": "23",
+    "text": "Your rigging is untied."
+  },
+  {
+    "id": 14927,
+    "book": "isaiah                                  ",
+    "chapter": "33",
+    "verse": "24",
+    "text": "The inhabitant won’t say, “I am sick.”"
+  }
+]

@@ -1,1 +1,30 @@
-{"data":[{"book":"Psalms","chapter":"123","verse":"1","text":"I lift up my eyes to you,"},{"book":"Psalms","chapter":"123","verse":"2","text":"Behold, as the eyes of servants look to the hand of their master,"},{"book":"Psalms","chapter":"123","verse":"3","text":"Have mercy on us, LORD, have mercy on us,"},{"book":"Psalms","chapter":"123","verse":"4","text":"Our soul is exceedingly filled with the scoffing of those who are at ease,"}]}
+[
+  {
+    "id": 28573,
+    "book": "psalms                                  ",
+    "chapter": "123",
+    "verse": "1",
+    "text": "I lift up my eyes to you,"
+  },
+  {
+    "id": 28574,
+    "book": "psalms                                  ",
+    "chapter": "123",
+    "verse": "2",
+    "text": "Behold, as the eyes of servants look to the hand of their master,"
+  },
+  {
+    "id": 28575,
+    "book": "psalms                                  ",
+    "chapter": "123",
+    "verse": "3",
+    "text": "Have mercy on us, LORD, have mercy on us,"
+  },
+  {
+    "id": 28576,
+    "book": "psalms                                  ",
+    "chapter": "123",
+    "verse": "4",
+    "text": "Our soul is exceedingly filled with the scoffing of those who are at ease,"
+  }
+]

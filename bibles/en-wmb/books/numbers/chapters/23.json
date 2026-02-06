@@ -1,1 +1,212 @@
-{"data":[{"book":"Numbers","chapter":"23","verse":"1","text":"Balaam said to Balak, “Build here seven altars for me, and prepare here seven bulls and seven rams for me.”"},{"book":"Numbers","chapter":"23","verse":"2","text":"Balak did as Balaam had spoken; and Balak and Balaam offered on every altar a bull and a ram."},{"book":"Numbers","chapter":"23","verse":"3","text":"Balaam said to Balak, “Stand by your burnt offering, and I will go. Perhaps the LORD will come to meet me. Whatever he shows me I will tell you.”"},{"book":"Numbers","chapter":"23","verse":"4","text":"God met Balaam, and he said to him, “I have prepared the seven altars, and I have offered up a bull and a ram on every altar.”"},{"book":"Numbers","chapter":"23","verse":"5","text":"The LORD put a word in Balaam’s mouth, and said, “Return to Balak, and thus you shall speak.”"},{"book":"Numbers","chapter":"23","verse":"6","text":"He returned to him, and behold, he was standing by his burnt offering, he, and all the princes of Moab."},{"book":"Numbers","chapter":"23","verse":"7","text":"He took up his parable, and said,"},{"book":"Numbers","chapter":"23","verse":"8","text":"How shall I curse whom God has not cursed?"},{"book":"Numbers","chapter":"23","verse":"9","text":"For from the top of the rocks I see him."},{"book":"Numbers","chapter":"23","verse":"10","text":"Who can count the dust of Jacob,"},{"book":"Numbers","chapter":"23","verse":"11","text":"Balak said to Balaam, “What have you done to me? I took you to curse my enemies, and behold, you have blessed them altogether.”"},{"book":"Numbers","chapter":"23","verse":"12","text":"He answered and said, “Must I not take heed to speak that which the LORD puts in my mouth?”"},{"book":"Numbers","chapter":"23","verse":"13","text":"Balak said to him, “Please come with me to another place, where you may see them. You shall see just part of them, and shall not see them all. Curse them from there for me.”"},{"book":"Numbers","chapter":"23","verse":"14","text":"He took him into the field of Zophim, to the top of Pisgah, and built seven altars, and offered up a bull and a ram on every altar."},{"book":"Numbers","chapter":"23","verse":"15","text":"He said to Balak, “Stand here by your burnt offering, while I meet God over there.”"},{"book":"Numbers","chapter":"23","verse":"16","text":"The LORD met Balaam, and put a word in his mouth, and said, “Return to Balak, and say this.”"},{"book":"Numbers","chapter":"23","verse":"17","text":"He came to him, and behold, he was standing by his burnt offering, and the princes of Moab with him. Balak said to him, “What has the LORD spoken?”"},{"book":"Numbers","chapter":"23","verse":"18","text":"He took up his parable, and said,"},{"book":"Numbers","chapter":"23","verse":"19","text":"God is not a man, that he should lie,"},{"book":"Numbers","chapter":"23","verse":"20","text":"Behold, I have received a command to bless."},{"book":"Numbers","chapter":"23","verse":"21","text":"He has not seen iniquity in Jacob."},{"book":"Numbers","chapter":"23","verse":"22","text":"God brings them out of Egypt."},{"book":"Numbers","chapter":"23","verse":"23","text":"Surely there is no enchantment with Jacob;"},{"book":"Numbers","chapter":"23","verse":"24","text":"Behold, a people rises up as a lioness."},{"book":"Numbers","chapter":"23","verse":"25","text":"Balak said to Balaam, “Neither curse them at all, nor bless them at all.”"},{"book":"Numbers","chapter":"23","verse":"26","text":"But Balaam answered Balak, “Didn’t I tell you, saying, ‘All that the LORD speaks, that I must do?’”"},{"book":"Numbers","chapter":"23","verse":"27","text":"Balak said to Balaam, “Come now, I will take you to another place; perhaps it will please God that you may curse them for me from there.”"},{"book":"Numbers","chapter":"23","verse":"28","text":"Balak took Balaam to the top of Peor, that looks down on the desert."},{"book":"Numbers","chapter":"23","verse":"29","text":"Balaam said to Balak, “Build seven altars for me here, and prepare seven bulls and seven rams for me here.”"},{"book":"Numbers","chapter":"23","verse":"30","text":"Balak did as Balaam had said, and offered up a bull and a ram on every altar."}]}
+[
+  {
+    "id": 24873,
+    "book": "numbers                                 ",
+    "chapter": "23",
+    "verse": "1",
+    "text": "Balaam said to Balak, “Build here seven altars for me, and prepare here seven bulls and seven rams for me.”"
+  },
+  {
+    "id": 24874,
+    "book": "numbers                                 ",
+    "chapter": "23",
+    "verse": "2",
+    "text": "Balak did as Balaam had spoken; and Balak and Balaam offered on every altar a bull and a ram."
+  },
+  {
+    "id": 24875,
+    "book": "numbers                                 ",
+    "chapter": "23",
+    "verse": "3",
+    "text": "Balaam said to Balak, “Stand by your burnt offering, and I will go. Perhaps the LORD will come to meet me. Whatever he shows me I will tell you.”"
+  },
+  {
+    "id": 24876,
+    "book": "numbers                                 ",
+    "chapter": "23",
+    "verse": "4",
+    "text": "God met Balaam, and he said to him, “I have prepared the seven altars, and I have offered up a bull and a ram on every altar.”"
+  },
+  {
+    "id": 24877,
+    "book": "numbers                                 ",
+    "chapter": "23",
+    "verse": "5",
+    "text": "The LORD put a word in Balaam’s mouth, and said, “Return to Balak, and thus you shall speak.”"
+  },
+  {
+    "id": 24878,
+    "book": "numbers                                 ",
+    "chapter": "23",
+    "verse": "6",
+    "text": "He returned to him, and behold, he was standing by his burnt offering, he, and all the princes of Moab."
+  },
+  {
+    "id": 24879,
+    "book": "numbers                                 ",
+    "chapter": "23",
+    "verse": "7",
+    "text": "He took up his parable, and said,"
+  },
+  {
+    "id": 24880,
+    "book": "numbers                                 ",
+    "chapter": "23",
+    "verse": "8",
+    "text": "How shall I curse whom God has not cursed?"
+  },
+  {
+    "id": 24881,
+    "book": "numbers                                 ",
+    "chapter": "23",
+    "verse": "9",
+    "text": "For from the top of the rocks I see him."
+  },
+  {
+    "id": 24882,
+    "book": "numbers                                 ",
+    "chapter": "23",
+    "verse": "10",
+    "text": "Who can count the dust of Jacob,"
+  },
+  {
+    "id": 24883,
+    "book": "numbers                                 ",
+    "chapter": "23",
+    "verse": "11",
+    "text": "Balak said to Balaam, “What have you done to me? I took you to curse my enemies, and behold, you have blessed them altogether.”"
+  },
+  {
+    "id": 24884,
+    "book": "numbers                                 ",
+    "chapter": "23",
+    "verse": "12",
+    "text": "He answered and said, “Must I not take heed to speak that which the LORD puts in my mouth?”"
+  },
+  {
+    "id": 24885,
+    "book": "numbers                                 ",
+    "chapter": "23",
+    "verse": "13",
+    "text": "Balak said to him, “Please come with me to another place, where you may see them. You shall see just part of them, and shall not see them all. Curse them from there for me.”"
+  },
+  {
+    "id": 24886,
+    "book": "numbers                                 ",
+    "chapter": "23",
+    "verse": "14",
+    "text": "He took him into the field of Zophim, to the top of Pisgah, and built seven altars, and offered up a bull and a ram on every altar."
+  },
+  {
+    "id": 24887,
+    "book": "numbers                                 ",
+    "chapter": "23",
+    "verse": "15",
+    "text": "He said to Balak, “Stand here by your burnt offering, while I meet God over there.”"
+  },
+  {
+    "id": 24888,
+    "book": "numbers                                 ",
+    "chapter": "23",
+    "verse": "16",
+    "text": "The LORD met Balaam, and put a word in his mouth, and said, “Return to Balak, and say this.”"
+  },
+  {
+    "id": 24889,
+    "book": "numbers                                 ",
+    "chapter": "23",
+    "verse": "17",
+    "text": "He came to him, and behold, he was standing by his burnt offering, and the princes of Moab with him. Balak said to him, “What has the LORD spoken?”"
+  },
+  {
+    "id": 24890,
+    "book": "numbers                                 ",
+    "chapter": "23",
+    "verse": "18",
+    "text": "He took up his parable, and said,"
+  },
+  {
+    "id": 24891,
+    "book": "numbers                                 ",
+    "chapter": "23",
+    "verse": "19",
+    "text": "God is not a man, that he should lie,"
+  },
+  {
+    "id": 24892,
+    "book": "numbers                                 ",
+    "chapter": "23",
+    "verse": "20",
+    "text": "Behold, I have received a command to bless."
+  },
+  {
+    "id": 24893,
+    "book": "numbers                                 ",
+    "chapter": "23",
+    "verse": "21",
+    "text": "He has not seen iniquity in Jacob."
+  },
+  {
+    "id": 24894,
+    "book": "numbers                                 ",
+    "chapter": "23",
+    "verse": "22",
+    "text": "God brings them out of Egypt."
+  },
+  {
+    "id": 24895,
+    "book": "numbers                                 ",
+    "chapter": "23",
+    "verse": "23",
+    "text": "Surely there is no enchantment with Jacob;"
+  },
+  {
+    "id": 24896,
+    "book": "numbers                                 ",
+    "chapter": "23",
+    "verse": "24",
+    "text": "Behold, a people rises up as a lioness."
+  },
+  {
+    "id": 24897,
+    "book": "numbers                                 ",
+    "chapter": "23",
+    "verse": "25",
+    "text": "Balak said to Balaam, “Neither curse them at all, nor bless them at all.”"
+  },
+  {
+    "id": 24898,
+    "book": "numbers                                 ",
+    "chapter": "23",
+    "verse": "26",
+    "text": "But Balaam answered Balak, “Didn’t I tell you, saying, ‘All that the LORD speaks, that I must do?’”"
+  },
+  {
+    "id": 24899,
+    "book": "numbers                                 ",
+    "chapter": "23",
+    "verse": "27",
+    "text": "Balak said to Balaam, “Come now, I will take you to another place; perhaps it will please God that you may curse them for me from there.”"
+  },
+  {
+    "id": 24900,
+    "book": "numbers                                 ",
+    "chapter": "23",
+    "verse": "28",
+    "text": "Balak took Balaam to the top of Peor, that looks down on the desert."
+  },
+  {
+    "id": 24901,
+    "book": "numbers                                 ",
+    "chapter": "23",
+    "verse": "29",
+    "text": "Balaam said to Balak, “Build seven altars for me here, and prepare seven bulls and seven rams for me here.”"
+  },
+  {
+    "id": 24902,
+    "book": "numbers                                 ",
+    "chapter": "23",
+    "verse": "30",
+    "text": "Balak did as Balaam had said, and offered up a bull and a ram on every altar."
+  }
+]

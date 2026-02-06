@@ -1,1 +1,191 @@
-{"data":[{"book":"Proverbs","chapter":"4","verse":"1","text":"Listen, sons, to a father’s instruction."},{"book":"Proverbs","chapter":"4","verse":"2","text":"for I give you sound learning."},{"book":"Proverbs","chapter":"4","verse":"3","text":"For I was a son to my father,"},{"book":"Proverbs","chapter":"4","verse":"4","text":"He taught me, and said to me:"},{"book":"Proverbs","chapter":"4","verse":"5","text":"Get wisdom."},{"book":"Proverbs","chapter":"4","verse":"6","text":"Don’t forsake her, and she will preserve you."},{"book":"Proverbs","chapter":"4","verse":"7","text":"Wisdom is supreme."},{"book":"Proverbs","chapter":"4","verse":"8","text":"Esteem her, and she will exalt you."},{"book":"Proverbs","chapter":"4","verse":"9","text":"She will give to your head a garland of grace."},{"book":"Proverbs","chapter":"4","verse":"10","text":"Listen, my son, and receive my sayings."},{"book":"Proverbs","chapter":"4","verse":"11","text":"I have taught you in the way of wisdom."},{"book":"Proverbs","chapter":"4","verse":"12","text":"When you go, your steps will not be hampered."},{"book":"Proverbs","chapter":"4","verse":"13","text":"Take firm hold of instruction."},{"book":"Proverbs","chapter":"4","verse":"14","text":"Don’t enter into the path of the wicked."},{"book":"Proverbs","chapter":"4","verse":"15","text":"Avoid it, and don’t pass by it."},{"book":"Proverbs","chapter":"4","verse":"16","text":"For they don’t sleep unless they do evil."},{"book":"Proverbs","chapter":"4","verse":"17","text":"For they eat the bread of wickedness"},{"book":"Proverbs","chapter":"4","verse":"18","text":"But the path of the righteous is like the dawning light"},{"book":"Proverbs","chapter":"4","verse":"19","text":"The way of the wicked is like darkness."},{"book":"Proverbs","chapter":"4","verse":"20","text":"My son, attend to my words."},{"book":"Proverbs","chapter":"4","verse":"21","text":"Let them not depart from your eyes."},{"book":"Proverbs","chapter":"4","verse":"22","text":"For they are life to those who find them,"},{"book":"Proverbs","chapter":"4","verse":"23","text":"Keep your heart with all diligence,"},{"book":"Proverbs","chapter":"4","verse":"24","text":"Put away from yourself a perverse mouth."},{"book":"Proverbs","chapter":"4","verse":"25","text":"Let your eyes look straight ahead."},{"book":"Proverbs","chapter":"4","verse":"26","text":"Make the path of your feet level."},{"book":"Proverbs","chapter":"4","verse":"27","text":"Don’t turn to the right hand nor to the left."}]}
+[
+  {
+    "id": 25589,
+    "book": "proverbs                                ",
+    "chapter": "4",
+    "verse": "1",
+    "text": "Listen, sons, to a father’s instruction."
+  },
+  {
+    "id": 25590,
+    "book": "proverbs                                ",
+    "chapter": "4",
+    "verse": "2",
+    "text": "for I give you sound learning."
+  },
+  {
+    "id": 25591,
+    "book": "proverbs                                ",
+    "chapter": "4",
+    "verse": "3",
+    "text": "For I was a son to my father,"
+  },
+  {
+    "id": 25592,
+    "book": "proverbs                                ",
+    "chapter": "4",
+    "verse": "4",
+    "text": "He taught me, and said to me:"
+  },
+  {
+    "id": 25593,
+    "book": "proverbs                                ",
+    "chapter": "4",
+    "verse": "5",
+    "text": "Get wisdom."
+  },
+  {
+    "id": 25594,
+    "book": "proverbs                                ",
+    "chapter": "4",
+    "verse": "6",
+    "text": "Don’t forsake her, and she will preserve you."
+  },
+  {
+    "id": 25595,
+    "book": "proverbs                                ",
+    "chapter": "4",
+    "verse": "7",
+    "text": "Wisdom is supreme."
+  },
+  {
+    "id": 25596,
+    "book": "proverbs                                ",
+    "chapter": "4",
+    "verse": "8",
+    "text": "Esteem her, and she will exalt you."
+  },
+  {
+    "id": 25597,
+    "book": "proverbs                                ",
+    "chapter": "4",
+    "verse": "9",
+    "text": "She will give to your head a garland of grace."
+  },
+  {
+    "id": 25598,
+    "book": "proverbs                                ",
+    "chapter": "4",
+    "verse": "10",
+    "text": "Listen, my son, and receive my sayings."
+  },
+  {
+    "id": 25599,
+    "book": "proverbs                                ",
+    "chapter": "4",
+    "verse": "11",
+    "text": "I have taught you in the way of wisdom."
+  },
+  {
+    "id": 25600,
+    "book": "proverbs                                ",
+    "chapter": "4",
+    "verse": "12",
+    "text": "When you go, your steps will not be hampered."
+  },
+  {
+    "id": 25601,
+    "book": "proverbs                                ",
+    "chapter": "4",
+    "verse": "13",
+    "text": "Take firm hold of instruction."
+  },
+  {
+    "id": 25602,
+    "book": "proverbs                                ",
+    "chapter": "4",
+    "verse": "14",
+    "text": "Don’t enter into the path of the wicked."
+  },
+  {
+    "id": 25603,
+    "book": "proverbs                                ",
+    "chapter": "4",
+    "verse": "15",
+    "text": "Avoid it, and don’t pass by it."
+  },
+  {
+    "id": 25604,
+    "book": "proverbs                                ",
+    "chapter": "4",
+    "verse": "16",
+    "text": "For they don’t sleep unless they do evil."
+  },
+  {
+    "id": 25605,
+    "book": "proverbs                                ",
+    "chapter": "4",
+    "verse": "17",
+    "text": "For they eat the bread of wickedness"
+  },
+  {
+    "id": 25606,
+    "book": "proverbs                                ",
+    "chapter": "4",
+    "verse": "18",
+    "text": "But the path of the righteous is like the dawning light"
+  },
+  {
+    "id": 25607,
+    "book": "proverbs                                ",
+    "chapter": "4",
+    "verse": "19",
+    "text": "The way of the wicked is like darkness."
+  },
+  {
+    "id": 25608,
+    "book": "proverbs                                ",
+    "chapter": "4",
+    "verse": "20",
+    "text": "My son, attend to my words."
+  },
+  {
+    "id": 25609,
+    "book": "proverbs                                ",
+    "chapter": "4",
+    "verse": "21",
+    "text": "Let them not depart from your eyes."
+  },
+  {
+    "id": 25610,
+    "book": "proverbs                                ",
+    "chapter": "4",
+    "verse": "22",
+    "text": "For they are life to those who find them,"
+  },
+  {
+    "id": 25611,
+    "book": "proverbs                                ",
+    "chapter": "4",
+    "verse": "23",
+    "text": "Keep your heart with all diligence,"
+  },
+  {
+    "id": 25612,
+    "book": "proverbs                                ",
+    "chapter": "4",
+    "verse": "24",
+    "text": "Put away from yourself a perverse mouth."
+  },
+  {
+    "id": 25613,
+    "book": "proverbs                                ",
+    "chapter": "4",
+    "verse": "25",
+    "text": "Let your eyes look straight ahead."
+  },
+  {
+    "id": 25614,
+    "book": "proverbs                                ",
+    "chapter": "4",
+    "verse": "26",
+    "text": "Make the path of your feet level."
+  },
+  {
+    "id": 25615,
+    "book": "proverbs                                ",
+    "chapter": "4",
+    "verse": "27",
+    "text": "Don’t turn to the right hand nor to the left."
+  }
+]

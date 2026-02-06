@@ -1,1 +1,156 @@
-{"data":[{"book":"Psalms","chapter":"38","verse":"1","text":"LORD, don’t rebuke me in your wrath,"},{"book":"Psalms","chapter":"38","verse":"2","text":"For your arrows have pierced me,"},{"book":"Psalms","chapter":"38","verse":"3","text":"There is no soundness in my flesh because of your indignation,"},{"book":"Psalms","chapter":"38","verse":"4","text":"For my iniquities have gone over my head."},{"book":"Psalms","chapter":"38","verse":"5","text":"My wounds are loathsome and corrupt"},{"book":"Psalms","chapter":"38","verse":"6","text":"I am in pain and bowed down greatly."},{"book":"Psalms","chapter":"38","verse":"7","text":"For my waist is filled with burning."},{"book":"Psalms","chapter":"38","verse":"8","text":"I am faint and severely bruised."},{"book":"Psalms","chapter":"38","verse":"9","text":"Lord, all my desire is before you."},{"book":"Psalms","chapter":"38","verse":"10","text":"My heart throbs."},{"book":"Psalms","chapter":"38","verse":"11","text":"My lovers and my friends stand aloof from my plague."},{"book":"Psalms","chapter":"38","verse":"12","text":"They also who seek after my life lay snares."},{"book":"Psalms","chapter":"38","verse":"13","text":"But I, as a deaf man, don’t hear."},{"book":"Psalms","chapter":"38","verse":"14","text":"Yes, I am as a man who doesn’t hear,"},{"book":"Psalms","chapter":"38","verse":"15","text":"For I hope in you, LORD."},{"book":"Psalms","chapter":"38","verse":"16","text":"For I said, “Don’t let them gloat over me,"},{"book":"Psalms","chapter":"38","verse":"17","text":"For I am ready to fall."},{"book":"Psalms","chapter":"38","verse":"18","text":"For I will declare my iniquity."},{"book":"Psalms","chapter":"38","verse":"19","text":"But my enemies are vigorous and many."},{"book":"Psalms","chapter":"38","verse":"20","text":"They who render evil for good are also adversaries to me,"},{"book":"Psalms","chapter":"38","verse":"21","text":"Don’t forsake me, LORD."},{"book":"Psalms","chapter":"38","verse":"22","text":"Hurry to help me,"}]}
+[
+  {
+    "id": 26965,
+    "book": "psalms                                  ",
+    "chapter": "38",
+    "verse": "1",
+    "text": "LORD, don’t rebuke me in your wrath,"
+  },
+  {
+    "id": 26966,
+    "book": "psalms                                  ",
+    "chapter": "38",
+    "verse": "2",
+    "text": "For your arrows have pierced me,"
+  },
+  {
+    "id": 26967,
+    "book": "psalms                                  ",
+    "chapter": "38",
+    "verse": "3",
+    "text": "There is no soundness in my flesh because of your indignation,"
+  },
+  {
+    "id": 26968,
+    "book": "psalms                                  ",
+    "chapter": "38",
+    "verse": "4",
+    "text": "For my iniquities have gone over my head."
+  },
+  {
+    "id": 26969,
+    "book": "psalms                                  ",
+    "chapter": "38",
+    "verse": "5",
+    "text": "My wounds are loathsome and corrupt"
+  },
+  {
+    "id": 26970,
+    "book": "psalms                                  ",
+    "chapter": "38",
+    "verse": "6",
+    "text": "I am in pain and bowed down greatly."
+  },
+  {
+    "id": 26971,
+    "book": "psalms                                  ",
+    "chapter": "38",
+    "verse": "7",
+    "text": "For my waist is filled with burning."
+  },
+  {
+    "id": 26972,
+    "book": "psalms                                  ",
+    "chapter": "38",
+    "verse": "8",
+    "text": "I am faint and severely bruised."
+  },
+  {
+    "id": 26973,
+    "book": "psalms                                  ",
+    "chapter": "38",
+    "verse": "9",
+    "text": "Lord, all my desire is before you."
+  },
+  {
+    "id": 26974,
+    "book": "psalms                                  ",
+    "chapter": "38",
+    "verse": "10",
+    "text": "My heart throbs."
+  },
+  {
+    "id": 26975,
+    "book": "psalms                                  ",
+    "chapter": "38",
+    "verse": "11",
+    "text": "My lovers and my friends stand aloof from my plague."
+  },
+  {
+    "id": 26976,
+    "book": "psalms                                  ",
+    "chapter": "38",
+    "verse": "12",
+    "text": "They also who seek after my life lay snares."
+  },
+  {
+    "id": 26977,
+    "book": "psalms                                  ",
+    "chapter": "38",
+    "verse": "13",
+    "text": "But I, as a deaf man, don’t hear."
+  },
+  {
+    "id": 26978,
+    "book": "psalms                                  ",
+    "chapter": "38",
+    "verse": "14",
+    "text": "Yes, I am as a man who doesn’t hear,"
+  },
+  {
+    "id": 26979,
+    "book": "psalms                                  ",
+    "chapter": "38",
+    "verse": "15",
+    "text": "For I hope in you, LORD."
+  },
+  {
+    "id": 26980,
+    "book": "psalms                                  ",
+    "chapter": "38",
+    "verse": "16",
+    "text": "For I said, “Don’t let them gloat over me,"
+  },
+  {
+    "id": 26981,
+    "book": "psalms                                  ",
+    "chapter": "38",
+    "verse": "17",
+    "text": "For I am ready to fall."
+  },
+  {
+    "id": 26982,
+    "book": "psalms                                  ",
+    "chapter": "38",
+    "verse": "18",
+    "text": "For I will declare my iniquity."
+  },
+  {
+    "id": 26983,
+    "book": "psalms                                  ",
+    "chapter": "38",
+    "verse": "19",
+    "text": "But my enemies are vigorous and many."
+  },
+  {
+    "id": 26984,
+    "book": "psalms                                  ",
+    "chapter": "38",
+    "verse": "20",
+    "text": "They who render evil for good are also adversaries to me,"
+  },
+  {
+    "id": 26985,
+    "book": "psalms                                  ",
+    "chapter": "38",
+    "verse": "21",
+    "text": "Don’t forsake me, LORD."
+  },
+  {
+    "id": 26986,
+    "book": "psalms                                  ",
+    "chapter": "38",
+    "verse": "22",
+    "text": "Hurry to help me,"
+  }
+]

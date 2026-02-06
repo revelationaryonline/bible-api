@@ -1,1 +1,44 @@
-{"data":[{"book":"Psalms","chapter":"128","verse":"1","text":"Blessed is everyone who fears the LORD,"},{"book":"Psalms","chapter":"128","verse":"2","text":"For you will eat the labor of your hands."},{"book":"Psalms","chapter":"128","verse":"3","text":"Your wife will be as a fruitful vine in the innermost parts of your house,"},{"book":"Psalms","chapter":"128","verse":"4","text":"Behold, this is how the man who fears the LORD is blessed."},{"book":"Psalms","chapter":"128","verse":"5","text":"May the LORD bless you out of Zion,"},{"book":"Psalms","chapter":"128","verse":"6","text":"Yes, may you see your children’s children."}]}
+[
+  {
+    "id": 28601,
+    "book": "psalms                                  ",
+    "chapter": "128",
+    "verse": "1",
+    "text": "Blessed is everyone who fears the LORD,"
+  },
+  {
+    "id": 28602,
+    "book": "psalms                                  ",
+    "chapter": "128",
+    "verse": "2",
+    "text": "For you will eat the labor of your hands."
+  },
+  {
+    "id": 28603,
+    "book": "psalms                                  ",
+    "chapter": "128",
+    "verse": "3",
+    "text": "Your wife will be as a fruitful vine in the innermost parts of your house,"
+  },
+  {
+    "id": 28604,
+    "book": "psalms                                  ",
+    "chapter": "128",
+    "verse": "4",
+    "text": "Behold, this is how the man who fears the LORD is blessed."
+  },
+  {
+    "id": 28605,
+    "book": "psalms                                  ",
+    "chapter": "128",
+    "verse": "5",
+    "text": "May the LORD bless you out of Zion,"
+  },
+  {
+    "id": 28606,
+    "book": "psalms                                  ",
+    "chapter": "128",
+    "verse": "6",
+    "text": "Yes, may you see your children’s children."
+  }
+]

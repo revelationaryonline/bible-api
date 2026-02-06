@@ -1,1 +1,156 @@
-{"data":[{"book":"Job","chapter":"16","verse":"1","text":"Then Job answered,"},{"book":"Job","chapter":"16","verse":"2","text":"“I have heard many such things."},{"book":"Job","chapter":"16","verse":"3","text":"Shall vain words have an end?"},{"book":"Job","chapter":"16","verse":"4","text":"I also could speak as you do."},{"book":"Job","chapter":"16","verse":"5","text":"but I would strengthen you with my mouth."},{"book":"Job","chapter":"16","verse":"6","text":"“Though I speak, my grief is not subsided."},{"book":"Job","chapter":"16","verse":"7","text":"But now, God, you have surely worn me out."},{"book":"Job","chapter":"16","verse":"8","text":"You have shriveled me up. This is a witness against me."},{"book":"Job","chapter":"16","verse":"9","text":"He has torn me in his wrath and persecuted me."},{"book":"Job","chapter":"16","verse":"10","text":"They have gaped on me with their mouth."},{"book":"Job","chapter":"16","verse":"11","text":"God delivers me to the ungodly,"},{"book":"Job","chapter":"16","verse":"12","text":"I was at ease, and he broke me apart."},{"book":"Job","chapter":"16","verse":"13","text":"His archers surround me."},{"book":"Job","chapter":"16","verse":"14","text":"He breaks me with breach on breach."},{"book":"Job","chapter":"16","verse":"15","text":"I have sewed sackcloth on my skin,"},{"book":"Job","chapter":"16","verse":"16","text":"My face is red with weeping."},{"book":"Job","chapter":"16","verse":"17","text":"although there is no violence in my hands,"},{"book":"Job","chapter":"16","verse":"18","text":"“Earth, don’t cover my blood."},{"book":"Job","chapter":"16","verse":"19","text":"Even now, behold, my witness is in heaven."},{"book":"Job","chapter":"16","verse":"20","text":"My friends scoff at me."},{"book":"Job","chapter":"16","verse":"21","text":"that he would maintain the right of a man with God,"},{"book":"Job","chapter":"16","verse":"22","text":"For when a few years have come,"}]}
+[
+  {
+    "id": 17412,
+    "book": "job                                     ",
+    "chapter": "16",
+    "verse": "1",
+    "text": "Then Job answered,"
+  },
+  {
+    "id": 17413,
+    "book": "job                                     ",
+    "chapter": "16",
+    "verse": "2",
+    "text": "“I have heard many such things."
+  },
+  {
+    "id": 17414,
+    "book": "job                                     ",
+    "chapter": "16",
+    "verse": "3",
+    "text": "Shall vain words have an end?"
+  },
+  {
+    "id": 17415,
+    "book": "job                                     ",
+    "chapter": "16",
+    "verse": "4",
+    "text": "I also could speak as you do."
+  },
+  {
+    "id": 17416,
+    "book": "job                                     ",
+    "chapter": "16",
+    "verse": "5",
+    "text": "but I would strengthen you with my mouth."
+  },
+  {
+    "id": 17417,
+    "book": "job                                     ",
+    "chapter": "16",
+    "verse": "6",
+    "text": "“Though I speak, my grief is not subsided."
+  },
+  {
+    "id": 17418,
+    "book": "job                                     ",
+    "chapter": "16",
+    "verse": "7",
+    "text": "But now, God, you have surely worn me out."
+  },
+  {
+    "id": 17419,
+    "book": "job                                     ",
+    "chapter": "16",
+    "verse": "8",
+    "text": "You have shriveled me up. This is a witness against me."
+  },
+  {
+    "id": 17420,
+    "book": "job                                     ",
+    "chapter": "16",
+    "verse": "9",
+    "text": "He has torn me in his wrath and persecuted me."
+  },
+  {
+    "id": 17421,
+    "book": "job                                     ",
+    "chapter": "16",
+    "verse": "10",
+    "text": "They have gaped on me with their mouth."
+  },
+  {
+    "id": 17422,
+    "book": "job                                     ",
+    "chapter": "16",
+    "verse": "11",
+    "text": "God delivers me to the ungodly,"
+  },
+  {
+    "id": 17423,
+    "book": "job                                     ",
+    "chapter": "16",
+    "verse": "12",
+    "text": "I was at ease, and he broke me apart."
+  },
+  {
+    "id": 17424,
+    "book": "job                                     ",
+    "chapter": "16",
+    "verse": "13",
+    "text": "His archers surround me."
+  },
+  {
+    "id": 17425,
+    "book": "job                                     ",
+    "chapter": "16",
+    "verse": "14",
+    "text": "He breaks me with breach on breach."
+  },
+  {
+    "id": 17426,
+    "book": "job                                     ",
+    "chapter": "16",
+    "verse": "15",
+    "text": "I have sewed sackcloth on my skin,"
+  },
+  {
+    "id": 17427,
+    "book": "job                                     ",
+    "chapter": "16",
+    "verse": "16",
+    "text": "My face is red with weeping."
+  },
+  {
+    "id": 17428,
+    "book": "job                                     ",
+    "chapter": "16",
+    "verse": "17",
+    "text": "although there is no violence in my hands,"
+  },
+  {
+    "id": 17429,
+    "book": "job                                     ",
+    "chapter": "16",
+    "verse": "18",
+    "text": "“Earth, don’t cover my blood."
+  },
+  {
+    "id": 17430,
+    "book": "job                                     ",
+    "chapter": "16",
+    "verse": "19",
+    "text": "Even now, behold, my witness is in heaven."
+  },
+  {
+    "id": 17431,
+    "book": "job                                     ",
+    "chapter": "16",
+    "verse": "20",
+    "text": "My friends scoff at me."
+  },
+  {
+    "id": 17432,
+    "book": "job                                     ",
+    "chapter": "16",
+    "verse": "21",
+    "text": "that he would maintain the right of a man with God,"
+  },
+  {
+    "id": 17433,
+    "book": "job                                     ",
+    "chapter": "16",
+    "verse": "22",
+    "text": "For when a few years have come,"
+  }
+]

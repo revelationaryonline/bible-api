@@ -1,1 +1,142 @@
-{"data":[{"book":"Isaiah","chapter":"32","verse":"1","text":"Behold, a king shall reign in righteousness,"},{"book":"Isaiah","chapter":"32","verse":"2","text":"A man shall be as a hiding place from the wind,"},{"book":"Isaiah","chapter":"32","verse":"3","text":"The eyes of those who see will not be dim,"},{"book":"Isaiah","chapter":"32","verse":"4","text":"The heart of the rash will understand knowledge,"},{"book":"Isaiah","chapter":"32","verse":"5","text":"The fool will no longer be called noble,"},{"book":"Isaiah","chapter":"32","verse":"6","text":"For the fool will speak folly,"},{"book":"Isaiah","chapter":"32","verse":"7","text":"The ways of the scoundrel are evil."},{"book":"Isaiah","chapter":"32","verse":"8","text":"But the noble devises noble things,"},{"book":"Isaiah","chapter":"32","verse":"9","text":"Rise up, you women who are at ease! Hear my voice!"},{"book":"Isaiah","chapter":"32","verse":"10","text":"For days beyond a year you will be troubled, you careless women;"},{"book":"Isaiah","chapter":"32","verse":"11","text":"Tremble, you women who are at ease!"},{"book":"Isaiah","chapter":"32","verse":"12","text":"Beat your breasts for the pleasant fields,"},{"book":"Isaiah","chapter":"32","verse":"13","text":"Thorns and briers will come up on my people’s land;"},{"book":"Isaiah","chapter":"32","verse":"14","text":"For the palace will be forsaken."},{"book":"Isaiah","chapter":"32","verse":"15","text":"until the Spirit is poured on us from on high,"},{"book":"Isaiah","chapter":"32","verse":"16","text":"Then justice will dwell in the wilderness;"},{"book":"Isaiah","chapter":"32","verse":"17","text":"The work of righteousness will be peace,"},{"book":"Isaiah","chapter":"32","verse":"18","text":"My people will live in a peaceful habitation,"},{"book":"Isaiah","chapter":"32","verse":"19","text":"though hail flattens the forest,"},{"book":"Isaiah","chapter":"32","verse":"20","text":"Blessed are you who sow beside all waters,"}]}
+[
+  {
+    "id": 14884,
+    "book": "isaiah                                  ",
+    "chapter": "32",
+    "verse": "1",
+    "text": "Behold, a king shall reign in righteousness,"
+  },
+  {
+    "id": 14885,
+    "book": "isaiah                                  ",
+    "chapter": "32",
+    "verse": "2",
+    "text": "A man shall be as a hiding place from the wind,"
+  },
+  {
+    "id": 14886,
+    "book": "isaiah                                  ",
+    "chapter": "32",
+    "verse": "3",
+    "text": "The eyes of those who see will not be dim,"
+  },
+  {
+    "id": 14887,
+    "book": "isaiah                                  ",
+    "chapter": "32",
+    "verse": "4",
+    "text": "The heart of the rash will understand knowledge,"
+  },
+  {
+    "id": 14888,
+    "book": "isaiah                                  ",
+    "chapter": "32",
+    "verse": "5",
+    "text": "The fool will no longer be called noble,"
+  },
+  {
+    "id": 14889,
+    "book": "isaiah                                  ",
+    "chapter": "32",
+    "verse": "6",
+    "text": "For the fool will speak folly,"
+  },
+  {
+    "id": 14890,
+    "book": "isaiah                                  ",
+    "chapter": "32",
+    "verse": "7",
+    "text": "The ways of the scoundrel are evil."
+  },
+  {
+    "id": 14891,
+    "book": "isaiah                                  ",
+    "chapter": "32",
+    "verse": "8",
+    "text": "But the noble devises noble things,"
+  },
+  {
+    "id": 14892,
+    "book": "isaiah                                  ",
+    "chapter": "32",
+    "verse": "9",
+    "text": "Rise up, you women who are at ease! Hear my voice!"
+  },
+  {
+    "id": 14893,
+    "book": "isaiah                                  ",
+    "chapter": "32",
+    "verse": "10",
+    "text": "For days beyond a year you will be troubled, you careless women;"
+  },
+  {
+    "id": 14894,
+    "book": "isaiah                                  ",
+    "chapter": "32",
+    "verse": "11",
+    "text": "Tremble, you women who are at ease!"
+  },
+  {
+    "id": 14895,
+    "book": "isaiah                                  ",
+    "chapter": "32",
+    "verse": "12",
+    "text": "Beat your breasts for the pleasant fields,"
+  },
+  {
+    "id": 14896,
+    "book": "isaiah                                  ",
+    "chapter": "32",
+    "verse": "13",
+    "text": "Thorns and briers will come up on my people’s land;"
+  },
+  {
+    "id": 14897,
+    "book": "isaiah                                  ",
+    "chapter": "32",
+    "verse": "14",
+    "text": "For the palace will be forsaken."
+  },
+  {
+    "id": 14898,
+    "book": "isaiah                                  ",
+    "chapter": "32",
+    "verse": "15",
+    "text": "until the Spirit is poured on us from on high,"
+  },
+  {
+    "id": 14899,
+    "book": "isaiah                                  ",
+    "chapter": "32",
+    "verse": "16",
+    "text": "Then justice will dwell in the wilderness;"
+  },
+  {
+    "id": 14900,
+    "book": "isaiah                                  ",
+    "chapter": "32",
+    "verse": "17",
+    "text": "The work of righteousness will be peace,"
+  },
+  {
+    "id": 14901,
+    "book": "isaiah                                  ",
+    "chapter": "32",
+    "verse": "18",
+    "text": "My people will live in a peaceful habitation,"
+  },
+  {
+    "id": 14902,
+    "book": "isaiah                                  ",
+    "chapter": "32",
+    "verse": "19",
+    "text": "though hail flattens the forest,"
+  },
+  {
+    "id": 14903,
+    "book": "isaiah                                  ",
+    "chapter": "32",
+    "verse": "20",
+    "text": "Blessed are you who sow beside all waters,"
+  }
+]

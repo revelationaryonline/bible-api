@@ -1,1 +1,79 @@
-{"data":[{"book":"Psalms","chapter":"63","verse":"1","text":"God, you are my God."},{"book":"Psalms","chapter":"63","verse":"2","text":"So I have seen you in the sanctuary,"},{"book":"Psalms","chapter":"63","verse":"3","text":"Because your loving kindness is better than life,"},{"book":"Psalms","chapter":"63","verse":"4","text":"So I will bless you while I live."},{"book":"Psalms","chapter":"63","verse":"5","text":"My soul shall be satisfied as with the richest food."},{"book":"Psalms","chapter":"63","verse":"6","text":"when I remember you on my bed,"},{"book":"Psalms","chapter":"63","verse":"7","text":"For you have been my help."},{"book":"Psalms","chapter":"63","verse":"8","text":"My soul stays close to you."},{"book":"Psalms","chapter":"63","verse":"9","text":"But those who seek my soul to destroy it"},{"book":"Psalms","chapter":"63","verse":"10","text":"They shall be given over to the power of the sword."},{"book":"Psalms","chapter":"63","verse":"11","text":"But the king shall rejoice in God."}]}
+[
+  {
+    "id": 27314,
+    "book": "psalms                                  ",
+    "chapter": "63",
+    "verse": "1",
+    "text": "God, you are my God."
+  },
+  {
+    "id": 27315,
+    "book": "psalms                                  ",
+    "chapter": "63",
+    "verse": "2",
+    "text": "So I have seen you in the sanctuary,"
+  },
+  {
+    "id": 27316,
+    "book": "psalms                                  ",
+    "chapter": "63",
+    "verse": "3",
+    "text": "Because your loving kindness is better than life,"
+  },
+  {
+    "id": 27317,
+    "book": "psalms                                  ",
+    "chapter": "63",
+    "verse": "4",
+    "text": "So I will bless you while I live."
+  },
+  {
+    "id": 27318,
+    "book": "psalms                                  ",
+    "chapter": "63",
+    "verse": "5",
+    "text": "My soul shall be satisfied as with the richest food."
+  },
+  {
+    "id": 27319,
+    "book": "psalms                                  ",
+    "chapter": "63",
+    "verse": "6",
+    "text": "when I remember you on my bed,"
+  },
+  {
+    "id": 27320,
+    "book": "psalms                                  ",
+    "chapter": "63",
+    "verse": "7",
+    "text": "For you have been my help."
+  },
+  {
+    "id": 27321,
+    "book": "psalms                                  ",
+    "chapter": "63",
+    "verse": "8",
+    "text": "My soul stays close to you."
+  },
+  {
+    "id": 27322,
+    "book": "psalms                                  ",
+    "chapter": "63",
+    "verse": "9",
+    "text": "But those who seek my soul to destroy it"
+  },
+  {
+    "id": 27323,
+    "book": "psalms                                  ",
+    "chapter": "63",
+    "verse": "10",
+    "text": "They shall be given over to the power of the sword."
+  },
+  {
+    "id": 27324,
+    "book": "psalms                                  ",
+    "chapter": "63",
+    "verse": "11",
+    "text": "But the king shall rejoice in God."
+  }
+]

@@ -1,1 +1,177 @@
-{"data":[{"book":"Isaiah","chapter":"42","verse":"1","text":"“Behold, my servant, whom I uphold,"},{"book":"Isaiah","chapter":"42","verse":"2","text":"He will not shout,"},{"book":"Isaiah","chapter":"42","verse":"3","text":"He won’t break a bruised reed."},{"book":"Isaiah","chapter":"42","verse":"4","text":"He will not fail nor be discouraged,"},{"book":"Isaiah","chapter":"42","verse":"5","text":"God the LORD,"},{"book":"Isaiah","chapter":"42","verse":"6","text":"“I, the LORD, have called you in righteousness."},{"book":"Isaiah","chapter":"42","verse":"7","text":"to open the blind eyes,"},{"book":"Isaiah","chapter":"42","verse":"8","text":"“I am the LORD."},{"book":"Isaiah","chapter":"42","verse":"9","text":"Behold, the former things have happened"},{"book":"Isaiah","chapter":"42","verse":"10","text":"Sing to the LORD a new song,"},{"book":"Isaiah","chapter":"42","verse":"11","text":"Let the wilderness and its cities raise their voices,"},{"book":"Isaiah","chapter":"42","verse":"12","text":"Let them give glory to the LORD,"},{"book":"Isaiah","chapter":"42","verse":"13","text":"The LORD will go out like a mighty man."},{"book":"Isaiah","chapter":"42","verse":"14","text":"“I have been silent a long time."},{"book":"Isaiah","chapter":"42","verse":"15","text":"I will destroy mountains and hills,"},{"book":"Isaiah","chapter":"42","verse":"16","text":"I will bring the blind by a way that they don’t know."},{"book":"Isaiah","chapter":"42","verse":"17","text":"“Those who trust in engraved images,"},{"book":"Isaiah","chapter":"42","verse":"18","text":"“Hear, you deaf,"},{"book":"Isaiah","chapter":"42","verse":"19","text":"Who is blind, but my servant?"},{"book":"Isaiah","chapter":"42","verse":"20","text":"You see many things, but don’t observe."},{"book":"Isaiah","chapter":"42","verse":"21","text":"It pleased the LORD, for his righteousness’ sake, to magnify the law"},{"book":"Isaiah","chapter":"42","verse":"22","text":"But this is a robbed and plundered people."},{"book":"Isaiah","chapter":"42","verse":"23","text":"Who is there among you who will give ear to this?"},{"book":"Isaiah","chapter":"42","verse":"24","text":"Who gave Jacob as plunder,"},{"book":"Isaiah","chapter":"42","verse":"25","text":"Therefore he poured the fierceness of his anger on him,"}]}
+[
+  {
+    "id": 15105,
+    "book": "isaiah                                  ",
+    "chapter": "42",
+    "verse": "1",
+    "text": "“Behold, my servant, whom I uphold,"
+  },
+  {
+    "id": 15106,
+    "book": "isaiah                                  ",
+    "chapter": "42",
+    "verse": "2",
+    "text": "He will not shout,"
+  },
+  {
+    "id": 15107,
+    "book": "isaiah                                  ",
+    "chapter": "42",
+    "verse": "3",
+    "text": "He won’t break a bruised reed."
+  },
+  {
+    "id": 15108,
+    "book": "isaiah                                  ",
+    "chapter": "42",
+    "verse": "4",
+    "text": "He will not fail nor be discouraged,"
+  },
+  {
+    "id": 15109,
+    "book": "isaiah                                  ",
+    "chapter": "42",
+    "verse": "5",
+    "text": "God the LORD,"
+  },
+  {
+    "id": 15110,
+    "book": "isaiah                                  ",
+    "chapter": "42",
+    "verse": "6",
+    "text": "“I, the LORD, have called you in righteousness."
+  },
+  {
+    "id": 15111,
+    "book": "isaiah                                  ",
+    "chapter": "42",
+    "verse": "7",
+    "text": "to open the blind eyes,"
+  },
+  {
+    "id": 15112,
+    "book": "isaiah                                  ",
+    "chapter": "42",
+    "verse": "8",
+    "text": "“I am the LORD."
+  },
+  {
+    "id": 15113,
+    "book": "isaiah                                  ",
+    "chapter": "42",
+    "verse": "9",
+    "text": "Behold, the former things have happened"
+  },
+  {
+    "id": 15114,
+    "book": "isaiah                                  ",
+    "chapter": "42",
+    "verse": "10",
+    "text": "Sing to the LORD a new song,"
+  },
+  {
+    "id": 15115,
+    "book": "isaiah                                  ",
+    "chapter": "42",
+    "verse": "11",
+    "text": "Let the wilderness and its cities raise their voices,"
+  },
+  {
+    "id": 15116,
+    "book": "isaiah                                  ",
+    "chapter": "42",
+    "verse": "12",
+    "text": "Let them give glory to the LORD,"
+  },
+  {
+    "id": 15117,
+    "book": "isaiah                                  ",
+    "chapter": "42",
+    "verse": "13",
+    "text": "The LORD will go out like a mighty man."
+  },
+  {
+    "id": 15118,
+    "book": "isaiah                                  ",
+    "chapter": "42",
+    "verse": "14",
+    "text": "“I have been silent a long time."
+  },
+  {
+    "id": 15119,
+    "book": "isaiah                                  ",
+    "chapter": "42",
+    "verse": "15",
+    "text": "I will destroy mountains and hills,"
+  },
+  {
+    "id": 15120,
+    "book": "isaiah                                  ",
+    "chapter": "42",
+    "verse": "16",
+    "text": "I will bring the blind by a way that they don’t know."
+  },
+  {
+    "id": 15121,
+    "book": "isaiah                                  ",
+    "chapter": "42",
+    "verse": "17",
+    "text": "“Those who trust in engraved images,"
+  },
+  {
+    "id": 15122,
+    "book": "isaiah                                  ",
+    "chapter": "42",
+    "verse": "18",
+    "text": "“Hear, you deaf,"
+  },
+  {
+    "id": 15123,
+    "book": "isaiah                                  ",
+    "chapter": "42",
+    "verse": "19",
+    "text": "Who is blind, but my servant?"
+  },
+  {
+    "id": 15124,
+    "book": "isaiah                                  ",
+    "chapter": "42",
+    "verse": "20",
+    "text": "You see many things, but don’t observe."
+  },
+  {
+    "id": 15125,
+    "book": "isaiah                                  ",
+    "chapter": "42",
+    "verse": "21",
+    "text": "It pleased the LORD, for his righteousness’ sake, to magnify the law"
+  },
+  {
+    "id": 15126,
+    "book": "isaiah                                  ",
+    "chapter": "42",
+    "verse": "22",
+    "text": "But this is a robbed and plundered people."
+  },
+  {
+    "id": 15127,
+    "book": "isaiah                                  ",
+    "chapter": "42",
+    "verse": "23",
+    "text": "Who is there among you who will give ear to this?"
+  },
+  {
+    "id": 15128,
+    "book": "isaiah                                  ",
+    "chapter": "42",
+    "verse": "24",
+    "text": "Who gave Jacob as plunder,"
+  },
+  {
+    "id": 15129,
+    "book": "isaiah                                  ",
+    "chapter": "42",
+    "verse": "25",
+    "text": "Therefore he poured the fierceness of his anger on him,"
+  }
+]

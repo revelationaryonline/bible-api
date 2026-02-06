@@ -1,1 +1,107 @@
-{"data":[{"book":"Amos","chapter":"3","verse":"1","text":"Hear this word that the LORD has spoken against you, children of Israel, against the whole family which I brought up out of the land of Egypt, saying:"},{"book":"Amos","chapter":"3","verse":"2","text":"“I have only chosen you of all the families of the earth."},{"book":"Amos","chapter":"3","verse":"3","text":"Do two walk together,"},{"book":"Amos","chapter":"3","verse":"4","text":"Will a lion roar in the thicket,"},{"book":"Amos","chapter":"3","verse":"5","text":"Can a bird fall in a trap on the earth,"},{"book":"Amos","chapter":"3","verse":"6","text":"Does the shofar alarm sound in a city,"},{"book":"Amos","chapter":"3","verse":"7","text":"Surely the Lord GOD will do nothing,"},{"book":"Amos","chapter":"3","verse":"8","text":"The lion has roared."},{"book":"Amos","chapter":"3","verse":"9","text":"Proclaim in the palaces at Ashdod,"},{"book":"Amos","chapter":"3","verse":"10","text":"“Indeed they don’t know to do right,” says the LORD,"},{"book":"Amos","chapter":"3","verse":"11","text":"Therefore the Lord GOD says:"},{"book":"Amos","chapter":"3","verse":"12","text":"The LORD says:"},{"book":"Amos","chapter":"3","verse":"13","text":"“Listen, and testify against the house of Jacob,” says the Lord GOD, the God of Hosts."},{"book":"Amos","chapter":"3","verse":"14","text":"“For in the day that I visit the transgressions of Israel on him,"},{"book":"Amos","chapter":"3","verse":"15","text":"I will strike the winter house with the summer house;"}]}
+[
+  {
+    "id": 7167,
+    "book": "amos                                    ",
+    "chapter": "3",
+    "verse": "1",
+    "text": "Hear this word that the LORD has spoken against you, children of Israel, against the whole family which I brought up out of the land of Egypt, saying:"
+  },
+  {
+    "id": 7168,
+    "book": "amos                                    ",
+    "chapter": "3",
+    "verse": "2",
+    "text": "“I have only chosen you of all the families of the earth."
+  },
+  {
+    "id": 7169,
+    "book": "amos                                    ",
+    "chapter": "3",
+    "verse": "3",
+    "text": "Do two walk together,"
+  },
+  {
+    "id": 7170,
+    "book": "amos                                    ",
+    "chapter": "3",
+    "verse": "4",
+    "text": "Will a lion roar in the thicket,"
+  },
+  {
+    "id": 7171,
+    "book": "amos                                    ",
+    "chapter": "3",
+    "verse": "5",
+    "text": "Can a bird fall in a trap on the earth,"
+  },
+  {
+    "id": 7172,
+    "book": "amos                                    ",
+    "chapter": "3",
+    "verse": "6",
+    "text": "Does the shofar alarm sound in a city,"
+  },
+  {
+    "id": 7173,
+    "book": "amos                                    ",
+    "chapter": "3",
+    "verse": "7",
+    "text": "Surely the Lord GOD will do nothing,"
+  },
+  {
+    "id": 7174,
+    "book": "amos                                    ",
+    "chapter": "3",
+    "verse": "8",
+    "text": "The lion has roared."
+  },
+  {
+    "id": 7175,
+    "book": "amos                                    ",
+    "chapter": "3",
+    "verse": "9",
+    "text": "Proclaim in the palaces at Ashdod,"
+  },
+  {
+    "id": 7176,
+    "book": "amos                                    ",
+    "chapter": "3",
+    "verse": "10",
+    "text": "“Indeed they don’t know to do right,” says the LORD,"
+  },
+  {
+    "id": 7177,
+    "book": "amos                                    ",
+    "chapter": "3",
+    "verse": "11",
+    "text": "Therefore the Lord GOD says:"
+  },
+  {
+    "id": 7178,
+    "book": "amos                                    ",
+    "chapter": "3",
+    "verse": "12",
+    "text": "The LORD says:"
+  },
+  {
+    "id": 7179,
+    "book": "amos                                    ",
+    "chapter": "3",
+    "verse": "13",
+    "text": "“Listen, and testify against the house of Jacob,” says the Lord GOD, the God of Hosts."
+  },
+  {
+    "id": 7180,
+    "book": "amos                                    ",
+    "chapter": "3",
+    "verse": "14",
+    "text": "“For in the day that I visit the transgressions of Israel on him,"
+  },
+  {
+    "id": 7181,
+    "book": "amos                                    ",
+    "chapter": "3",
+    "verse": "15",
+    "text": "I will strike the winter house with the summer house;"
+  }
+]

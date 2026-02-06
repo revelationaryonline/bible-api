@@ -1,1 +1,107 @@
-{"data":[{"book":"Isaiah","chapter":"52","verse":"1","text":"Awake, awake! Put on your strength, Zion."},{"book":"Isaiah","chapter":"52","verse":"2","text":"Shake yourself from the dust!"},{"book":"Isaiah","chapter":"52","verse":"3","text":"For the LORD says, “You were sold for nothing;"},{"book":"Isaiah","chapter":"52","verse":"4","text":"For the Lord GOD says:"},{"book":"Isaiah","chapter":"52","verse":"5","text":"“Now therefore, what do I do here,” says the LORD,"},{"book":"Isaiah","chapter":"52","verse":"6","text":"Therefore my people shall know my name."},{"book":"Isaiah","chapter":"52","verse":"7","text":"How beautiful on the mountains are the feet of him who brings good news,"},{"book":"Isaiah","chapter":"52","verse":"8","text":"Your watchmen lift up their voice."},{"book":"Isaiah","chapter":"52","verse":"9","text":"Break out into joy!"},{"book":"Isaiah","chapter":"52","verse":"10","text":"The LORD has made his holy arm bare in the eyes of all the nations."},{"book":"Isaiah","chapter":"52","verse":"11","text":"Depart! Depart! Go out from there! Touch no unclean thing!"},{"book":"Isaiah","chapter":"52","verse":"12","text":"For you shall not go out in haste,"},{"book":"Isaiah","chapter":"52","verse":"13","text":"Behold, my servant will deal wisely."},{"book":"Isaiah","chapter":"52","verse":"14","text":"Just as many were astonished at you—"},{"book":"Isaiah","chapter":"52","verse":"15","text":"so he will cleanse52:15 or, sprinkle many nations."}]}
+[
+  {
+    "id": 15321,
+    "book": "isaiah                                  ",
+    "chapter": "52",
+    "verse": "1",
+    "text": "Awake, awake! Put on your strength, Zion."
+  },
+  {
+    "id": 15322,
+    "book": "isaiah                                  ",
+    "chapter": "52",
+    "verse": "2",
+    "text": "Shake yourself from the dust!"
+  },
+  {
+    "id": 15323,
+    "book": "isaiah                                  ",
+    "chapter": "52",
+    "verse": "3",
+    "text": "For the LORD says, “You were sold for nothing;"
+  },
+  {
+    "id": 15324,
+    "book": "isaiah                                  ",
+    "chapter": "52",
+    "verse": "4",
+    "text": "For the Lord GOD says:"
+  },
+  {
+    "id": 15325,
+    "book": "isaiah                                  ",
+    "chapter": "52",
+    "verse": "5",
+    "text": "“Now therefore, what do I do here,” says the LORD,"
+  },
+  {
+    "id": 15326,
+    "book": "isaiah                                  ",
+    "chapter": "52",
+    "verse": "6",
+    "text": "Therefore my people shall know my name."
+  },
+  {
+    "id": 15327,
+    "book": "isaiah                                  ",
+    "chapter": "52",
+    "verse": "7",
+    "text": "How beautiful on the mountains are the feet of him who brings good news,"
+  },
+  {
+    "id": 15328,
+    "book": "isaiah                                  ",
+    "chapter": "52",
+    "verse": "8",
+    "text": "Your watchmen lift up their voice."
+  },
+  {
+    "id": 15329,
+    "book": "isaiah                                  ",
+    "chapter": "52",
+    "verse": "9",
+    "text": "Break out into joy!"
+  },
+  {
+    "id": 15330,
+    "book": "isaiah                                  ",
+    "chapter": "52",
+    "verse": "10",
+    "text": "The LORD has made his holy arm bare in the eyes of all the nations."
+  },
+  {
+    "id": 15331,
+    "book": "isaiah                                  ",
+    "chapter": "52",
+    "verse": "11",
+    "text": "Depart! Depart! Go out from there! Touch no unclean thing!"
+  },
+  {
+    "id": 15332,
+    "book": "isaiah                                  ",
+    "chapter": "52",
+    "verse": "12",
+    "text": "For you shall not go out in haste,"
+  },
+  {
+    "id": 15333,
+    "book": "isaiah                                  ",
+    "chapter": "52",
+    "verse": "13",
+    "text": "Behold, my servant will deal wisely."
+  },
+  {
+    "id": 15334,
+    "book": "isaiah                                  ",
+    "chapter": "52",
+    "verse": "14",
+    "text": "Just as many were astonished at you—"
+  },
+  {
+    "id": 15335,
+    "book": "isaiah                                  ",
+    "chapter": "52",
+    "verse": "15",
+    "text": "so he will cleanse52:15 or, sprinkle many nations."
+  }
+]

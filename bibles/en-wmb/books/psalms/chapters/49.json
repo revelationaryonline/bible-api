@@ -1,1 +1,142 @@
-{"data":[{"book":"Psalms","chapter":"49","verse":"1","text":"Hear this, all you peoples."},{"book":"Psalms","chapter":"49","verse":"2","text":"both low and high,"},{"book":"Psalms","chapter":"49","verse":"3","text":"My mouth will speak words of wisdom."},{"book":"Psalms","chapter":"49","verse":"4","text":"I will incline my ear to a proverb."},{"book":"Psalms","chapter":"49","verse":"5","text":"Why should I fear in the days of evil,"},{"book":"Psalms","chapter":"49","verse":"6","text":"Those who trust in their wealth,"},{"book":"Psalms","chapter":"49","verse":"7","text":"none of them can by any means redeem his brother,"},{"book":"Psalms","chapter":"49","verse":"8","text":"For the redemption of their life is costly,"},{"book":"Psalms","chapter":"49","verse":"9","text":"that he should live on forever,"},{"book":"Psalms","chapter":"49","verse":"10","text":"For he sees that wise men die;"},{"book":"Psalms","chapter":"49","verse":"11","text":"Their inward thought is that their houses will endure forever,"},{"book":"Psalms","chapter":"49","verse":"12","text":"But man, despite his riches, doesn’t endure."},{"book":"Psalms","chapter":"49","verse":"13","text":"This is the destiny of those who are foolish,"},{"book":"Psalms","chapter":"49","verse":"14","text":"They are appointed as a flock for Sheol.49:14 Sheol is the place of the dead."},{"book":"Psalms","chapter":"49","verse":"15","text":"But God will redeem my soul from the power of Sheol,49:15 Sheol is the place of the dead."},{"book":"Psalms","chapter":"49","verse":"16","text":"Don’t be afraid when a man is made rich,"},{"book":"Psalms","chapter":"49","verse":"17","text":"for when he dies he will carry nothing away."},{"book":"Psalms","chapter":"49","verse":"18","text":"Though while he lived he blessed his soul—"},{"book":"Psalms","chapter":"49","verse":"19","text":"he shall go to the generation of his fathers."},{"book":"Psalms","chapter":"49","verse":"20","text":"A man who has riches without understanding,"}]}
+[
+  {
+    "id": 27123,
+    "book": "psalms                                  ",
+    "chapter": "49",
+    "verse": "1",
+    "text": "Hear this, all you peoples."
+  },
+  {
+    "id": 27124,
+    "book": "psalms                                  ",
+    "chapter": "49",
+    "verse": "2",
+    "text": "both low and high,"
+  },
+  {
+    "id": 27125,
+    "book": "psalms                                  ",
+    "chapter": "49",
+    "verse": "3",
+    "text": "My mouth will speak words of wisdom."
+  },
+  {
+    "id": 27126,
+    "book": "psalms                                  ",
+    "chapter": "49",
+    "verse": "4",
+    "text": "I will incline my ear to a proverb."
+  },
+  {
+    "id": 27127,
+    "book": "psalms                                  ",
+    "chapter": "49",
+    "verse": "5",
+    "text": "Why should I fear in the days of evil,"
+  },
+  {
+    "id": 27128,
+    "book": "psalms                                  ",
+    "chapter": "49",
+    "verse": "6",
+    "text": "Those who trust in their wealth,"
+  },
+  {
+    "id": 27129,
+    "book": "psalms                                  ",
+    "chapter": "49",
+    "verse": "7",
+    "text": "none of them can by any means redeem his brother,"
+  },
+  {
+    "id": 27130,
+    "book": "psalms                                  ",
+    "chapter": "49",
+    "verse": "8",
+    "text": "For the redemption of their life is costly,"
+  },
+  {
+    "id": 27131,
+    "book": "psalms                                  ",
+    "chapter": "49",
+    "verse": "9",
+    "text": "that he should live on forever,"
+  },
+  {
+    "id": 27132,
+    "book": "psalms                                  ",
+    "chapter": "49",
+    "verse": "10",
+    "text": "For he sees that wise men die;"
+  },
+  {
+    "id": 27133,
+    "book": "psalms                                  ",
+    "chapter": "49",
+    "verse": "11",
+    "text": "Their inward thought is that their houses will endure forever,"
+  },
+  {
+    "id": 27134,
+    "book": "psalms                                  ",
+    "chapter": "49",
+    "verse": "12",
+    "text": "But man, despite his riches, doesn’t endure."
+  },
+  {
+    "id": 27135,
+    "book": "psalms                                  ",
+    "chapter": "49",
+    "verse": "13",
+    "text": "This is the destiny of those who are foolish,"
+  },
+  {
+    "id": 27136,
+    "book": "psalms                                  ",
+    "chapter": "49",
+    "verse": "14",
+    "text": "They are appointed as a flock for Sheol.49:14 Sheol is the place of the dead."
+  },
+  {
+    "id": 27137,
+    "book": "psalms                                  ",
+    "chapter": "49",
+    "verse": "15",
+    "text": "But God will redeem my soul from the power of Sheol,49:15 Sheol is the place of the dead."
+  },
+  {
+    "id": 27138,
+    "book": "psalms                                  ",
+    "chapter": "49",
+    "verse": "16",
+    "text": "Don’t be afraid when a man is made rich,"
+  },
+  {
+    "id": 27139,
+    "book": "psalms                                  ",
+    "chapter": "49",
+    "verse": "17",
+    "text": "for when he dies he will carry nothing away."
+  },
+  {
+    "id": 27140,
+    "book": "psalms                                  ",
+    "chapter": "49",
+    "verse": "18",
+    "text": "Though while he lived he blessed his soul—"
+  },
+  {
+    "id": 27141,
+    "book": "psalms                                  ",
+    "chapter": "49",
+    "verse": "19",
+    "text": "he shall go to the generation of his fathers."
+  },
+  {
+    "id": 27142,
+    "book": "psalms                                  ",
+    "chapter": "49",
+    "verse": "20",
+    "text": "A man who has riches without understanding,"
+  }
+]

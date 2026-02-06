@@ -1,1 +1,163 @@
-{"data":[{"book":"Psalms","chapter":"94","verse":"1","text":"LORD, you God to whom vengeance belongs,"},{"book":"Psalms","chapter":"94","verse":"2","text":"Rise up, you judge of the earth."},{"book":"Psalms","chapter":"94","verse":"3","text":"LORD, how long will the wicked,"},{"book":"Psalms","chapter":"94","verse":"4","text":"They pour out arrogant words."},{"book":"Psalms","chapter":"94","verse":"5","text":"They break your people in pieces, LORD,"},{"book":"Psalms","chapter":"94","verse":"6","text":"They kill the widow and the alien,"},{"book":"Psalms","chapter":"94","verse":"7","text":"They say, “The LORD will not see,"},{"book":"Psalms","chapter":"94","verse":"8","text":"Consider, you senseless among the people;"},{"book":"Psalms","chapter":"94","verse":"9","text":"He who implanted the ear, won’t he hear?"},{"book":"Psalms","chapter":"94","verse":"10","text":"He who disciplines the nations, won’t he punish?"},{"book":"Psalms","chapter":"94","verse":"11","text":"The LORD knows the thoughts of man,"},{"book":"Psalms","chapter":"94","verse":"12","text":"Blessed is the man whom you discipline, LORD,"},{"book":"Psalms","chapter":"94","verse":"13","text":"that you may give him rest from the days of adversity,"},{"book":"Psalms","chapter":"94","verse":"14","text":"For the LORD won’t reject his people,"},{"book":"Psalms","chapter":"94","verse":"15","text":"For judgment will return to righteousness."},{"book":"Psalms","chapter":"94","verse":"16","text":"Who will rise up for me against the wicked?"},{"book":"Psalms","chapter":"94","verse":"17","text":"Unless the LORD had been my help,"},{"book":"Psalms","chapter":"94","verse":"18","text":"When I said, “My foot is slipping!”"},{"book":"Psalms","chapter":"94","verse":"19","text":"In the multitude of my thoughts within me,"},{"book":"Psalms","chapter":"94","verse":"20","text":"Shall the throne of wickedness have fellowship with you,"},{"book":"Psalms","chapter":"94","verse":"21","text":"They gather themselves together against the soul of the righteous,"},{"book":"Psalms","chapter":"94","verse":"22","text":"But the LORD has been my high tower,"},{"book":"Psalms","chapter":"94","verse":"23","text":"He has brought on them their own iniquity,"}]}
+[
+  {
+    "id": 27906,
+    "book": "psalms                                  ",
+    "chapter": "94",
+    "verse": "1",
+    "text": "LORD, you God to whom vengeance belongs,"
+  },
+  {
+    "id": 27907,
+    "book": "psalms                                  ",
+    "chapter": "94",
+    "verse": "2",
+    "text": "Rise up, you judge of the earth."
+  },
+  {
+    "id": 27908,
+    "book": "psalms                                  ",
+    "chapter": "94",
+    "verse": "3",
+    "text": "LORD, how long will the wicked,"
+  },
+  {
+    "id": 27909,
+    "book": "psalms                                  ",
+    "chapter": "94",
+    "verse": "4",
+    "text": "They pour out arrogant words."
+  },
+  {
+    "id": 27910,
+    "book": "psalms                                  ",
+    "chapter": "94",
+    "verse": "5",
+    "text": "They break your people in pieces, LORD,"
+  },
+  {
+    "id": 27911,
+    "book": "psalms                                  ",
+    "chapter": "94",
+    "verse": "6",
+    "text": "They kill the widow and the alien,"
+  },
+  {
+    "id": 27912,
+    "book": "psalms                                  ",
+    "chapter": "94",
+    "verse": "7",
+    "text": "They say, “The LORD will not see,"
+  },
+  {
+    "id": 27913,
+    "book": "psalms                                  ",
+    "chapter": "94",
+    "verse": "8",
+    "text": "Consider, you senseless among the people;"
+  },
+  {
+    "id": 27914,
+    "book": "psalms                                  ",
+    "chapter": "94",
+    "verse": "9",
+    "text": "He who implanted the ear, won’t he hear?"
+  },
+  {
+    "id": 27915,
+    "book": "psalms                                  ",
+    "chapter": "94",
+    "verse": "10",
+    "text": "He who disciplines the nations, won’t he punish?"
+  },
+  {
+    "id": 27916,
+    "book": "psalms                                  ",
+    "chapter": "94",
+    "verse": "11",
+    "text": "The LORD knows the thoughts of man,"
+  },
+  {
+    "id": 27917,
+    "book": "psalms                                  ",
+    "chapter": "94",
+    "verse": "12",
+    "text": "Blessed is the man whom you discipline, LORD,"
+  },
+  {
+    "id": 27918,
+    "book": "psalms                                  ",
+    "chapter": "94",
+    "verse": "13",
+    "text": "that you may give him rest from the days of adversity,"
+  },
+  {
+    "id": 27919,
+    "book": "psalms                                  ",
+    "chapter": "94",
+    "verse": "14",
+    "text": "For the LORD won’t reject his people,"
+  },
+  {
+    "id": 27920,
+    "book": "psalms                                  ",
+    "chapter": "94",
+    "verse": "15",
+    "text": "For judgment will return to righteousness."
+  },
+  {
+    "id": 27921,
+    "book": "psalms                                  ",
+    "chapter": "94",
+    "verse": "16",
+    "text": "Who will rise up for me against the wicked?"
+  },
+  {
+    "id": 27922,
+    "book": "psalms                                  ",
+    "chapter": "94",
+    "verse": "17",
+    "text": "Unless the LORD had been my help,"
+  },
+  {
+    "id": 27923,
+    "book": "psalms                                  ",
+    "chapter": "94",
+    "verse": "18",
+    "text": "When I said, “My foot is slipping!”"
+  },
+  {
+    "id": 27924,
+    "book": "psalms                                  ",
+    "chapter": "94",
+    "verse": "19",
+    "text": "In the multitude of my thoughts within me,"
+  },
+  {
+    "id": 27925,
+    "book": "psalms                                  ",
+    "chapter": "94",
+    "verse": "20",
+    "text": "Shall the throne of wickedness have fellowship with you,"
+  },
+  {
+    "id": 27926,
+    "book": "psalms                                  ",
+    "chapter": "94",
+    "verse": "21",
+    "text": "They gather themselves together against the soul of the righteous,"
+  },
+  {
+    "id": 27927,
+    "book": "psalms                                  ",
+    "chapter": "94",
+    "verse": "22",
+    "text": "But the LORD has been my high tower,"
+  },
+  {
+    "id": 27928,
+    "book": "psalms                                  ",
+    "chapter": "94",
+    "verse": "23",
+    "text": "He has brought on them their own iniquity,"
+  }
+]

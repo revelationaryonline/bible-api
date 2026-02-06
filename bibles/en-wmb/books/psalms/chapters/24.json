@@ -1,1 +1,72 @@
-{"data":[{"book":"Psalms","chapter":"24","verse":"1","text":"The earth is the LORD’s, with its fullness;"},{"book":"Psalms","chapter":"24","verse":"2","text":"For he has founded it on the seas,"},{"book":"Psalms","chapter":"24","verse":"3","text":"Who may ascend to the LORD’s hill?"},{"book":"Psalms","chapter":"24","verse":"4","text":"He who has clean hands and a pure heart;"},{"book":"Psalms","chapter":"24","verse":"5","text":"He shall receive a blessing from the LORD,"},{"book":"Psalms","chapter":"24","verse":"6","text":"This is the generation of those who seek Him,"},{"book":"Psalms","chapter":"24","verse":"7","text":"Lift up your heads, you gates!"},{"book":"Psalms","chapter":"24","verse":"8","text":"Who is the King of glory?"},{"book":"Psalms","chapter":"24","verse":"9","text":"Lift up your heads, you gates;"},{"book":"Psalms","chapter":"24","verse":"10","text":"Who is this King of glory?"}]}
+[
+  {
+    "id": 26716,
+    "book": "psalms                                  ",
+    "chapter": "24",
+    "verse": "1",
+    "text": "The earth is the LORD’s, with its fullness;"
+  },
+  {
+    "id": 26717,
+    "book": "psalms                                  ",
+    "chapter": "24",
+    "verse": "2",
+    "text": "For he has founded it on the seas,"
+  },
+  {
+    "id": 26718,
+    "book": "psalms                                  ",
+    "chapter": "24",
+    "verse": "3",
+    "text": "Who may ascend to the LORD’s hill?"
+  },
+  {
+    "id": 26719,
+    "book": "psalms                                  ",
+    "chapter": "24",
+    "verse": "4",
+    "text": "He who has clean hands and a pure heart;"
+  },
+  {
+    "id": 26720,
+    "book": "psalms                                  ",
+    "chapter": "24",
+    "verse": "5",
+    "text": "He shall receive a blessing from the LORD,"
+  },
+  {
+    "id": 26721,
+    "book": "psalms                                  ",
+    "chapter": "24",
+    "verse": "6",
+    "text": "This is the generation of those who seek Him,"
+  },
+  {
+    "id": 26722,
+    "book": "psalms                                  ",
+    "chapter": "24",
+    "verse": "7",
+    "text": "Lift up your heads, you gates!"
+  },
+  {
+    "id": 26723,
+    "book": "psalms                                  ",
+    "chapter": "24",
+    "verse": "8",
+    "text": "Who is the King of glory?"
+  },
+  {
+    "id": 26724,
+    "book": "psalms                                  ",
+    "chapter": "24",
+    "verse": "9",
+    "text": "Lift up your heads, you gates;"
+  },
+  {
+    "id": 26725,
+    "book": "psalms                                  ",
+    "chapter": "24",
+    "verse": "10",
+    "text": "Who is this King of glory?"
+  }
+]

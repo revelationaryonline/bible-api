@@ -1,1 +1,93 @@
-{"data":[{"book":"Psalms","chapter":"65","verse":"1","text":"Praise waits for you, God, in Zion."},{"book":"Psalms","chapter":"65","verse":"2","text":"You who hear prayer,"},{"book":"Psalms","chapter":"65","verse":"3","text":"Sins overwhelmed me,"},{"book":"Psalms","chapter":"65","verse":"4","text":"Blessed is the one whom you choose and cause to come near,"},{"book":"Psalms","chapter":"65","verse":"5","text":"By awesome deeds of righteousness, you answer us,"},{"book":"Psalms","chapter":"65","verse":"6","text":"By your power, you form the mountains,"},{"book":"Psalms","chapter":"65","verse":"7","text":"You still the roaring of the seas,"},{"book":"Psalms","chapter":"65","verse":"8","text":"They also who dwell in faraway places are afraid at your wonders."},{"book":"Psalms","chapter":"65","verse":"9","text":"You visit the earth, and water it."},{"book":"Psalms","chapter":"65","verse":"10","text":"You drench its furrows."},{"book":"Psalms","chapter":"65","verse":"11","text":"You crown the year with your bounty."},{"book":"Psalms","chapter":"65","verse":"12","text":"The wilderness grasslands overflow."},{"book":"Psalms","chapter":"65","verse":"13","text":"The pastures are covered with flocks."}]}
+[
+  {
+    "id": 27335,
+    "book": "psalms                                  ",
+    "chapter": "65",
+    "verse": "1",
+    "text": "Praise waits for you, God, in Zion."
+  },
+  {
+    "id": 27336,
+    "book": "psalms                                  ",
+    "chapter": "65",
+    "verse": "2",
+    "text": "You who hear prayer,"
+  },
+  {
+    "id": 27337,
+    "book": "psalms                                  ",
+    "chapter": "65",
+    "verse": "3",
+    "text": "Sins overwhelmed me,"
+  },
+  {
+    "id": 27338,
+    "book": "psalms                                  ",
+    "chapter": "65",
+    "verse": "4",
+    "text": "Blessed is the one whom you choose and cause to come near,"
+  },
+  {
+    "id": 27339,
+    "book": "psalms                                  ",
+    "chapter": "65",
+    "verse": "5",
+    "text": "By awesome deeds of righteousness, you answer us,"
+  },
+  {
+    "id": 27340,
+    "book": "psalms                                  ",
+    "chapter": "65",
+    "verse": "6",
+    "text": "By your power, you form the mountains,"
+  },
+  {
+    "id": 27341,
+    "book": "psalms                                  ",
+    "chapter": "65",
+    "verse": "7",
+    "text": "You still the roaring of the seas,"
+  },
+  {
+    "id": 27342,
+    "book": "psalms                                  ",
+    "chapter": "65",
+    "verse": "8",
+    "text": "They also who dwell in faraway places are afraid at your wonders."
+  },
+  {
+    "id": 27343,
+    "book": "psalms                                  ",
+    "chapter": "65",
+    "verse": "9",
+    "text": "You visit the earth, and water it."
+  },
+  {
+    "id": 27344,
+    "book": "psalms                                  ",
+    "chapter": "65",
+    "verse": "10",
+    "text": "You drench its furrows."
+  },
+  {
+    "id": 27345,
+    "book": "psalms                                  ",
+    "chapter": "65",
+    "verse": "11",
+    "text": "You crown the year with your bounty."
+  },
+  {
+    "id": 27346,
+    "book": "psalms                                  ",
+    "chapter": "65",
+    "verse": "12",
+    "text": "The wilderness grasslands overflow."
+  },
+  {
+    "id": 27347,
+    "book": "psalms                                  ",
+    "chapter": "65",
+    "verse": "13",
+    "text": "The pastures are covered with flocks."
+  }
+]

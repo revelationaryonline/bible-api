@@ -1,1 +1,58 @@
-{"data":[{"book":"Psalms","chapter":"3","verse":"1","text":"LORD, how my adversaries have increased!"},{"book":"Psalms","chapter":"3","verse":"2","text":"Many there are who say of my soul,"},{"book":"Psalms","chapter":"3","verse":"3","text":"But you, LORD, are a shield around me,"},{"book":"Psalms","chapter":"3","verse":"4","text":"I cry to the LORD with my voice,"},{"book":"Psalms","chapter":"3","verse":"5","text":"I laid myself down and slept."},{"book":"Psalms","chapter":"3","verse":"6","text":"I will not be afraid of tens of thousands of people"},{"book":"Psalms","chapter":"3","verse":"7","text":"Arise, LORD!"},{"book":"Psalms","chapter":"3","verse":"8","text":"Salvation belongs to the LORD."}]}
+[
+  {
+    "id": 26432,
+    "book": "psalms                                  ",
+    "chapter": "3",
+    "verse": "1",
+    "text": "LORD, how my adversaries have increased!"
+  },
+  {
+    "id": 26433,
+    "book": "psalms                                  ",
+    "chapter": "3",
+    "verse": "2",
+    "text": "Many there are who say of my soul,"
+  },
+  {
+    "id": 26434,
+    "book": "psalms                                  ",
+    "chapter": "3",
+    "verse": "3",
+    "text": "But you, LORD, are a shield around me,"
+  },
+  {
+    "id": 26435,
+    "book": "psalms                                  ",
+    "chapter": "3",
+    "verse": "4",
+    "text": "I cry to the LORD with my voice,"
+  },
+  {
+    "id": 26436,
+    "book": "psalms                                  ",
+    "chapter": "3",
+    "verse": "5",
+    "text": "I laid myself down and slept."
+  },
+  {
+    "id": 26437,
+    "book": "psalms                                  ",
+    "chapter": "3",
+    "verse": "6",
+    "text": "I will not be afraid of tens of thousands of people"
+  },
+  {
+    "id": 26438,
+    "book": "psalms                                  ",
+    "chapter": "3",
+    "verse": "7",
+    "text": "Arise, LORD!"
+  },
+  {
+    "id": 26439,
+    "book": "psalms                                  ",
+    "chapter": "3",
+    "verse": "8",
+    "text": "Salvation belongs to the LORD."
+  }
+]

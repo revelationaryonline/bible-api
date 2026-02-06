@@ -1,1 +1,156 @@
-{"data":[{"book":"Psalms","chapter":"34","verse":"1","text":"I will bless the LORD at all times."},{"book":"Psalms","chapter":"34","verse":"2","text":"My soul shall boast in the LORD."},{"book":"Psalms","chapter":"34","verse":"3","text":"Oh magnify the LORD with me."},{"book":"Psalms","chapter":"34","verse":"4","text":"I sought the LORD, and he answered me,"},{"book":"Psalms","chapter":"34","verse":"5","text":"They looked to him, and were radiant."},{"book":"Psalms","chapter":"34","verse":"6","text":"This poor man cried, and the LORD heard him,"},{"book":"Psalms","chapter":"34","verse":"7","text":"The LORD’s angel encamps around those who fear him,"},{"book":"Psalms","chapter":"34","verse":"8","text":"Oh taste and see that the LORD is good."},{"book":"Psalms","chapter":"34","verse":"9","text":"Oh fear the LORD, you his holy ones,"},{"book":"Psalms","chapter":"34","verse":"10","text":"The young lions do lack, and suffer hunger,"},{"book":"Psalms","chapter":"34","verse":"11","text":"Come, you children, listen to me."},{"book":"Psalms","chapter":"34","verse":"12","text":"Who is someone who desires life,"},{"book":"Psalms","chapter":"34","verse":"13","text":"Keep your tongue from evil,"},{"book":"Psalms","chapter":"34","verse":"14","text":"Depart from evil, and do good."},{"book":"Psalms","chapter":"34","verse":"15","text":"The LORD’s eyes are toward the righteous."},{"book":"Psalms","chapter":"34","verse":"16","text":"The LORD’s face is against those who do evil,"},{"book":"Psalms","chapter":"34","verse":"17","text":"The righteous cry, and the LORD hears,"},{"book":"Psalms","chapter":"34","verse":"18","text":"The LORD is near to those who have a broken heart,"},{"book":"Psalms","chapter":"34","verse":"19","text":"Many are the afflictions of the righteous,"},{"book":"Psalms","chapter":"34","verse":"20","text":"He protects all of his bones."},{"book":"Psalms","chapter":"34","verse":"21","text":"Evil shall kill the wicked."},{"book":"Psalms","chapter":"34","verse":"22","text":"The LORD redeems the soul of his servants."}]}
+[
+  {
+    "id": 26863,
+    "book": "psalms                                  ",
+    "chapter": "34",
+    "verse": "1",
+    "text": "I will bless the LORD at all times."
+  },
+  {
+    "id": 26864,
+    "book": "psalms                                  ",
+    "chapter": "34",
+    "verse": "2",
+    "text": "My soul shall boast in the LORD."
+  },
+  {
+    "id": 26865,
+    "book": "psalms                                  ",
+    "chapter": "34",
+    "verse": "3",
+    "text": "Oh magnify the LORD with me."
+  },
+  {
+    "id": 26866,
+    "book": "psalms                                  ",
+    "chapter": "34",
+    "verse": "4",
+    "text": "I sought the LORD, and he answered me,"
+  },
+  {
+    "id": 26867,
+    "book": "psalms                                  ",
+    "chapter": "34",
+    "verse": "5",
+    "text": "They looked to him, and were radiant."
+  },
+  {
+    "id": 26868,
+    "book": "psalms                                  ",
+    "chapter": "34",
+    "verse": "6",
+    "text": "This poor man cried, and the LORD heard him,"
+  },
+  {
+    "id": 26869,
+    "book": "psalms                                  ",
+    "chapter": "34",
+    "verse": "7",
+    "text": "The LORD’s angel encamps around those who fear him,"
+  },
+  {
+    "id": 26870,
+    "book": "psalms                                  ",
+    "chapter": "34",
+    "verse": "8",
+    "text": "Oh taste and see that the LORD is good."
+  },
+  {
+    "id": 26871,
+    "book": "psalms                                  ",
+    "chapter": "34",
+    "verse": "9",
+    "text": "Oh fear the LORD, you his holy ones,"
+  },
+  {
+    "id": 26872,
+    "book": "psalms                                  ",
+    "chapter": "34",
+    "verse": "10",
+    "text": "The young lions do lack, and suffer hunger,"
+  },
+  {
+    "id": 26873,
+    "book": "psalms                                  ",
+    "chapter": "34",
+    "verse": "11",
+    "text": "Come, you children, listen to me."
+  },
+  {
+    "id": 26874,
+    "book": "psalms                                  ",
+    "chapter": "34",
+    "verse": "12",
+    "text": "Who is someone who desires life,"
+  },
+  {
+    "id": 26875,
+    "book": "psalms                                  ",
+    "chapter": "34",
+    "verse": "13",
+    "text": "Keep your tongue from evil,"
+  },
+  {
+    "id": 26876,
+    "book": "psalms                                  ",
+    "chapter": "34",
+    "verse": "14",
+    "text": "Depart from evil, and do good."
+  },
+  {
+    "id": 26877,
+    "book": "psalms                                  ",
+    "chapter": "34",
+    "verse": "15",
+    "text": "The LORD’s eyes are toward the righteous."
+  },
+  {
+    "id": 26878,
+    "book": "psalms                                  ",
+    "chapter": "34",
+    "verse": "16",
+    "text": "The LORD’s face is against those who do evil,"
+  },
+  {
+    "id": 26879,
+    "book": "psalms                                  ",
+    "chapter": "34",
+    "verse": "17",
+    "text": "The righteous cry, and the LORD hears,"
+  },
+  {
+    "id": 26880,
+    "book": "psalms                                  ",
+    "chapter": "34",
+    "verse": "18",
+    "text": "The LORD is near to those who have a broken heart,"
+  },
+  {
+    "id": 26881,
+    "book": "psalms                                  ",
+    "chapter": "34",
+    "verse": "19",
+    "text": "Many are the afflictions of the righteous,"
+  },
+  {
+    "id": 26882,
+    "book": "psalms                                  ",
+    "chapter": "34",
+    "verse": "20",
+    "text": "He protects all of his bones."
+  },
+  {
+    "id": 26883,
+    "book": "psalms                                  ",
+    "chapter": "34",
+    "verse": "21",
+    "text": "Evil shall kill the wicked."
+  },
+  {
+    "id": 26884,
+    "book": "psalms                                  ",
+    "chapter": "34",
+    "verse": "22",
+    "text": "The LORD redeems the soul of his servants."
+  }
+]

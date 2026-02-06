@@ -1,1 +1,100 @@
-{"data":[{"book":"Psalms","chapter":"27","verse":"1","text":"The LORD is my light and my salvation."},{"book":"Psalms","chapter":"27","verse":"2","text":"When evildoers came at me to eat up my flesh,"},{"book":"Psalms","chapter":"27","verse":"3","text":"Though an army should encamp against me,"},{"book":"Psalms","chapter":"27","verse":"4","text":"One thing I have asked of the LORD, that I will seek after:"},{"book":"Psalms","chapter":"27","verse":"5","text":"For in the day of trouble, he will keep me secretly in his pavilion."},{"book":"Psalms","chapter":"27","verse":"6","text":"Now my head will be lifted up above my enemies around me."},{"book":"Psalms","chapter":"27","verse":"7","text":"Hear, LORD, when I cry with my voice."},{"book":"Psalms","chapter":"27","verse":"8","text":"When you said, “Seek my face,”"},{"book":"Psalms","chapter":"27","verse":"9","text":"Don’t hide your face from me."},{"book":"Psalms","chapter":"27","verse":"10","text":"When my father and my mother forsake me,"},{"book":"Psalms","chapter":"27","verse":"11","text":"Teach me your way, LORD."},{"book":"Psalms","chapter":"27","verse":"12","text":"Don’t deliver me over to the desire of my adversaries,"},{"book":"Psalms","chapter":"27","verse":"13","text":"I am still confident of this:"},{"book":"Psalms","chapter":"27","verse":"14","text":"Wait for the LORD."}]}
+[
+  {
+    "id": 26760,
+    "book": "psalms                                  ",
+    "chapter": "27",
+    "verse": "1",
+    "text": "The LORD is my light and my salvation."
+  },
+  {
+    "id": 26761,
+    "book": "psalms                                  ",
+    "chapter": "27",
+    "verse": "2",
+    "text": "When evildoers came at me to eat up my flesh,"
+  },
+  {
+    "id": 26762,
+    "book": "psalms                                  ",
+    "chapter": "27",
+    "verse": "3",
+    "text": "Though an army should encamp against me,"
+  },
+  {
+    "id": 26763,
+    "book": "psalms                                  ",
+    "chapter": "27",
+    "verse": "4",
+    "text": "One thing I have asked of the LORD, that I will seek after:"
+  },
+  {
+    "id": 26764,
+    "book": "psalms                                  ",
+    "chapter": "27",
+    "verse": "5",
+    "text": "For in the day of trouble, he will keep me secretly in his pavilion."
+  },
+  {
+    "id": 26765,
+    "book": "psalms                                  ",
+    "chapter": "27",
+    "verse": "6",
+    "text": "Now my head will be lifted up above my enemies around me."
+  },
+  {
+    "id": 26766,
+    "book": "psalms                                  ",
+    "chapter": "27",
+    "verse": "7",
+    "text": "Hear, LORD, when I cry with my voice."
+  },
+  {
+    "id": 26767,
+    "book": "psalms                                  ",
+    "chapter": "27",
+    "verse": "8",
+    "text": "When you said, “Seek my face,”"
+  },
+  {
+    "id": 26768,
+    "book": "psalms                                  ",
+    "chapter": "27",
+    "verse": "9",
+    "text": "Don’t hide your face from me."
+  },
+  {
+    "id": 26769,
+    "book": "psalms                                  ",
+    "chapter": "27",
+    "verse": "10",
+    "text": "When my father and my mother forsake me,"
+  },
+  {
+    "id": 26770,
+    "book": "psalms                                  ",
+    "chapter": "27",
+    "verse": "11",
+    "text": "Teach me your way, LORD."
+  },
+  {
+    "id": 26771,
+    "book": "psalms                                  ",
+    "chapter": "27",
+    "verse": "12",
+    "text": "Don’t deliver me over to the desire of my adversaries,"
+  },
+  {
+    "id": 26772,
+    "book": "psalms                                  ",
+    "chapter": "27",
+    "verse": "13",
+    "text": "I am still confident of this:"
+  },
+  {
+    "id": 26773,
+    "book": "psalms                                  ",
+    "chapter": "27",
+    "verse": "14",
+    "text": "Wait for the LORD."
+  }
+]

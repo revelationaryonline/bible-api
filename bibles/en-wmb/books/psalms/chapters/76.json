@@ -1,1 +1,86 @@
-{"data":[{"book":"Psalms","chapter":"76","verse":"1","text":"In Judah, God is known."},{"book":"Psalms","chapter":"76","verse":"2","text":"His tabernacle is also in Salem."},{"book":"Psalms","chapter":"76","verse":"3","text":"There he broke the flaming arrows of the bow,"},{"book":"Psalms","chapter":"76","verse":"4","text":"Glorious are you, and excellent,"},{"book":"Psalms","chapter":"76","verse":"5","text":"Valiant men lie plundered,"},{"book":"Psalms","chapter":"76","verse":"6","text":"At your rebuke, God of Jacob,"},{"book":"Psalms","chapter":"76","verse":"7","text":"You, even you, are to be feared."},{"book":"Psalms","chapter":"76","verse":"8","text":"You pronounced judgment from heaven."},{"book":"Psalms","chapter":"76","verse":"9","text":"when God arose to judgment,"},{"book":"Psalms","chapter":"76","verse":"10","text":"Surely the wrath of man praises you."},{"book":"Psalms","chapter":"76","verse":"11","text":"Make vows to the LORD your God, and fulfill them!"},{"book":"Psalms","chapter":"76","verse":"12","text":"He will cut off the spirit of princes."}]}
+[
+  {
+    "id": 27556,
+    "book": "psalms                                  ",
+    "chapter": "76",
+    "verse": "1",
+    "text": "In Judah, God is known."
+  },
+  {
+    "id": 27557,
+    "book": "psalms                                  ",
+    "chapter": "76",
+    "verse": "2",
+    "text": "His tabernacle is also in Salem."
+  },
+  {
+    "id": 27558,
+    "book": "psalms                                  ",
+    "chapter": "76",
+    "verse": "3",
+    "text": "There he broke the flaming arrows of the bow,"
+  },
+  {
+    "id": 27559,
+    "book": "psalms                                  ",
+    "chapter": "76",
+    "verse": "4",
+    "text": "Glorious are you, and excellent,"
+  },
+  {
+    "id": 27560,
+    "book": "psalms                                  ",
+    "chapter": "76",
+    "verse": "5",
+    "text": "Valiant men lie plundered,"
+  },
+  {
+    "id": 27561,
+    "book": "psalms                                  ",
+    "chapter": "76",
+    "verse": "6",
+    "text": "At your rebuke, God of Jacob,"
+  },
+  {
+    "id": 27562,
+    "book": "psalms                                  ",
+    "chapter": "76",
+    "verse": "7",
+    "text": "You, even you, are to be feared."
+  },
+  {
+    "id": 27563,
+    "book": "psalms                                  ",
+    "chapter": "76",
+    "verse": "8",
+    "text": "You pronounced judgment from heaven."
+  },
+  {
+    "id": 27564,
+    "book": "psalms                                  ",
+    "chapter": "76",
+    "verse": "9",
+    "text": "when God arose to judgment,"
+  },
+  {
+    "id": 27565,
+    "book": "psalms                                  ",
+    "chapter": "76",
+    "verse": "10",
+    "text": "Surely the wrath of man praises you."
+  },
+  {
+    "id": 27566,
+    "book": "psalms                                  ",
+    "chapter": "76",
+    "verse": "11",
+    "text": "Make vows to the LORD your God, and fulfill them!"
+  },
+  {
+    "id": 27567,
+    "book": "psalms                                  ",
+    "chapter": "76",
+    "verse": "12",
+    "text": "He will cut off the spirit of princes."
+  }
+]

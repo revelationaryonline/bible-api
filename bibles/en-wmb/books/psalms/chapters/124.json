@@ -1,1 +1,58 @@
-{"data":[{"book":"Psalms","chapter":"124","verse":"1","text":"If it had not been the LORD who was on our side,"},{"book":"Psalms","chapter":"124","verse":"2","text":"if it had not been the LORD who was on our side,"},{"book":"Psalms","chapter":"124","verse":"3","text":"then they would have swallowed us up alive,"},{"book":"Psalms","chapter":"124","verse":"4","text":"then the waters would have overwhelmed us,"},{"book":"Psalms","chapter":"124","verse":"5","text":"Then the proud waters would have gone over our soul."},{"book":"Psalms","chapter":"124","verse":"6","text":"Blessed be the LORD,"},{"book":"Psalms","chapter":"124","verse":"7","text":"Our soul has escaped like a bird out of the fowler’s snare."},{"book":"Psalms","chapter":"124","verse":"8","text":"Our help is in the LORD’s name,"}]}
+[
+  {
+    "id": 28577,
+    "book": "psalms                                  ",
+    "chapter": "124",
+    "verse": "1",
+    "text": "If it had not been the LORD who was on our side,"
+  },
+  {
+    "id": 28578,
+    "book": "psalms                                  ",
+    "chapter": "124",
+    "verse": "2",
+    "text": "if it had not been the LORD who was on our side,"
+  },
+  {
+    "id": 28579,
+    "book": "psalms                                  ",
+    "chapter": "124",
+    "verse": "3",
+    "text": "then they would have swallowed us up alive,"
+  },
+  {
+    "id": 28580,
+    "book": "psalms                                  ",
+    "chapter": "124",
+    "verse": "4",
+    "text": "then the waters would have overwhelmed us,"
+  },
+  {
+    "id": 28581,
+    "book": "psalms                                  ",
+    "chapter": "124",
+    "verse": "5",
+    "text": "Then the proud waters would have gone over our soul."
+  },
+  {
+    "id": 28582,
+    "book": "psalms                                  ",
+    "chapter": "124",
+    "verse": "6",
+    "text": "Blessed be the LORD,"
+  },
+  {
+    "id": 28583,
+    "book": "psalms                                  ",
+    "chapter": "124",
+    "verse": "7",
+    "text": "Our soul has escaped like a bird out of the fowler’s snare."
+  },
+  {
+    "id": 28584,
+    "book": "psalms                                  ",
+    "chapter": "124",
+    "verse": "8",
+    "text": "Our help is in the LORD’s name,"
+  }
+]

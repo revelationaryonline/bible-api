@@ -1,1 +1,65 @@
-{"data":[{"book":"Psalms","chapter":"149","verse":"1","text":"Praise the LORD!"},{"book":"Psalms","chapter":"149","verse":"2","text":"Let Israel rejoice in him who made them."},{"book":"Psalms","chapter":"149","verse":"3","text":"Let them praise his name in the dance!"},{"book":"Psalms","chapter":"149","verse":"4","text":"For the LORD takes pleasure in his people."},{"book":"Psalms","chapter":"149","verse":"5","text":"Let the holy ones rejoice in honor."},{"book":"Psalms","chapter":"149","verse":"6","text":"May the high praises of God be in their mouths,"},{"book":"Psalms","chapter":"149","verse":"7","text":"to execute vengeance on the nations,"},{"book":"Psalms","chapter":"149","verse":"8","text":"to bind their kings with chains,"},{"book":"Psalms","chapter":"149","verse":"9","text":"to execute on them the written judgment."}]}
+[
+  {
+    "id": 28860,
+    "book": "psalms                                  ",
+    "chapter": "149",
+    "verse": "1",
+    "text": "Praise the LORD!"
+  },
+  {
+    "id": 28861,
+    "book": "psalms                                  ",
+    "chapter": "149",
+    "verse": "2",
+    "text": "Let Israel rejoice in him who made them."
+  },
+  {
+    "id": 28862,
+    "book": "psalms                                  ",
+    "chapter": "149",
+    "verse": "3",
+    "text": "Let them praise his name in the dance!"
+  },
+  {
+    "id": 28863,
+    "book": "psalms                                  ",
+    "chapter": "149",
+    "verse": "4",
+    "text": "For the LORD takes pleasure in his people."
+  },
+  {
+    "id": 28864,
+    "book": "psalms                                  ",
+    "chapter": "149",
+    "verse": "5",
+    "text": "Let the holy ones rejoice in honor."
+  },
+  {
+    "id": 28865,
+    "book": "psalms                                  ",
+    "chapter": "149",
+    "verse": "6",
+    "text": "May the high praises of God be in their mouths,"
+  },
+  {
+    "id": 28866,
+    "book": "psalms                                  ",
+    "chapter": "149",
+    "verse": "7",
+    "text": "to execute vengeance on the nations,"
+  },
+  {
+    "id": 28867,
+    "book": "psalms                                  ",
+    "chapter": "149",
+    "verse": "8",
+    "text": "to bind their kings with chains,"
+  },
+  {
+    "id": 28868,
+    "book": "psalms                                  ",
+    "chapter": "149",
+    "verse": "9",
+    "text": "to execute on them the written judgment."
+  }
+]

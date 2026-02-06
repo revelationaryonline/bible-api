@@ -1,1 +1,65 @@
-{"data":[{"book":"Psalms","chapter":"47","verse":"1","text":"Oh clap your hands, all you nations."},{"book":"Psalms","chapter":"47","verse":"2","text":"For the LORD Most High is awesome."},{"book":"Psalms","chapter":"47","verse":"3","text":"He subdues nations under us,"},{"book":"Psalms","chapter":"47","verse":"4","text":"He chooses our inheritance for us,"},{"book":"Psalms","chapter":"47","verse":"5","text":"God has gone up with a shout,"},{"book":"Psalms","chapter":"47","verse":"6","text":"Sing praises to God! Sing praises!"},{"book":"Psalms","chapter":"47","verse":"7","text":"For God is the King of all the earth."},{"book":"Psalms","chapter":"47","verse":"8","text":"God reigns over the nations."},{"book":"Psalms","chapter":"47","verse":"9","text":"The princes of the peoples are gathered together,"}]}
+[
+  {
+    "id": 27100,
+    "book": "psalms                                  ",
+    "chapter": "47",
+    "verse": "1",
+    "text": "Oh clap your hands, all you nations."
+  },
+  {
+    "id": 27101,
+    "book": "psalms                                  ",
+    "chapter": "47",
+    "verse": "2",
+    "text": "For the LORD Most High is awesome."
+  },
+  {
+    "id": 27102,
+    "book": "psalms                                  ",
+    "chapter": "47",
+    "verse": "3",
+    "text": "He subdues nations under us,"
+  },
+  {
+    "id": 27103,
+    "book": "psalms                                  ",
+    "chapter": "47",
+    "verse": "4",
+    "text": "He chooses our inheritance for us,"
+  },
+  {
+    "id": 27104,
+    "book": "psalms                                  ",
+    "chapter": "47",
+    "verse": "5",
+    "text": "God has gone up with a shout,"
+  },
+  {
+    "id": 27105,
+    "book": "psalms                                  ",
+    "chapter": "47",
+    "verse": "6",
+    "text": "Sing praises to God! Sing praises!"
+  },
+  {
+    "id": 27106,
+    "book": "psalms                                  ",
+    "chapter": "47",
+    "verse": "7",
+    "text": "For God is the King of all the earth."
+  },
+  {
+    "id": 27107,
+    "book": "psalms                                  ",
+    "chapter": "47",
+    "verse": "8",
+    "text": "God reigns over the nations."
+  },
+  {
+    "id": 27108,
+    "book": "psalms                                  ",
+    "chapter": "47",
+    "verse": "9",
+    "text": "The princes of the peoples are gathered together,"
+  }
+]

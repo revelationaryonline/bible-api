@@ -1,1 +1,65 @@
-{"data":[{"book":"Psalms","chapter":"28","verse":"1","text":"To you, LORD, I call."},{"book":"Psalms","chapter":"28","verse":"2","text":"Hear the voice of my petitions, when I cry to you,"},{"book":"Psalms","chapter":"28","verse":"3","text":"Don’t draw me away with the wicked,"},{"book":"Psalms","chapter":"28","verse":"4","text":"Give them according to their work, and according to the wickedness of their doings."},{"book":"Psalms","chapter":"28","verse":"5","text":"Because they don’t respect the works of the LORD,"},{"book":"Psalms","chapter":"28","verse":"6","text":"Blessed be the LORD,"},{"book":"Psalms","chapter":"28","verse":"7","text":"The LORD is my strength and my shield."},{"book":"Psalms","chapter":"28","verse":"8","text":"The LORD is their strength."},{"book":"Psalms","chapter":"28","verse":"9","text":"Save your people,"}]}
+[
+  {
+    "id": 26774,
+    "book": "psalms                                  ",
+    "chapter": "28",
+    "verse": "1",
+    "text": "To you, LORD, I call."
+  },
+  {
+    "id": 26775,
+    "book": "psalms                                  ",
+    "chapter": "28",
+    "verse": "2",
+    "text": "Hear the voice of my petitions, when I cry to you,"
+  },
+  {
+    "id": 26776,
+    "book": "psalms                                  ",
+    "chapter": "28",
+    "verse": "3",
+    "text": "Don’t draw me away with the wicked,"
+  },
+  {
+    "id": 26777,
+    "book": "psalms                                  ",
+    "chapter": "28",
+    "verse": "4",
+    "text": "Give them according to their work, and according to the wickedness of their doings."
+  },
+  {
+    "id": 26778,
+    "book": "psalms                                  ",
+    "chapter": "28",
+    "verse": "5",
+    "text": "Because they don’t respect the works of the LORD,"
+  },
+  {
+    "id": 26779,
+    "book": "psalms                                  ",
+    "chapter": "28",
+    "verse": "6",
+    "text": "Blessed be the LORD,"
+  },
+  {
+    "id": 26780,
+    "book": "psalms                                  ",
+    "chapter": "28",
+    "verse": "7",
+    "text": "The LORD is my strength and my shield."
+  },
+  {
+    "id": 26781,
+    "book": "psalms                                  ",
+    "chapter": "28",
+    "verse": "8",
+    "text": "The LORD is their strength."
+  },
+  {
+    "id": 26782,
+    "book": "psalms                                  ",
+    "chapter": "28",
+    "verse": "9",
+    "text": "Save your people,"
+  }
+]

@@ -1,1 +1,107 @@
-{"data":[{"book":"Psalms","chapter":"17","verse":"1","text":"Hear, LORD, my righteous plea."},{"book":"Psalms","chapter":"17","verse":"2","text":"Let my sentence come out of your presence."},{"book":"Psalms","chapter":"17","verse":"3","text":"You have proved my heart."},{"book":"Psalms","chapter":"17","verse":"4","text":"As for the deeds of men, by the word of your lips,"},{"book":"Psalms","chapter":"17","verse":"5","text":"My steps have held fast to your paths."},{"book":"Psalms","chapter":"17","verse":"6","text":"I have called on you, for you will answer me, God."},{"book":"Psalms","chapter":"17","verse":"7","text":"Show your marvelous loving kindness,"},{"book":"Psalms","chapter":"17","verse":"8","text":"Keep me as the apple of your eye."},{"book":"Psalms","chapter":"17","verse":"9","text":"from the wicked who oppress me,"},{"book":"Psalms","chapter":"17","verse":"10","text":"They close up their callous hearts."},{"book":"Psalms","chapter":"17","verse":"11","text":"They have now surrounded us in our steps."},{"book":"Psalms","chapter":"17","verse":"12","text":"He is like a lion that is greedy of his prey,"},{"book":"Psalms","chapter":"17","verse":"13","text":"Arise, LORD, confront him."},{"book":"Psalms","chapter":"17","verse":"14","text":"from men by your hand, LORD,"},{"book":"Psalms","chapter":"17","verse":"15","text":"As for me, I shall see your face in righteousness."}]}
+[
+  {
+    "id": 26578,
+    "book": "psalms                                  ",
+    "chapter": "17",
+    "verse": "1",
+    "text": "Hear, LORD, my righteous plea."
+  },
+  {
+    "id": 26579,
+    "book": "psalms                                  ",
+    "chapter": "17",
+    "verse": "2",
+    "text": "Let my sentence come out of your presence."
+  },
+  {
+    "id": 26580,
+    "book": "psalms                                  ",
+    "chapter": "17",
+    "verse": "3",
+    "text": "You have proved my heart."
+  },
+  {
+    "id": 26581,
+    "book": "psalms                                  ",
+    "chapter": "17",
+    "verse": "4",
+    "text": "As for the deeds of men, by the word of your lips,"
+  },
+  {
+    "id": 26582,
+    "book": "psalms                                  ",
+    "chapter": "17",
+    "verse": "5",
+    "text": "My steps have held fast to your paths."
+  },
+  {
+    "id": 26583,
+    "book": "psalms                                  ",
+    "chapter": "17",
+    "verse": "6",
+    "text": "I have called on you, for you will answer me, God."
+  },
+  {
+    "id": 26584,
+    "book": "psalms                                  ",
+    "chapter": "17",
+    "verse": "7",
+    "text": "Show your marvelous loving kindness,"
+  },
+  {
+    "id": 26585,
+    "book": "psalms                                  ",
+    "chapter": "17",
+    "verse": "8",
+    "text": "Keep me as the apple of your eye."
+  },
+  {
+    "id": 26586,
+    "book": "psalms                                  ",
+    "chapter": "17",
+    "verse": "9",
+    "text": "from the wicked who oppress me,"
+  },
+  {
+    "id": 26587,
+    "book": "psalms                                  ",
+    "chapter": "17",
+    "verse": "10",
+    "text": "They close up their callous hearts."
+  },
+  {
+    "id": 26588,
+    "book": "psalms                                  ",
+    "chapter": "17",
+    "verse": "11",
+    "text": "They have now surrounded us in our steps."
+  },
+  {
+    "id": 26589,
+    "book": "psalms                                  ",
+    "chapter": "17",
+    "verse": "12",
+    "text": "He is like a lion that is greedy of his prey,"
+  },
+  {
+    "id": 26590,
+    "book": "psalms                                  ",
+    "chapter": "17",
+    "verse": "13",
+    "text": "Arise, LORD, confront him."
+  },
+  {
+    "id": 26591,
+    "book": "psalms                                  ",
+    "chapter": "17",
+    "verse": "14",
+    "text": "from men by your hand, LORD,"
+  },
+  {
+    "id": 26592,
+    "book": "psalms                                  ",
+    "chapter": "17",
+    "verse": "15",
+    "text": "As for me, I shall see your face in righteousness."
+  }
+]

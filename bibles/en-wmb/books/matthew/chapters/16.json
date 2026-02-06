@@ -1,1 +1,198 @@
-{"data":[{"book":"Matthew","chapter":"16","verse":"1","text":"The Pharisees and Sadducees came, and testing him, asked him to show them a sign from heaven."},{"book":"Matthew","chapter":"16","verse":"2","text":"But he answered them, “When it is evening, you say, ‘It will be fair weather, for the sky is red.’"},{"book":"Matthew","chapter":"16","verse":"3","text":"In the morning, ‘It will be foul weather today, for the sky is red and threatening.’ Hypocrites! You know how to discern the appearance of the sky, but you can’t discern the signs of the times!"},{"book":"Matthew","chapter":"16","verse":"4","text":"An evil and adulterous generation seeks after a sign, and there will be no sign given to it, except the sign of the prophet Jonah.”"},{"book":"Matthew","chapter":"16","verse":"5","text":"The disciples came to the other side and had forgotten to take bread."},{"book":"Matthew","chapter":"16","verse":"6","text":"Yeshua said to them, “Take heed and beware of the yeast of the Pharisees and Sadducees.”"},{"book":"Matthew","chapter":"16","verse":"7","text":"They reasoned among themselves, saying, “We brought no bread.”"},{"book":"Matthew","chapter":"16","verse":"8","text":"Yeshua, perceiving it, said, “Why do you reason among yourselves, you of little faith, because you have brought no bread?"},{"book":"Matthew","chapter":"16","verse":"9","text":"Don’t you yet perceive or remember the five loaves for the five thousand, and how many baskets you took up,"},{"book":"Matthew","chapter":"16","verse":"10","text":"or the seven loaves for the four thousand, and how many baskets you took up?"},{"book":"Matthew","chapter":"16","verse":"11","text":"How is it that you don’t perceive that I didn’t speak to you concerning bread? But beware of the yeast of the Pharisees and Sadducees.”"},{"book":"Matthew","chapter":"16","verse":"12","text":"Then they understood that he didn’t tell them to beware of the yeast of bread, but of the teaching of the Pharisees and Sadducees."},{"book":"Matthew","chapter":"16","verse":"13","text":"Now when Yeshua came into the parts of Caesarea Philippi, he asked his disciples, saying, “Who do men say that I, the Son of Man, am?”"},{"book":"Matthew","chapter":"16","verse":"14","text":"They said, “Some say Yochanan the Immerser, some, Elijah, and others, Jeremiah or one of the prophets.”"},{"book":"Matthew","chapter":"16","verse":"15","text":"He said to them, “But who do you say that I am?”"},{"book":"Matthew","chapter":"16","verse":"16","text":"Simon Peter answered, “You are the Messiah, the Son of the living God.”"},{"book":"Matthew","chapter":"16","verse":"17","text":"Yeshua answered him, “Blessed are you, Simon Bar Jonah, for flesh and blood has not revealed this to you, but my Father who is in heaven."},{"book":"Matthew","chapter":"16","verse":"18","text":"I also tell you that you are Peter,16:18 Peter’s name, Petros in Greek, is the word for a specific rock or stone. and on this rock 16:18 Greek, petra, a rock mass or bedrock. I will build my assembly, and the gates of Sheol16:18 or, Hell will not prevail against it."},{"book":"Matthew","chapter":"16","verse":"19","text":"I will give to you the keys of the Kingdom of Heaven, and whatever you bind on earth will have been bound in heaven; and whatever you release on earth will have been released in heaven.”"},{"book":"Matthew","chapter":"16","verse":"20","text":"Then he commanded the disciples that they should tell no one that he was Yeshua the Messiah."},{"book":"Matthew","chapter":"16","verse":"21","text":"From that time, Yeshua began to show his disciples that he must go to Jerusalem and suffer many things from the elders, chief priests, and scribes, and be killed, and the third day be raised up."},{"book":"Matthew","chapter":"16","verse":"22","text":"Peter took him aside and began to rebuke him, saying, “Far be it from you, Lord! This will never be done to you.”"},{"book":"Matthew","chapter":"16","verse":"23","text":"But he turned and said to Peter, “Get behind me, Satan! You are a stumbling block to me, for you are not setting your mind on the things of God, but on the things of men.”"},{"book":"Matthew","chapter":"16","verse":"24","text":"Then Yeshua said to his disciples, “If anyone desires to come after me, let him deny himself, take up his cross, and follow me."},{"book":"Matthew","chapter":"16","verse":"25","text":"For whoever desires to save his life will lose it, and whoever will lose his life for my sake will find it."},{"book":"Matthew","chapter":"16","verse":"26","text":"For what will it profit a man if he gains the whole world and forfeits his life? Or what will a man give in exchange for his life?"},{"book":"Matthew","chapter":"16","verse":"27","text":"For the Son of Man will come in the glory of his Father with his angels, and then he will render to everyone according to his deeds."},{"book":"Matthew","chapter":"16","verse":"28","text":"Most certainly I tell you, there are some standing here who will in no way taste of death until they see the Son of Man coming in his Kingdom.”"}]}
+[
+  {
+    "id": 22960,
+    "book": "matthew                                 ",
+    "chapter": "16",
+    "verse": "1",
+    "text": "The Pharisees and Sadducees came, and testing him, asked him to show them a sign from heaven."
+  },
+  {
+    "id": 22961,
+    "book": "matthew                                 ",
+    "chapter": "16",
+    "verse": "2",
+    "text": "But he answered them, “When it is evening, you say, ‘It will be fair weather, for the sky is red.’"
+  },
+  {
+    "id": 22962,
+    "book": "matthew                                 ",
+    "chapter": "16",
+    "verse": "3",
+    "text": "In the morning, ‘It will be foul weather today, for the sky is red and threatening.’ Hypocrites! You know how to discern the appearance of the sky, but you can’t discern the signs of the times!"
+  },
+  {
+    "id": 22963,
+    "book": "matthew                                 ",
+    "chapter": "16",
+    "verse": "4",
+    "text": "An evil and adulterous generation seeks after a sign, and there will be no sign given to it, except the sign of the prophet Jonah.”"
+  },
+  {
+    "id": 22964,
+    "book": "matthew                                 ",
+    "chapter": "16",
+    "verse": "5",
+    "text": "The disciples came to the other side and had forgotten to take bread."
+  },
+  {
+    "id": 22965,
+    "book": "matthew                                 ",
+    "chapter": "16",
+    "verse": "6",
+    "text": "Yeshua said to them, “Take heed and beware of the yeast of the Pharisees and Sadducees.”"
+  },
+  {
+    "id": 22966,
+    "book": "matthew                                 ",
+    "chapter": "16",
+    "verse": "7",
+    "text": "They reasoned among themselves, saying, “We brought no bread.”"
+  },
+  {
+    "id": 22967,
+    "book": "matthew                                 ",
+    "chapter": "16",
+    "verse": "8",
+    "text": "Yeshua, perceiving it, said, “Why do you reason among yourselves, you of little faith, because you have brought no bread?"
+  },
+  {
+    "id": 22968,
+    "book": "matthew                                 ",
+    "chapter": "16",
+    "verse": "9",
+    "text": "Don’t you yet perceive or remember the five loaves for the five thousand, and how many baskets you took up,"
+  },
+  {
+    "id": 22969,
+    "book": "matthew                                 ",
+    "chapter": "16",
+    "verse": "10",
+    "text": "or the seven loaves for the four thousand, and how many baskets you took up?"
+  },
+  {
+    "id": 22970,
+    "book": "matthew                                 ",
+    "chapter": "16",
+    "verse": "11",
+    "text": "How is it that you don’t perceive that I didn’t speak to you concerning bread? But beware of the yeast of the Pharisees and Sadducees.”"
+  },
+  {
+    "id": 22971,
+    "book": "matthew                                 ",
+    "chapter": "16",
+    "verse": "12",
+    "text": "Then they understood that he didn’t tell them to beware of the yeast of bread, but of the teaching of the Pharisees and Sadducees."
+  },
+  {
+    "id": 22972,
+    "book": "matthew                                 ",
+    "chapter": "16",
+    "verse": "13",
+    "text": "Now when Yeshua came into the parts of Caesarea Philippi, he asked his disciples, saying, “Who do men say that I, the Son of Man, am?”"
+  },
+  {
+    "id": 22973,
+    "book": "matthew                                 ",
+    "chapter": "16",
+    "verse": "14",
+    "text": "They said, “Some say Yochanan the Immerser, some, Elijah, and others, Jeremiah or one of the prophets.”"
+  },
+  {
+    "id": 22974,
+    "book": "matthew                                 ",
+    "chapter": "16",
+    "verse": "15",
+    "text": "He said to them, “But who do you say that I am?”"
+  },
+  {
+    "id": 22975,
+    "book": "matthew                                 ",
+    "chapter": "16",
+    "verse": "16",
+    "text": "Simon Peter answered, “You are the Messiah, the Son of the living God.”"
+  },
+  {
+    "id": 22976,
+    "book": "matthew                                 ",
+    "chapter": "16",
+    "verse": "17",
+    "text": "Yeshua answered him, “Blessed are you, Simon Bar Jonah, for flesh and blood has not revealed this to you, but my Father who is in heaven."
+  },
+  {
+    "id": 22977,
+    "book": "matthew                                 ",
+    "chapter": "16",
+    "verse": "18",
+    "text": "I also tell you that you are Peter,16:18 Peter’s name, Petros in Greek, is the word for a specific rock or stone. and on this rock 16:18 Greek, petra, a rock mass or bedrock. I will build my assembly, and the gates of Sheol16:18 or, Hell will not prevail against it."
+  },
+  {
+    "id": 22978,
+    "book": "matthew                                 ",
+    "chapter": "16",
+    "verse": "19",
+    "text": "I will give to you the keys of the Kingdom of Heaven, and whatever you bind on earth will have been bound in heaven; and whatever you release on earth will have been released in heaven.”"
+  },
+  {
+    "id": 22979,
+    "book": "matthew                                 ",
+    "chapter": "16",
+    "verse": "20",
+    "text": "Then he commanded the disciples that they should tell no one that he was Yeshua the Messiah."
+  },
+  {
+    "id": 22980,
+    "book": "matthew                                 ",
+    "chapter": "16",
+    "verse": "21",
+    "text": "From that time, Yeshua began to show his disciples that he must go to Jerusalem and suffer many things from the elders, chief priests, and scribes, and be killed, and the third day be raised up."
+  },
+  {
+    "id": 22981,
+    "book": "matthew                                 ",
+    "chapter": "16",
+    "verse": "22",
+    "text": "Peter took him aside and began to rebuke him, saying, “Far be it from you, Lord! This will never be done to you.”"
+  },
+  {
+    "id": 22982,
+    "book": "matthew                                 ",
+    "chapter": "16",
+    "verse": "23",
+    "text": "But he turned and said to Peter, “Get behind me, Satan! You are a stumbling block to me, for you are not setting your mind on the things of God, but on the things of men.”"
+  },
+  {
+    "id": 22983,
+    "book": "matthew                                 ",
+    "chapter": "16",
+    "verse": "24",
+    "text": "Then Yeshua said to his disciples, “If anyone desires to come after me, let him deny himself, take up his cross, and follow me."
+  },
+  {
+    "id": 22984,
+    "book": "matthew                                 ",
+    "chapter": "16",
+    "verse": "25",
+    "text": "For whoever desires to save his life will lose it, and whoever will lose his life for my sake will find it."
+  },
+  {
+    "id": 22985,
+    "book": "matthew                                 ",
+    "chapter": "16",
+    "verse": "26",
+    "text": "For what will it profit a man if he gains the whole world and forfeits his life? Or what will a man give in exchange for his life?"
+  },
+  {
+    "id": 22986,
+    "book": "matthew                                 ",
+    "chapter": "16",
+    "verse": "27",
+    "text": "For the Son of Man will come in the glory of his Father with his angels, and then he will render to everyone according to his deeds."
+  },
+  {
+    "id": 22987,
+    "book": "matthew                                 ",
+    "chapter": "16",
+    "verse": "28",
+    "text": "Most certainly I tell you, there are some standing here who will in no way taste of death until they see the Son of Man coming in his Kingdom.”"
+  }
+]

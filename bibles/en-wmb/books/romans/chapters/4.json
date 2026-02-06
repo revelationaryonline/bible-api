@@ -1,1 +1,177 @@
-{"data":[{"book":"Romans","chapter":"4","verse":"1","text":"What then will we say that Abraham, our forefather, has found according to the flesh?"},{"book":"Romans","chapter":"4","verse":"2","text":"For if Abraham was justified by works, he has something to boast about, but not toward God."},{"book":"Romans","chapter":"4","verse":"3","text":"For what does the Scripture say? “Abraham believed God, and it was accounted to him for righteousness.”4:3 Genesis 15:6"},{"book":"Romans","chapter":"4","verse":"4","text":"Now to him who works, the reward is not counted as grace, but as something owed."},{"book":"Romans","chapter":"4","verse":"5","text":"But to him who doesn’t work, but believes in him who justifies the ungodly, his faith is accounted for righteousness."},{"book":"Romans","chapter":"4","verse":"6","text":"Even as David also pronounces blessing on the man to whom God counts righteousness apart from works:"},{"book":"Romans","chapter":"4","verse":"7","text":"“Blessed are they whose iniquities are forgiven,"},{"book":"Romans","chapter":"4","verse":"8","text":"Blessed is the man whom the Lord will by no means charge with sin.” 4:8 Psalm 32:1-2"},{"book":"Romans","chapter":"4","verse":"9","text":"Is this blessing then pronounced only on the circumcised, or on the uncircumcised also? For we say that faith was accounted to Abraham for righteousness."},{"book":"Romans","chapter":"4","verse":"10","text":"How then was it counted? When he was in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision."},{"book":"Romans","chapter":"4","verse":"11","text":"He received the sign of circumcision, a seal of the righteousness of the faith which he had while he was in uncircumcision, that he might be the father of all those who believe, though they might be in uncircumcision, that righteousness might also be accounted to them."},{"book":"Romans","chapter":"4","verse":"12","text":"He is the father of circumcision to those who not only are of the circumcision, but who also walk in the steps of that faith of our father Abraham, which he had in uncircumcision."},{"book":"Romans","chapter":"4","verse":"13","text":"For the promise to Abraham and to his offspring that he would be heir of the world wasn’t through the law, but through the righteousness of faith."},{"book":"Romans","chapter":"4","verse":"14","text":"For if those who are of the law are heirs, faith is made void, and the promise is made of no effect."},{"book":"Romans","chapter":"4","verse":"15","text":"For the law produces wrath; for where there is no law, neither is there disobedience."},{"book":"Romans","chapter":"4","verse":"16","text":"For this cause it is of faith, that it may be according to grace, to the end that the promise may be sure to all the offspring, not to that only which is of the law, but to that also which is of the faith of Abraham, who is the father of us all."},{"book":"Romans","chapter":"4","verse":"17","text":"As it is written, “I have made you a father of many nations.”4:17 Genesis 17:5 This is in the presence of him whom he believed: God, who gives life to the dead, and calls the things that are not, as though they were."},{"book":"Romans","chapter":"4","verse":"18","text":"Against hope, Abraham in hope believed, to the end that he might become a father of many nations, according to that which had been spoken, “So will your offspring be.”4:18 Genesis 15:5"},{"book":"Romans","chapter":"4","verse":"19","text":"Without being weakened in faith, he didn’t consider his own body, already having been worn out, (he being about a hundred years old), and the deadness of Sarah’s womb."},{"book":"Romans","chapter":"4","verse":"20","text":"Yet, looking to the promise of God, he didn’t waver through unbelief, but grew strong through faith, giving glory to God,"},{"book":"Romans","chapter":"4","verse":"21","text":"and being fully assured that what he had promised, he was also able to perform."},{"book":"Romans","chapter":"4","verse":"22","text":"Therefore it also was “credited to him for righteousness.”4:22 Genesis 15:6"},{"book":"Romans","chapter":"4","verse":"23","text":"Now it was not written that it was accounted to him for his sake alone,"},{"book":"Romans","chapter":"4","verse":"24","text":"but for our sake also, to whom it will be accounted, who believe in him who raised Yeshua our Lord from the dead,"},{"book":"Romans","chapter":"4","verse":"25","text":"who was delivered up for our trespasses, and was raised for our justification."}]}
+[
+  {
+    "id": 29371,
+    "book": "romans                                  ",
+    "chapter": "4",
+    "verse": "1",
+    "text": "What then will we say that Abraham, our forefather, has found according to the flesh?"
+  },
+  {
+    "id": 29372,
+    "book": "romans                                  ",
+    "chapter": "4",
+    "verse": "2",
+    "text": "For if Abraham was justified by works, he has something to boast about, but not toward God."
+  },
+  {
+    "id": 29373,
+    "book": "romans                                  ",
+    "chapter": "4",
+    "verse": "3",
+    "text": "For what does the Scripture say? “Abraham believed God, and it was accounted to him for righteousness.”4:3 Genesis 15:6"
+  },
+  {
+    "id": 29374,
+    "book": "romans                                  ",
+    "chapter": "4",
+    "verse": "4",
+    "text": "Now to him who works, the reward is not counted as grace, but as something owed."
+  },
+  {
+    "id": 29375,
+    "book": "romans                                  ",
+    "chapter": "4",
+    "verse": "5",
+    "text": "But to him who doesn’t work, but believes in him who justifies the ungodly, his faith is accounted for righteousness."
+  },
+  {
+    "id": 29376,
+    "book": "romans                                  ",
+    "chapter": "4",
+    "verse": "6",
+    "text": "Even as David also pronounces blessing on the man to whom God counts righteousness apart from works:"
+  },
+  {
+    "id": 29377,
+    "book": "romans                                  ",
+    "chapter": "4",
+    "verse": "7",
+    "text": "“Blessed are they whose iniquities are forgiven,"
+  },
+  {
+    "id": 29378,
+    "book": "romans                                  ",
+    "chapter": "4",
+    "verse": "8",
+    "text": "Blessed is the man whom the Lord will by no means charge with sin.” 4:8 Psalm 32:1-2"
+  },
+  {
+    "id": 29379,
+    "book": "romans                                  ",
+    "chapter": "4",
+    "verse": "9",
+    "text": "Is this blessing then pronounced only on the circumcised, or on the uncircumcised also? For we say that faith was accounted to Abraham for righteousness."
+  },
+  {
+    "id": 29380,
+    "book": "romans                                  ",
+    "chapter": "4",
+    "verse": "10",
+    "text": "How then was it counted? When he was in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision."
+  },
+  {
+    "id": 29381,
+    "book": "romans                                  ",
+    "chapter": "4",
+    "verse": "11",
+    "text": "He received the sign of circumcision, a seal of the righteousness of the faith which he had while he was in uncircumcision, that he might be the father of all those who believe, though they might be in uncircumcision, that righteousness might also be accounted to them."
+  },
+  {
+    "id": 29382,
+    "book": "romans                                  ",
+    "chapter": "4",
+    "verse": "12",
+    "text": "He is the father of circumcision to those who not only are of the circumcision, but who also walk in the steps of that faith of our father Abraham, which he had in uncircumcision."
+  },
+  {
+    "id": 29383,
+    "book": "romans                                  ",
+    "chapter": "4",
+    "verse": "13",
+    "text": "For the promise to Abraham and to his offspring that he would be heir of the world wasn’t through the law, but through the righteousness of faith."
+  },
+  {
+    "id": 29384,
+    "book": "romans                                  ",
+    "chapter": "4",
+    "verse": "14",
+    "text": "For if those who are of the law are heirs, faith is made void, and the promise is made of no effect."
+  },
+  {
+    "id": 29385,
+    "book": "romans                                  ",
+    "chapter": "4",
+    "verse": "15",
+    "text": "For the law produces wrath; for where there is no law, neither is there disobedience."
+  },
+  {
+    "id": 29386,
+    "book": "romans                                  ",
+    "chapter": "4",
+    "verse": "16",
+    "text": "For this cause it is of faith, that it may be according to grace, to the end that the promise may be sure to all the offspring, not to that only which is of the law, but to that also which is of the faith of Abraham, who is the father of us all."
+  },
+  {
+    "id": 29387,
+    "book": "romans                                  ",
+    "chapter": "4",
+    "verse": "17",
+    "text": "As it is written, “I have made you a father of many nations.”4:17 Genesis 17:5 This is in the presence of him whom he believed: God, who gives life to the dead, and calls the things that are not, as though they were."
+  },
+  {
+    "id": 29388,
+    "book": "romans                                  ",
+    "chapter": "4",
+    "verse": "18",
+    "text": "Against hope, Abraham in hope believed, to the end that he might become a father of many nations, according to that which had been spoken, “So will your offspring be.”4:18 Genesis 15:5"
+  },
+  {
+    "id": 29389,
+    "book": "romans                                  ",
+    "chapter": "4",
+    "verse": "19",
+    "text": "Without being weakened in faith, he didn’t consider his own body, already having been worn out, (he being about a hundred years old), and the deadness of Sarah’s womb."
+  },
+  {
+    "id": 29390,
+    "book": "romans                                  ",
+    "chapter": "4",
+    "verse": "20",
+    "text": "Yet, looking to the promise of God, he didn’t waver through unbelief, but grew strong through faith, giving glory to God,"
+  },
+  {
+    "id": 29391,
+    "book": "romans                                  ",
+    "chapter": "4",
+    "verse": "21",
+    "text": "and being fully assured that what he had promised, he was also able to perform."
+  },
+  {
+    "id": 29392,
+    "book": "romans                                  ",
+    "chapter": "4",
+    "verse": "22",
+    "text": "Therefore it also was “credited to him for righteousness.”4:22 Genesis 15:6"
+  },
+  {
+    "id": 29393,
+    "book": "romans                                  ",
+    "chapter": "4",
+    "verse": "23",
+    "text": "Now it was not written that it was accounted to him for his sake alone,"
+  },
+  {
+    "id": 29394,
+    "book": "romans                                  ",
+    "chapter": "4",
+    "verse": "24",
+    "text": "but for our sake also, to whom it will be accounted, who believe in him who raised Yeshua our Lord from the dead,"
+  },
+  {
+    "id": 29395,
+    "book": "romans                                  ",
+    "chapter": "4",
+    "verse": "25",
+    "text": "who was delivered up for our trespasses, and was raised for our justification."
+  }
+]

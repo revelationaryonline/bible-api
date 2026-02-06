@@ -1,1 +1,149 @@
-{"data":[{"book":"Psalms","chapter":"135","verse":"1","text":"Praise the LORD!"},{"book":"Psalms","chapter":"135","verse":"2","text":"you who stand in the LORD’s house,"},{"book":"Psalms","chapter":"135","verse":"3","text":"Praise the LORD, for the LORD is good."},{"book":"Psalms","chapter":"135","verse":"4","text":"For the LORD has chosen Jacob for himself,"},{"book":"Psalms","chapter":"135","verse":"5","text":"For I know that the LORD is great,"},{"book":"Psalms","chapter":"135","verse":"6","text":"Whatever the LORD pleased, that he has done,"},{"book":"Psalms","chapter":"135","verse":"7","text":"He causes the clouds to rise from the ends of the earth."},{"book":"Psalms","chapter":"135","verse":"8","text":"He struck the firstborn of Egypt,"},{"book":"Psalms","chapter":"135","verse":"9","text":"He sent signs and wonders into the middle of you, Egypt,"},{"book":"Psalms","chapter":"135","verse":"10","text":"He struck many nations,"},{"book":"Psalms","chapter":"135","verse":"11","text":"Sihon king of the Amorites,"},{"book":"Psalms","chapter":"135","verse":"12","text":"and gave their land for a heritage,"},{"book":"Psalms","chapter":"135","verse":"13","text":"Your name, LORD, endures forever;"},{"book":"Psalms","chapter":"135","verse":"14","text":"For the LORD will judge his people"},{"book":"Psalms","chapter":"135","verse":"15","text":"The idols of the nations are silver and gold,"},{"book":"Psalms","chapter":"135","verse":"16","text":"They have mouths, but they can’t speak."},{"book":"Psalms","chapter":"135","verse":"17","text":"They have ears, but they can’t hear,"},{"book":"Psalms","chapter":"135","verse":"18","text":"Those who make them will be like them,"},{"book":"Psalms","chapter":"135","verse":"19","text":"House of Israel, praise the LORD!"},{"book":"Psalms","chapter":"135","verse":"20","text":"House of Levi, praise the LORD!"},{"book":"Psalms","chapter":"135","verse":"21","text":"Blessed be the LORD from Zion,"}]}
+[
+  {
+    "id": 28650,
+    "book": "psalms                                  ",
+    "chapter": "135",
+    "verse": "1",
+    "text": "Praise the LORD!"
+  },
+  {
+    "id": 28651,
+    "book": "psalms                                  ",
+    "chapter": "135",
+    "verse": "2",
+    "text": "you who stand in the LORD’s house,"
+  },
+  {
+    "id": 28652,
+    "book": "psalms                                  ",
+    "chapter": "135",
+    "verse": "3",
+    "text": "Praise the LORD, for the LORD is good."
+  },
+  {
+    "id": 28653,
+    "book": "psalms                                  ",
+    "chapter": "135",
+    "verse": "4",
+    "text": "For the LORD has chosen Jacob for himself,"
+  },
+  {
+    "id": 28654,
+    "book": "psalms                                  ",
+    "chapter": "135",
+    "verse": "5",
+    "text": "For I know that the LORD is great,"
+  },
+  {
+    "id": 28655,
+    "book": "psalms                                  ",
+    "chapter": "135",
+    "verse": "6",
+    "text": "Whatever the LORD pleased, that he has done,"
+  },
+  {
+    "id": 28656,
+    "book": "psalms                                  ",
+    "chapter": "135",
+    "verse": "7",
+    "text": "He causes the clouds to rise from the ends of the earth."
+  },
+  {
+    "id": 28657,
+    "book": "psalms                                  ",
+    "chapter": "135",
+    "verse": "8",
+    "text": "He struck the firstborn of Egypt,"
+  },
+  {
+    "id": 28658,
+    "book": "psalms                                  ",
+    "chapter": "135",
+    "verse": "9",
+    "text": "He sent signs and wonders into the middle of you, Egypt,"
+  },
+  {
+    "id": 28659,
+    "book": "psalms                                  ",
+    "chapter": "135",
+    "verse": "10",
+    "text": "He struck many nations,"
+  },
+  {
+    "id": 28660,
+    "book": "psalms                                  ",
+    "chapter": "135",
+    "verse": "11",
+    "text": "Sihon king of the Amorites,"
+  },
+  {
+    "id": 28661,
+    "book": "psalms                                  ",
+    "chapter": "135",
+    "verse": "12",
+    "text": "and gave their land for a heritage,"
+  },
+  {
+    "id": 28662,
+    "book": "psalms                                  ",
+    "chapter": "135",
+    "verse": "13",
+    "text": "Your name, LORD, endures forever;"
+  },
+  {
+    "id": 28663,
+    "book": "psalms                                  ",
+    "chapter": "135",
+    "verse": "14",
+    "text": "For the LORD will judge his people"
+  },
+  {
+    "id": 28664,
+    "book": "psalms                                  ",
+    "chapter": "135",
+    "verse": "15",
+    "text": "The idols of the nations are silver and gold,"
+  },
+  {
+    "id": 28665,
+    "book": "psalms                                  ",
+    "chapter": "135",
+    "verse": "16",
+    "text": "They have mouths, but they can’t speak."
+  },
+  {
+    "id": 28666,
+    "book": "psalms                                  ",
+    "chapter": "135",
+    "verse": "17",
+    "text": "They have ears, but they can’t hear,"
+  },
+  {
+    "id": 28667,
+    "book": "psalms                                  ",
+    "chapter": "135",
+    "verse": "18",
+    "text": "Those who make them will be like them,"
+  },
+  {
+    "id": 28668,
+    "book": "psalms                                  ",
+    "chapter": "135",
+    "verse": "19",
+    "text": "House of Israel, praise the LORD!"
+  },
+  {
+    "id": 28669,
+    "book": "psalms                                  ",
+    "chapter": "135",
+    "verse": "20",
+    "text": "House of Levi, praise the LORD!"
+  },
+  {
+    "id": 28670,
+    "book": "psalms                                  ",
+    "chapter": "135",
+    "verse": "21",
+    "text": "Blessed be the LORD from Zion,"
+  }
+]

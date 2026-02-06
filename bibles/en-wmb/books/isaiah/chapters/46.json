@@ -1,1 +1,93 @@
-{"data":[{"book":"Isaiah","chapter":"46","verse":"1","text":"Bel bows down."},{"book":"Isaiah","chapter":"46","verse":"2","text":"They stoop and they bow down together."},{"book":"Isaiah","chapter":"46","verse":"3","text":"“Listen to me, house of Jacob,"},{"book":"Isaiah","chapter":"46","verse":"4","text":"Even to old age I am he,"},{"book":"Isaiah","chapter":"46","verse":"5","text":"“To whom will you compare me, and consider my equal,"},{"book":"Isaiah","chapter":"46","verse":"6","text":"Some pour out gold from the bag,"},{"book":"Isaiah","chapter":"46","verse":"7","text":"They bear it on their shoulder."},{"book":"Isaiah","chapter":"46","verse":"8","text":"“Remember this, and show yourselves men."},{"book":"Isaiah","chapter":"46","verse":"9","text":"Remember the former things of old;"},{"book":"Isaiah","chapter":"46","verse":"10","text":"I declare the end from the beginning,"},{"book":"Isaiah","chapter":"46","verse":"11","text":"I call a ravenous bird from the east,"},{"book":"Isaiah","chapter":"46","verse":"12","text":"Listen to me, you stubborn-hearted,"},{"book":"Isaiah","chapter":"46","verse":"13","text":"I bring my righteousness near."}]}
+[
+  {
+    "id": 15211,
+    "book": "isaiah                                  ",
+    "chapter": "46",
+    "verse": "1",
+    "text": "Bel bows down."
+  },
+  {
+    "id": 15212,
+    "book": "isaiah                                  ",
+    "chapter": "46",
+    "verse": "2",
+    "text": "They stoop and they bow down together."
+  },
+  {
+    "id": 15213,
+    "book": "isaiah                                  ",
+    "chapter": "46",
+    "verse": "3",
+    "text": "“Listen to me, house of Jacob,"
+  },
+  {
+    "id": 15214,
+    "book": "isaiah                                  ",
+    "chapter": "46",
+    "verse": "4",
+    "text": "Even to old age I am he,"
+  },
+  {
+    "id": 15215,
+    "book": "isaiah                                  ",
+    "chapter": "46",
+    "verse": "5",
+    "text": "“To whom will you compare me, and consider my equal,"
+  },
+  {
+    "id": 15216,
+    "book": "isaiah                                  ",
+    "chapter": "46",
+    "verse": "6",
+    "text": "Some pour out gold from the bag,"
+  },
+  {
+    "id": 15217,
+    "book": "isaiah                                  ",
+    "chapter": "46",
+    "verse": "7",
+    "text": "They bear it on their shoulder."
+  },
+  {
+    "id": 15218,
+    "book": "isaiah                                  ",
+    "chapter": "46",
+    "verse": "8",
+    "text": "“Remember this, and show yourselves men."
+  },
+  {
+    "id": 15219,
+    "book": "isaiah                                  ",
+    "chapter": "46",
+    "verse": "9",
+    "text": "Remember the former things of old;"
+  },
+  {
+    "id": 15220,
+    "book": "isaiah                                  ",
+    "chapter": "46",
+    "verse": "10",
+    "text": "I declare the end from the beginning,"
+  },
+  {
+    "id": 15221,
+    "book": "isaiah                                  ",
+    "chapter": "46",
+    "verse": "11",
+    "text": "I call a ravenous bird from the east,"
+  },
+  {
+    "id": 15222,
+    "book": "isaiah                                  ",
+    "chapter": "46",
+    "verse": "12",
+    "text": "Listen to me, you stubborn-hearted,"
+  },
+  {
+    "id": 15223,
+    "book": "isaiah                                  ",
+    "chapter": "46",
+    "verse": "13",
+    "text": "I bring my righteousness near."
+  }
+]

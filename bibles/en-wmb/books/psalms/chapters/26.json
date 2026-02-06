@@ -1,1 +1,86 @@
-{"data":[{"book":"Psalms","chapter":"26","verse":"1","text":"Judge me, LORD, for I have walked in my integrity."},{"book":"Psalms","chapter":"26","verse":"2","text":"Examine me, LORD, and prove me."},{"book":"Psalms","chapter":"26","verse":"3","text":"For your loving kindness is before my eyes."},{"book":"Psalms","chapter":"26","verse":"4","text":"I have not sat with deceitful men,"},{"book":"Psalms","chapter":"26","verse":"5","text":"I hate the assembly of evildoers,"},{"book":"Psalms","chapter":"26","verse":"6","text":"I will wash my hands in innocence,"},{"book":"Psalms","chapter":"26","verse":"7","text":"that I may make the voice of thanksgiving to be heard"},{"book":"Psalms","chapter":"26","verse":"8","text":"LORD, I love the habitation of your house,"},{"book":"Psalms","chapter":"26","verse":"9","text":"Don’t gather my soul with sinners,"},{"book":"Psalms","chapter":"26","verse":"10","text":"in whose hands is wickedness;"},{"book":"Psalms","chapter":"26","verse":"11","text":"But as for me, I will walk in my integrity."},{"book":"Psalms","chapter":"26","verse":"12","text":"My foot stands in an even place."}]}
+[
+  {
+    "id": 26748,
+    "book": "psalms                                  ",
+    "chapter": "26",
+    "verse": "1",
+    "text": "Judge me, LORD, for I have walked in my integrity."
+  },
+  {
+    "id": 26749,
+    "book": "psalms                                  ",
+    "chapter": "26",
+    "verse": "2",
+    "text": "Examine me, LORD, and prove me."
+  },
+  {
+    "id": 26750,
+    "book": "psalms                                  ",
+    "chapter": "26",
+    "verse": "3",
+    "text": "For your loving kindness is before my eyes."
+  },
+  {
+    "id": 26751,
+    "book": "psalms                                  ",
+    "chapter": "26",
+    "verse": "4",
+    "text": "I have not sat with deceitful men,"
+  },
+  {
+    "id": 26752,
+    "book": "psalms                                  ",
+    "chapter": "26",
+    "verse": "5",
+    "text": "I hate the assembly of evildoers,"
+  },
+  {
+    "id": 26753,
+    "book": "psalms                                  ",
+    "chapter": "26",
+    "verse": "6",
+    "text": "I will wash my hands in innocence,"
+  },
+  {
+    "id": 26754,
+    "book": "psalms                                  ",
+    "chapter": "26",
+    "verse": "7",
+    "text": "that I may make the voice of thanksgiving to be heard"
+  },
+  {
+    "id": 26755,
+    "book": "psalms                                  ",
+    "chapter": "26",
+    "verse": "8",
+    "text": "LORD, I love the habitation of your house,"
+  },
+  {
+    "id": 26756,
+    "book": "psalms                                  ",
+    "chapter": "26",
+    "verse": "9",
+    "text": "Don’t gather my soul with sinners,"
+  },
+  {
+    "id": 26757,
+    "book": "psalms                                  ",
+    "chapter": "26",
+    "verse": "10",
+    "text": "in whose hands is wickedness;"
+  },
+  {
+    "id": 26758,
+    "book": "psalms                                  ",
+    "chapter": "26",
+    "verse": "11",
+    "text": "But as for me, I will walk in my integrity."
+  },
+  {
+    "id": 26759,
+    "book": "psalms                                  ",
+    "chapter": "26",
+    "verse": "12",
+    "text": "My foot stands in an even place."
+  }
+]

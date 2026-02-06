@@ -1,1 +1,149 @@
-{"data":[{"book":"Joel","chapter":"3","verse":"1","text":"“For, behold, in those days,"},{"book":"Joel","chapter":"3","verse":"2","text":"I will gather all nations,"},{"book":"Joel","chapter":"3","verse":"3","text":"and have cast lots for my people,"},{"book":"Joel","chapter":"3","verse":"4","text":"“Yes, and what are you to me, Tyre and Sidon,"},{"book":"Joel","chapter":"3","verse":"5","text":"Because you have taken my silver and my gold,"},{"book":"Joel","chapter":"3","verse":"6","text":"and have sold the children of Judah and the children of Jerusalem to the sons of the Greeks,"},{"book":"Joel","chapter":"3","verse":"7","text":"Behold, I will stir them up out of the place where you have sold them,"},{"book":"Joel","chapter":"3","verse":"8","text":"and I will sell your sons and your daughters into the hands of the children of Judah,"},{"book":"Joel","chapter":"3","verse":"9","text":"Proclaim this among the nations:"},{"book":"Joel","chapter":"3","verse":"10","text":"Beat your plowshares into swords,"},{"book":"Joel","chapter":"3","verse":"11","text":"Hurry and come, all you surrounding nations,"},{"book":"Joel","chapter":"3","verse":"12","text":"“Let the nations arouse themselves,"},{"book":"Joel","chapter":"3","verse":"13","text":"Put in the sickle;"},{"book":"Joel","chapter":"3","verse":"14","text":"Multitudes, multitudes in the valley of decision!"},{"book":"Joel","chapter":"3","verse":"15","text":"The sun and the moon are darkened,"},{"book":"Joel","chapter":"3","verse":"16","text":"The LORD will roar from Zion,"},{"book":"Joel","chapter":"3","verse":"17","text":"“So you will know that I am the LORD, your God,"},{"book":"Joel","chapter":"3","verse":"18","text":"It will happen in that day,"},{"book":"Joel","chapter":"3","verse":"19","text":"Egypt will be a desolation"},{"book":"Joel","chapter":"3","verse":"20","text":"But Judah will be inhabited forever,"},{"book":"Joel","chapter":"3","verse":"21","text":"I will cleanse their blood"}]}
+[
+  {
+    "id": 18165,
+    "book": "joel                                    ",
+    "chapter": "3",
+    "verse": "1",
+    "text": "“For, behold, in those days,"
+  },
+  {
+    "id": 18166,
+    "book": "joel                                    ",
+    "chapter": "3",
+    "verse": "2",
+    "text": "I will gather all nations,"
+  },
+  {
+    "id": 18167,
+    "book": "joel                                    ",
+    "chapter": "3",
+    "verse": "3",
+    "text": "and have cast lots for my people,"
+  },
+  {
+    "id": 18168,
+    "book": "joel                                    ",
+    "chapter": "3",
+    "verse": "4",
+    "text": "“Yes, and what are you to me, Tyre and Sidon,"
+  },
+  {
+    "id": 18169,
+    "book": "joel                                    ",
+    "chapter": "3",
+    "verse": "5",
+    "text": "Because you have taken my silver and my gold,"
+  },
+  {
+    "id": 18170,
+    "book": "joel                                    ",
+    "chapter": "3",
+    "verse": "6",
+    "text": "and have sold the children of Judah and the children of Jerusalem to the sons of the Greeks,"
+  },
+  {
+    "id": 18171,
+    "book": "joel                                    ",
+    "chapter": "3",
+    "verse": "7",
+    "text": "Behold, I will stir them up out of the place where you have sold them,"
+  },
+  {
+    "id": 18172,
+    "book": "joel                                    ",
+    "chapter": "3",
+    "verse": "8",
+    "text": "and I will sell your sons and your daughters into the hands of the children of Judah,"
+  },
+  {
+    "id": 18173,
+    "book": "joel                                    ",
+    "chapter": "3",
+    "verse": "9",
+    "text": "Proclaim this among the nations:"
+  },
+  {
+    "id": 18174,
+    "book": "joel                                    ",
+    "chapter": "3",
+    "verse": "10",
+    "text": "Beat your plowshares into swords,"
+  },
+  {
+    "id": 18175,
+    "book": "joel                                    ",
+    "chapter": "3",
+    "verse": "11",
+    "text": "Hurry and come, all you surrounding nations,"
+  },
+  {
+    "id": 18176,
+    "book": "joel                                    ",
+    "chapter": "3",
+    "verse": "12",
+    "text": "“Let the nations arouse themselves,"
+  },
+  {
+    "id": 18177,
+    "book": "joel                                    ",
+    "chapter": "3",
+    "verse": "13",
+    "text": "Put in the sickle;"
+  },
+  {
+    "id": 18178,
+    "book": "joel                                    ",
+    "chapter": "3",
+    "verse": "14",
+    "text": "Multitudes, multitudes in the valley of decision!"
+  },
+  {
+    "id": 18179,
+    "book": "joel                                    ",
+    "chapter": "3",
+    "verse": "15",
+    "text": "The sun and the moon are darkened,"
+  },
+  {
+    "id": 18180,
+    "book": "joel                                    ",
+    "chapter": "3",
+    "verse": "16",
+    "text": "The LORD will roar from Zion,"
+  },
+  {
+    "id": 18181,
+    "book": "joel                                    ",
+    "chapter": "3",
+    "verse": "17",
+    "text": "“So you will know that I am the LORD, your God,"
+  },
+  {
+    "id": 18182,
+    "book": "joel                                    ",
+    "chapter": "3",
+    "verse": "18",
+    "text": "It will happen in that day,"
+  },
+  {
+    "id": 18183,
+    "book": "joel                                    ",
+    "chapter": "3",
+    "verse": "19",
+    "text": "Egypt will be a desolation"
+  },
+  {
+    "id": 18184,
+    "book": "joel                                    ",
+    "chapter": "3",
+    "verse": "20",
+    "text": "But Judah will be inhabited forever,"
+  },
+  {
+    "id": 18185,
+    "book": "joel                                    ",
+    "chapter": "3",
+    "verse": "21",
+    "text": "I will cleanse their blood"
+  }
+]

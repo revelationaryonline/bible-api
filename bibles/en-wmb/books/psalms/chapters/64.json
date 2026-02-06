@@ -1,1 +1,72 @@
-{"data":[{"book":"Psalms","chapter":"64","verse":"1","text":"Hear my voice, God, in my complaint."},{"book":"Psalms","chapter":"64","verse":"2","text":"Hide me from the conspiracy of the wicked,"},{"book":"Psalms","chapter":"64","verse":"3","text":"who sharpen their tongue like a sword,"},{"book":"Psalms","chapter":"64","verse":"4","text":"to shoot innocent men from ambushes."},{"book":"Psalms","chapter":"64","verse":"5","text":"They encourage themselves in evil plans."},{"book":"Psalms","chapter":"64","verse":"6","text":"They plot injustice, saying, “We have made a perfect plan!”"},{"book":"Psalms","chapter":"64","verse":"7","text":"But God will shoot at them."},{"book":"Psalms","chapter":"64","verse":"8","text":"Their own tongues shall ruin them."},{"book":"Psalms","chapter":"64","verse":"9","text":"All mankind shall be afraid."},{"book":"Psalms","chapter":"64","verse":"10","text":"The righteous shall be glad in the LORD,"}]}
+[
+  {
+    "id": 27325,
+    "book": "psalms                                  ",
+    "chapter": "64",
+    "verse": "1",
+    "text": "Hear my voice, God, in my complaint."
+  },
+  {
+    "id": 27326,
+    "book": "psalms                                  ",
+    "chapter": "64",
+    "verse": "2",
+    "text": "Hide me from the conspiracy of the wicked,"
+  },
+  {
+    "id": 27327,
+    "book": "psalms                                  ",
+    "chapter": "64",
+    "verse": "3",
+    "text": "who sharpen their tongue like a sword,"
+  },
+  {
+    "id": 27328,
+    "book": "psalms                                  ",
+    "chapter": "64",
+    "verse": "4",
+    "text": "to shoot innocent men from ambushes."
+  },
+  {
+    "id": 27329,
+    "book": "psalms                                  ",
+    "chapter": "64",
+    "verse": "5",
+    "text": "They encourage themselves in evil plans."
+  },
+  {
+    "id": 27330,
+    "book": "psalms                                  ",
+    "chapter": "64",
+    "verse": "6",
+    "text": "They plot injustice, saying, “We have made a perfect plan!”"
+  },
+  {
+    "id": 27331,
+    "book": "psalms                                  ",
+    "chapter": "64",
+    "verse": "7",
+    "text": "But God will shoot at them."
+  },
+  {
+    "id": 27332,
+    "book": "psalms                                  ",
+    "chapter": "64",
+    "verse": "8",
+    "text": "Their own tongues shall ruin them."
+  },
+  {
+    "id": 27333,
+    "book": "psalms                                  ",
+    "chapter": "64",
+    "verse": "9",
+    "text": "All mankind shall be afraid."
+  },
+  {
+    "id": 27334,
+    "book": "psalms                                  ",
+    "chapter": "64",
+    "verse": "10",
+    "text": "The righteous shall be glad in the LORD,"
+  }
+]

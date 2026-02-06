@@ -1,1 +1,79 @@
-{"data":[{"book":"Psalms","chapter":"46","verse":"1","text":"God is our refuge and strength,"},{"book":"Psalms","chapter":"46","verse":"2","text":"Therefore we won’t be afraid, though the earth changes,"},{"book":"Psalms","chapter":"46","verse":"3","text":"though its waters roar and are troubled,"},{"book":"Psalms","chapter":"46","verse":"4","text":"There is a river, the streams of which make the city of God glad,"},{"book":"Psalms","chapter":"46","verse":"5","text":"God is within her. She shall not be moved."},{"book":"Psalms","chapter":"46","verse":"6","text":"The nations raged. The kingdoms were moved."},{"book":"Psalms","chapter":"46","verse":"7","text":"The LORD of Hosts is with us."},{"book":"Psalms","chapter":"46","verse":"8","text":"Come, see the LORD’s works,"},{"book":"Psalms","chapter":"46","verse":"9","text":"He makes wars cease to the end of the earth."},{"book":"Psalms","chapter":"46","verse":"10","text":"“Be still, and know that I am God."},{"book":"Psalms","chapter":"46","verse":"11","text":"The LORD of Hosts is with us."}]}
+[
+  {
+    "id": 27089,
+    "book": "psalms                                  ",
+    "chapter": "46",
+    "verse": "1",
+    "text": "God is our refuge and strength,"
+  },
+  {
+    "id": 27090,
+    "book": "psalms                                  ",
+    "chapter": "46",
+    "verse": "2",
+    "text": "Therefore we won’t be afraid, though the earth changes,"
+  },
+  {
+    "id": 27091,
+    "book": "psalms                                  ",
+    "chapter": "46",
+    "verse": "3",
+    "text": "though its waters roar and are troubled,"
+  },
+  {
+    "id": 27092,
+    "book": "psalms                                  ",
+    "chapter": "46",
+    "verse": "4",
+    "text": "There is a river, the streams of which make the city of God glad,"
+  },
+  {
+    "id": 27093,
+    "book": "psalms                                  ",
+    "chapter": "46",
+    "verse": "5",
+    "text": "God is within her. She shall not be moved."
+  },
+  {
+    "id": 27094,
+    "book": "psalms                                  ",
+    "chapter": "46",
+    "verse": "6",
+    "text": "The nations raged. The kingdoms were moved."
+  },
+  {
+    "id": 27095,
+    "book": "psalms                                  ",
+    "chapter": "46",
+    "verse": "7",
+    "text": "The LORD of Hosts is with us."
+  },
+  {
+    "id": 27096,
+    "book": "psalms                                  ",
+    "chapter": "46",
+    "verse": "8",
+    "text": "Come, see the LORD’s works,"
+  },
+  {
+    "id": 27097,
+    "book": "psalms                                  ",
+    "chapter": "46",
+    "verse": "9",
+    "text": "He makes wars cease to the end of the earth."
+  },
+  {
+    "id": 27098,
+    "book": "psalms                                  ",
+    "chapter": "46",
+    "verse": "10",
+    "text": "“Be still, and know that I am God."
+  },
+  {
+    "id": 27099,
+    "book": "psalms                                  ",
+    "chapter": "46",
+    "verse": "11",
+    "text": "The LORD of Hosts is with us."
+  }
+]

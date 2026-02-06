@@ -1,1 +1,135 @@
-{"data":[{"book":"Habakkuk","chapter":"3","verse":"1","text":"A prayer of Habakkuk, the prophet, set to victorious music."},{"book":"Habakkuk","chapter":"3","verse":"2","text":"LORD, I have heard of your fame."},{"book":"Habakkuk","chapter":"3","verse":"3","text":"God came from Teman,"},{"book":"Habakkuk","chapter":"3","verse":"4","text":"His splendor is like the sunrise."},{"book":"Habakkuk","chapter":"3","verse":"5","text":"Plague went before him,"},{"book":"Habakkuk","chapter":"3","verse":"6","text":"He stood, and shook the earth."},{"book":"Habakkuk","chapter":"3","verse":"7","text":"I saw the tents of Cushan in affliction."},{"book":"Habakkuk","chapter":"3","verse":"8","text":"Was the LORD displeased with the rivers?"},{"book":"Habakkuk","chapter":"3","verse":"9","text":"You uncovered your bow."},{"book":"Habakkuk","chapter":"3","verse":"10","text":"The mountains saw you, and were afraid."},{"book":"Habakkuk","chapter":"3","verse":"11","text":"The sun and moon stood still in the sky"},{"book":"Habakkuk","chapter":"3","verse":"12","text":"You marched through the land in wrath."},{"book":"Habakkuk","chapter":"3","verse":"13","text":"You went out for the salvation of your people,"},{"book":"Habakkuk","chapter":"3","verse":"14","text":"You pierced the heads of his warriors with their own spears."},{"book":"Habakkuk","chapter":"3","verse":"15","text":"You trampled the sea with your horses,"},{"book":"Habakkuk","chapter":"3","verse":"16","text":"I heard, and my body trembled."},{"book":"Habakkuk","chapter":"3","verse":"17","text":"For even though the fig tree doesn’t flourish,"},{"book":"Habakkuk","chapter":"3","verse":"18","text":"yet I will rejoice in the LORD."},{"book":"Habakkuk","chapter":"3","verse":"19","text":"GOD, the Lord,3:19 The word translated “Lord” (mixed case) is “Adonai.” is my strength."}]}
+[
+  {
+    "id": 13722,
+    "book": "habakkuk                                ",
+    "chapter": "3",
+    "verse": "1",
+    "text": "A prayer of Habakkuk, the prophet, set to victorious music."
+  },
+  {
+    "id": 13723,
+    "book": "habakkuk                                ",
+    "chapter": "3",
+    "verse": "2",
+    "text": "LORD, I have heard of your fame."
+  },
+  {
+    "id": 13724,
+    "book": "habakkuk                                ",
+    "chapter": "3",
+    "verse": "3",
+    "text": "God came from Teman,"
+  },
+  {
+    "id": 13725,
+    "book": "habakkuk                                ",
+    "chapter": "3",
+    "verse": "4",
+    "text": "His splendor is like the sunrise."
+  },
+  {
+    "id": 13726,
+    "book": "habakkuk                                ",
+    "chapter": "3",
+    "verse": "5",
+    "text": "Plague went before him,"
+  },
+  {
+    "id": 13727,
+    "book": "habakkuk                                ",
+    "chapter": "3",
+    "verse": "6",
+    "text": "He stood, and shook the earth."
+  },
+  {
+    "id": 13728,
+    "book": "habakkuk                                ",
+    "chapter": "3",
+    "verse": "7",
+    "text": "I saw the tents of Cushan in affliction."
+  },
+  {
+    "id": 13729,
+    "book": "habakkuk                                ",
+    "chapter": "3",
+    "verse": "8",
+    "text": "Was the LORD displeased with the rivers?"
+  },
+  {
+    "id": 13730,
+    "book": "habakkuk                                ",
+    "chapter": "3",
+    "verse": "9",
+    "text": "You uncovered your bow."
+  },
+  {
+    "id": 13731,
+    "book": "habakkuk                                ",
+    "chapter": "3",
+    "verse": "10",
+    "text": "The mountains saw you, and were afraid."
+  },
+  {
+    "id": 13732,
+    "book": "habakkuk                                ",
+    "chapter": "3",
+    "verse": "11",
+    "text": "The sun and moon stood still in the sky"
+  },
+  {
+    "id": 13733,
+    "book": "habakkuk                                ",
+    "chapter": "3",
+    "verse": "12",
+    "text": "You marched through the land in wrath."
+  },
+  {
+    "id": 13734,
+    "book": "habakkuk                                ",
+    "chapter": "3",
+    "verse": "13",
+    "text": "You went out for the salvation of your people,"
+  },
+  {
+    "id": 13735,
+    "book": "habakkuk                                ",
+    "chapter": "3",
+    "verse": "14",
+    "text": "You pierced the heads of his warriors with their own spears."
+  },
+  {
+    "id": 13736,
+    "book": "habakkuk                                ",
+    "chapter": "3",
+    "verse": "15",
+    "text": "You trampled the sea with your horses,"
+  },
+  {
+    "id": 13737,
+    "book": "habakkuk                                ",
+    "chapter": "3",
+    "verse": "16",
+    "text": "I heard, and my body trembled."
+  },
+  {
+    "id": 13738,
+    "book": "habakkuk                                ",
+    "chapter": "3",
+    "verse": "17",
+    "text": "For even though the fig tree doesn’t flourish,"
+  },
+  {
+    "id": 13739,
+    "book": "habakkuk                                ",
+    "chapter": "3",
+    "verse": "18",
+    "text": "yet I will rejoice in the LORD."
+  },
+  {
+    "id": 13740,
+    "book": "habakkuk                                ",
+    "chapter": "3",
+    "verse": "19",
+    "text": "GOD, the Lord,3:19 The word translated “Lord” (mixed case) is “Adonai.” is my strength."
+  }
+]

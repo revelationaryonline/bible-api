@@ -1,1 +1,121 @@
-{"data":[{"book":"Jeremiah","chapter":"12","verse":"1","text":"You are righteous, LORD,"},{"book":"Jeremiah","chapter":"12","verse":"2","text":"You have planted them. Yes, they have taken root."},{"book":"Jeremiah","chapter":"12","verse":"3","text":"But you, LORD, know me."},{"book":"Jeremiah","chapter":"12","verse":"4","text":"How long will the land mourn,"},{"book":"Jeremiah","chapter":"12","verse":"5","text":"“If you have run with the footmen,"},{"book":"Jeremiah","chapter":"12","verse":"6","text":"For even your brothers, and the house of your father,"},{"book":"Jeremiah","chapter":"12","verse":"7","text":"“I have forsaken my house."},{"book":"Jeremiah","chapter":"12","verse":"8","text":"My heritage has become to me as a lion in the forest."},{"book":"Jeremiah","chapter":"12","verse":"9","text":"Is my heritage to me as a speckled bird of prey?"},{"book":"Jeremiah","chapter":"12","verse":"10","text":"Many shepherds have destroyed my vineyard."},{"book":"Jeremiah","chapter":"12","verse":"11","text":"They have made it a desolation."},{"book":"Jeremiah","chapter":"12","verse":"12","text":"Destroyers have come on all the bare heights in the wilderness;"},{"book":"Jeremiah","chapter":"12","verse":"13","text":"They have sown wheat,"},{"book":"Jeremiah","chapter":"12","verse":"14","text":"The LORD says, “Concerning all my evil neighbors, who touch the inheritance which I have caused my people Israel to inherit: Behold, I will pluck them up from off their land, and will pluck up the house of Judah from among them."},{"book":"Jeremiah","chapter":"12","verse":"15","text":"It will happen that after I have plucked them up, I will return and have compassion on them. I will bring them again, every man to his heritage, and every man to his land."},{"book":"Jeremiah","chapter":"12","verse":"16","text":"It will happen, if they will diligently learn the ways of my people, to swear by my name, ‘As the LORD lives;’ even as they taught my people to swear by Baal, then they will be built up in the middle of my people."},{"book":"Jeremiah","chapter":"12","verse":"17","text":"But if they will not hear, then I will pluck up that nation, plucking up and destroying it,” says the LORD."}]}
+[
+  {
+    "id": 15982,
+    "book": "jeremiah                                ",
+    "chapter": "12",
+    "verse": "1",
+    "text": "You are righteous, LORD,"
+  },
+  {
+    "id": 15983,
+    "book": "jeremiah                                ",
+    "chapter": "12",
+    "verse": "2",
+    "text": "You have planted them. Yes, they have taken root."
+  },
+  {
+    "id": 15984,
+    "book": "jeremiah                                ",
+    "chapter": "12",
+    "verse": "3",
+    "text": "But you, LORD, know me."
+  },
+  {
+    "id": 15985,
+    "book": "jeremiah                                ",
+    "chapter": "12",
+    "verse": "4",
+    "text": "How long will the land mourn,"
+  },
+  {
+    "id": 15986,
+    "book": "jeremiah                                ",
+    "chapter": "12",
+    "verse": "5",
+    "text": "“If you have run with the footmen,"
+  },
+  {
+    "id": 15987,
+    "book": "jeremiah                                ",
+    "chapter": "12",
+    "verse": "6",
+    "text": "For even your brothers, and the house of your father,"
+  },
+  {
+    "id": 15988,
+    "book": "jeremiah                                ",
+    "chapter": "12",
+    "verse": "7",
+    "text": "“I have forsaken my house."
+  },
+  {
+    "id": 15989,
+    "book": "jeremiah                                ",
+    "chapter": "12",
+    "verse": "8",
+    "text": "My heritage has become to me as a lion in the forest."
+  },
+  {
+    "id": 15990,
+    "book": "jeremiah                                ",
+    "chapter": "12",
+    "verse": "9",
+    "text": "Is my heritage to me as a speckled bird of prey?"
+  },
+  {
+    "id": 15991,
+    "book": "jeremiah                                ",
+    "chapter": "12",
+    "verse": "10",
+    "text": "Many shepherds have destroyed my vineyard."
+  },
+  {
+    "id": 15992,
+    "book": "jeremiah                                ",
+    "chapter": "12",
+    "verse": "11",
+    "text": "They have made it a desolation."
+  },
+  {
+    "id": 15993,
+    "book": "jeremiah                                ",
+    "chapter": "12",
+    "verse": "12",
+    "text": "Destroyers have come on all the bare heights in the wilderness;"
+  },
+  {
+    "id": 15994,
+    "book": "jeremiah                                ",
+    "chapter": "12",
+    "verse": "13",
+    "text": "They have sown wheat,"
+  },
+  {
+    "id": 15995,
+    "book": "jeremiah                                ",
+    "chapter": "12",
+    "verse": "14",
+    "text": "The LORD says, “Concerning all my evil neighbors, who touch the inheritance which I have caused my people Israel to inherit: Behold, I will pluck them up from off their land, and will pluck up the house of Judah from among them."
+  },
+  {
+    "id": 15996,
+    "book": "jeremiah                                ",
+    "chapter": "12",
+    "verse": "15",
+    "text": "It will happen that after I have plucked them up, I will return and have compassion on them. I will bring them again, every man to his heritage, and every man to his land."
+  },
+  {
+    "id": 15997,
+    "book": "jeremiah                                ",
+    "chapter": "12",
+    "verse": "16",
+    "text": "It will happen, if they will diligently learn the ways of my people, to swear by my name, ‘As the LORD lives;’ even as they taught my people to swear by Baal, then they will be built up in the middle of my people."
+  },
+  {
+    "id": 15998,
+    "book": "jeremiah                                ",
+    "chapter": "12",
+    "verse": "17",
+    "text": "But if they will not hear, then I will pluck up that nation, plucking up and destroying it,” says the LORD."
+  }
+]

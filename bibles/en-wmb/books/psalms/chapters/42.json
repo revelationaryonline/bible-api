@@ -1,1 +1,79 @@
-{"data":[{"book":"Psalms","chapter":"42","verse":"1","text":"As the deer pants for the water brooks,"},{"book":"Psalms","chapter":"42","verse":"2","text":"My soul thirsts for God, for the living God."},{"book":"Psalms","chapter":"42","verse":"3","text":"My tears have been my food day and night,"},{"book":"Psalms","chapter":"42","verse":"4","text":"These things I remember, and pour out my soul within me,"},{"book":"Psalms","chapter":"42","verse":"5","text":"Why are you in despair, my soul?"},{"book":"Psalms","chapter":"42","verse":"6","text":"My God, my soul is in despair within me."},{"book":"Psalms","chapter":"42","verse":"7","text":"Deep calls to deep at the noise of your waterfalls."},{"book":"Psalms","chapter":"42","verse":"8","text":"will command his loving kindness in the daytime."},{"book":"Psalms","chapter":"42","verse":"9","text":"I will ask God, my rock, “Why have you forgotten me?"},{"book":"Psalms","chapter":"42","verse":"10","text":"As with a sword in my bones, my adversaries reproach me,"},{"book":"Psalms","chapter":"42","verse":"11","text":"Why are you in despair, my soul?"}]}
+[
+  {
+    "id": 27030,
+    "book": "psalms                                  ",
+    "chapter": "42",
+    "verse": "1",
+    "text": "As the deer pants for the water brooks,"
+  },
+  {
+    "id": 27031,
+    "book": "psalms                                  ",
+    "chapter": "42",
+    "verse": "2",
+    "text": "My soul thirsts for God, for the living God."
+  },
+  {
+    "id": 27032,
+    "book": "psalms                                  ",
+    "chapter": "42",
+    "verse": "3",
+    "text": "My tears have been my food day and night,"
+  },
+  {
+    "id": 27033,
+    "book": "psalms                                  ",
+    "chapter": "42",
+    "verse": "4",
+    "text": "These things I remember, and pour out my soul within me,"
+  },
+  {
+    "id": 27034,
+    "book": "psalms                                  ",
+    "chapter": "42",
+    "verse": "5",
+    "text": "Why are you in despair, my soul?"
+  },
+  {
+    "id": 27035,
+    "book": "psalms                                  ",
+    "chapter": "42",
+    "verse": "6",
+    "text": "My God, my soul is in despair within me."
+  },
+  {
+    "id": 27036,
+    "book": "psalms                                  ",
+    "chapter": "42",
+    "verse": "7",
+    "text": "Deep calls to deep at the noise of your waterfalls."
+  },
+  {
+    "id": 27037,
+    "book": "psalms                                  ",
+    "chapter": "42",
+    "verse": "8",
+    "text": "will command his loving kindness in the daytime."
+  },
+  {
+    "id": 27038,
+    "book": "psalms                                  ",
+    "chapter": "42",
+    "verse": "9",
+    "text": "I will ask God, my rock, “Why have you forgotten me?"
+  },
+  {
+    "id": 27039,
+    "book": "psalms                                  ",
+    "chapter": "42",
+    "verse": "10",
+    "text": "As with a sword in my bones, my adversaries reproach me,"
+  },
+  {
+    "id": 27040,
+    "book": "psalms                                  ",
+    "chapter": "42",
+    "verse": "11",
+    "text": "Why are you in despair, my soul?"
+  }
+]

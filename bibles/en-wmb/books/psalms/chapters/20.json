@@ -1,1 +1,65 @@
-{"data":[{"book":"Psalms","chapter":"20","verse":"1","text":"May the LORD answer you in the day of trouble."},{"book":"Psalms","chapter":"20","verse":"2","text":"send you help from the sanctuary,"},{"book":"Psalms","chapter":"20","verse":"3","text":"remember all your offerings,"},{"book":"Psalms","chapter":"20","verse":"4","text":"May he grant you your heart’s desire,"},{"book":"Psalms","chapter":"20","verse":"5","text":"We will triumph in your salvation."},{"book":"Psalms","chapter":"20","verse":"6","text":"Now I know that the LORD saves his anointed."},{"book":"Psalms","chapter":"20","verse":"7","text":"Some trust in chariots, and some in horses,"},{"book":"Psalms","chapter":"20","verse":"8","text":"They are bowed down and fallen,"},{"book":"Psalms","chapter":"20","verse":"9","text":"Save, LORD!"}]}
+[
+  {
+    "id": 26657,
+    "book": "psalms                                  ",
+    "chapter": "20",
+    "verse": "1",
+    "text": "May the LORD answer you in the day of trouble."
+  },
+  {
+    "id": 26658,
+    "book": "psalms                                  ",
+    "chapter": "20",
+    "verse": "2",
+    "text": "send you help from the sanctuary,"
+  },
+  {
+    "id": 26659,
+    "book": "psalms                                  ",
+    "chapter": "20",
+    "verse": "3",
+    "text": "remember all your offerings,"
+  },
+  {
+    "id": 26660,
+    "book": "psalms                                  ",
+    "chapter": "20",
+    "verse": "4",
+    "text": "May he grant you your heart’s desire,"
+  },
+  {
+    "id": 26661,
+    "book": "psalms                                  ",
+    "chapter": "20",
+    "verse": "5",
+    "text": "We will triumph in your salvation."
+  },
+  {
+    "id": 26662,
+    "book": "psalms                                  ",
+    "chapter": "20",
+    "verse": "6",
+    "text": "Now I know that the LORD saves his anointed."
+  },
+  {
+    "id": 26663,
+    "book": "psalms                                  ",
+    "chapter": "20",
+    "verse": "7",
+    "text": "Some trust in chariots, and some in horses,"
+  },
+  {
+    "id": 26664,
+    "book": "psalms                                  ",
+    "chapter": "20",
+    "verse": "8",
+    "text": "They are bowed down and fallen,"
+  },
+  {
+    "id": 26665,
+    "book": "psalms                                  ",
+    "chapter": "20",
+    "verse": "9",
+    "text": "Save, LORD!"
+  }
+]

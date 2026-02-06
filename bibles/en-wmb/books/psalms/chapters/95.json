@@ -1,1 +1,79 @@
-{"data":[{"book":"Psalms","chapter":"95","verse":"1","text":"Oh come, let’s sing to the LORD."},{"book":"Psalms","chapter":"95","verse":"2","text":"Let’s come before his presence with thanksgiving."},{"book":"Psalms","chapter":"95","verse":"3","text":"For the LORD is a great God,"},{"book":"Psalms","chapter":"95","verse":"4","text":"In his hand are the deep places of the earth."},{"book":"Psalms","chapter":"95","verse":"5","text":"The sea is his, and he made it."},{"book":"Psalms","chapter":"95","verse":"6","text":"Oh come, let’s worship and bow down."},{"book":"Psalms","chapter":"95","verse":"7","text":"for he is our God."},{"book":"Psalms","chapter":"95","verse":"8","text":"Don’t harden your heart, as at Meribah,"},{"book":"Psalms","chapter":"95","verse":"9","text":"when your fathers tempted me,"},{"book":"Psalms","chapter":"95","verse":"10","text":"Forty long years I was grieved with that generation,"},{"book":"Psalms","chapter":"95","verse":"11","text":"Therefore I swore in my wrath,"}]}
+[
+  {
+    "id": 27929,
+    "book": "psalms                                  ",
+    "chapter": "95",
+    "verse": "1",
+    "text": "Oh come, let’s sing to the LORD."
+  },
+  {
+    "id": 27930,
+    "book": "psalms                                  ",
+    "chapter": "95",
+    "verse": "2",
+    "text": "Let’s come before his presence with thanksgiving."
+  },
+  {
+    "id": 27931,
+    "book": "psalms                                  ",
+    "chapter": "95",
+    "verse": "3",
+    "text": "For the LORD is a great God,"
+  },
+  {
+    "id": 27932,
+    "book": "psalms                                  ",
+    "chapter": "95",
+    "verse": "4",
+    "text": "In his hand are the deep places of the earth."
+  },
+  {
+    "id": 27933,
+    "book": "psalms                                  ",
+    "chapter": "95",
+    "verse": "5",
+    "text": "The sea is his, and he made it."
+  },
+  {
+    "id": 27934,
+    "book": "psalms                                  ",
+    "chapter": "95",
+    "verse": "6",
+    "text": "Oh come, let’s worship and bow down."
+  },
+  {
+    "id": 27935,
+    "book": "psalms                                  ",
+    "chapter": "95",
+    "verse": "7",
+    "text": "for he is our God."
+  },
+  {
+    "id": 27936,
+    "book": "psalms                                  ",
+    "chapter": "95",
+    "verse": "8",
+    "text": "Don’t harden your heart, as at Meribah,"
+  },
+  {
+    "id": 27937,
+    "book": "psalms                                  ",
+    "chapter": "95",
+    "verse": "9",
+    "text": "when your fathers tempted me,"
+  },
+  {
+    "id": 27938,
+    "book": "psalms                                  ",
+    "chapter": "95",
+    "verse": "10",
+    "text": "Forty long years I was grieved with that generation,"
+  },
+  {
+    "id": 27939,
+    "book": "psalms                                  ",
+    "chapter": "95",
+    "verse": "11",
+    "text": "Therefore I swore in my wrath,"
+  }
+]

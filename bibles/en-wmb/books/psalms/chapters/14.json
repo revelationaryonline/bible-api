@@ -1,1 +1,51 @@
-{"data":[{"book":"Psalms","chapter":"14","verse":"1","text":"The fool has said in his heart, “There is no God.”"},{"book":"Psalms","chapter":"14","verse":"2","text":"The LORD looked down from heaven on the children of men,"},{"book":"Psalms","chapter":"14","verse":"3","text":"They have all gone aside."},{"book":"Psalms","chapter":"14","verse":"4","text":"Have all the workers of iniquity no knowledge,"},{"book":"Psalms","chapter":"14","verse":"5","text":"There they were in great fear,"},{"book":"Psalms","chapter":"14","verse":"6","text":"You frustrate the plan of the poor,"},{"book":"Psalms","chapter":"14","verse":"7","text":"Oh that the salvation [yeshuat] of Israel would come out of Zion!"}]}
+[
+  {
+    "id": 26555,
+    "book": "psalms                                  ",
+    "chapter": "14",
+    "verse": "1",
+    "text": "The fool has said in his heart, “There is no God.”"
+  },
+  {
+    "id": 26556,
+    "book": "psalms                                  ",
+    "chapter": "14",
+    "verse": "2",
+    "text": "The LORD looked down from heaven on the children of men,"
+  },
+  {
+    "id": 26557,
+    "book": "psalms                                  ",
+    "chapter": "14",
+    "verse": "3",
+    "text": "They have all gone aside."
+  },
+  {
+    "id": 26558,
+    "book": "psalms                                  ",
+    "chapter": "14",
+    "verse": "4",
+    "text": "Have all the workers of iniquity no knowledge,"
+  },
+  {
+    "id": 26559,
+    "book": "psalms                                  ",
+    "chapter": "14",
+    "verse": "5",
+    "text": "There they were in great fear,"
+  },
+  {
+    "id": 26560,
+    "book": "psalms                                  ",
+    "chapter": "14",
+    "verse": "6",
+    "text": "You frustrate the plan of the poor,"
+  },
+  {
+    "id": 26561,
+    "book": "psalms                                  ",
+    "chapter": "14",
+    "verse": "7",
+    "text": "Oh that the salvation [yeshuat] of Israel would come out of Zion!"
+  }
+]

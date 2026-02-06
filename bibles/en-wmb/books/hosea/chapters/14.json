@@ -1,1 +1,65 @@
-{"data":[{"book":"Hosea","chapter":"14","verse":"1","text":"Israel, return to the LORD your God;"},{"book":"Hosea","chapter":"14","verse":"2","text":"Take words with you, and return to the LORD."},{"book":"Hosea","chapter":"14","verse":"3","text":"Assyria can’t save us."},{"book":"Hosea","chapter":"14","verse":"4","text":"“I will heal their waywardness."},{"book":"Hosea","chapter":"14","verse":"5","text":"I will be like the dew to Israel."},{"book":"Hosea","chapter":"14","verse":"6","text":"His branches will spread,"},{"book":"Hosea","chapter":"14","verse":"7","text":"Men will dwell in his shade."},{"book":"Hosea","chapter":"14","verse":"8","text":"Ephraim, what have I to do any more with idols?"},{"book":"Hosea","chapter":"14","verse":"9","text":"Who is wise, that he may understand these things?"}]}
+[
+  {
+    "id": 14270,
+    "book": "hosea                                   ",
+    "chapter": "14",
+    "verse": "1",
+    "text": "Israel, return to the LORD your God;"
+  },
+  {
+    "id": 14271,
+    "book": "hosea                                   ",
+    "chapter": "14",
+    "verse": "2",
+    "text": "Take words with you, and return to the LORD."
+  },
+  {
+    "id": 14272,
+    "book": "hosea                                   ",
+    "chapter": "14",
+    "verse": "3",
+    "text": "Assyria can’t save us."
+  },
+  {
+    "id": 14273,
+    "book": "hosea                                   ",
+    "chapter": "14",
+    "verse": "4",
+    "text": "“I will heal their waywardness."
+  },
+  {
+    "id": 14274,
+    "book": "hosea                                   ",
+    "chapter": "14",
+    "verse": "5",
+    "text": "I will be like the dew to Israel."
+  },
+  {
+    "id": 14275,
+    "book": "hosea                                   ",
+    "chapter": "14",
+    "verse": "6",
+    "text": "His branches will spread,"
+  },
+  {
+    "id": 14276,
+    "book": "hosea                                   ",
+    "chapter": "14",
+    "verse": "7",
+    "text": "Men will dwell in his shade."
+  },
+  {
+    "id": 14277,
+    "book": "hosea                                   ",
+    "chapter": "14",
+    "verse": "8",
+    "text": "Ephraim, what have I to do any more with idols?"
+  },
+  {
+    "id": 14278,
+    "book": "hosea                                   ",
+    "chapter": "14",
+    "verse": "9",
+    "text": "Who is wise, that he may understand these things?"
+  }
+]

@@ -1,1 +1,177 @@
-{"data":[{"book":"Proverbs","chapter":"13","verse":"1","text":"A wise son listens to his father’s instruction,"},{"book":"Proverbs","chapter":"13","verse":"2","text":"By the fruit of his lips, a man enjoys good things,"},{"book":"Proverbs","chapter":"13","verse":"3","text":"He who guards his mouth guards his soul."},{"book":"Proverbs","chapter":"13","verse":"4","text":"The soul of the sluggard desires, and has nothing,"},{"book":"Proverbs","chapter":"13","verse":"5","text":"A righteous man hates lies,"},{"book":"Proverbs","chapter":"13","verse":"6","text":"Righteousness guards the way of integrity,"},{"book":"Proverbs","chapter":"13","verse":"7","text":"There are some who pretend to be rich, yet have nothing."},{"book":"Proverbs","chapter":"13","verse":"8","text":"The ransom of a man’s life is his riches,"},{"book":"Proverbs","chapter":"13","verse":"9","text":"The light of the righteous shines brightly,"},{"book":"Proverbs","chapter":"13","verse":"10","text":"Pride only breeds quarrels,"},{"book":"Proverbs","chapter":"13","verse":"11","text":"Wealth gained dishonestly dwindles away,"},{"book":"Proverbs","chapter":"13","verse":"12","text":"Hope deferred makes the heart sick,"},{"book":"Proverbs","chapter":"13","verse":"13","text":"Whoever despises instruction will pay for it,"},{"book":"Proverbs","chapter":"13","verse":"14","text":"The teaching of the wise is a spring of life,"},{"book":"Proverbs","chapter":"13","verse":"15","text":"Good understanding wins favor,"},{"book":"Proverbs","chapter":"13","verse":"16","text":"Every prudent man acts from knowledge,"},{"book":"Proverbs","chapter":"13","verse":"17","text":"A wicked messenger falls into trouble,"},{"book":"Proverbs","chapter":"13","verse":"18","text":"Poverty and shame come to him who refuses discipline,"},{"book":"Proverbs","chapter":"13","verse":"19","text":"Longing fulfilled is sweet to the soul,"},{"book":"Proverbs","chapter":"13","verse":"20","text":"One who walks with wise men grows wise,"},{"book":"Proverbs","chapter":"13","verse":"21","text":"Misfortune pursues sinners,"},{"book":"Proverbs","chapter":"13","verse":"22","text":"A good man leaves an inheritance to his children’s children,"},{"book":"Proverbs","chapter":"13","verse":"23","text":"An abundance of food is in poor people’s fields,"},{"book":"Proverbs","chapter":"13","verse":"24","text":"One who spares the rod hates his son,"},{"book":"Proverbs","chapter":"13","verse":"25","text":"The righteous one eats to the satisfying of his soul,"}]}
+[
+  {
+    "id": 25846,
+    "book": "proverbs                                ",
+    "chapter": "13",
+    "verse": "1",
+    "text": "A wise son listens to his father’s instruction,"
+  },
+  {
+    "id": 25847,
+    "book": "proverbs                                ",
+    "chapter": "13",
+    "verse": "2",
+    "text": "By the fruit of his lips, a man enjoys good things,"
+  },
+  {
+    "id": 25848,
+    "book": "proverbs                                ",
+    "chapter": "13",
+    "verse": "3",
+    "text": "He who guards his mouth guards his soul."
+  },
+  {
+    "id": 25849,
+    "book": "proverbs                                ",
+    "chapter": "13",
+    "verse": "4",
+    "text": "The soul of the sluggard desires, and has nothing,"
+  },
+  {
+    "id": 25850,
+    "book": "proverbs                                ",
+    "chapter": "13",
+    "verse": "5",
+    "text": "A righteous man hates lies,"
+  },
+  {
+    "id": 25851,
+    "book": "proverbs                                ",
+    "chapter": "13",
+    "verse": "6",
+    "text": "Righteousness guards the way of integrity,"
+  },
+  {
+    "id": 25852,
+    "book": "proverbs                                ",
+    "chapter": "13",
+    "verse": "7",
+    "text": "There are some who pretend to be rich, yet have nothing."
+  },
+  {
+    "id": 25853,
+    "book": "proverbs                                ",
+    "chapter": "13",
+    "verse": "8",
+    "text": "The ransom of a man’s life is his riches,"
+  },
+  {
+    "id": 25854,
+    "book": "proverbs                                ",
+    "chapter": "13",
+    "verse": "9",
+    "text": "The light of the righteous shines brightly,"
+  },
+  {
+    "id": 25855,
+    "book": "proverbs                                ",
+    "chapter": "13",
+    "verse": "10",
+    "text": "Pride only breeds quarrels,"
+  },
+  {
+    "id": 25856,
+    "book": "proverbs                                ",
+    "chapter": "13",
+    "verse": "11",
+    "text": "Wealth gained dishonestly dwindles away,"
+  },
+  {
+    "id": 25857,
+    "book": "proverbs                                ",
+    "chapter": "13",
+    "verse": "12",
+    "text": "Hope deferred makes the heart sick,"
+  },
+  {
+    "id": 25858,
+    "book": "proverbs                                ",
+    "chapter": "13",
+    "verse": "13",
+    "text": "Whoever despises instruction will pay for it,"
+  },
+  {
+    "id": 25859,
+    "book": "proverbs                                ",
+    "chapter": "13",
+    "verse": "14",
+    "text": "The teaching of the wise is a spring of life,"
+  },
+  {
+    "id": 25860,
+    "book": "proverbs                                ",
+    "chapter": "13",
+    "verse": "15",
+    "text": "Good understanding wins favor,"
+  },
+  {
+    "id": 25861,
+    "book": "proverbs                                ",
+    "chapter": "13",
+    "verse": "16",
+    "text": "Every prudent man acts from knowledge,"
+  },
+  {
+    "id": 25862,
+    "book": "proverbs                                ",
+    "chapter": "13",
+    "verse": "17",
+    "text": "A wicked messenger falls into trouble,"
+  },
+  {
+    "id": 25863,
+    "book": "proverbs                                ",
+    "chapter": "13",
+    "verse": "18",
+    "text": "Poverty and shame come to him who refuses discipline,"
+  },
+  {
+    "id": 25864,
+    "book": "proverbs                                ",
+    "chapter": "13",
+    "verse": "19",
+    "text": "Longing fulfilled is sweet to the soul,"
+  },
+  {
+    "id": 25865,
+    "book": "proverbs                                ",
+    "chapter": "13",
+    "verse": "20",
+    "text": "One who walks with wise men grows wise,"
+  },
+  {
+    "id": 25866,
+    "book": "proverbs                                ",
+    "chapter": "13",
+    "verse": "21",
+    "text": "Misfortune pursues sinners,"
+  },
+  {
+    "id": 25867,
+    "book": "proverbs                                ",
+    "chapter": "13",
+    "verse": "22",
+    "text": "A good man leaves an inheritance to his children’s children,"
+  },
+  {
+    "id": 25868,
+    "book": "proverbs                                ",
+    "chapter": "13",
+    "verse": "23",
+    "text": "An abundance of food is in poor people’s fields,"
+  },
+  {
+    "id": 25869,
+    "book": "proverbs                                ",
+    "chapter": "13",
+    "verse": "24",
+    "text": "One who spares the rod hates his son,"
+  },
+  {
+    "id": 25870,
+    "book": "proverbs                                ",
+    "chapter": "13",
+    "verse": "25",
+    "text": "The righteous one eats to the satisfying of his soul,"
+  }
+]

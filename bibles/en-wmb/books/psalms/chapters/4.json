@@ -1,1 +1,58 @@
-{"data":[{"book":"Psalms","chapter":"4","verse":"1","text":"Answer me when I call, God of my righteousness."},{"book":"Psalms","chapter":"4","verse":"2","text":"You sons of men, how long shall my glory be turned into dishonor?"},{"book":"Psalms","chapter":"4","verse":"3","text":"But know that the LORD has set apart for himself him who is godly;"},{"book":"Psalms","chapter":"4","verse":"4","text":"Stand in awe, and don’t sin."},{"book":"Psalms","chapter":"4","verse":"5","text":"Offer the sacrifices of righteousness."},{"book":"Psalms","chapter":"4","verse":"6","text":"Many say, “Who will show us any good?”"},{"book":"Psalms","chapter":"4","verse":"7","text":"You have put gladness in my heart,"},{"book":"Psalms","chapter":"4","verse":"8","text":"In peace I will both lay myself down and sleep,"}]}
+[
+  {
+    "id": 26440,
+    "book": "psalms                                  ",
+    "chapter": "4",
+    "verse": "1",
+    "text": "Answer me when I call, God of my righteousness."
+  },
+  {
+    "id": 26441,
+    "book": "psalms                                  ",
+    "chapter": "4",
+    "verse": "2",
+    "text": "You sons of men, how long shall my glory be turned into dishonor?"
+  },
+  {
+    "id": 26442,
+    "book": "psalms                                  ",
+    "chapter": "4",
+    "verse": "3",
+    "text": "But know that the LORD has set apart for himself him who is godly;"
+  },
+  {
+    "id": 26443,
+    "book": "psalms                                  ",
+    "chapter": "4",
+    "verse": "4",
+    "text": "Stand in awe, and don’t sin."
+  },
+  {
+    "id": 26444,
+    "book": "psalms                                  ",
+    "chapter": "4",
+    "verse": "5",
+    "text": "Offer the sacrifices of righteousness."
+  },
+  {
+    "id": 26445,
+    "book": "psalms                                  ",
+    "chapter": "4",
+    "verse": "6",
+    "text": "Many say, “Who will show us any good?”"
+  },
+  {
+    "id": 26446,
+    "book": "psalms                                  ",
+    "chapter": "4",
+    "verse": "7",
+    "text": "You have put gladness in my heart,"
+  },
+  {
+    "id": 26447,
+    "book": "psalms                                  ",
+    "chapter": "4",
+    "verse": "8",
+    "text": "In peace I will both lay myself down and sleep,"
+  }
+]

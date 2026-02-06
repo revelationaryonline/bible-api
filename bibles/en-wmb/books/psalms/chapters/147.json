@@ -1,1 +1,142 @@
-{"data":[{"book":"Psalms","chapter":"147","verse":"1","text":"Praise the LORD,"},{"book":"Psalms","chapter":"147","verse":"2","text":"The LORD builds up Jerusalem."},{"book":"Psalms","chapter":"147","verse":"3","text":"He heals the broken in heart,"},{"book":"Psalms","chapter":"147","verse":"4","text":"He counts the number of the stars."},{"book":"Psalms","chapter":"147","verse":"5","text":"Great is our Lord, and mighty in power."},{"book":"Psalms","chapter":"147","verse":"6","text":"The LORD upholds the humble."},{"book":"Psalms","chapter":"147","verse":"7","text":"Sing to the LORD with thanksgiving."},{"book":"Psalms","chapter":"147","verse":"8","text":"who covers the sky with clouds,"},{"book":"Psalms","chapter":"147","verse":"9","text":"He provides food for the livestock,"},{"book":"Psalms","chapter":"147","verse":"10","text":"He doesn’t delight in the strength of the horse."},{"book":"Psalms","chapter":"147","verse":"11","text":"The LORD takes pleasure in those who fear him,"},{"book":"Psalms","chapter":"147","verse":"12","text":"Praise the LORD, Jerusalem!"},{"book":"Psalms","chapter":"147","verse":"13","text":"For he has strengthened the bars of your gates."},{"book":"Psalms","chapter":"147","verse":"14","text":"He makes peace in your borders."},{"book":"Psalms","chapter":"147","verse":"15","text":"He sends out his commandment to the earth."},{"book":"Psalms","chapter":"147","verse":"16","text":"He gives snow like wool,"},{"book":"Psalms","chapter":"147","verse":"17","text":"He hurls down his hail like pebbles."},{"book":"Psalms","chapter":"147","verse":"18","text":"He sends out his word, and melts them."},{"book":"Psalms","chapter":"147","verse":"19","text":"He shows his word to Jacob,"},{"book":"Psalms","chapter":"147","verse":"20","text":"He has not done this for just any nation."}]}
+[
+  {
+    "id": 28826,
+    "book": "psalms                                  ",
+    "chapter": "147",
+    "verse": "1",
+    "text": "Praise the LORD,"
+  },
+  {
+    "id": 28827,
+    "book": "psalms                                  ",
+    "chapter": "147",
+    "verse": "2",
+    "text": "The LORD builds up Jerusalem."
+  },
+  {
+    "id": 28828,
+    "book": "psalms                                  ",
+    "chapter": "147",
+    "verse": "3",
+    "text": "He heals the broken in heart,"
+  },
+  {
+    "id": 28829,
+    "book": "psalms                                  ",
+    "chapter": "147",
+    "verse": "4",
+    "text": "He counts the number of the stars."
+  },
+  {
+    "id": 28830,
+    "book": "psalms                                  ",
+    "chapter": "147",
+    "verse": "5",
+    "text": "Great is our Lord, and mighty in power."
+  },
+  {
+    "id": 28831,
+    "book": "psalms                                  ",
+    "chapter": "147",
+    "verse": "6",
+    "text": "The LORD upholds the humble."
+  },
+  {
+    "id": 28832,
+    "book": "psalms                                  ",
+    "chapter": "147",
+    "verse": "7",
+    "text": "Sing to the LORD with thanksgiving."
+  },
+  {
+    "id": 28833,
+    "book": "psalms                                  ",
+    "chapter": "147",
+    "verse": "8",
+    "text": "who covers the sky with clouds,"
+  },
+  {
+    "id": 28834,
+    "book": "psalms                                  ",
+    "chapter": "147",
+    "verse": "9",
+    "text": "He provides food for the livestock,"
+  },
+  {
+    "id": 28835,
+    "book": "psalms                                  ",
+    "chapter": "147",
+    "verse": "10",
+    "text": "He doesn’t delight in the strength of the horse."
+  },
+  {
+    "id": 28836,
+    "book": "psalms                                  ",
+    "chapter": "147",
+    "verse": "11",
+    "text": "The LORD takes pleasure in those who fear him,"
+  },
+  {
+    "id": 28837,
+    "book": "psalms                                  ",
+    "chapter": "147",
+    "verse": "12",
+    "text": "Praise the LORD, Jerusalem!"
+  },
+  {
+    "id": 28838,
+    "book": "psalms                                  ",
+    "chapter": "147",
+    "verse": "13",
+    "text": "For he has strengthened the bars of your gates."
+  },
+  {
+    "id": 28839,
+    "book": "psalms                                  ",
+    "chapter": "147",
+    "verse": "14",
+    "text": "He makes peace in your borders."
+  },
+  {
+    "id": 28840,
+    "book": "psalms                                  ",
+    "chapter": "147",
+    "verse": "15",
+    "text": "He sends out his commandment to the earth."
+  },
+  {
+    "id": 28841,
+    "book": "psalms                                  ",
+    "chapter": "147",
+    "verse": "16",
+    "text": "He gives snow like wool,"
+  },
+  {
+    "id": 28842,
+    "book": "psalms                                  ",
+    "chapter": "147",
+    "verse": "17",
+    "text": "He hurls down his hail like pebbles."
+  },
+  {
+    "id": 28843,
+    "book": "psalms                                  ",
+    "chapter": "147",
+    "verse": "18",
+    "text": "He sends out his word, and melts them."
+  },
+  {
+    "id": 28844,
+    "book": "psalms                                  ",
+    "chapter": "147",
+    "verse": "19",
+    "text": "He shows his word to Jacob,"
+  },
+  {
+    "id": 28845,
+    "book": "psalms                                  ",
+    "chapter": "147",
+    "verse": "20",
+    "text": "He has not done this for just any nation."
+  }
+]

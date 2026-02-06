@@ -1,1 +1,121 @@
-{"data":[{"book":"Psalms","chapter":"40","verse":"1","text":"I waited patiently for the LORD."},{"book":"Psalms","chapter":"40","verse":"2","text":"He brought me up also out of a horrible pit,"},{"book":"Psalms","chapter":"40","verse":"3","text":"He has put a new song in my mouth, even praise to our God."},{"book":"Psalms","chapter":"40","verse":"4","text":"Blessed is the man who makes the LORD his trust,"},{"book":"Psalms","chapter":"40","verse":"5","text":"Many, LORD, my God, are the wonderful works which you have done,"},{"book":"Psalms","chapter":"40","verse":"6","text":"Sacrifice and offering you didn’t desire."},{"book":"Psalms","chapter":"40","verse":"7","text":"Then I said, “Behold, I have come."},{"book":"Psalms","chapter":"40","verse":"8","text":"I delight to do your will, my God."},{"book":"Psalms","chapter":"40","verse":"9","text":"I have proclaimed glad news of righteousness in the great assembly."},{"book":"Psalms","chapter":"40","verse":"10","text":"I have not hidden your righteousness within my heart."},{"book":"Psalms","chapter":"40","verse":"11","text":"Don’t withhold your tender mercies from me, LORD."},{"book":"Psalms","chapter":"40","verse":"12","text":"For innumerable evils have surrounded me."},{"book":"Psalms","chapter":"40","verse":"13","text":"Be pleased, LORD, to deliver me."},{"book":"Psalms","chapter":"40","verse":"14","text":"Let them be disappointed and confounded together who seek after my soul to destroy it."},{"book":"Psalms","chapter":"40","verse":"15","text":"Let them be desolate by reason of their shame that tell me, “Aha! Aha!”"},{"book":"Psalms","chapter":"40","verse":"16","text":"Let all those who seek you rejoice and be glad in you."},{"book":"Psalms","chapter":"40","verse":"17","text":"But I am poor and needy."}]}
+[
+  {
+    "id": 27000,
+    "book": "psalms                                  ",
+    "chapter": "40",
+    "verse": "1",
+    "text": "I waited patiently for the LORD."
+  },
+  {
+    "id": 27001,
+    "book": "psalms                                  ",
+    "chapter": "40",
+    "verse": "2",
+    "text": "He brought me up also out of a horrible pit,"
+  },
+  {
+    "id": 27002,
+    "book": "psalms                                  ",
+    "chapter": "40",
+    "verse": "3",
+    "text": "He has put a new song in my mouth, even praise to our God."
+  },
+  {
+    "id": 27003,
+    "book": "psalms                                  ",
+    "chapter": "40",
+    "verse": "4",
+    "text": "Blessed is the man who makes the LORD his trust,"
+  },
+  {
+    "id": 27004,
+    "book": "psalms                                  ",
+    "chapter": "40",
+    "verse": "5",
+    "text": "Many, LORD, my God, are the wonderful works which you have done,"
+  },
+  {
+    "id": 27005,
+    "book": "psalms                                  ",
+    "chapter": "40",
+    "verse": "6",
+    "text": "Sacrifice and offering you didn’t desire."
+  },
+  {
+    "id": 27006,
+    "book": "psalms                                  ",
+    "chapter": "40",
+    "verse": "7",
+    "text": "Then I said, “Behold, I have come."
+  },
+  {
+    "id": 27007,
+    "book": "psalms                                  ",
+    "chapter": "40",
+    "verse": "8",
+    "text": "I delight to do your will, my God."
+  },
+  {
+    "id": 27008,
+    "book": "psalms                                  ",
+    "chapter": "40",
+    "verse": "9",
+    "text": "I have proclaimed glad news of righteousness in the great assembly."
+  },
+  {
+    "id": 27009,
+    "book": "psalms                                  ",
+    "chapter": "40",
+    "verse": "10",
+    "text": "I have not hidden your righteousness within my heart."
+  },
+  {
+    "id": 27010,
+    "book": "psalms                                  ",
+    "chapter": "40",
+    "verse": "11",
+    "text": "Don’t withhold your tender mercies from me, LORD."
+  },
+  {
+    "id": 27011,
+    "book": "psalms                                  ",
+    "chapter": "40",
+    "verse": "12",
+    "text": "For innumerable evils have surrounded me."
+  },
+  {
+    "id": 27012,
+    "book": "psalms                                  ",
+    "chapter": "40",
+    "verse": "13",
+    "text": "Be pleased, LORD, to deliver me."
+  },
+  {
+    "id": 27013,
+    "book": "psalms                                  ",
+    "chapter": "40",
+    "verse": "14",
+    "text": "Let them be disappointed and confounded together who seek after my soul to destroy it."
+  },
+  {
+    "id": 27014,
+    "book": "psalms                                  ",
+    "chapter": "40",
+    "verse": "15",
+    "text": "Let them be desolate by reason of their shame that tell me, “Aha! Aha!”"
+  },
+  {
+    "id": 27015,
+    "book": "psalms                                  ",
+    "chapter": "40",
+    "verse": "16",
+    "text": "Let all those who seek you rejoice and be glad in you."
+  },
+  {
+    "id": 27016,
+    "book": "psalms                                  ",
+    "chapter": "40",
+    "verse": "17",
+    "text": "But I am poor and needy."
+  }
+]

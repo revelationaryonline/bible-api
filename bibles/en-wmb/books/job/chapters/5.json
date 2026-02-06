@@ -1,1 +1,191 @@
-{"data":[{"book":"Job","chapter":"5","verse":"1","text":"“Call now; is there any who will answer you?"},{"book":"Job","chapter":"5","verse":"2","text":"For resentment kills the foolish man,"},{"book":"Job","chapter":"5","verse":"3","text":"I have seen the foolish taking root,"},{"book":"Job","chapter":"5","verse":"4","text":"His children are far from safety."},{"book":"Job","chapter":"5","verse":"5","text":"whose harvest the hungry eat up,"},{"book":"Job","chapter":"5","verse":"6","text":"For affliction doesn’t come out of the dust,"},{"book":"Job","chapter":"5","verse":"7","text":"but man is born to trouble,"},{"book":"Job","chapter":"5","verse":"8","text":"“But as for me, I would seek God."},{"book":"Job","chapter":"5","verse":"9","text":"who does great things that can’t be fathomed,"},{"book":"Job","chapter":"5","verse":"10","text":"who gives rain on the earth,"},{"book":"Job","chapter":"5","verse":"11","text":"so that he sets up on high those who are low,"},{"book":"Job","chapter":"5","verse":"12","text":"He frustrates the plans of the crafty,"},{"book":"Job","chapter":"5","verse":"13","text":"He takes the wise in their own craftiness;"},{"book":"Job","chapter":"5","verse":"14","text":"They meet with darkness in the day time,"},{"book":"Job","chapter":"5","verse":"15","text":"But he saves from the sword of their mouth,"},{"book":"Job","chapter":"5","verse":"16","text":"So the poor has hope,"},{"book":"Job","chapter":"5","verse":"17","text":"“Behold, happy is the man whom God corrects."},{"book":"Job","chapter":"5","verse":"18","text":"For he wounds and binds up."},{"book":"Job","chapter":"5","verse":"19","text":"He will deliver you in six troubles;"},{"book":"Job","chapter":"5","verse":"20","text":"In famine he will redeem you from death;"},{"book":"Job","chapter":"5","verse":"21","text":"You will be hidden from the scourge of the tongue,"},{"book":"Job","chapter":"5","verse":"22","text":"You will laugh at destruction and famine,"},{"book":"Job","chapter":"5","verse":"23","text":"For you will be allied with the stones of the field."},{"book":"Job","chapter":"5","verse":"24","text":"You will know that your tent is in peace."},{"book":"Job","chapter":"5","verse":"25","text":"You will know also that your offspring5:25 or, seed will be great,"},{"book":"Job","chapter":"5","verse":"26","text":"You will come to your grave in a full age,"},{"book":"Job","chapter":"5","verse":"27","text":"Behold, we have researched it. It is so."}]}
+[
+  {
+    "id": 17125,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "1",
+    "text": "“Call now; is there any who will answer you?"
+  },
+  {
+    "id": 17126,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "2",
+    "text": "For resentment kills the foolish man,"
+  },
+  {
+    "id": 17127,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "3",
+    "text": "I have seen the foolish taking root,"
+  },
+  {
+    "id": 17128,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "4",
+    "text": "His children are far from safety."
+  },
+  {
+    "id": 17129,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "5",
+    "text": "whose harvest the hungry eat up,"
+  },
+  {
+    "id": 17130,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "6",
+    "text": "For affliction doesn’t come out of the dust,"
+  },
+  {
+    "id": 17131,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "7",
+    "text": "but man is born to trouble,"
+  },
+  {
+    "id": 17132,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "8",
+    "text": "“But as for me, I would seek God."
+  },
+  {
+    "id": 17133,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "9",
+    "text": "who does great things that can’t be fathomed,"
+  },
+  {
+    "id": 17134,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "10",
+    "text": "who gives rain on the earth,"
+  },
+  {
+    "id": 17135,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "11",
+    "text": "so that he sets up on high those who are low,"
+  },
+  {
+    "id": 17136,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "12",
+    "text": "He frustrates the plans of the crafty,"
+  },
+  {
+    "id": 17137,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "13",
+    "text": "He takes the wise in their own craftiness;"
+  },
+  {
+    "id": 17138,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "14",
+    "text": "They meet with darkness in the day time,"
+  },
+  {
+    "id": 17139,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "15",
+    "text": "But he saves from the sword of their mouth,"
+  },
+  {
+    "id": 17140,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "16",
+    "text": "So the poor has hope,"
+  },
+  {
+    "id": 17141,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "17",
+    "text": "“Behold, happy is the man whom God corrects."
+  },
+  {
+    "id": 17142,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "18",
+    "text": "For he wounds and binds up."
+  },
+  {
+    "id": 17143,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "19",
+    "text": "He will deliver you in six troubles;"
+  },
+  {
+    "id": 17144,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "20",
+    "text": "In famine he will redeem you from death;"
+  },
+  {
+    "id": 17145,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "21",
+    "text": "You will be hidden from the scourge of the tongue,"
+  },
+  {
+    "id": 17146,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "22",
+    "text": "You will laugh at destruction and famine,"
+  },
+  {
+    "id": 17147,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "23",
+    "text": "For you will be allied with the stones of the field."
+  },
+  {
+    "id": 17148,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "24",
+    "text": "You will know that your tent is in peace."
+  },
+  {
+    "id": 17149,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "25",
+    "text": "You will know also that your offspring5:25 or, seed will be great,"
+  },
+  {
+    "id": 17150,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "26",
+    "text": "You will come to your grave in a full age,"
+  },
+  {
+    "id": 17151,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "27",
+    "text": "Behold, we have researched it. It is so."
+  }
+]

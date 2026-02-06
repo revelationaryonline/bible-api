@@ -1,1 +1,72 @@
-{"data":[{"book":"Jonah","chapter":"2","verse":"1","text":"Then Jonah prayed to the LORD, his God, out of the fish’s belly."},{"book":"Jonah","chapter":"2","verse":"2","text":"He said,"},{"book":"Jonah","chapter":"2","verse":"3","text":"For you threw me into the depths,"},{"book":"Jonah","chapter":"2","verse":"4","text":"I said, ‘I have been banished from your sight;"},{"book":"Jonah","chapter":"2","verse":"5","text":"The waters surrounded me,"},{"book":"Jonah","chapter":"2","verse":"6","text":"I went down to the bottoms of the mountains."},{"book":"Jonah","chapter":"2","verse":"7","text":"“When my soul fainted within me, I remembered the LORD."},{"book":"Jonah","chapter":"2","verse":"8","text":"Those who regard vain idols forsake their own mercy."},{"book":"Jonah","chapter":"2","verse":"9","text":"But I will sacrifice to you with the voice of thanksgiving."},{"book":"Jonah","chapter":"2","verse":"10","text":"Then the LORD spoke to the fish, and it vomited out Jonah on the dry land."}]}
+[
+  {
+    "id": 18203,
+    "book": "jonah                                   ",
+    "chapter": "2",
+    "verse": "1",
+    "text": "Then Jonah prayed to the LORD, his God, out of the fish’s belly."
+  },
+  {
+    "id": 18204,
+    "book": "jonah                                   ",
+    "chapter": "2",
+    "verse": "2",
+    "text": "He said,"
+  },
+  {
+    "id": 18205,
+    "book": "jonah                                   ",
+    "chapter": "2",
+    "verse": "3",
+    "text": "For you threw me into the depths,"
+  },
+  {
+    "id": 18206,
+    "book": "jonah                                   ",
+    "chapter": "2",
+    "verse": "4",
+    "text": "I said, ‘I have been banished from your sight;"
+  },
+  {
+    "id": 18207,
+    "book": "jonah                                   ",
+    "chapter": "2",
+    "verse": "5",
+    "text": "The waters surrounded me,"
+  },
+  {
+    "id": 18208,
+    "book": "jonah                                   ",
+    "chapter": "2",
+    "verse": "6",
+    "text": "I went down to the bottoms of the mountains."
+  },
+  {
+    "id": 18209,
+    "book": "jonah                                   ",
+    "chapter": "2",
+    "verse": "7",
+    "text": "“When my soul fainted within me, I remembered the LORD."
+  },
+  {
+    "id": 18210,
+    "book": "jonah                                   ",
+    "chapter": "2",
+    "verse": "8",
+    "text": "Those who regard vain idols forsake their own mercy."
+  },
+  {
+    "id": 18211,
+    "book": "jonah                                   ",
+    "chapter": "2",
+    "verse": "9",
+    "text": "But I will sacrifice to you with the voice of thanksgiving."
+  },
+  {
+    "id": 18212,
+    "book": "jonah                                   ",
+    "chapter": "2",
+    "verse": "10",
+    "text": "Then the LORD spoke to the fish, and it vomited out Jonah on the dry land."
+  }
+]

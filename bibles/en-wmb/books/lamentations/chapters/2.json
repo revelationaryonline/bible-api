@@ -1,1 +1,156 @@
-{"data":[{"book":"Lamentations","chapter":"2","verse":"1","text":"How has the Lord covered the daughter of Zion with a cloud in his anger!"},{"book":"Lamentations","chapter":"2","verse":"2","text":"The Lord has swallowed up all the dwellings of Jacob"},{"book":"Lamentations","chapter":"2","verse":"3","text":"He has cut off all the horn of Israel in fierce anger."},{"book":"Lamentations","chapter":"2","verse":"4","text":"He has bent his bow like an enemy."},{"book":"Lamentations","chapter":"2","verse":"5","text":"The Lord has become as an enemy."},{"book":"Lamentations","chapter":"2","verse":"6","text":"He has violently taken away his tabernacle,"},{"book":"Lamentations","chapter":"2","verse":"7","text":"The Lord has cast off his altar."},{"book":"Lamentations","chapter":"2","verse":"8","text":"The LORD has purposed to destroy the wall of the daughter of Zion."},{"book":"Lamentations","chapter":"2","verse":"9","text":"Her gates have sunk into the ground."},{"book":"Lamentations","chapter":"2","verse":"10","text":"The elders of the daughter of Zion sit on the ground."},{"book":"Lamentations","chapter":"2","verse":"11","text":"My eyes fail with tears."},{"book":"Lamentations","chapter":"2","verse":"12","text":"They ask their mothers,"},{"book":"Lamentations","chapter":"2","verse":"13","text":"What shall I testify to you?"},{"book":"Lamentations","chapter":"2","verse":"14","text":"Your prophets have seen false and foolish visions for you."},{"book":"Lamentations","chapter":"2","verse":"15","text":"All that pass by clap their hands at you."},{"book":"Lamentations","chapter":"2","verse":"16","text":"All your enemies have opened their mouth wide against you."},{"book":"Lamentations","chapter":"2","verse":"17","text":"The LORD has done that which he planned."},{"book":"Lamentations","chapter":"2","verse":"18","text":"Their heart cried to the Lord."},{"book":"Lamentations","chapter":"2","verse":"19","text":"Arise, cry out in the night,"},{"book":"Lamentations","chapter":"2","verse":"20","text":"“Look, LORD, and see to whom you have done thus!"},{"book":"Lamentations","chapter":"2","verse":"21","text":"“The youth and the old man lie on the ground in the streets."},{"book":"Lamentations","chapter":"2","verse":"22","text":"“You have called, as in the day of a solemn assembly, my terrors on every side."}]}
+[
+  {
+    "id": 19557,
+    "book": "lamentations                            ",
+    "chapter": "2",
+    "verse": "1",
+    "text": "How has the Lord covered the daughter of Zion with a cloud in his anger!"
+  },
+  {
+    "id": 19558,
+    "book": "lamentations                            ",
+    "chapter": "2",
+    "verse": "2",
+    "text": "The Lord has swallowed up all the dwellings of Jacob"
+  },
+  {
+    "id": 19559,
+    "book": "lamentations                            ",
+    "chapter": "2",
+    "verse": "3",
+    "text": "He has cut off all the horn of Israel in fierce anger."
+  },
+  {
+    "id": 19560,
+    "book": "lamentations                            ",
+    "chapter": "2",
+    "verse": "4",
+    "text": "He has bent his bow like an enemy."
+  },
+  {
+    "id": 19561,
+    "book": "lamentations                            ",
+    "chapter": "2",
+    "verse": "5",
+    "text": "The Lord has become as an enemy."
+  },
+  {
+    "id": 19562,
+    "book": "lamentations                            ",
+    "chapter": "2",
+    "verse": "6",
+    "text": "He has violently taken away his tabernacle,"
+  },
+  {
+    "id": 19563,
+    "book": "lamentations                            ",
+    "chapter": "2",
+    "verse": "7",
+    "text": "The Lord has cast off his altar."
+  },
+  {
+    "id": 19564,
+    "book": "lamentations                            ",
+    "chapter": "2",
+    "verse": "8",
+    "text": "The LORD has purposed to destroy the wall of the daughter of Zion."
+  },
+  {
+    "id": 19565,
+    "book": "lamentations                            ",
+    "chapter": "2",
+    "verse": "9",
+    "text": "Her gates have sunk into the ground."
+  },
+  {
+    "id": 19566,
+    "book": "lamentations                            ",
+    "chapter": "2",
+    "verse": "10",
+    "text": "The elders of the daughter of Zion sit on the ground."
+  },
+  {
+    "id": 19567,
+    "book": "lamentations                            ",
+    "chapter": "2",
+    "verse": "11",
+    "text": "My eyes fail with tears."
+  },
+  {
+    "id": 19568,
+    "book": "lamentations                            ",
+    "chapter": "2",
+    "verse": "12",
+    "text": "They ask their mothers,"
+  },
+  {
+    "id": 19569,
+    "book": "lamentations                            ",
+    "chapter": "2",
+    "verse": "13",
+    "text": "What shall I testify to you?"
+  },
+  {
+    "id": 19570,
+    "book": "lamentations                            ",
+    "chapter": "2",
+    "verse": "14",
+    "text": "Your prophets have seen false and foolish visions for you."
+  },
+  {
+    "id": 19571,
+    "book": "lamentations                            ",
+    "chapter": "2",
+    "verse": "15",
+    "text": "All that pass by clap their hands at you."
+  },
+  {
+    "id": 19572,
+    "book": "lamentations                            ",
+    "chapter": "2",
+    "verse": "16",
+    "text": "All your enemies have opened their mouth wide against you."
+  },
+  {
+    "id": 19573,
+    "book": "lamentations                            ",
+    "chapter": "2",
+    "verse": "17",
+    "text": "The LORD has done that which he planned."
+  },
+  {
+    "id": 19574,
+    "book": "lamentations                            ",
+    "chapter": "2",
+    "verse": "18",
+    "text": "Their heart cried to the Lord."
+  },
+  {
+    "id": 19575,
+    "book": "lamentations                            ",
+    "chapter": "2",
+    "verse": "19",
+    "text": "Arise, cry out in the night,"
+  },
+  {
+    "id": 19576,
+    "book": "lamentations                            ",
+    "chapter": "2",
+    "verse": "20",
+    "text": "“Look, LORD, and see to whom you have done thus!"
+  },
+  {
+    "id": 19577,
+    "book": "lamentations                            ",
+    "chapter": "2",
+    "verse": "21",
+    "text": "“The youth and the old man lie on the ground in the streets."
+  },
+  {
+    "id": 19578,
+    "book": "lamentations                            ",
+    "chapter": "2",
+    "verse": "22",
+    "text": "“You have called, as in the day of a solemn assembly, my terrors on every side."
+  }
+]

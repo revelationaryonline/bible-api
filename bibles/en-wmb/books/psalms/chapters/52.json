@@ -1,1 +1,65 @@
-{"data":[{"book":"Psalms","chapter":"52","verse":"1","text":"Why do you boast of mischief, mighty man?"},{"book":"Psalms","chapter":"52","verse":"2","text":"Your tongue plots destruction,"},{"book":"Psalms","chapter":"52","verse":"3","text":"You love evil more than good,"},{"book":"Psalms","chapter":"52","verse":"4","text":"You love all devouring words,"},{"book":"Psalms","chapter":"52","verse":"5","text":"God will likewise destroy you forever."},{"book":"Psalms","chapter":"52","verse":"6","text":"The righteous also will see it, and fear,"},{"book":"Psalms","chapter":"52","verse":"7","text":"“Behold, this is the man who didn’t make God his strength,"},{"book":"Psalms","chapter":"52","verse":"8","text":"But as for me, I am like a green olive tree in God’s house."},{"book":"Psalms","chapter":"52","verse":"9","text":"I will give you thanks forever, because you have done it."}]}
+[
+  {
+    "id": 27185,
+    "book": "psalms                                  ",
+    "chapter": "52",
+    "verse": "1",
+    "text": "Why do you boast of mischief, mighty man?"
+  },
+  {
+    "id": 27186,
+    "book": "psalms                                  ",
+    "chapter": "52",
+    "verse": "2",
+    "text": "Your tongue plots destruction,"
+  },
+  {
+    "id": 27187,
+    "book": "psalms                                  ",
+    "chapter": "52",
+    "verse": "3",
+    "text": "You love evil more than good,"
+  },
+  {
+    "id": 27188,
+    "book": "psalms                                  ",
+    "chapter": "52",
+    "verse": "4",
+    "text": "You love all devouring words,"
+  },
+  {
+    "id": 27189,
+    "book": "psalms                                  ",
+    "chapter": "52",
+    "verse": "5",
+    "text": "God will likewise destroy you forever."
+  },
+  {
+    "id": 27190,
+    "book": "psalms                                  ",
+    "chapter": "52",
+    "verse": "6",
+    "text": "The righteous also will see it, and fear,"
+  },
+  {
+    "id": 27191,
+    "book": "psalms                                  ",
+    "chapter": "52",
+    "verse": "7",
+    "text": "“Behold, this is the man who didn’t make God his strength,"
+  },
+  {
+    "id": 27192,
+    "book": "psalms                                  ",
+    "chapter": "52",
+    "verse": "8",
+    "text": "But as for me, I am like a green olive tree in God’s house."
+  },
+  {
+    "id": 27193,
+    "book": "psalms                                  ",
+    "chapter": "52",
+    "verse": "9",
+    "text": "I will give you thanks forever, because you have done it."
+  }
+]

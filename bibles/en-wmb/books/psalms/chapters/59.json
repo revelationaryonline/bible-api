@@ -1,1 +1,121 @@
-{"data":[{"book":"Psalms","chapter":"59","verse":"1","text":"Deliver me from my enemies, my God."},{"book":"Psalms","chapter":"59","verse":"2","text":"Deliver me from the workers of iniquity."},{"book":"Psalms","chapter":"59","verse":"3","text":"For, behold, they lie in wait for my soul."},{"book":"Psalms","chapter":"59","verse":"4","text":"I have done no wrong, yet they are ready to attack me."},{"book":"Psalms","chapter":"59","verse":"5","text":"You, LORD God of Hosts, the God of Israel,"},{"book":"Psalms","chapter":"59","verse":"6","text":"They return at evening, howling like dogs,"},{"book":"Psalms","chapter":"59","verse":"7","text":"Behold, they spew with their mouth."},{"book":"Psalms","chapter":"59","verse":"8","text":"But you, LORD, laugh at them."},{"book":"Psalms","chapter":"59","verse":"9","text":"Oh, my Strength, I watch for you,"},{"book":"Psalms","chapter":"59","verse":"10","text":"My God will go before me with his loving kindness."},{"book":"Psalms","chapter":"59","verse":"11","text":"Don’t kill them, or my people may forget."},{"book":"Psalms","chapter":"59","verse":"12","text":"For the sin of their mouth, and the words of their lips,"},{"book":"Psalms","chapter":"59","verse":"13","text":"Consume them in wrath."},{"book":"Psalms","chapter":"59","verse":"14","text":"At evening let them return."},{"book":"Psalms","chapter":"59","verse":"15","text":"They shall wander up and down for food,"},{"book":"Psalms","chapter":"59","verse":"16","text":"But I will sing of your strength."},{"book":"Psalms","chapter":"59","verse":"17","text":"To you, my strength, I will sing praises."}]}
+[
+  {
+    "id": 27265,
+    "book": "psalms                                  ",
+    "chapter": "59",
+    "verse": "1",
+    "text": "Deliver me from my enemies, my God."
+  },
+  {
+    "id": 27266,
+    "book": "psalms                                  ",
+    "chapter": "59",
+    "verse": "2",
+    "text": "Deliver me from the workers of iniquity."
+  },
+  {
+    "id": 27267,
+    "book": "psalms                                  ",
+    "chapter": "59",
+    "verse": "3",
+    "text": "For, behold, they lie in wait for my soul."
+  },
+  {
+    "id": 27268,
+    "book": "psalms                                  ",
+    "chapter": "59",
+    "verse": "4",
+    "text": "I have done no wrong, yet they are ready to attack me."
+  },
+  {
+    "id": 27269,
+    "book": "psalms                                  ",
+    "chapter": "59",
+    "verse": "5",
+    "text": "You, LORD God of Hosts, the God of Israel,"
+  },
+  {
+    "id": 27270,
+    "book": "psalms                                  ",
+    "chapter": "59",
+    "verse": "6",
+    "text": "They return at evening, howling like dogs,"
+  },
+  {
+    "id": 27271,
+    "book": "psalms                                  ",
+    "chapter": "59",
+    "verse": "7",
+    "text": "Behold, they spew with their mouth."
+  },
+  {
+    "id": 27272,
+    "book": "psalms                                  ",
+    "chapter": "59",
+    "verse": "8",
+    "text": "But you, LORD, laugh at them."
+  },
+  {
+    "id": 27273,
+    "book": "psalms                                  ",
+    "chapter": "59",
+    "verse": "9",
+    "text": "Oh, my Strength, I watch for you,"
+  },
+  {
+    "id": 27274,
+    "book": "psalms                                  ",
+    "chapter": "59",
+    "verse": "10",
+    "text": "My God will go before me with his loving kindness."
+  },
+  {
+    "id": 27275,
+    "book": "psalms                                  ",
+    "chapter": "59",
+    "verse": "11",
+    "text": "Don’t kill them, or my people may forget."
+  },
+  {
+    "id": 27276,
+    "book": "psalms                                  ",
+    "chapter": "59",
+    "verse": "12",
+    "text": "For the sin of their mouth, and the words of their lips,"
+  },
+  {
+    "id": 27277,
+    "book": "psalms                                  ",
+    "chapter": "59",
+    "verse": "13",
+    "text": "Consume them in wrath."
+  },
+  {
+    "id": 27278,
+    "book": "psalms                                  ",
+    "chapter": "59",
+    "verse": "14",
+    "text": "At evening let them return."
+  },
+  {
+    "id": 27279,
+    "book": "psalms                                  ",
+    "chapter": "59",
+    "verse": "15",
+    "text": "They shall wander up and down for food,"
+  },
+  {
+    "id": 27280,
+    "book": "psalms                                  ",
+    "chapter": "59",
+    "verse": "16",
+    "text": "But I will sing of your strength."
+  },
+  {
+    "id": 27281,
+    "book": "psalms                                  ",
+    "chapter": "59",
+    "verse": "17",
+    "text": "To you, my strength, I will sing praises."
+  }
+]

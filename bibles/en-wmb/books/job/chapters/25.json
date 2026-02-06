@@ -1,1 +1,44 @@
-{"data":[{"book":"Job","chapter":"25","verse":"1","text":"Then Bildad the Shuhite answered,"},{"book":"Job","chapter":"25","verse":"2","text":"“Dominion and fear are with him."},{"book":"Job","chapter":"25","verse":"3","text":"Can his armies be counted?"},{"book":"Job","chapter":"25","verse":"4","text":"How then can man be just with God?"},{"book":"Job","chapter":"25","verse":"5","text":"Behold, even the moon has no brightness,"},{"book":"Job","chapter":"25","verse":"6","text":"How much less man, who is a worm,"}]}
+[
+  {
+    "id": 17635,
+    "book": "job                                     ",
+    "chapter": "25",
+    "verse": "1",
+    "text": "Then Bildad the Shuhite answered,"
+  },
+  {
+    "id": 17636,
+    "book": "job                                     ",
+    "chapter": "25",
+    "verse": "2",
+    "text": "“Dominion and fear are with him."
+  },
+  {
+    "id": 17637,
+    "book": "job                                     ",
+    "chapter": "25",
+    "verse": "3",
+    "text": "Can his armies be counted?"
+  },
+  {
+    "id": 17638,
+    "book": "job                                     ",
+    "chapter": "25",
+    "verse": "4",
+    "text": "How then can man be just with God?"
+  },
+  {
+    "id": 17639,
+    "book": "job                                     ",
+    "chapter": "25",
+    "verse": "5",
+    "text": "Behold, even the moon has no brightness,"
+  },
+  {
+    "id": 17640,
+    "book": "job                                     ",
+    "chapter": "25",
+    "verse": "6",
+    "text": "How much less man, who is a worm,"
+  }
+]

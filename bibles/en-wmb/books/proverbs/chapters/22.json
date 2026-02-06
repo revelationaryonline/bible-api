@@ -1,1 +1,205 @@
-{"data":[{"book":"Proverbs","chapter":"22","verse":"1","text":"A good name is more desirable than great riches,"},{"book":"Proverbs","chapter":"22","verse":"2","text":"The rich and the poor have this in common:"},{"book":"Proverbs","chapter":"22","verse":"3","text":"A prudent man sees danger and hides himself;"},{"book":"Proverbs","chapter":"22","verse":"4","text":"The result of humility and the fear of the LORD"},{"book":"Proverbs","chapter":"22","verse":"5","text":"Thorns and snares are in the path of the wicked;"},{"book":"Proverbs","chapter":"22","verse":"6","text":"Train up a child in the way he should go,"},{"book":"Proverbs","chapter":"22","verse":"7","text":"The rich rule over the poor."},{"book":"Proverbs","chapter":"22","verse":"8","text":"He who sows wickedness reaps trouble,"},{"book":"Proverbs","chapter":"22","verse":"9","text":"He who has a generous eye will be blessed,"},{"book":"Proverbs","chapter":"22","verse":"10","text":"Drive out the mocker, and strife will go out;"},{"book":"Proverbs","chapter":"22","verse":"11","text":"He who loves purity of heart and speaks gracefully"},{"book":"Proverbs","chapter":"22","verse":"12","text":"The LORD’s eyes watch over knowledge,"},{"book":"Proverbs","chapter":"22","verse":"13","text":"The sluggard says, “There is a lion outside!"},{"book":"Proverbs","chapter":"22","verse":"14","text":"The mouth of an adulteress is a deep pit."},{"book":"Proverbs","chapter":"22","verse":"15","text":"Folly is bound up in the heart of a child;"},{"book":"Proverbs","chapter":"22","verse":"16","text":"Whoever oppresses the poor for his own increase and whoever gives to the rich,"},{"book":"Proverbs","chapter":"22","verse":"17","text":"Turn your ear, and listen to the words of the wise."},{"book":"Proverbs","chapter":"22","verse":"18","text":"For it is a pleasant thing if you keep them within you,"},{"book":"Proverbs","chapter":"22","verse":"19","text":"I teach you today, even you,"},{"book":"Proverbs","chapter":"22","verse":"20","text":"Haven’t I written to you thirty excellent things"},{"book":"Proverbs","chapter":"22","verse":"21","text":"To teach you truth, reliable words,"},{"book":"Proverbs","chapter":"22","verse":"22","text":"Don’t exploit the poor because he is poor;"},{"book":"Proverbs","chapter":"22","verse":"23","text":"for the LORD will plead their case,"},{"book":"Proverbs","chapter":"22","verse":"24","text":"Don’t befriend a hot-tempered man."},{"book":"Proverbs","chapter":"22","verse":"25","text":"lest you learn his ways"},{"book":"Proverbs","chapter":"22","verse":"26","text":"Don’t you be one of those who strike hands,"},{"book":"Proverbs","chapter":"22","verse":"27","text":"If you don’t have means to pay,"},{"book":"Proverbs","chapter":"22","verse":"28","text":"Don’t move the ancient boundary stone"},{"book":"Proverbs","chapter":"22","verse":"29","text":"Do you see a man skilled in his work?"}]}
+[
+  {
+    "id": 26114,
+    "book": "proverbs                                ",
+    "chapter": "22",
+    "verse": "1",
+    "text": "A good name is more desirable than great riches,"
+  },
+  {
+    "id": 26115,
+    "book": "proverbs                                ",
+    "chapter": "22",
+    "verse": "2",
+    "text": "The rich and the poor have this in common:"
+  },
+  {
+    "id": 26116,
+    "book": "proverbs                                ",
+    "chapter": "22",
+    "verse": "3",
+    "text": "A prudent man sees danger and hides himself;"
+  },
+  {
+    "id": 26117,
+    "book": "proverbs                                ",
+    "chapter": "22",
+    "verse": "4",
+    "text": "The result of humility and the fear of the LORD"
+  },
+  {
+    "id": 26118,
+    "book": "proverbs                                ",
+    "chapter": "22",
+    "verse": "5",
+    "text": "Thorns and snares are in the path of the wicked;"
+  },
+  {
+    "id": 26119,
+    "book": "proverbs                                ",
+    "chapter": "22",
+    "verse": "6",
+    "text": "Train up a child in the way he should go,"
+  },
+  {
+    "id": 26120,
+    "book": "proverbs                                ",
+    "chapter": "22",
+    "verse": "7",
+    "text": "The rich rule over the poor."
+  },
+  {
+    "id": 26121,
+    "book": "proverbs                                ",
+    "chapter": "22",
+    "verse": "8",
+    "text": "He who sows wickedness reaps trouble,"
+  },
+  {
+    "id": 26122,
+    "book": "proverbs                                ",
+    "chapter": "22",
+    "verse": "9",
+    "text": "He who has a generous eye will be blessed,"
+  },
+  {
+    "id": 26123,
+    "book": "proverbs                                ",
+    "chapter": "22",
+    "verse": "10",
+    "text": "Drive out the mocker, and strife will go out;"
+  },
+  {
+    "id": 26124,
+    "book": "proverbs                                ",
+    "chapter": "22",
+    "verse": "11",
+    "text": "He who loves purity of heart and speaks gracefully"
+  },
+  {
+    "id": 26125,
+    "book": "proverbs                                ",
+    "chapter": "22",
+    "verse": "12",
+    "text": "The LORD’s eyes watch over knowledge,"
+  },
+  {
+    "id": 26126,
+    "book": "proverbs                                ",
+    "chapter": "22",
+    "verse": "13",
+    "text": "The sluggard says, “There is a lion outside!"
+  },
+  {
+    "id": 26127,
+    "book": "proverbs                                ",
+    "chapter": "22",
+    "verse": "14",
+    "text": "The mouth of an adulteress is a deep pit."
+  },
+  {
+    "id": 26128,
+    "book": "proverbs                                ",
+    "chapter": "22",
+    "verse": "15",
+    "text": "Folly is bound up in the heart of a child;"
+  },
+  {
+    "id": 26129,
+    "book": "proverbs                                ",
+    "chapter": "22",
+    "verse": "16",
+    "text": "Whoever oppresses the poor for his own increase and whoever gives to the rich,"
+  },
+  {
+    "id": 26130,
+    "book": "proverbs                                ",
+    "chapter": "22",
+    "verse": "17",
+    "text": "Turn your ear, and listen to the words of the wise."
+  },
+  {
+    "id": 26131,
+    "book": "proverbs                                ",
+    "chapter": "22",
+    "verse": "18",
+    "text": "For it is a pleasant thing if you keep them within you,"
+  },
+  {
+    "id": 26132,
+    "book": "proverbs                                ",
+    "chapter": "22",
+    "verse": "19",
+    "text": "I teach you today, even you,"
+  },
+  {
+    "id": 26133,
+    "book": "proverbs                                ",
+    "chapter": "22",
+    "verse": "20",
+    "text": "Haven’t I written to you thirty excellent things"
+  },
+  {
+    "id": 26134,
+    "book": "proverbs                                ",
+    "chapter": "22",
+    "verse": "21",
+    "text": "To teach you truth, reliable words,"
+  },
+  {
+    "id": 26135,
+    "book": "proverbs                                ",
+    "chapter": "22",
+    "verse": "22",
+    "text": "Don’t exploit the poor because he is poor;"
+  },
+  {
+    "id": 26136,
+    "book": "proverbs                                ",
+    "chapter": "22",
+    "verse": "23",
+    "text": "for the LORD will plead their case,"
+  },
+  {
+    "id": 26137,
+    "book": "proverbs                                ",
+    "chapter": "22",
+    "verse": "24",
+    "text": "Don’t befriend a hot-tempered man."
+  },
+  {
+    "id": 26138,
+    "book": "proverbs                                ",
+    "chapter": "22",
+    "verse": "25",
+    "text": "lest you learn his ways"
+  },
+  {
+    "id": 26139,
+    "book": "proverbs                                ",
+    "chapter": "22",
+    "verse": "26",
+    "text": "Don’t you be one of those who strike hands,"
+  },
+  {
+    "id": 26140,
+    "book": "proverbs                                ",
+    "chapter": "22",
+    "verse": "27",
+    "text": "If you don’t have means to pay,"
+  },
+  {
+    "id": 26141,
+    "book": "proverbs                                ",
+    "chapter": "22",
+    "verse": "28",
+    "text": "Don’t move the ancient boundary stone"
+  },
+  {
+    "id": 26142,
+    "book": "proverbs                                ",
+    "chapter": "22",
+    "verse": "29",
+    "text": "Do you see a man skilled in his work?"
+  }
+]

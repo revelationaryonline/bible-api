@@ -1,1 +1,65 @@
-{"data":[{"book":"Psalms","chapter":"98","verse":"1","text":"Sing to the LORD a new song,"},{"book":"Psalms","chapter":"98","verse":"2","text":"The LORD has made known his salvation."},{"book":"Psalms","chapter":"98","verse":"3","text":"He has remembered his loving kindness and his faithfulness toward the house of Israel."},{"book":"Psalms","chapter":"98","verse":"4","text":"Make a joyful noise to the LORD, all the earth!"},{"book":"Psalms","chapter":"98","verse":"5","text":"Sing praises to the LORD with the harp,"},{"book":"Psalms","chapter":"98","verse":"6","text":"With shofars98:6 or, trumpets and sound of the ram’s horn,"},{"book":"Psalms","chapter":"98","verse":"7","text":"Let the sea roar with its fullness;"},{"book":"Psalms","chapter":"98","verse":"8","text":"Let the rivers clap their hands."},{"book":"Psalms","chapter":"98","verse":"9","text":"Let them sing before the LORD,"}]}
+[
+  {
+    "id": 27965,
+    "book": "psalms                                  ",
+    "chapter": "98",
+    "verse": "1",
+    "text": "Sing to the LORD a new song,"
+  },
+  {
+    "id": 27966,
+    "book": "psalms                                  ",
+    "chapter": "98",
+    "verse": "2",
+    "text": "The LORD has made known his salvation."
+  },
+  {
+    "id": 27967,
+    "book": "psalms                                  ",
+    "chapter": "98",
+    "verse": "3",
+    "text": "He has remembered his loving kindness and his faithfulness toward the house of Israel."
+  },
+  {
+    "id": 27968,
+    "book": "psalms                                  ",
+    "chapter": "98",
+    "verse": "4",
+    "text": "Make a joyful noise to the LORD, all the earth!"
+  },
+  {
+    "id": 27969,
+    "book": "psalms                                  ",
+    "chapter": "98",
+    "verse": "5",
+    "text": "Sing praises to the LORD with the harp,"
+  },
+  {
+    "id": 27970,
+    "book": "psalms                                  ",
+    "chapter": "98",
+    "verse": "6",
+    "text": "With shofars98:6 or, trumpets and sound of the ram’s horn,"
+  },
+  {
+    "id": 27971,
+    "book": "psalms                                  ",
+    "chapter": "98",
+    "verse": "7",
+    "text": "Let the sea roar with its fullness;"
+  },
+  {
+    "id": 27972,
+    "book": "psalms                                  ",
+    "chapter": "98",
+    "verse": "8",
+    "text": "Let the rivers clap their hands."
+  },
+  {
+    "id": 27973,
+    "book": "psalms                                  ",
+    "chapter": "98",
+    "verse": "9",
+    "text": "Let them sing before the LORD,"
+  }
+]

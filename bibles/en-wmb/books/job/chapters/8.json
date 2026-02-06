@@ -1,1 +1,156 @@
-{"data":[{"book":"Job","chapter":"8","verse":"1","text":"Then Bildad the Shuhite answered,"},{"book":"Job","chapter":"8","verse":"2","text":"“How long will you speak these things?"},{"book":"Job","chapter":"8","verse":"3","text":"Does God pervert justice?"},{"book":"Job","chapter":"8","verse":"4","text":"If your children have sinned against him,"},{"book":"Job","chapter":"8","verse":"5","text":"If you want to seek God diligently,"},{"book":"Job","chapter":"8","verse":"6","text":"If you were pure and upright,"},{"book":"Job","chapter":"8","verse":"7","text":"Though your beginning was small,"},{"book":"Job","chapter":"8","verse":"8","text":"“Please inquire of past generations."},{"book":"Job","chapter":"8","verse":"9","text":"(For we are but of yesterday, and know nothing,"},{"book":"Job","chapter":"8","verse":"10","text":"Shall they not teach you, tell you,"},{"book":"Job","chapter":"8","verse":"11","text":"“Can the papyrus grow up without mire?"},{"book":"Job","chapter":"8","verse":"12","text":"While it is yet in its greenness, not cut down,"},{"book":"Job","chapter":"8","verse":"13","text":"So are the paths of all who forget God."},{"book":"Job","chapter":"8","verse":"14","text":"whose confidence will break apart,"},{"book":"Job","chapter":"8","verse":"15","text":"He will lean on his house, but it will not stand."},{"book":"Job","chapter":"8","verse":"16","text":"He is green before the sun."},{"book":"Job","chapter":"8","verse":"17","text":"His roots are wrapped around the rock pile."},{"book":"Job","chapter":"8","verse":"18","text":"If he is destroyed from his place,"},{"book":"Job","chapter":"8","verse":"19","text":"Behold, this is the joy of his way."},{"book":"Job","chapter":"8","verse":"20","text":"“Behold, God will not cast away a blameless man,"},{"book":"Job","chapter":"8","verse":"21","text":"He will still fill your mouth with laughter,"},{"book":"Job","chapter":"8","verse":"22","text":"Those who hate you will be clothed with shame."}]}
+[
+  {
+    "id": 17203,
+    "book": "job                                     ",
+    "chapter": "8",
+    "verse": "1",
+    "text": "Then Bildad the Shuhite answered,"
+  },
+  {
+    "id": 17204,
+    "book": "job                                     ",
+    "chapter": "8",
+    "verse": "2",
+    "text": "“How long will you speak these things?"
+  },
+  {
+    "id": 17205,
+    "book": "job                                     ",
+    "chapter": "8",
+    "verse": "3",
+    "text": "Does God pervert justice?"
+  },
+  {
+    "id": 17206,
+    "book": "job                                     ",
+    "chapter": "8",
+    "verse": "4",
+    "text": "If your children have sinned against him,"
+  },
+  {
+    "id": 17207,
+    "book": "job                                     ",
+    "chapter": "8",
+    "verse": "5",
+    "text": "If you want to seek God diligently,"
+  },
+  {
+    "id": 17208,
+    "book": "job                                     ",
+    "chapter": "8",
+    "verse": "6",
+    "text": "If you were pure and upright,"
+  },
+  {
+    "id": 17209,
+    "book": "job                                     ",
+    "chapter": "8",
+    "verse": "7",
+    "text": "Though your beginning was small,"
+  },
+  {
+    "id": 17210,
+    "book": "job                                     ",
+    "chapter": "8",
+    "verse": "8",
+    "text": "“Please inquire of past generations."
+  },
+  {
+    "id": 17211,
+    "book": "job                                     ",
+    "chapter": "8",
+    "verse": "9",
+    "text": "(For we are but of yesterday, and know nothing,"
+  },
+  {
+    "id": 17212,
+    "book": "job                                     ",
+    "chapter": "8",
+    "verse": "10",
+    "text": "Shall they not teach you, tell you,"
+  },
+  {
+    "id": 17213,
+    "book": "job                                     ",
+    "chapter": "8",
+    "verse": "11",
+    "text": "“Can the papyrus grow up without mire?"
+  },
+  {
+    "id": 17214,
+    "book": "job                                     ",
+    "chapter": "8",
+    "verse": "12",
+    "text": "While it is yet in its greenness, not cut down,"
+  },
+  {
+    "id": 17215,
+    "book": "job                                     ",
+    "chapter": "8",
+    "verse": "13",
+    "text": "So are the paths of all who forget God."
+  },
+  {
+    "id": 17216,
+    "book": "job                                     ",
+    "chapter": "8",
+    "verse": "14",
+    "text": "whose confidence will break apart,"
+  },
+  {
+    "id": 17217,
+    "book": "job                                     ",
+    "chapter": "8",
+    "verse": "15",
+    "text": "He will lean on his house, but it will not stand."
+  },
+  {
+    "id": 17218,
+    "book": "job                                     ",
+    "chapter": "8",
+    "verse": "16",
+    "text": "He is green before the sun."
+  },
+  {
+    "id": 17219,
+    "book": "job                                     ",
+    "chapter": "8",
+    "verse": "17",
+    "text": "His roots are wrapped around the rock pile."
+  },
+  {
+    "id": 17220,
+    "book": "job                                     ",
+    "chapter": "8",
+    "verse": "18",
+    "text": "If he is destroyed from his place,"
+  },
+  {
+    "id": 17221,
+    "book": "job                                     ",
+    "chapter": "8",
+    "verse": "19",
+    "text": "Behold, this is the joy of his way."
+  },
+  {
+    "id": 17222,
+    "book": "job                                     ",
+    "chapter": "8",
+    "verse": "20",
+    "text": "“Behold, God will not cast away a blameless man,"
+  },
+  {
+    "id": 17223,
+    "book": "job                                     ",
+    "chapter": "8",
+    "verse": "21",
+    "text": "He will still fill your mouth with laughter,"
+  },
+  {
+    "id": 17224,
+    "book": "job                                     ",
+    "chapter": "8",
+    "verse": "22",
+    "text": "Those who hate you will be clothed with shame."
+  }
+]

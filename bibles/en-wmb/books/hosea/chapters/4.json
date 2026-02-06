@@ -1,1 +1,135 @@
-{"data":[{"book":"Hosea","chapter":"4","verse":"1","text":"Hear the LORD’s word, you children of Israel,"},{"book":"Hosea","chapter":"4","verse":"2","text":"There is cursing, lying, murder, stealing, and committing adultery;"},{"book":"Hosea","chapter":"4","verse":"3","text":"Therefore the land will mourn,"},{"book":"Hosea","chapter":"4","verse":"4","text":"“Yet let no man bring a charge, neither let any man accuse;"},{"book":"Hosea","chapter":"4","verse":"5","text":"You will stumble in the day,"},{"book":"Hosea","chapter":"4","verse":"6","text":"My people are destroyed for lack of knowledge."},{"book":"Hosea","chapter":"4","verse":"7","text":"As they were multiplied, so they sinned against me."},{"book":"Hosea","chapter":"4","verse":"8","text":"They feed on the sin of my people,"},{"book":"Hosea","chapter":"4","verse":"9","text":"It will be like people, like priest;"},{"book":"Hosea","chapter":"4","verse":"10","text":"They will eat, and not have enough."},{"book":"Hosea","chapter":"4","verse":"11","text":"Prostitution, wine, and new wine take away understanding."},{"book":"Hosea","chapter":"4","verse":"12","text":"My people consult with their wooden idol,"},{"book":"Hosea","chapter":"4","verse":"13","text":"They sacrifice on the tops of the mountains,"},{"book":"Hosea","chapter":"4","verse":"14","text":"I will not punish your daughters when they play the prostitute,"},{"book":"Hosea","chapter":"4","verse":"15","text":"“Though you, Israel, play the prostitute,"},{"book":"Hosea","chapter":"4","verse":"16","text":"For Israel has behaved extremely stubbornly, like a stubborn heifer."},{"book":"Hosea","chapter":"4","verse":"17","text":"Ephraim is joined to idols."},{"book":"Hosea","chapter":"4","verse":"18","text":"Their drink has become sour."},{"book":"Hosea","chapter":"4","verse":"19","text":"The wind has wrapped her up in its wings;"}]}
+[
+  {
+    "id": 14121,
+    "book": "hosea                                   ",
+    "chapter": "4",
+    "verse": "1",
+    "text": "Hear the LORD’s word, you children of Israel,"
+  },
+  {
+    "id": 14122,
+    "book": "hosea                                   ",
+    "chapter": "4",
+    "verse": "2",
+    "text": "There is cursing, lying, murder, stealing, and committing adultery;"
+  },
+  {
+    "id": 14123,
+    "book": "hosea                                   ",
+    "chapter": "4",
+    "verse": "3",
+    "text": "Therefore the land will mourn,"
+  },
+  {
+    "id": 14124,
+    "book": "hosea                                   ",
+    "chapter": "4",
+    "verse": "4",
+    "text": "“Yet let no man bring a charge, neither let any man accuse;"
+  },
+  {
+    "id": 14125,
+    "book": "hosea                                   ",
+    "chapter": "4",
+    "verse": "5",
+    "text": "You will stumble in the day,"
+  },
+  {
+    "id": 14126,
+    "book": "hosea                                   ",
+    "chapter": "4",
+    "verse": "6",
+    "text": "My people are destroyed for lack of knowledge."
+  },
+  {
+    "id": 14127,
+    "book": "hosea                                   ",
+    "chapter": "4",
+    "verse": "7",
+    "text": "As they were multiplied, so they sinned against me."
+  },
+  {
+    "id": 14128,
+    "book": "hosea                                   ",
+    "chapter": "4",
+    "verse": "8",
+    "text": "They feed on the sin of my people,"
+  },
+  {
+    "id": 14129,
+    "book": "hosea                                   ",
+    "chapter": "4",
+    "verse": "9",
+    "text": "It will be like people, like priest;"
+  },
+  {
+    "id": 14130,
+    "book": "hosea                                   ",
+    "chapter": "4",
+    "verse": "10",
+    "text": "They will eat, and not have enough."
+  },
+  {
+    "id": 14131,
+    "book": "hosea                                   ",
+    "chapter": "4",
+    "verse": "11",
+    "text": "Prostitution, wine, and new wine take away understanding."
+  },
+  {
+    "id": 14132,
+    "book": "hosea                                   ",
+    "chapter": "4",
+    "verse": "12",
+    "text": "My people consult with their wooden idol,"
+  },
+  {
+    "id": 14133,
+    "book": "hosea                                   ",
+    "chapter": "4",
+    "verse": "13",
+    "text": "They sacrifice on the tops of the mountains,"
+  },
+  {
+    "id": 14134,
+    "book": "hosea                                   ",
+    "chapter": "4",
+    "verse": "14",
+    "text": "I will not punish your daughters when they play the prostitute,"
+  },
+  {
+    "id": 14135,
+    "book": "hosea                                   ",
+    "chapter": "4",
+    "verse": "15",
+    "text": "“Though you, Israel, play the prostitute,"
+  },
+  {
+    "id": 14136,
+    "book": "hosea                                   ",
+    "chapter": "4",
+    "verse": "16",
+    "text": "For Israel has behaved extremely stubbornly, like a stubborn heifer."
+  },
+  {
+    "id": 14137,
+    "book": "hosea                                   ",
+    "chapter": "4",
+    "verse": "17",
+    "text": "Ephraim is joined to idols."
+  },
+  {
+    "id": 14138,
+    "book": "hosea                                   ",
+    "chapter": "4",
+    "verse": "18",
+    "text": "Their drink has become sour."
+  },
+  {
+    "id": 14139,
+    "book": "hosea                                   ",
+    "chapter": "4",
+    "verse": "19",
+    "text": "The wind has wrapped her up in its wings;"
+  }
+]

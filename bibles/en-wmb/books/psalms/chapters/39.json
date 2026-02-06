@@ -1,1 +1,93 @@
-{"data":[{"book":"Psalms","chapter":"39","verse":"1","text":"I said, “I will watch my ways, so that I don’t sin with my tongue."},{"book":"Psalms","chapter":"39","verse":"2","text":"I was mute with silence."},{"book":"Psalms","chapter":"39","verse":"3","text":"My heart was hot within me."},{"book":"Psalms","chapter":"39","verse":"4","text":"“LORD, show me my end,"},{"book":"Psalms","chapter":"39","verse":"5","text":"Behold, you have made my days hand widths."},{"book":"Psalms","chapter":"39","verse":"6","text":"“Surely every man walks like a shadow."},{"book":"Psalms","chapter":"39","verse":"7","text":"Now, Lord, what do I wait for?"},{"book":"Psalms","chapter":"39","verse":"8","text":"Deliver me from all my transgressions."},{"book":"Psalms","chapter":"39","verse":"9","text":"I was mute."},{"book":"Psalms","chapter":"39","verse":"10","text":"Remove your scourge away from me."},{"book":"Psalms","chapter":"39","verse":"11","text":"When you rebuke and correct man for iniquity,"},{"book":"Psalms","chapter":"39","verse":"12","text":"“Hear my prayer, LORD, and give ear to my cry."},{"book":"Psalms","chapter":"39","verse":"13","text":"Oh spare me, that I may recover strength,"}]}
+[
+  {
+    "id": 26987,
+    "book": "psalms                                  ",
+    "chapter": "39",
+    "verse": "1",
+    "text": "I said, “I will watch my ways, so that I don’t sin with my tongue."
+  },
+  {
+    "id": 26988,
+    "book": "psalms                                  ",
+    "chapter": "39",
+    "verse": "2",
+    "text": "I was mute with silence."
+  },
+  {
+    "id": 26989,
+    "book": "psalms                                  ",
+    "chapter": "39",
+    "verse": "3",
+    "text": "My heart was hot within me."
+  },
+  {
+    "id": 26990,
+    "book": "psalms                                  ",
+    "chapter": "39",
+    "verse": "4",
+    "text": "“LORD, show me my end,"
+  },
+  {
+    "id": 26991,
+    "book": "psalms                                  ",
+    "chapter": "39",
+    "verse": "5",
+    "text": "Behold, you have made my days hand widths."
+  },
+  {
+    "id": 26992,
+    "book": "psalms                                  ",
+    "chapter": "39",
+    "verse": "6",
+    "text": "“Surely every man walks like a shadow."
+  },
+  {
+    "id": 26993,
+    "book": "psalms                                  ",
+    "chapter": "39",
+    "verse": "7",
+    "text": "Now, Lord, what do I wait for?"
+  },
+  {
+    "id": 26994,
+    "book": "psalms                                  ",
+    "chapter": "39",
+    "verse": "8",
+    "text": "Deliver me from all my transgressions."
+  },
+  {
+    "id": 26995,
+    "book": "psalms                                  ",
+    "chapter": "39",
+    "verse": "9",
+    "text": "I was mute."
+  },
+  {
+    "id": 26996,
+    "book": "psalms                                  ",
+    "chapter": "39",
+    "verse": "10",
+    "text": "Remove your scourge away from me."
+  },
+  {
+    "id": 26997,
+    "book": "psalms                                  ",
+    "chapter": "39",
+    "verse": "11",
+    "text": "When you rebuke and correct man for iniquity,"
+  },
+  {
+    "id": 26998,
+    "book": "psalms                                  ",
+    "chapter": "39",
+    "verse": "12",
+    "text": "“Hear my prayer, LORD, and give ear to my cry."
+  },
+  {
+    "id": 26999,
+    "book": "psalms                                  ",
+    "chapter": "39",
+    "verse": "13",
+    "text": "Oh spare me, that I may recover strength,"
+  }
+]

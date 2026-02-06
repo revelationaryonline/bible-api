@@ -1,1 +1,233 @@
-{"data":[{"book":"Proverbs","chapter":"1","verse":"1","text":"The proverbs of Solomon, the son of David, king of Israel:"},{"book":"Proverbs","chapter":"1","verse":"2","text":"to know wisdom and instruction;"},{"book":"Proverbs","chapter":"1","verse":"3","text":"to receive instruction in wise dealing,"},{"book":"Proverbs","chapter":"1","verse":"4","text":"to give prudence to the simple,"},{"book":"Proverbs","chapter":"1","verse":"5","text":"that the wise man may hear, and increase in learning;"},{"book":"Proverbs","chapter":"1","verse":"6","text":"to understand a proverb and parables,"},{"book":"Proverbs","chapter":"1","verse":"7","text":"The fear of the LORD1:7 When rendered in ALL CAPITAL LETTERS, “LORD” or “GOD” is the translation of God’s Proper Name. is the beginning of knowledge,"},{"book":"Proverbs","chapter":"1","verse":"8","text":"My son, listen to your father’s instruction,"},{"book":"Proverbs","chapter":"1","verse":"9","text":"for they will be a garland to grace your head,"},{"book":"Proverbs","chapter":"1","verse":"10","text":"My son, if sinners entice you,"},{"book":"Proverbs","chapter":"1","verse":"11","text":"If they say, “Come with us."},{"book":"Proverbs","chapter":"1","verse":"12","text":"Let’s swallow them up alive like Sheol,1:12 Sheol is the place of the dead."},{"book":"Proverbs","chapter":"1","verse":"13","text":"We’ll find all valuable wealth."},{"book":"Proverbs","chapter":"1","verse":"14","text":"You shall cast your lot among us."},{"book":"Proverbs","chapter":"1","verse":"15","text":"my son, don’t walk on the path with them."},{"book":"Proverbs","chapter":"1","verse":"16","text":"for their feet run to evil."},{"book":"Proverbs","chapter":"1","verse":"17","text":"For the net is spread in vain in the sight of any bird;"},{"book":"Proverbs","chapter":"1","verse":"18","text":"but these lay in wait for their own blood."},{"book":"Proverbs","chapter":"1","verse":"19","text":"So are the ways of everyone who is greedy for gain."},{"book":"Proverbs","chapter":"1","verse":"20","text":"Wisdom calls aloud in the street."},{"book":"Proverbs","chapter":"1","verse":"21","text":"She calls at the head of noisy places."},{"book":"Proverbs","chapter":"1","verse":"22","text":"“How long, you simple ones, will you love simplicity?"},{"book":"Proverbs","chapter":"1","verse":"23","text":"Turn at my reproof."},{"book":"Proverbs","chapter":"1","verse":"24","text":"Because I have called, and you have refused;"},{"book":"Proverbs","chapter":"1","verse":"25","text":"but you have ignored all my counsel,"},{"book":"Proverbs","chapter":"1","verse":"26","text":"I also will laugh at your disaster."},{"book":"Proverbs","chapter":"1","verse":"27","text":"when calamity overtakes you like a storm,"},{"book":"Proverbs","chapter":"1","verse":"28","text":"Then they will call on me, but I will not answer."},{"book":"Proverbs","chapter":"1","verse":"29","text":"because they hated knowledge,"},{"book":"Proverbs","chapter":"1","verse":"30","text":"They wanted none of my counsel."},{"book":"Proverbs","chapter":"1","verse":"31","text":"Therefore they will eat of the fruit of their own way,"},{"book":"Proverbs","chapter":"1","verse":"32","text":"For the backsliding of the simple will kill them."},{"book":"Proverbs","chapter":"1","verse":"33","text":"But whoever listens to me will dwell securely,"}]}
+[
+  {
+    "id": 25499,
+    "book": "proverbs                                ",
+    "chapter": "1",
+    "verse": "1",
+    "text": "The proverbs of Solomon, the son of David, king of Israel:"
+  },
+  {
+    "id": 25500,
+    "book": "proverbs                                ",
+    "chapter": "1",
+    "verse": "2",
+    "text": "to know wisdom and instruction;"
+  },
+  {
+    "id": 25501,
+    "book": "proverbs                                ",
+    "chapter": "1",
+    "verse": "3",
+    "text": "to receive instruction in wise dealing,"
+  },
+  {
+    "id": 25502,
+    "book": "proverbs                                ",
+    "chapter": "1",
+    "verse": "4",
+    "text": "to give prudence to the simple,"
+  },
+  {
+    "id": 25503,
+    "book": "proverbs                                ",
+    "chapter": "1",
+    "verse": "5",
+    "text": "that the wise man may hear, and increase in learning;"
+  },
+  {
+    "id": 25504,
+    "book": "proverbs                                ",
+    "chapter": "1",
+    "verse": "6",
+    "text": "to understand a proverb and parables,"
+  },
+  {
+    "id": 25505,
+    "book": "proverbs                                ",
+    "chapter": "1",
+    "verse": "7",
+    "text": "The fear of the LORD1:7 When rendered in ALL CAPITAL LETTERS, “LORD” or “GOD” is the translation of God’s Proper Name. is the beginning of knowledge,"
+  },
+  {
+    "id": 25506,
+    "book": "proverbs                                ",
+    "chapter": "1",
+    "verse": "8",
+    "text": "My son, listen to your father’s instruction,"
+  },
+  {
+    "id": 25507,
+    "book": "proverbs                                ",
+    "chapter": "1",
+    "verse": "9",
+    "text": "for they will be a garland to grace your head,"
+  },
+  {
+    "id": 25508,
+    "book": "proverbs                                ",
+    "chapter": "1",
+    "verse": "10",
+    "text": "My son, if sinners entice you,"
+  },
+  {
+    "id": 25509,
+    "book": "proverbs                                ",
+    "chapter": "1",
+    "verse": "11",
+    "text": "If they say, “Come with us."
+  },
+  {
+    "id": 25510,
+    "book": "proverbs                                ",
+    "chapter": "1",
+    "verse": "12",
+    "text": "Let’s swallow them up alive like Sheol,1:12 Sheol is the place of the dead."
+  },
+  {
+    "id": 25511,
+    "book": "proverbs                                ",
+    "chapter": "1",
+    "verse": "13",
+    "text": "We’ll find all valuable wealth."
+  },
+  {
+    "id": 25512,
+    "book": "proverbs                                ",
+    "chapter": "1",
+    "verse": "14",
+    "text": "You shall cast your lot among us."
+  },
+  {
+    "id": 25513,
+    "book": "proverbs                                ",
+    "chapter": "1",
+    "verse": "15",
+    "text": "my son, don’t walk on the path with them."
+  },
+  {
+    "id": 25514,
+    "book": "proverbs                                ",
+    "chapter": "1",
+    "verse": "16",
+    "text": "for their feet run to evil."
+  },
+  {
+    "id": 25515,
+    "book": "proverbs                                ",
+    "chapter": "1",
+    "verse": "17",
+    "text": "For the net is spread in vain in the sight of any bird;"
+  },
+  {
+    "id": 25516,
+    "book": "proverbs                                ",
+    "chapter": "1",
+    "verse": "18",
+    "text": "but these lay in wait for their own blood."
+  },
+  {
+    "id": 25517,
+    "book": "proverbs                                ",
+    "chapter": "1",
+    "verse": "19",
+    "text": "So are the ways of everyone who is greedy for gain."
+  },
+  {
+    "id": 25518,
+    "book": "proverbs                                ",
+    "chapter": "1",
+    "verse": "20",
+    "text": "Wisdom calls aloud in the street."
+  },
+  {
+    "id": 25519,
+    "book": "proverbs                                ",
+    "chapter": "1",
+    "verse": "21",
+    "text": "She calls at the head of noisy places."
+  },
+  {
+    "id": 25520,
+    "book": "proverbs                                ",
+    "chapter": "1",
+    "verse": "22",
+    "text": "“How long, you simple ones, will you love simplicity?"
+  },
+  {
+    "id": 25521,
+    "book": "proverbs                                ",
+    "chapter": "1",
+    "verse": "23",
+    "text": "Turn at my reproof."
+  },
+  {
+    "id": 25522,
+    "book": "proverbs                                ",
+    "chapter": "1",
+    "verse": "24",
+    "text": "Because I have called, and you have refused;"
+  },
+  {
+    "id": 25523,
+    "book": "proverbs                                ",
+    "chapter": "1",
+    "verse": "25",
+    "text": "but you have ignored all my counsel,"
+  },
+  {
+    "id": 25524,
+    "book": "proverbs                                ",
+    "chapter": "1",
+    "verse": "26",
+    "text": "I also will laugh at your disaster."
+  },
+  {
+    "id": 25525,
+    "book": "proverbs                                ",
+    "chapter": "1",
+    "verse": "27",
+    "text": "when calamity overtakes you like a storm,"
+  },
+  {
+    "id": 25526,
+    "book": "proverbs                                ",
+    "chapter": "1",
+    "verse": "28",
+    "text": "Then they will call on me, but I will not answer."
+  },
+  {
+    "id": 25527,
+    "book": "proverbs                                ",
+    "chapter": "1",
+    "verse": "29",
+    "text": "because they hated knowledge,"
+  },
+  {
+    "id": 25528,
+    "book": "proverbs                                ",
+    "chapter": "1",
+    "verse": "30",
+    "text": "They wanted none of my counsel."
+  },
+  {
+    "id": 25529,
+    "book": "proverbs                                ",
+    "chapter": "1",
+    "verse": "31",
+    "text": "Therefore they will eat of the fruit of their own way,"
+  },
+  {
+    "id": 25530,
+    "book": "proverbs                                ",
+    "chapter": "1",
+    "verse": "32",
+    "text": "For the backsliding of the simple will kill them."
+  },
+  {
+    "id": 25531,
+    "book": "proverbs                                ",
+    "chapter": "1",
+    "verse": "33",
+    "text": "But whoever listens to me will dwell securely,"
+  }
+]

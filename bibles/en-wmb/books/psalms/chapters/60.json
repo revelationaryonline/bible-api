@@ -1,1 +1,86 @@
-{"data":[{"book":"Psalms","chapter":"60","verse":"1","text":"God, you have rejected us."},{"book":"Psalms","chapter":"60","verse":"2","text":"You have made the land tremble."},{"book":"Psalms","chapter":"60","verse":"3","text":"You have shown your people hard things."},{"book":"Psalms","chapter":"60","verse":"4","text":"You have given a banner to those who fear you,"},{"book":"Psalms","chapter":"60","verse":"5","text":"So that your beloved may be delivered,"},{"book":"Psalms","chapter":"60","verse":"6","text":"God has spoken from his sanctuary:"},{"book":"Psalms","chapter":"60","verse":"7","text":"Gilead is mine, and Manasseh is mine."},{"book":"Psalms","chapter":"60","verse":"8","text":"Moab is my wash basin."},{"book":"Psalms","chapter":"60","verse":"9","text":"Who will bring me into the strong city?"},{"book":"Psalms","chapter":"60","verse":"10","text":"Haven’t you, God, rejected us?"},{"book":"Psalms","chapter":"60","verse":"11","text":"Give us help against the adversary,"},{"book":"Psalms","chapter":"60","verse":"12","text":"Through God we will do valiantly,"}]}
+[
+  {
+    "id": 27282,
+    "book": "psalms                                  ",
+    "chapter": "60",
+    "verse": "1",
+    "text": "God, you have rejected us."
+  },
+  {
+    "id": 27283,
+    "book": "psalms                                  ",
+    "chapter": "60",
+    "verse": "2",
+    "text": "You have made the land tremble."
+  },
+  {
+    "id": 27284,
+    "book": "psalms                                  ",
+    "chapter": "60",
+    "verse": "3",
+    "text": "You have shown your people hard things."
+  },
+  {
+    "id": 27285,
+    "book": "psalms                                  ",
+    "chapter": "60",
+    "verse": "4",
+    "text": "You have given a banner to those who fear you,"
+  },
+  {
+    "id": 27286,
+    "book": "psalms                                  ",
+    "chapter": "60",
+    "verse": "5",
+    "text": "So that your beloved may be delivered,"
+  },
+  {
+    "id": 27287,
+    "book": "psalms                                  ",
+    "chapter": "60",
+    "verse": "6",
+    "text": "God has spoken from his sanctuary:"
+  },
+  {
+    "id": 27288,
+    "book": "psalms                                  ",
+    "chapter": "60",
+    "verse": "7",
+    "text": "Gilead is mine, and Manasseh is mine."
+  },
+  {
+    "id": 27289,
+    "book": "psalms                                  ",
+    "chapter": "60",
+    "verse": "8",
+    "text": "Moab is my wash basin."
+  },
+  {
+    "id": 27290,
+    "book": "psalms                                  ",
+    "chapter": "60",
+    "verse": "9",
+    "text": "Who will bring me into the strong city?"
+  },
+  {
+    "id": 27291,
+    "book": "psalms                                  ",
+    "chapter": "60",
+    "verse": "10",
+    "text": "Haven’t you, God, rejected us?"
+  },
+  {
+    "id": 27292,
+    "book": "psalms                                  ",
+    "chapter": "60",
+    "verse": "11",
+    "text": "Give us help against the adversary,"
+  },
+  {
+    "id": 27293,
+    "book": "psalms                                  ",
+    "chapter": "60",
+    "verse": "12",
+    "text": "Through God we will do valiantly,"
+  }
+]

@@ -1,1 +1,156 @@
-{"data":[{"book":"Job","chapter":"14","verse":"1","text":"“Man, who is born of a woman,"},{"book":"Job","chapter":"14","verse":"2","text":"He grows up like a flower, and is cut down."},{"book":"Job","chapter":"14","verse":"3","text":"Do you open your eyes on such a one,"},{"book":"Job","chapter":"14","verse":"4","text":"Who can bring a clean thing out of an unclean?"},{"book":"Job","chapter":"14","verse":"5","text":"Seeing his days are determined,"},{"book":"Job","chapter":"14","verse":"6","text":"Look away from him, that he may rest,"},{"book":"Job","chapter":"14","verse":"7","text":"“For there is hope for a tree if it is cut down,"},{"book":"Job","chapter":"14","verse":"8","text":"Though its root grows old in the earth,"},{"book":"Job","chapter":"14","verse":"9","text":"yet through the scent of water it will bud,"},{"book":"Job","chapter":"14","verse":"10","text":"But man dies, and is laid low."},{"book":"Job","chapter":"14","verse":"11","text":"As the waters fail from the sea,"},{"book":"Job","chapter":"14","verse":"12","text":"so man lies down and doesn’t rise."},{"book":"Job","chapter":"14","verse":"13","text":"“Oh that you would hide me in Sheol,14:13 Sheol is the place of the dead."},{"book":"Job","chapter":"14","verse":"14","text":"If a man dies, will he live again?"},{"book":"Job","chapter":"14","verse":"15","text":"You would call, and I would answer you."},{"book":"Job","chapter":"14","verse":"16","text":"But now you count my steps."},{"book":"Job","chapter":"14","verse":"17","text":"My disobedience is sealed up in a bag."},{"book":"Job","chapter":"14","verse":"18","text":"“But the mountain falling comes to nothing."},{"book":"Job","chapter":"14","verse":"19","text":"The waters wear the stones."},{"book":"Job","chapter":"14","verse":"20","text":"You forever prevail against him, and he departs."},{"book":"Job","chapter":"14","verse":"21","text":"His sons come to honor, and he doesn’t know it."},{"book":"Job","chapter":"14","verse":"22","text":"But his flesh on him has pain,"}]}
+[
+  {
+    "id": 17355,
+    "book": "job                                     ",
+    "chapter": "14",
+    "verse": "1",
+    "text": "“Man, who is born of a woman,"
+  },
+  {
+    "id": 17356,
+    "book": "job                                     ",
+    "chapter": "14",
+    "verse": "2",
+    "text": "He grows up like a flower, and is cut down."
+  },
+  {
+    "id": 17357,
+    "book": "job                                     ",
+    "chapter": "14",
+    "verse": "3",
+    "text": "Do you open your eyes on such a one,"
+  },
+  {
+    "id": 17358,
+    "book": "job                                     ",
+    "chapter": "14",
+    "verse": "4",
+    "text": "Who can bring a clean thing out of an unclean?"
+  },
+  {
+    "id": 17359,
+    "book": "job                                     ",
+    "chapter": "14",
+    "verse": "5",
+    "text": "Seeing his days are determined,"
+  },
+  {
+    "id": 17360,
+    "book": "job                                     ",
+    "chapter": "14",
+    "verse": "6",
+    "text": "Look away from him, that he may rest,"
+  },
+  {
+    "id": 17361,
+    "book": "job                                     ",
+    "chapter": "14",
+    "verse": "7",
+    "text": "“For there is hope for a tree if it is cut down,"
+  },
+  {
+    "id": 17362,
+    "book": "job                                     ",
+    "chapter": "14",
+    "verse": "8",
+    "text": "Though its root grows old in the earth,"
+  },
+  {
+    "id": 17363,
+    "book": "job                                     ",
+    "chapter": "14",
+    "verse": "9",
+    "text": "yet through the scent of water it will bud,"
+  },
+  {
+    "id": 17364,
+    "book": "job                                     ",
+    "chapter": "14",
+    "verse": "10",
+    "text": "But man dies, and is laid low."
+  },
+  {
+    "id": 17365,
+    "book": "job                                     ",
+    "chapter": "14",
+    "verse": "11",
+    "text": "As the waters fail from the sea,"
+  },
+  {
+    "id": 17366,
+    "book": "job                                     ",
+    "chapter": "14",
+    "verse": "12",
+    "text": "so man lies down and doesn’t rise."
+  },
+  {
+    "id": 17367,
+    "book": "job                                     ",
+    "chapter": "14",
+    "verse": "13",
+    "text": "“Oh that you would hide me in Sheol,14:13 Sheol is the place of the dead."
+  },
+  {
+    "id": 17368,
+    "book": "job                                     ",
+    "chapter": "14",
+    "verse": "14",
+    "text": "If a man dies, will he live again?"
+  },
+  {
+    "id": 17369,
+    "book": "job                                     ",
+    "chapter": "14",
+    "verse": "15",
+    "text": "You would call, and I would answer you."
+  },
+  {
+    "id": 17370,
+    "book": "job                                     ",
+    "chapter": "14",
+    "verse": "16",
+    "text": "But now you count my steps."
+  },
+  {
+    "id": 17371,
+    "book": "job                                     ",
+    "chapter": "14",
+    "verse": "17",
+    "text": "My disobedience is sealed up in a bag."
+  },
+  {
+    "id": 17372,
+    "book": "job                                     ",
+    "chapter": "14",
+    "verse": "18",
+    "text": "“But the mountain falling comes to nothing."
+  },
+  {
+    "id": 17373,
+    "book": "job                                     ",
+    "chapter": "14",
+    "verse": "19",
+    "text": "The waters wear the stones."
+  },
+  {
+    "id": 17374,
+    "book": "job                                     ",
+    "chapter": "14",
+    "verse": "20",
+    "text": "You forever prevail against him, and he departs."
+  },
+  {
+    "id": 17375,
+    "book": "job                                     ",
+    "chapter": "14",
+    "verse": "21",
+    "text": "His sons come to honor, and he doesn’t know it."
+  },
+  {
+    "id": 17376,
+    "book": "job                                     ",
+    "chapter": "14",
+    "verse": "22",
+    "text": "But his flesh on him has pain,"
+  }
+]

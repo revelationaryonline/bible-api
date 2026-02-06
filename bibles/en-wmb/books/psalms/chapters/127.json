@@ -1,1 +1,37 @@
-{"data":[{"book":"Psalms","chapter":"127","verse":"1","text":"Unless the LORD builds the house,"},{"book":"Psalms","chapter":"127","verse":"2","text":"It is vain for you to rise up early,"},{"book":"Psalms","chapter":"127","verse":"3","text":"Behold, children are a heritage of the LORD."},{"book":"Psalms","chapter":"127","verse":"4","text":"As arrows in the hand of a mighty man,"},{"book":"Psalms","chapter":"127","verse":"5","text":"Happy is the man who has his quiver full of them."}]}
+[
+  {
+    "id": 28596,
+    "book": "psalms                                  ",
+    "chapter": "127",
+    "verse": "1",
+    "text": "Unless the LORD builds the house,"
+  },
+  {
+    "id": 28597,
+    "book": "psalms                                  ",
+    "chapter": "127",
+    "verse": "2",
+    "text": "It is vain for you to rise up early,"
+  },
+  {
+    "id": 28598,
+    "book": "psalms                                  ",
+    "chapter": "127",
+    "verse": "3",
+    "text": "Behold, children are a heritage of the LORD."
+  },
+  {
+    "id": 28599,
+    "book": "psalms                                  ",
+    "chapter": "127",
+    "verse": "4",
+    "text": "As arrows in the hand of a mighty man,"
+  },
+  {
+    "id": 28600,
+    "book": "psalms                                  ",
+    "chapter": "127",
+    "verse": "5",
+    "text": "Happy is the man who has his quiver full of them."
+  }
+]

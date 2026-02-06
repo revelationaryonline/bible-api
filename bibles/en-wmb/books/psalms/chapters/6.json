@@ -1,1 +1,72 @@
-{"data":[{"book":"Psalms","chapter":"6","verse":"1","text":"LORD, don’t rebuke me in your anger,"},{"book":"Psalms","chapter":"6","verse":"2","text":"Have mercy on me, LORD, for I am faint."},{"book":"Psalms","chapter":"6","verse":"3","text":"My soul is also in great anguish."},{"book":"Psalms","chapter":"6","verse":"4","text":"Return, LORD. Deliver my soul,"},{"book":"Psalms","chapter":"6","verse":"5","text":"For in death there is no memory of you."},{"book":"Psalms","chapter":"6","verse":"6","text":"I am weary with my groaning."},{"book":"Psalms","chapter":"6","verse":"7","text":"My eye wastes away because of grief."},{"book":"Psalms","chapter":"6","verse":"8","text":"Depart from me, all you workers of iniquity,"},{"book":"Psalms","chapter":"6","verse":"9","text":"The LORD has heard my supplication."},{"book":"Psalms","chapter":"6","verse":"10","text":"May all my enemies be ashamed and dismayed."}]}
+[
+  {
+    "id": 26460,
+    "book": "psalms                                  ",
+    "chapter": "6",
+    "verse": "1",
+    "text": "LORD, don’t rebuke me in your anger,"
+  },
+  {
+    "id": 26461,
+    "book": "psalms                                  ",
+    "chapter": "6",
+    "verse": "2",
+    "text": "Have mercy on me, LORD, for I am faint."
+  },
+  {
+    "id": 26462,
+    "book": "psalms                                  ",
+    "chapter": "6",
+    "verse": "3",
+    "text": "My soul is also in great anguish."
+  },
+  {
+    "id": 26463,
+    "book": "psalms                                  ",
+    "chapter": "6",
+    "verse": "4",
+    "text": "Return, LORD. Deliver my soul,"
+  },
+  {
+    "id": 26464,
+    "book": "psalms                                  ",
+    "chapter": "6",
+    "verse": "5",
+    "text": "For in death there is no memory of you."
+  },
+  {
+    "id": 26465,
+    "book": "psalms                                  ",
+    "chapter": "6",
+    "verse": "6",
+    "text": "I am weary with my groaning."
+  },
+  {
+    "id": 26466,
+    "book": "psalms                                  ",
+    "chapter": "6",
+    "verse": "7",
+    "text": "My eye wastes away because of grief."
+  },
+  {
+    "id": 26467,
+    "book": "psalms                                  ",
+    "chapter": "6",
+    "verse": "8",
+    "text": "Depart from me, all you workers of iniquity,"
+  },
+  {
+    "id": 26468,
+    "book": "psalms                                  ",
+    "chapter": "6",
+    "verse": "9",
+    "text": "The LORD has heard my supplication."
+  },
+  {
+    "id": 26469,
+    "book": "psalms                                  ",
+    "chapter": "6",
+    "verse": "10",
+    "text": "May all my enemies be ashamed and dismayed."
+  }
+]

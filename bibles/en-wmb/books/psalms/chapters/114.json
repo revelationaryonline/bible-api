@@ -1,1 +1,58 @@
-{"data":[{"book":"Psalms","chapter":"114","verse":"1","text":"When Israel went out of Egypt,"},{"book":"Psalms","chapter":"114","verse":"2","text":"Judah became his sanctuary,"},{"book":"Psalms","chapter":"114","verse":"3","text":"The sea saw it, and fled."},{"book":"Psalms","chapter":"114","verse":"4","text":"The mountains skipped like rams,"},{"book":"Psalms","chapter":"114","verse":"5","text":"What was it, you sea, that you fled?"},{"book":"Psalms","chapter":"114","verse":"6","text":"You mountains, that you skipped like rams?"},{"book":"Psalms","chapter":"114","verse":"7","text":"Tremble, you earth, at the presence of the Lord,"},{"book":"Psalms","chapter":"114","verse":"8","text":"who turned the rock into a pool of water,"}]}
+[
+  {
+    "id": 28297,
+    "book": "psalms                                  ",
+    "chapter": "114",
+    "verse": "1",
+    "text": "When Israel went out of Egypt,"
+  },
+  {
+    "id": 28298,
+    "book": "psalms                                  ",
+    "chapter": "114",
+    "verse": "2",
+    "text": "Judah became his sanctuary,"
+  },
+  {
+    "id": 28299,
+    "book": "psalms                                  ",
+    "chapter": "114",
+    "verse": "3",
+    "text": "The sea saw it, and fled."
+  },
+  {
+    "id": 28300,
+    "book": "psalms                                  ",
+    "chapter": "114",
+    "verse": "4",
+    "text": "The mountains skipped like rams,"
+  },
+  {
+    "id": 28301,
+    "book": "psalms                                  ",
+    "chapter": "114",
+    "verse": "5",
+    "text": "What was it, you sea, that you fled?"
+  },
+  {
+    "id": 28302,
+    "book": "psalms                                  ",
+    "chapter": "114",
+    "verse": "6",
+    "text": "You mountains, that you skipped like rams?"
+  },
+  {
+    "id": 28303,
+    "book": "psalms                                  ",
+    "chapter": "114",
+    "verse": "7",
+    "text": "Tremble, you earth, at the presence of the Lord,"
+  },
+  {
+    "id": 28304,
+    "book": "psalms                                  ",
+    "chapter": "114",
+    "verse": "8",
+    "text": "who turned the rock into a pool of water,"
+  }
+]

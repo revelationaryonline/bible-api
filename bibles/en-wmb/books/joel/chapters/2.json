@@ -1,1 +1,226 @@
-{"data":[{"book":"Joel","chapter":"2","verse":"1","text":"Blow the shofar in Zion,"},{"book":"Joel","chapter":"2","verse":"2","text":"A day of darkness and gloominess,"},{"book":"Joel","chapter":"2","verse":"3","text":"A fire devours before them,"},{"book":"Joel","chapter":"2","verse":"4","text":"Their appearance is as the appearance of horses,"},{"book":"Joel","chapter":"2","verse":"5","text":"Like the noise of chariots on the tops of the mountains, they leap,"},{"book":"Joel","chapter":"2","verse":"6","text":"At their presence the peoples are in anguish."},{"book":"Joel","chapter":"2","verse":"7","text":"They run like mighty men."},{"book":"Joel","chapter":"2","verse":"8","text":"One doesn’t jostle another."},{"book":"Joel","chapter":"2","verse":"9","text":"They rush on the city."},{"book":"Joel","chapter":"2","verse":"10","text":"The earth quakes before them."},{"book":"Joel","chapter":"2","verse":"11","text":"The LORD thunders his voice before his army,"},{"book":"Joel","chapter":"2","verse":"12","text":"“Yet even now,” says the LORD, “turn to me with all your heart,"},{"book":"Joel","chapter":"2","verse":"13","text":"Tear your heart and not your garments,"},{"book":"Joel","chapter":"2","verse":"14","text":"Who knows? He may turn and relent,"},{"book":"Joel","chapter":"2","verse":"15","text":"Blow the shofar in Zion!"},{"book":"Joel","chapter":"2","verse":"16","text":"Gather the people."},{"book":"Joel","chapter":"2","verse":"17","text":"Let the priests, the ministers of the LORD, weep between the porch and the altar,"},{"book":"Joel","chapter":"2","verse":"18","text":"Then the LORD was jealous for his land,"},{"book":"Joel","chapter":"2","verse":"19","text":"The LORD answered his people,"},{"book":"Joel","chapter":"2","verse":"20","text":"But I will remove the northern army far away from you,"},{"book":"Joel","chapter":"2","verse":"21","text":"Land, don’t be afraid."},{"book":"Joel","chapter":"2","verse":"22","text":"Don’t be afraid, you animals of the field;"},{"book":"Joel","chapter":"2","verse":"23","text":"“Be glad then, you children of Zion,"},{"book":"Joel","chapter":"2","verse":"24","text":"The threshing floors will be full of wheat,"},{"book":"Joel","chapter":"2","verse":"25","text":"I will restore to you the years that the swarming locust has eaten,"},{"book":"Joel","chapter":"2","verse":"26","text":"You will have plenty to eat and be satisfied,"},{"book":"Joel","chapter":"2","verse":"27","text":"You will know that I am among Israel,"},{"book":"Joel","chapter":"2","verse":"28","text":"“It will happen afterward, that I will pour out my Spirit on all flesh;"},{"book":"Joel","chapter":"2","verse":"29","text":"And also on the servants and on the handmaids in those days,"},{"book":"Joel","chapter":"2","verse":"30","text":"I will show wonders in the heavens and in the earth:"},{"book":"Joel","chapter":"2","verse":"31","text":"The sun will be turned into darkness,"},{"book":"Joel","chapter":"2","verse":"32","text":"It will happen that whoever will call on the LORD’s name shall be saved;"}]}
+[
+  {
+    "id": 18133,
+    "book": "joel                                    ",
+    "chapter": "2",
+    "verse": "1",
+    "text": "Blow the shofar in Zion,"
+  },
+  {
+    "id": 18134,
+    "book": "joel                                    ",
+    "chapter": "2",
+    "verse": "2",
+    "text": "A day of darkness and gloominess,"
+  },
+  {
+    "id": 18135,
+    "book": "joel                                    ",
+    "chapter": "2",
+    "verse": "3",
+    "text": "A fire devours before them,"
+  },
+  {
+    "id": 18136,
+    "book": "joel                                    ",
+    "chapter": "2",
+    "verse": "4",
+    "text": "Their appearance is as the appearance of horses,"
+  },
+  {
+    "id": 18137,
+    "book": "joel                                    ",
+    "chapter": "2",
+    "verse": "5",
+    "text": "Like the noise of chariots on the tops of the mountains, they leap,"
+  },
+  {
+    "id": 18138,
+    "book": "joel                                    ",
+    "chapter": "2",
+    "verse": "6",
+    "text": "At their presence the peoples are in anguish."
+  },
+  {
+    "id": 18139,
+    "book": "joel                                    ",
+    "chapter": "2",
+    "verse": "7",
+    "text": "They run like mighty men."
+  },
+  {
+    "id": 18140,
+    "book": "joel                                    ",
+    "chapter": "2",
+    "verse": "8",
+    "text": "One doesn’t jostle another."
+  },
+  {
+    "id": 18141,
+    "book": "joel                                    ",
+    "chapter": "2",
+    "verse": "9",
+    "text": "They rush on the city."
+  },
+  {
+    "id": 18142,
+    "book": "joel                                    ",
+    "chapter": "2",
+    "verse": "10",
+    "text": "The earth quakes before them."
+  },
+  {
+    "id": 18143,
+    "book": "joel                                    ",
+    "chapter": "2",
+    "verse": "11",
+    "text": "The LORD thunders his voice before his army,"
+  },
+  {
+    "id": 18144,
+    "book": "joel                                    ",
+    "chapter": "2",
+    "verse": "12",
+    "text": "“Yet even now,” says the LORD, “turn to me with all your heart,"
+  },
+  {
+    "id": 18145,
+    "book": "joel                                    ",
+    "chapter": "2",
+    "verse": "13",
+    "text": "Tear your heart and not your garments,"
+  },
+  {
+    "id": 18146,
+    "book": "joel                                    ",
+    "chapter": "2",
+    "verse": "14",
+    "text": "Who knows? He may turn and relent,"
+  },
+  {
+    "id": 18147,
+    "book": "joel                                    ",
+    "chapter": "2",
+    "verse": "15",
+    "text": "Blow the shofar in Zion!"
+  },
+  {
+    "id": 18148,
+    "book": "joel                                    ",
+    "chapter": "2",
+    "verse": "16",
+    "text": "Gather the people."
+  },
+  {
+    "id": 18149,
+    "book": "joel                                    ",
+    "chapter": "2",
+    "verse": "17",
+    "text": "Let the priests, the ministers of the LORD, weep between the porch and the altar,"
+  },
+  {
+    "id": 18150,
+    "book": "joel                                    ",
+    "chapter": "2",
+    "verse": "18",
+    "text": "Then the LORD was jealous for his land,"
+  },
+  {
+    "id": 18151,
+    "book": "joel                                    ",
+    "chapter": "2",
+    "verse": "19",
+    "text": "The LORD answered his people,"
+  },
+  {
+    "id": 18152,
+    "book": "joel                                    ",
+    "chapter": "2",
+    "verse": "20",
+    "text": "But I will remove the northern army far away from you,"
+  },
+  {
+    "id": 18153,
+    "book": "joel                                    ",
+    "chapter": "2",
+    "verse": "21",
+    "text": "Land, don’t be afraid."
+  },
+  {
+    "id": 18154,
+    "book": "joel                                    ",
+    "chapter": "2",
+    "verse": "22",
+    "text": "Don’t be afraid, you animals of the field;"
+  },
+  {
+    "id": 18155,
+    "book": "joel                                    ",
+    "chapter": "2",
+    "verse": "23",
+    "text": "“Be glad then, you children of Zion,"
+  },
+  {
+    "id": 18156,
+    "book": "joel                                    ",
+    "chapter": "2",
+    "verse": "24",
+    "text": "The threshing floors will be full of wheat,"
+  },
+  {
+    "id": 18157,
+    "book": "joel                                    ",
+    "chapter": "2",
+    "verse": "25",
+    "text": "I will restore to you the years that the swarming locust has eaten,"
+  },
+  {
+    "id": 18158,
+    "book": "joel                                    ",
+    "chapter": "2",
+    "verse": "26",
+    "text": "You will have plenty to eat and be satisfied,"
+  },
+  {
+    "id": 18159,
+    "book": "joel                                    ",
+    "chapter": "2",
+    "verse": "27",
+    "text": "You will know that I am among Israel,"
+  },
+  {
+    "id": 18160,
+    "book": "joel                                    ",
+    "chapter": "2",
+    "verse": "28",
+    "text": "“It will happen afterward, that I will pour out my Spirit on all flesh;"
+  },
+  {
+    "id": 18161,
+    "book": "joel                                    ",
+    "chapter": "2",
+    "verse": "29",
+    "text": "And also on the servants and on the handmaids in those days,"
+  },
+  {
+    "id": 18162,
+    "book": "joel                                    ",
+    "chapter": "2",
+    "verse": "30",
+    "text": "I will show wonders in the heavens and in the earth:"
+  },
+  {
+    "id": 18163,
+    "book": "joel                                    ",
+    "chapter": "2",
+    "verse": "31",
+    "text": "The sun will be turned into darkness,"
+  },
+  {
+    "id": 18164,
+    "book": "joel                                    ",
+    "chapter": "2",
+    "verse": "32",
+    "text": "It will happen that whoever will call on the LORD’s name shall be saved;"
+  }
+]

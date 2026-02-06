@@ -1,1 +1,93 @@
-{"data":[{"book":"Psalms","chapter":"56","verse":"1","text":"Be merciful to me, God, for man wants to swallow me up."},{"book":"Psalms","chapter":"56","verse":"2","text":"My enemies want to swallow me up all day long,"},{"book":"Psalms","chapter":"56","verse":"3","text":"When I am afraid,"},{"book":"Psalms","chapter":"56","verse":"4","text":"In God, I praise his word."},{"book":"Psalms","chapter":"56","verse":"5","text":"All day long they twist my words."},{"book":"Psalms","chapter":"56","verse":"6","text":"They conspire and lurk,"},{"book":"Psalms","chapter":"56","verse":"7","text":"Shall they escape by iniquity?"},{"book":"Psalms","chapter":"56","verse":"8","text":"You count my wanderings."},{"book":"Psalms","chapter":"56","verse":"9","text":"Then my enemies shall turn back in the day that I call."},{"book":"Psalms","chapter":"56","verse":"10","text":"In God, I will praise his word."},{"book":"Psalms","chapter":"56","verse":"11","text":"I have put my trust in God."},{"book":"Psalms","chapter":"56","verse":"12","text":"Your vows are on me, God."},{"book":"Psalms","chapter":"56","verse":"13","text":"For you have delivered my soul from death,"}]}
+[
+  {
+    "id": 27230,
+    "book": "psalms                                  ",
+    "chapter": "56",
+    "verse": "1",
+    "text": "Be merciful to me, God, for man wants to swallow me up."
+  },
+  {
+    "id": 27231,
+    "book": "psalms                                  ",
+    "chapter": "56",
+    "verse": "2",
+    "text": "My enemies want to swallow me up all day long,"
+  },
+  {
+    "id": 27232,
+    "book": "psalms                                  ",
+    "chapter": "56",
+    "verse": "3",
+    "text": "When I am afraid,"
+  },
+  {
+    "id": 27233,
+    "book": "psalms                                  ",
+    "chapter": "56",
+    "verse": "4",
+    "text": "In God, I praise his word."
+  },
+  {
+    "id": 27234,
+    "book": "psalms                                  ",
+    "chapter": "56",
+    "verse": "5",
+    "text": "All day long they twist my words."
+  },
+  {
+    "id": 27235,
+    "book": "psalms                                  ",
+    "chapter": "56",
+    "verse": "6",
+    "text": "They conspire and lurk,"
+  },
+  {
+    "id": 27236,
+    "book": "psalms                                  ",
+    "chapter": "56",
+    "verse": "7",
+    "text": "Shall they escape by iniquity?"
+  },
+  {
+    "id": 27237,
+    "book": "psalms                                  ",
+    "chapter": "56",
+    "verse": "8",
+    "text": "You count my wanderings."
+  },
+  {
+    "id": 27238,
+    "book": "psalms                                  ",
+    "chapter": "56",
+    "verse": "9",
+    "text": "Then my enemies shall turn back in the day that I call."
+  },
+  {
+    "id": 27239,
+    "book": "psalms                                  ",
+    "chapter": "56",
+    "verse": "10",
+    "text": "In God, I will praise his word."
+  },
+  {
+    "id": 27240,
+    "book": "psalms                                  ",
+    "chapter": "56",
+    "verse": "11",
+    "text": "I have put my trust in God."
+  },
+  {
+    "id": 27241,
+    "book": "psalms                                  ",
+    "chapter": "56",
+    "verse": "12",
+    "text": "Your vows are on me, God."
+  },
+  {
+    "id": 27242,
+    "book": "psalms                                  ",
+    "chapter": "56",
+    "verse": "13",
+    "text": "For you have delivered my soul from death,"
+  }
+]

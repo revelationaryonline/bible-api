@@ -1,1 +1,93 @@
-{"data":[{"book":"Psalms","chapter":"140","verse":"1","text":"Deliver me, LORD, from evil men."},{"book":"Psalms","chapter":"140","verse":"2","text":"those who devise mischief in their hearts."},{"book":"Psalms","chapter":"140","verse":"3","text":"They have sharpened their tongues like a serpent."},{"book":"Psalms","chapter":"140","verse":"4","text":"LORD, keep me from the hands of the wicked."},{"book":"Psalms","chapter":"140","verse":"5","text":"The proud have hidden a snare for me,"},{"book":"Psalms","chapter":"140","verse":"6","text":"I said to the LORD, “You are my God.”"},{"book":"Psalms","chapter":"140","verse":"7","text":"LORD, the Lord, the strength of my salvation,"},{"book":"Psalms","chapter":"140","verse":"8","text":"LORD, don’t grant the desires of the wicked."},{"book":"Psalms","chapter":"140","verse":"9","text":"As for the head of those who surround me,"},{"book":"Psalms","chapter":"140","verse":"10","text":"Let burning coals fall on them."},{"book":"Psalms","chapter":"140","verse":"11","text":"An evil speaker won’t be established in the earth."},{"book":"Psalms","chapter":"140","verse":"12","text":"I know that the LORD will maintain the cause of the afflicted,"},{"book":"Psalms","chapter":"140","verse":"13","text":"Surely the righteous will give thanks to your name."}]}
+[
+  {
+    "id": 28738,
+    "book": "psalms                                  ",
+    "chapter": "140",
+    "verse": "1",
+    "text": "Deliver me, LORD, from evil men."
+  },
+  {
+    "id": 28739,
+    "book": "psalms                                  ",
+    "chapter": "140",
+    "verse": "2",
+    "text": "those who devise mischief in their hearts."
+  },
+  {
+    "id": 28740,
+    "book": "psalms                                  ",
+    "chapter": "140",
+    "verse": "3",
+    "text": "They have sharpened their tongues like a serpent."
+  },
+  {
+    "id": 28741,
+    "book": "psalms                                  ",
+    "chapter": "140",
+    "verse": "4",
+    "text": "LORD, keep me from the hands of the wicked."
+  },
+  {
+    "id": 28742,
+    "book": "psalms                                  ",
+    "chapter": "140",
+    "verse": "5",
+    "text": "The proud have hidden a snare for me,"
+  },
+  {
+    "id": 28743,
+    "book": "psalms                                  ",
+    "chapter": "140",
+    "verse": "6",
+    "text": "I said to the LORD, “You are my God.”"
+  },
+  {
+    "id": 28744,
+    "book": "psalms                                  ",
+    "chapter": "140",
+    "verse": "7",
+    "text": "LORD, the Lord, the strength of my salvation,"
+  },
+  {
+    "id": 28745,
+    "book": "psalms                                  ",
+    "chapter": "140",
+    "verse": "8",
+    "text": "LORD, don’t grant the desires of the wicked."
+  },
+  {
+    "id": 28746,
+    "book": "psalms                                  ",
+    "chapter": "140",
+    "verse": "9",
+    "text": "As for the head of those who surround me,"
+  },
+  {
+    "id": 28747,
+    "book": "psalms                                  ",
+    "chapter": "140",
+    "verse": "10",
+    "text": "Let burning coals fall on them."
+  },
+  {
+    "id": 28748,
+    "book": "psalms                                  ",
+    "chapter": "140",
+    "verse": "11",
+    "text": "An evil speaker won’t be established in the earth."
+  },
+  {
+    "id": 28749,
+    "book": "psalms                                  ",
+    "chapter": "140",
+    "verse": "12",
+    "text": "I know that the LORD will maintain the cause of the afflicted,"
+  },
+  {
+    "id": 28750,
+    "book": "psalms                                  ",
+    "chapter": "140",
+    "verse": "13",
+    "text": "Surely the righteous will give thanks to your name."
+  }
+]

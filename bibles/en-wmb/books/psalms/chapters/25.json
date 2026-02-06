@@ -1,1 +1,156 @@
-{"data":[{"book":"Psalms","chapter":"25","verse":"1","text":"To you, LORD, I lift up my soul."},{"book":"Psalms","chapter":"25","verse":"2","text":"My God, I have trusted in you."},{"book":"Psalms","chapter":"25","verse":"3","text":"Yes, no one who waits for you will be shamed."},{"book":"Psalms","chapter":"25","verse":"4","text":"Show me your ways, LORD."},{"book":"Psalms","chapter":"25","verse":"5","text":"Guide me in your truth, and teach me,"},{"book":"Psalms","chapter":"25","verse":"6","text":"LORD, remember your tender mercies and your loving kindness,"},{"book":"Psalms","chapter":"25","verse":"7","text":"Don’t remember the sins of my youth, nor my transgressions."},{"book":"Psalms","chapter":"25","verse":"8","text":"Good and upright is the LORD,"},{"book":"Psalms","chapter":"25","verse":"9","text":"He will guide the humble in justice."},{"book":"Psalms","chapter":"25","verse":"10","text":"All the paths of the LORD are loving kindness and truth"},{"book":"Psalms","chapter":"25","verse":"11","text":"For your name’s sake, LORD,"},{"book":"Psalms","chapter":"25","verse":"12","text":"What man is he who fears the LORD?"},{"book":"Psalms","chapter":"25","verse":"13","text":"His soul will dwell at ease."},{"book":"Psalms","chapter":"25","verse":"14","text":"The friendship of the LORD is with those who fear him."},{"book":"Psalms","chapter":"25","verse":"15","text":"My eyes are ever on the LORD,"},{"book":"Psalms","chapter":"25","verse":"16","text":"Turn to me, and have mercy on me,"},{"book":"Psalms","chapter":"25","verse":"17","text":"The troubles of my heart are enlarged."},{"book":"Psalms","chapter":"25","verse":"18","text":"Consider my affliction and my travail."},{"book":"Psalms","chapter":"25","verse":"19","text":"Consider my enemies, for they are many."},{"book":"Psalms","chapter":"25","verse":"20","text":"Oh keep my soul, and deliver me."},{"book":"Psalms","chapter":"25","verse":"21","text":"Let integrity and uprightness preserve me,"},{"book":"Psalms","chapter":"25","verse":"22","text":"God, redeem Israel"}]}
+[
+  {
+    "id": 26726,
+    "book": "psalms                                  ",
+    "chapter": "25",
+    "verse": "1",
+    "text": "To you, LORD, I lift up my soul."
+  },
+  {
+    "id": 26727,
+    "book": "psalms                                  ",
+    "chapter": "25",
+    "verse": "2",
+    "text": "My God, I have trusted in you."
+  },
+  {
+    "id": 26728,
+    "book": "psalms                                  ",
+    "chapter": "25",
+    "verse": "3",
+    "text": "Yes, no one who waits for you will be shamed."
+  },
+  {
+    "id": 26729,
+    "book": "psalms                                  ",
+    "chapter": "25",
+    "verse": "4",
+    "text": "Show me your ways, LORD."
+  },
+  {
+    "id": 26730,
+    "book": "psalms                                  ",
+    "chapter": "25",
+    "verse": "5",
+    "text": "Guide me in your truth, and teach me,"
+  },
+  {
+    "id": 26731,
+    "book": "psalms                                  ",
+    "chapter": "25",
+    "verse": "6",
+    "text": "LORD, remember your tender mercies and your loving kindness,"
+  },
+  {
+    "id": 26732,
+    "book": "psalms                                  ",
+    "chapter": "25",
+    "verse": "7",
+    "text": "Don’t remember the sins of my youth, nor my transgressions."
+  },
+  {
+    "id": 26733,
+    "book": "psalms                                  ",
+    "chapter": "25",
+    "verse": "8",
+    "text": "Good and upright is the LORD,"
+  },
+  {
+    "id": 26734,
+    "book": "psalms                                  ",
+    "chapter": "25",
+    "verse": "9",
+    "text": "He will guide the humble in justice."
+  },
+  {
+    "id": 26735,
+    "book": "psalms                                  ",
+    "chapter": "25",
+    "verse": "10",
+    "text": "All the paths of the LORD are loving kindness and truth"
+  },
+  {
+    "id": 26736,
+    "book": "psalms                                  ",
+    "chapter": "25",
+    "verse": "11",
+    "text": "For your name’s sake, LORD,"
+  },
+  {
+    "id": 26737,
+    "book": "psalms                                  ",
+    "chapter": "25",
+    "verse": "12",
+    "text": "What man is he who fears the LORD?"
+  },
+  {
+    "id": 26738,
+    "book": "psalms                                  ",
+    "chapter": "25",
+    "verse": "13",
+    "text": "His soul will dwell at ease."
+  },
+  {
+    "id": 26739,
+    "book": "psalms                                  ",
+    "chapter": "25",
+    "verse": "14",
+    "text": "The friendship of the LORD is with those who fear him."
+  },
+  {
+    "id": 26740,
+    "book": "psalms                                  ",
+    "chapter": "25",
+    "verse": "15",
+    "text": "My eyes are ever on the LORD,"
+  },
+  {
+    "id": 26741,
+    "book": "psalms                                  ",
+    "chapter": "25",
+    "verse": "16",
+    "text": "Turn to me, and have mercy on me,"
+  },
+  {
+    "id": 26742,
+    "book": "psalms                                  ",
+    "chapter": "25",
+    "verse": "17",
+    "text": "The troubles of my heart are enlarged."
+  },
+  {
+    "id": 26743,
+    "book": "psalms                                  ",
+    "chapter": "25",
+    "verse": "18",
+    "text": "Consider my affliction and my travail."
+  },
+  {
+    "id": 26744,
+    "book": "psalms                                  ",
+    "chapter": "25",
+    "verse": "19",
+    "text": "Consider my enemies, for they are many."
+  },
+  {
+    "id": 26745,
+    "book": "psalms                                  ",
+    "chapter": "25",
+    "verse": "20",
+    "text": "Oh keep my soul, and deliver me."
+  },
+  {
+    "id": 26746,
+    "book": "psalms                                  ",
+    "chapter": "25",
+    "verse": "21",
+    "text": "Let integrity and uprightness preserve me,"
+  },
+  {
+    "id": 26747,
+    "book": "psalms                                  ",
+    "chapter": "25",
+    "verse": "22",
+    "text": "God, redeem Israel"
+  }
+]

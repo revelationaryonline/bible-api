@@ -1,1 +1,149 @@
-{"data":[{"book":"Psalms","chapter":"145","verse":"1","text":"I will exalt you, my God, the King."},{"book":"Psalms","chapter":"145","verse":"2","text":"Every day I will praise you."},{"book":"Psalms","chapter":"145","verse":"3","text":"Great is the LORD, and greatly to be praised!"},{"book":"Psalms","chapter":"145","verse":"4","text":"One generation will commend your works to another,"},{"book":"Psalms","chapter":"145","verse":"5","text":"I will meditate on the glorious majesty of your honor,"},{"book":"Psalms","chapter":"145","verse":"6","text":"Men will speak of the might of your awesome acts."},{"book":"Psalms","chapter":"145","verse":"7","text":"They will utter the memory of your great goodness,"},{"book":"Psalms","chapter":"145","verse":"8","text":"The LORD is gracious, merciful,"},{"book":"Psalms","chapter":"145","verse":"9","text":"The LORD is good to all."},{"book":"Psalms","chapter":"145","verse":"10","text":"All your works will give thanks to you, LORD."},{"book":"Psalms","chapter":"145","verse":"11","text":"They will speak of the glory of your kingdom,"},{"book":"Psalms","chapter":"145","verse":"12","text":"to make known to the sons of men his mighty acts,"},{"book":"Psalms","chapter":"145","verse":"13","text":"Your kingdom is an everlasting kingdom."},{"book":"Psalms","chapter":"145","verse":"14","text":"The LORD upholds all who fall,"},{"book":"Psalms","chapter":"145","verse":"15","text":"The eyes of all wait for you."},{"book":"Psalms","chapter":"145","verse":"16","text":"You open your hand,"},{"book":"Psalms","chapter":"145","verse":"17","text":"The LORD is righteous in all his ways,"},{"book":"Psalms","chapter":"145","verse":"18","text":"The LORD is near to all those who call on him,"},{"book":"Psalms","chapter":"145","verse":"19","text":"He will fulfill the desire of those who fear him."},{"book":"Psalms","chapter":"145","verse":"20","text":"The LORD preserves all those who love him,"},{"book":"Psalms","chapter":"145","verse":"21","text":"My mouth will speak the praise of the LORD."}]}
+[
+  {
+    "id": 28795,
+    "book": "psalms                                  ",
+    "chapter": "145",
+    "verse": "1",
+    "text": "I will exalt you, my God, the King."
+  },
+  {
+    "id": 28796,
+    "book": "psalms                                  ",
+    "chapter": "145",
+    "verse": "2",
+    "text": "Every day I will praise you."
+  },
+  {
+    "id": 28797,
+    "book": "psalms                                  ",
+    "chapter": "145",
+    "verse": "3",
+    "text": "Great is the LORD, and greatly to be praised!"
+  },
+  {
+    "id": 28798,
+    "book": "psalms                                  ",
+    "chapter": "145",
+    "verse": "4",
+    "text": "One generation will commend your works to another,"
+  },
+  {
+    "id": 28799,
+    "book": "psalms                                  ",
+    "chapter": "145",
+    "verse": "5",
+    "text": "I will meditate on the glorious majesty of your honor,"
+  },
+  {
+    "id": 28800,
+    "book": "psalms                                  ",
+    "chapter": "145",
+    "verse": "6",
+    "text": "Men will speak of the might of your awesome acts."
+  },
+  {
+    "id": 28801,
+    "book": "psalms                                  ",
+    "chapter": "145",
+    "verse": "7",
+    "text": "They will utter the memory of your great goodness,"
+  },
+  {
+    "id": 28802,
+    "book": "psalms                                  ",
+    "chapter": "145",
+    "verse": "8",
+    "text": "The LORD is gracious, merciful,"
+  },
+  {
+    "id": 28803,
+    "book": "psalms                                  ",
+    "chapter": "145",
+    "verse": "9",
+    "text": "The LORD is good to all."
+  },
+  {
+    "id": 28804,
+    "book": "psalms                                  ",
+    "chapter": "145",
+    "verse": "10",
+    "text": "All your works will give thanks to you, LORD."
+  },
+  {
+    "id": 28805,
+    "book": "psalms                                  ",
+    "chapter": "145",
+    "verse": "11",
+    "text": "They will speak of the glory of your kingdom,"
+  },
+  {
+    "id": 28806,
+    "book": "psalms                                  ",
+    "chapter": "145",
+    "verse": "12",
+    "text": "to make known to the sons of men his mighty acts,"
+  },
+  {
+    "id": 28807,
+    "book": "psalms                                  ",
+    "chapter": "145",
+    "verse": "13",
+    "text": "Your kingdom is an everlasting kingdom."
+  },
+  {
+    "id": 28808,
+    "book": "psalms                                  ",
+    "chapter": "145",
+    "verse": "14",
+    "text": "The LORD upholds all who fall,"
+  },
+  {
+    "id": 28809,
+    "book": "psalms                                  ",
+    "chapter": "145",
+    "verse": "15",
+    "text": "The eyes of all wait for you."
+  },
+  {
+    "id": 28810,
+    "book": "psalms                                  ",
+    "chapter": "145",
+    "verse": "16",
+    "text": "You open your hand,"
+  },
+  {
+    "id": 28811,
+    "book": "psalms                                  ",
+    "chapter": "145",
+    "verse": "17",
+    "text": "The LORD is righteous in all his ways,"
+  },
+  {
+    "id": 28812,
+    "book": "psalms                                  ",
+    "chapter": "145",
+    "verse": "18",
+    "text": "The LORD is near to all those who call on him,"
+  },
+  {
+    "id": 28813,
+    "book": "psalms                                  ",
+    "chapter": "145",
+    "verse": "19",
+    "text": "He will fulfill the desire of those who fear him."
+  },
+  {
+    "id": 28814,
+    "book": "psalms                                  ",
+    "chapter": "145",
+    "verse": "20",
+    "text": "The LORD preserves all those who love him,"
+  },
+  {
+    "id": 28815,
+    "book": "psalms                                  ",
+    "chapter": "145",
+    "verse": "21",
+    "text": "My mouth will speak the praise of the LORD."
+  }
+]
