@@ -1,1 +1,156 @@
-{"data":[{"book":"Job","chapter":"10","verse":"1","text":"I hate my life! Let me speak freely about my complaints—I can't keep my bitterness to myself."},{"book":"Job","chapter":"10","verse":"2","text":"I will tell God, “Don't just condemn me—tell me what you have against me."},{"book":"Job","chapter":"10","verse":"3","text":"Do you enjoy accusing me? Why do you reject me, someone you made with your own hands, and yet smile on the scheming of the wicked?"},{"book":"Job","chapter":"10","verse":"4","text":"Do you have human eyes? Do you see like human beings do?"},{"book":"Job","chapter":"10","verse":"5","text":"Is your life as short as mortal beings? Are your years as brief as those of humanity,"},{"book":"Job","chapter":"10","verse":"6","text":"that you have to examine my wrongs and investigate my sins?"},{"book":"Job","chapter":"10","verse":"7","text":"Even though you know I'm not guilty, no one can save me from you."},{"book":"Job","chapter":"10","verse":"8","text":"You made me and shaped me with your own hands, and yet you destroy me."},{"book":"Job","chapter":"10","verse":"9","text":"Remember that you shaped me like a piece of clay—are you now going to turn me back into dust?"},{"book":"Job","chapter":"10","verse":"10","text":"You poured me out like milk, you curdled me like cheese.10:10. These poetic references refer to procreation. The intent is to say God formed Job in his mother's womb."},{"book":"Job","chapter":"10","verse":"11","text":"You clothed me with skin and flesh; you wove my body together with bones and muscles."},{"book":"Job","chapter":"10","verse":"12","text":"You granted me life and showed me your kindness; you have taken great care of me."},{"book":"Job","chapter":"10","verse":"13","text":"But you kept these things hidden in your heart. I know your purpose was"},{"book":"Job","chapter":"10","verse":"14","text":"to watch me, and if I sinned, then you would not forgive my wrongs."},{"book":"Job","chapter":"10","verse":"15","text":"If I'm guilty I'm in trouble, if I'm innocent I can't hold my head high because I'm totally disgraced as I look at my sufferings."},{"book":"Job","chapter":"10","verse":"16","text":"If I do hold my head high you hunt me down like a lion, showing how powerful you are in hurting me."},{"book":"Job","chapter":"10","verse":"17","text":"You repeat your arguments against me, you pour out more and more of your anger against me, you send fresh armies against me."},{"book":"Job","chapter":"10","verse":"18","text":"So why did you allow me to be born?10:18. Literally, “bring me forth from the womb.” I wish that I had died, and nobody had ever seen me!"},{"book":"Job","chapter":"10","verse":"19","text":"It would have been better if I had never existed, taken straight from the womb to the grave."},{"book":"Job","chapter":"10","verse":"20","text":"I only have a few days left, so why don't you leave me alone so I can have a little peace"},{"book":"Job","chapter":"10","verse":"21","text":"before I go to where I shall never return from, the land of darkness and the shadow of death—"},{"book":"Job","chapter":"10","verse":"22","text":"the land of total darkness where death's shadow lies, a place of chaos where light itself is darkness.”"}]}
+[
+  {
+    "id": 17261,
+    "book": "job                                     ",
+    "chapter": "10",
+    "verse": "1",
+    "text": "I hate my life! Let me speak freely about my complaints—I can't keep my bitterness to myself."
+  },
+  {
+    "id": 17262,
+    "book": "job                                     ",
+    "chapter": "10",
+    "verse": "2",
+    "text": "I will tell God, “Don't just condemn me—tell me what you have against me."
+  },
+  {
+    "id": 17263,
+    "book": "job                                     ",
+    "chapter": "10",
+    "verse": "3",
+    "text": "Do you enjoy accusing me? Why do you reject me, someone you made with your own hands, and yet smile on the scheming of the wicked?"
+  },
+  {
+    "id": 17264,
+    "book": "job                                     ",
+    "chapter": "10",
+    "verse": "4",
+    "text": "Do you have human eyes? Do you see like human beings do?"
+  },
+  {
+    "id": 17265,
+    "book": "job                                     ",
+    "chapter": "10",
+    "verse": "5",
+    "text": "Is your life as short as mortal beings? Are your years as brief as those of humanity,"
+  },
+  {
+    "id": 17266,
+    "book": "job                                     ",
+    "chapter": "10",
+    "verse": "6",
+    "text": "that you have to examine my wrongs and investigate my sins?"
+  },
+  {
+    "id": 17267,
+    "book": "job                                     ",
+    "chapter": "10",
+    "verse": "7",
+    "text": "Even though you know I'm not guilty, no one can save me from you."
+  },
+  {
+    "id": 17268,
+    "book": "job                                     ",
+    "chapter": "10",
+    "verse": "8",
+    "text": "You made me and shaped me with your own hands, and yet you destroy me."
+  },
+  {
+    "id": 17269,
+    "book": "job                                     ",
+    "chapter": "10",
+    "verse": "9",
+    "text": "Remember that you shaped me like a piece of clay—are you now going to turn me back into dust?"
+  },
+  {
+    "id": 17270,
+    "book": "job                                     ",
+    "chapter": "10",
+    "verse": "10",
+    "text": "You poured me out like milk, you curdled me like cheese.10:10. These poetic references refer to procreation. The intent is to say God formed Job in his mother's womb."
+  },
+  {
+    "id": 17271,
+    "book": "job                                     ",
+    "chapter": "10",
+    "verse": "11",
+    "text": "You clothed me with skin and flesh; you wove my body together with bones and muscles."
+  },
+  {
+    "id": 17272,
+    "book": "job                                     ",
+    "chapter": "10",
+    "verse": "12",
+    "text": "You granted me life and showed me your kindness; you have taken great care of me."
+  },
+  {
+    "id": 17273,
+    "book": "job                                     ",
+    "chapter": "10",
+    "verse": "13",
+    "text": "But you kept these things hidden in your heart. I know your purpose was"
+  },
+  {
+    "id": 17274,
+    "book": "job                                     ",
+    "chapter": "10",
+    "verse": "14",
+    "text": "to watch me, and if I sinned, then you would not forgive my wrongs."
+  },
+  {
+    "id": 17275,
+    "book": "job                                     ",
+    "chapter": "10",
+    "verse": "15",
+    "text": "If I'm guilty I'm in trouble, if I'm innocent I can't hold my head high because I'm totally disgraced as I look at my sufferings."
+  },
+  {
+    "id": 17276,
+    "book": "job                                     ",
+    "chapter": "10",
+    "verse": "16",
+    "text": "If I do hold my head high you hunt me down like a lion, showing how powerful you are in hurting me."
+  },
+  {
+    "id": 17277,
+    "book": "job                                     ",
+    "chapter": "10",
+    "verse": "17",
+    "text": "You repeat your arguments against me, you pour out more and more of your anger against me, you send fresh armies against me."
+  },
+  {
+    "id": 17278,
+    "book": "job                                     ",
+    "chapter": "10",
+    "verse": "18",
+    "text": "So why did you allow me to be born?10:18. Literally, “bring me forth from the womb.” I wish that I had died, and nobody had ever seen me!"
+  },
+  {
+    "id": 17279,
+    "book": "job                                     ",
+    "chapter": "10",
+    "verse": "19",
+    "text": "It would have been better if I had never existed, taken straight from the womb to the grave."
+  },
+  {
+    "id": 17280,
+    "book": "job                                     ",
+    "chapter": "10",
+    "verse": "20",
+    "text": "I only have a few days left, so why don't you leave me alone so I can have a little peace"
+  },
+  {
+    "id": 17281,
+    "book": "job                                     ",
+    "chapter": "10",
+    "verse": "21",
+    "text": "before I go to where I shall never return from, the land of darkness and the shadow of death—"
+  },
+  {
+    "id": 17282,
+    "book": "job                                     ",
+    "chapter": "10",
+    "verse": "22",
+    "text": "the land of total darkness where death's shadow lies, a place of chaos where light itself is darkness.”"
+  }
+]

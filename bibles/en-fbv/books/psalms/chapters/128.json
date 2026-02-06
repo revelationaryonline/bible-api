@@ -1,1 +1,44 @@
-{"data":[{"book":"Psalms","chapter":"128","verse":"1","text":"Happy are all those who worship the Lord, everyone who follows his ways!"},{"book":"Psalms","chapter":"128","verse":"2","text":"You will eat what your own hands have produced. You will be happy and do well."},{"book":"Psalms","chapter":"128","verse":"3","text":"Your wife will be like a fruitful vine growing in your home. Your children will be like the shoots of an olive tree around your table."},{"book":"Psalms","chapter":"128","verse":"4","text":"This will certainly be the Lord's blessing on those who worship him."},{"book":"Psalms","chapter":"128","verse":"5","text":"May the Lord go on blessing you from Zion; may you see Jerusalem prosper all the days of your life."},{"book":"Psalms","chapter":"128","verse":"6","text":"May you see your children's children. May Israel be at peace!"}]}
+[
+  {
+    "id": 29481,
+    "book": "psalms                                  ",
+    "chapter": "128",
+    "verse": "1",
+    "text": "Happy are all those who worship the Lord, everyone who follows his ways!"
+  },
+  {
+    "id": 29482,
+    "book": "psalms                                  ",
+    "chapter": "128",
+    "verse": "2",
+    "text": "You will eat what your own hands have produced. You will be happy and do well."
+  },
+  {
+    "id": 29483,
+    "book": "psalms                                  ",
+    "chapter": "128",
+    "verse": "3",
+    "text": "Your wife will be like a fruitful vine growing in your home. Your children will be like the shoots of an olive tree around your table."
+  },
+  {
+    "id": 29484,
+    "book": "psalms                                  ",
+    "chapter": "128",
+    "verse": "4",
+    "text": "This will certainly be the Lord's blessing on those who worship him."
+  },
+  {
+    "id": 29485,
+    "book": "psalms                                  ",
+    "chapter": "128",
+    "verse": "5",
+    "text": "May the Lord go on blessing you from Zion; may you see Jerusalem prosper all the days of your life."
+  },
+  {
+    "id": 29486,
+    "book": "psalms                                  ",
+    "chapter": "128",
+    "verse": "6",
+    "text": "May you see your children's children. May Israel be at peace!"
+  }
+]

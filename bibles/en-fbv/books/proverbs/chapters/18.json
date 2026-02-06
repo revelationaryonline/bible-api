@@ -1,1 +1,170 @@
-{"data":[{"book":"Proverbs","chapter":"18","verse":"1","text":"Selfish people only please themselves, they attack anything that makes good sense."},{"book":"Proverbs","chapter":"18","verse":"2","text":"Stupid people have no interest in trying to understand, they only want to express their opinions."},{"book":"Proverbs","chapter":"18","verse":"3","text":"With wickedness comes contempt; with dishonor comes disgrace."},{"book":"Proverbs","chapter":"18","verse":"4","text":"People's words can be profound like deep waters, a gushing stream that is the source of wisdom."},{"book":"Proverbs","chapter":"18","verse":"5","text":"It's not right to show favoritism to the guilty and rob the innocent of justice."},{"book":"Proverbs","chapter":"18","verse":"6","text":"What stupid people say gets them into fights, as if they're asking for a beating."},{"book":"Proverbs","chapter":"18","verse":"7","text":"Stupid people are caught out by what they say; their own words trap them."},{"book":"Proverbs","chapter":"18","verse":"8","text":"Listening to gossip is like gulping down bites of your favorite food—they go deep down inside you."},{"book":"Proverbs","chapter":"18","verse":"9","text":"Laziness and destruction are brothers."},{"book":"Proverbs","chapter":"18","verse":"10","text":"The Lord is a protective tower that good people can run to and be safe."},{"book":"Proverbs","chapter":"18","verse":"11","text":"Rich people see their wealth as a fortified town—it's like a high wall in their imagination."},{"book":"Proverbs","chapter":"18","verse":"12","text":"Pride leads to destruction; humility goes before honor."},{"book":"Proverbs","chapter":"18","verse":"13","text":"Replying before hearing is stupidity and shame."},{"book":"Proverbs","chapter":"18","verse":"14","text":"With a brave spirit you can put up with sickness, but if it's crushed, you can't bear it."},{"book":"Proverbs","chapter":"18","verse":"15","text":"An intelligent mind acquires knowledge; the wise are ready to hear knowledge."},{"book":"Proverbs","chapter":"18","verse":"16","text":"A gift opens doors for you, and gets you into the presence of important people."},{"book":"Proverbs","chapter":"18","verse":"17","text":"The first person to plead a case sounds right until someone comes to cross-examine them."},{"book":"Proverbs","chapter":"18","verse":"18","text":"Casting lots can end disputes and decide between powerful people."},{"book":"Proverbs","chapter":"18","verse":"19","text":"A brother you've offended is harder to win back than a fortified town.18:19. The meaning of the Hebrew is unclear. Arguments keep people apart like bars on the doors of a fortress."},{"book":"Proverbs","chapter":"18","verse":"20","text":"Make sure you're satisfied with what you say—you have to live with your words.18:20. Many different interpretations have been given for the meaning of this verse."},{"book":"Proverbs","chapter":"18","verse":"21","text":"What you say has the power to bring life or to kill; those who love talking will have to deal with the consequences."},{"book":"Proverbs","chapter":"18","verse":"22","text":"If you find a wife, that's great, and you'll be blessed by the Lord."},{"book":"Proverbs","chapter":"18","verse":"23","text":"The poor beg for mercy, but the rich reply harshly."},{"book":"Proverbs","chapter":"18","verse":"24","text":"Some friends give up18:24. “Give up”: literally, “come to ruin.” on you, but there's a friend who stays closer to you than a brother."}]}
+[
+  {
+    "id": 26880,
+    "book": "proverbs                                ",
+    "chapter": "18",
+    "verse": "1",
+    "text": "Selfish people only please themselves, they attack anything that makes good sense."
+  },
+  {
+    "id": 26881,
+    "book": "proverbs                                ",
+    "chapter": "18",
+    "verse": "2",
+    "text": "Stupid people have no interest in trying to understand, they only want to express their opinions."
+  },
+  {
+    "id": 26882,
+    "book": "proverbs                                ",
+    "chapter": "18",
+    "verse": "3",
+    "text": "With wickedness comes contempt; with dishonor comes disgrace."
+  },
+  {
+    "id": 26883,
+    "book": "proverbs                                ",
+    "chapter": "18",
+    "verse": "4",
+    "text": "People's words can be profound like deep waters, a gushing stream that is the source of wisdom."
+  },
+  {
+    "id": 26884,
+    "book": "proverbs                                ",
+    "chapter": "18",
+    "verse": "5",
+    "text": "It's not right to show favoritism to the guilty and rob the innocent of justice."
+  },
+  {
+    "id": 26885,
+    "book": "proverbs                                ",
+    "chapter": "18",
+    "verse": "6",
+    "text": "What stupid people say gets them into fights, as if they're asking for a beating."
+  },
+  {
+    "id": 26886,
+    "book": "proverbs                                ",
+    "chapter": "18",
+    "verse": "7",
+    "text": "Stupid people are caught out by what they say; their own words trap them."
+  },
+  {
+    "id": 26887,
+    "book": "proverbs                                ",
+    "chapter": "18",
+    "verse": "8",
+    "text": "Listening to gossip is like gulping down bites of your favorite food—they go deep down inside you."
+  },
+  {
+    "id": 26888,
+    "book": "proverbs                                ",
+    "chapter": "18",
+    "verse": "9",
+    "text": "Laziness and destruction are brothers."
+  },
+  {
+    "id": 26889,
+    "book": "proverbs                                ",
+    "chapter": "18",
+    "verse": "10",
+    "text": "The Lord is a protective tower that good people can run to and be safe."
+  },
+  {
+    "id": 26890,
+    "book": "proverbs                                ",
+    "chapter": "18",
+    "verse": "11",
+    "text": "Rich people see their wealth as a fortified town—it's like a high wall in their imagination."
+  },
+  {
+    "id": 26891,
+    "book": "proverbs                                ",
+    "chapter": "18",
+    "verse": "12",
+    "text": "Pride leads to destruction; humility goes before honor."
+  },
+  {
+    "id": 26892,
+    "book": "proverbs                                ",
+    "chapter": "18",
+    "verse": "13",
+    "text": "Replying before hearing is stupidity and shame."
+  },
+  {
+    "id": 26893,
+    "book": "proverbs                                ",
+    "chapter": "18",
+    "verse": "14",
+    "text": "With a brave spirit you can put up with sickness, but if it's crushed, you can't bear it."
+  },
+  {
+    "id": 26894,
+    "book": "proverbs                                ",
+    "chapter": "18",
+    "verse": "15",
+    "text": "An intelligent mind acquires knowledge; the wise are ready to hear knowledge."
+  },
+  {
+    "id": 26895,
+    "book": "proverbs                                ",
+    "chapter": "18",
+    "verse": "16",
+    "text": "A gift opens doors for you, and gets you into the presence of important people."
+  },
+  {
+    "id": 26896,
+    "book": "proverbs                                ",
+    "chapter": "18",
+    "verse": "17",
+    "text": "The first person to plead a case sounds right until someone comes to cross-examine them."
+  },
+  {
+    "id": 26897,
+    "book": "proverbs                                ",
+    "chapter": "18",
+    "verse": "18",
+    "text": "Casting lots can end disputes and decide between powerful people."
+  },
+  {
+    "id": 26898,
+    "book": "proverbs                                ",
+    "chapter": "18",
+    "verse": "19",
+    "text": "A brother you've offended is harder to win back than a fortified town.18:19. The meaning of the Hebrew is unclear. Arguments keep people apart like bars on the doors of a fortress."
+  },
+  {
+    "id": 26899,
+    "book": "proverbs                                ",
+    "chapter": "18",
+    "verse": "20",
+    "text": "Make sure you're satisfied with what you say—you have to live with your words.18:20. Many different interpretations have been given for the meaning of this verse."
+  },
+  {
+    "id": 26900,
+    "book": "proverbs                                ",
+    "chapter": "18",
+    "verse": "21",
+    "text": "What you say has the power to bring life or to kill; those who love talking will have to deal with the consequences."
+  },
+  {
+    "id": 26901,
+    "book": "proverbs                                ",
+    "chapter": "18",
+    "verse": "22",
+    "text": "If you find a wife, that's great, and you'll be blessed by the Lord."
+  },
+  {
+    "id": 26902,
+    "book": "proverbs                                ",
+    "chapter": "18",
+    "verse": "23",
+    "text": "The poor beg for mercy, but the rich reply harshly."
+  },
+  {
+    "id": 26903,
+    "book": "proverbs                                ",
+    "chapter": "18",
+    "verse": "24",
+    "text": "Some friends give up18:24. “Give up”: literally, “come to ruin.” on you, but there's a friend who stays closer to you than a brother."
+  }
+]
