@@ -1,1 +1,142 @@
-{"data":[{"book":"Joel","chapter":"1","verse":"1","text":"Herrens (Jahves) ord som kom till Joel [som betyder: ”Herren är Gud”], Petuels son."},{"book":"Joel","chapter":"1","verse":"2","text":"Hör detta, alla ni gamla män"},{"book":"Joel","chapter":"1","verse":"3","text":"Berätta för era söner (barn) om det,"},{"book":"Joel","chapter":"1","verse":"4","text":"Vad den bitande gräshoppan har lämnat"},{"book":"Joel","chapter":"1","verse":"5","text":"Vakna upp, ni drinkare och gråt!"},{"book":"Joel","chapter":"1","verse":"6","text":"För ett främmande folk har kommit upp över (hedningar har invaderat) mitt land."},{"book":"Joel","chapter":"1","verse":"7","text":"Han [den främmande hären] har fördärvat mitt vin [som är en symbol på Guds folk]"},{"book":"Joel","chapter":"1","verse":"8","text":"Jämra er som en jungfru som sitter i säcktyg"},{"book":"Joel","chapter":"1","verse":"9","text":"Matoffer och dryckesoffer"},{"book":"Joel","chapter":"1","verse":"10","text":"Fälten är öde,"},{"book":"Joel","chapter":"1","verse":"11","text":"Känn skam ni jordbrukare,"},{"book":"Joel","chapter":"1","verse":"12","text":"Vinet vissnar,"},{"book":"Joel","chapter":"1","verse":"13","text":"Omgjorda er själva med säcktyg och gråt ni präster."},{"book":"Joel","chapter":"1","verse":"14","text":"Utlys en helig fasta,"},{"book":"Joel","chapter":"1","verse":"15","text":"Ack (åh nej), vilken dag!"},{"book":"Joel","chapter":"1","verse":"16","text":"Är inte framför våra ögon"},{"book":"Joel","chapter":"1","verse":"17","text":"Grödan skrumpnar ihop"},{"book":"Joel","chapter":"1","verse":"18","text":"Hur stönar inte djuren!"},{"book":"Joel","chapter":"1","verse":"19","text":"Till dig Herre (Jahve) ropar jag,"},{"book":"Joel","chapter":"1","verse":"20","text":"Även fältens vilda djur flämtar till dig,"}]}
+[
+  {
+    "id": 34386,
+    "book": "joel                                    ",
+    "chapter": "1",
+    "verse": "1",
+    "text": "Herrens (Jahves) ord som kom till Joel [som betyder: ”Herren är Gud”], Petuels son."
+  },
+  {
+    "id": 34387,
+    "book": "joel                                    ",
+    "chapter": "1",
+    "verse": "2",
+    "text": "Hör detta, alla ni gamla män"
+  },
+  {
+    "id": 34388,
+    "book": "joel                                    ",
+    "chapter": "1",
+    "verse": "3",
+    "text": "Berätta för era söner (barn) om det,"
+  },
+  {
+    "id": 34389,
+    "book": "joel                                    ",
+    "chapter": "1",
+    "verse": "4",
+    "text": "Vad den bitande gräshoppan har lämnat"
+  },
+  {
+    "id": 34390,
+    "book": "joel                                    ",
+    "chapter": "1",
+    "verse": "5",
+    "text": "Vakna upp, ni drinkare och gråt!"
+  },
+  {
+    "id": 34391,
+    "book": "joel                                    ",
+    "chapter": "1",
+    "verse": "6",
+    "text": "För ett främmande folk har kommit upp över (hedningar har invaderat) mitt land."
+  },
+  {
+    "id": 34392,
+    "book": "joel                                    ",
+    "chapter": "1",
+    "verse": "7",
+    "text": "Han [den främmande hären] har fördärvat mitt vin [som är en symbol på Guds folk]"
+  },
+  {
+    "id": 34393,
+    "book": "joel                                    ",
+    "chapter": "1",
+    "verse": "8",
+    "text": "Jämra er som en jungfru som sitter i säcktyg"
+  },
+  {
+    "id": 34394,
+    "book": "joel                                    ",
+    "chapter": "1",
+    "verse": "9",
+    "text": "Matoffer och dryckesoffer"
+  },
+  {
+    "id": 34395,
+    "book": "joel                                    ",
+    "chapter": "1",
+    "verse": "10",
+    "text": "Fälten är öde,"
+  },
+  {
+    "id": 34396,
+    "book": "joel                                    ",
+    "chapter": "1",
+    "verse": "11",
+    "text": "Känn skam ni jordbrukare,"
+  },
+  {
+    "id": 34397,
+    "book": "joel                                    ",
+    "chapter": "1",
+    "verse": "12",
+    "text": "Vinet vissnar,"
+  },
+  {
+    "id": 34398,
+    "book": "joel                                    ",
+    "chapter": "1",
+    "verse": "13",
+    "text": "Omgjorda er själva med säcktyg och gråt ni präster."
+  },
+  {
+    "id": 34399,
+    "book": "joel                                    ",
+    "chapter": "1",
+    "verse": "14",
+    "text": "Utlys en helig fasta,"
+  },
+  {
+    "id": 34400,
+    "book": "joel                                    ",
+    "chapter": "1",
+    "verse": "15",
+    "text": "Ack (åh nej), vilken dag!"
+  },
+  {
+    "id": 34401,
+    "book": "joel                                    ",
+    "chapter": "1",
+    "verse": "16",
+    "text": "Är inte framför våra ögon"
+  },
+  {
+    "id": 34402,
+    "book": "joel                                    ",
+    "chapter": "1",
+    "verse": "17",
+    "text": "Grödan skrumpnar ihop"
+  },
+  {
+    "id": 34403,
+    "book": "joel                                    ",
+    "chapter": "1",
+    "verse": "18",
+    "text": "Hur stönar inte djuren!"
+  },
+  {
+    "id": 34404,
+    "book": "joel                                    ",
+    "chapter": "1",
+    "verse": "19",
+    "text": "Till dig Herre (Jahve) ropar jag,"
+  },
+  {
+    "id": 34405,
+    "book": "joel                                    ",
+    "chapter": "1",
+    "verse": "20",
+    "text": "Även fältens vilda djur flämtar till dig,"
+  }
+]

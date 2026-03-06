@@ -1,1 +1,191 @@
-{"data":[{"book":"Job","chapter":"5","verse":"1","text":"Ropa, jag ber dig, finns det någon som svarar dig?"},{"book":"Job","chapter":"5","verse":"2","text":"Eftersom otålighet (irritation, inre vrede – hebr. kaas) slår (dödar) den babblande dåren (hebr. evil)"},{"book":"Job","chapter":"5","verse":"3","text":"Jag har sett dåren slå rot"},{"book":"Job","chapter":"5","verse":"4","text":"Hans söner tas (förs) bort från säkerheten (tryggheten)"},{"book":"Job","chapter":"5","verse":"5","text":"Hans skörd äts av en hungrig"},{"book":"Job","chapter":"5","verse":"6","text":"För inte kommer väl ondska (tomhet, problem) från stoftet"},{"book":"Job","chapter":"5","verse":"7","text":"Nej, en människa är född till olycka (möda),"},{"book":"Job","chapter":"5","verse":"8","text":"För min del [Elifaz råder nu Job hur han skulle göra om han var i samma situation],"},{"book":"Job","chapter":"5","verse":"9","text":"Han [Gud] som gör stora och outgrundliga ting (omöjliga att helt förstå),"},{"book":"Job","chapter":"5","verse":"10","text":"Han som ger regn till jorden,"},{"book":"Job","chapter":"5","verse":"11","text":"Så att han upphöjer de låga [Ps 113],"},{"book":"Job","chapter":"5","verse":"12","text":"Han omintetgör (bryter ner) de listigas planer,"},{"book":"Job","chapter":"5","verse":"13","text":"Han fångar (intar och besegrar)"},{"book":"Job","chapter":"5","verse":"14","text":"På dagen"},{"book":"Job","chapter":"5","verse":"15","text":"Så räddar han [den oskyldige] från deras tungors svärd [lögner],"},{"book":"Job","chapter":"5","verse":"16","text":"Då blir det hopp för den fattige,"},{"book":"Job","chapter":"5","verse":"17","text":"Se, lycklig den man som Gud (Eloha) förebrår"},{"book":"Job","chapter":"5","verse":"18","text":"Eftersom han ger smärta (hebr. kaav) och förbinder (hebr. chavash)"},{"book":"Job","chapter":"5","verse":"19","text":"I sex trångmål räddar han dig"},{"book":"Job","chapter":"5","verse":"20","text":"[Nu följer 6 exempel på trångmål:]"},{"book":"Job","chapter":"5","verse":"21","text":"Från (i, genom) tungans gissel ska du vara undangömd,"},{"book":"Job","chapter":"5","verse":"22","text":"Åt plundring (förödelse) och svält (hebr. kafan) [Job 30:3] skrattar du,"},{"book":"Job","chapter":"5","verse":"23","text":"Eftersom ditt förbund är med fältets sten"},{"book":"Job","chapter":"5","verse":"24","text":"Och du ska veta (vara intimt förtrogen med) eftersom ditt tält är din frid (fred; fullständig harmoni; helhet på alla områden – hebr. shalom)"},{"book":"Job","chapter":"5","verse":"25","text":"Och du ska veta (vara intimt förtrogen med) eftersom din säd är riklig"},{"book":"Job","chapter":"5","verse":"26","text":"Du ska komma i kraft (hebr. kelach) [Job 30:2] till din grav"},{"book":"Job","chapter":"5","verse":"27","text":"Se, detta utforskar vi, så är det,"}]}
+[
+  {
+    "id": 33398,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "1",
+    "text": "Ropa, jag ber dig, finns det någon som svarar dig?"
+  },
+  {
+    "id": 33399,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "2",
+    "text": "Eftersom otålighet (irritation, inre vrede – hebr. kaas) slår (dödar) den babblande dåren (hebr. evil)"
+  },
+  {
+    "id": 33400,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "3",
+    "text": "Jag har sett dåren slå rot"
+  },
+  {
+    "id": 33401,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "4",
+    "text": "Hans söner tas (förs) bort från säkerheten (tryggheten)"
+  },
+  {
+    "id": 33402,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "5",
+    "text": "Hans skörd äts av en hungrig"
+  },
+  {
+    "id": 33403,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "6",
+    "text": "För inte kommer väl ondska (tomhet, problem) från stoftet"
+  },
+  {
+    "id": 33404,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "7",
+    "text": "Nej, en människa är född till olycka (möda),"
+  },
+  {
+    "id": 33405,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "8",
+    "text": "För min del [Elifaz råder nu Job hur han skulle göra om han var i samma situation],"
+  },
+  {
+    "id": 33406,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "9",
+    "text": "Han [Gud] som gör stora och outgrundliga ting (omöjliga att helt förstå),"
+  },
+  {
+    "id": 33407,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "10",
+    "text": "Han som ger regn till jorden,"
+  },
+  {
+    "id": 33408,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "11",
+    "text": "Så att han upphöjer de låga [Ps 113],"
+  },
+  {
+    "id": 33409,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "12",
+    "text": "Han omintetgör (bryter ner) de listigas planer,"
+  },
+  {
+    "id": 33410,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "13",
+    "text": "Han fångar (intar och besegrar)"
+  },
+  {
+    "id": 33411,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "14",
+    "text": "På dagen"
+  },
+  {
+    "id": 33412,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "15",
+    "text": "Så räddar han [den oskyldige] från deras tungors svärd [lögner],"
+  },
+  {
+    "id": 33413,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "16",
+    "text": "Då blir det hopp för den fattige,"
+  },
+  {
+    "id": 33414,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "17",
+    "text": "Se, lycklig den man som Gud (Eloha) förebrår"
+  },
+  {
+    "id": 33415,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "18",
+    "text": "Eftersom han ger smärta (hebr. kaav) och förbinder (hebr. chavash)"
+  },
+  {
+    "id": 33416,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "19",
+    "text": "I sex trångmål räddar han dig"
+  },
+  {
+    "id": 33417,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "20",
+    "text": "[Nu följer 6 exempel på trångmål:]"
+  },
+  {
+    "id": 33418,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "21",
+    "text": "Från (i, genom) tungans gissel ska du vara undangömd,"
+  },
+  {
+    "id": 33419,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "22",
+    "text": "Åt plundring (förödelse) och svält (hebr. kafan) [Job 30:3] skrattar du,"
+  },
+  {
+    "id": 33420,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "23",
+    "text": "Eftersom ditt förbund är med fältets sten"
+  },
+  {
+    "id": 33421,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "24",
+    "text": "Och du ska veta (vara intimt förtrogen med) eftersom ditt tält är din frid (fred; fullständig harmoni; helhet på alla områden – hebr. shalom)"
+  },
+  {
+    "id": 33422,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "25",
+    "text": "Och du ska veta (vara intimt förtrogen med) eftersom din säd är riklig"
+  },
+  {
+    "id": 33423,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "26",
+    "text": "Du ska komma i kraft (hebr. kelach) [Job 30:2] till din grav"
+  },
+  {
+    "id": 33424,
+    "book": "job                                     ",
+    "chapter": "5",
+    "verse": "27",
+    "text": "Se, detta utforskar vi, så är det,"
+  }
+]

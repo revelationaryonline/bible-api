@@ -1,1 +1,198 @@
-{"data":[{"book":"Job","chapter":"13","verse":"1","text":"Ja, mitt öga har sett allt,"},{"book":"Job","chapter":"13","verse":"2","text":"Den kunskap ni har, den känner jag också –"},{"book":"Job","chapter":"13","verse":"3","text":"Men likväl (en skarp betoning och kontrast mellan något som varit och är – hebr. olam),"},{"book":"Job","chapter":"13","verse":"4","text":"Men likväl (hebr. olam),"},{"book":"Job","chapter":"13","verse":"5","text":"Om ni ändå bara kunde vara tysta"},{"book":"Job","chapter":"13","verse":"6","text":"Hör nu min argumentation (tillrättavisning; mitt försvar),"},{"book":"Job","chapter":"13","verse":"7","text":"Vill ni tala orättfärdighet till Gud (El)"},{"book":"Job","chapter":"13","verse":"8","text":"Visar ni er partiska för honom (lyfter upp hans ansikte),"},{"book":"Job","chapter":"13","verse":"9","text":"Inte skulle det gå väl [om rollerna var ombytta] och han prövade er?"},{"book":"Job","chapter":"13","verse":"10","text":"Han ska verkligen gå till rätta med er,"},{"book":"Job","chapter":"13","verse":"11","text":"Ska inte hans majestät skrämma er [som den skrämde Job, se Job 31:23],"},{"book":"Job","chapter":"13","verse":"12","text":"Era minnesord (krönikor) [Est 6:1] är ordspråk i aska [tomhet],"},{"book":"Job","chapter":"13","verse":"13","text":"Var tysta – bort [från mig], låt mig få tala,"},{"book":"Job","chapter":"13","verse":"14","text":"Varför skulle jag fatta mitt kött i mina tänder [som ett vilddjur som tar ett byte]"},{"book":"Job","chapter":"13","verse":"15","text":"Kanske han [Gud] dödar mig – jag väntar mig inget annat,"},{"book":"Job","chapter":"13","verse":"16","text":"Det skulle till och med bli min räddning,"},{"book":"Job","chapter":"13","verse":"17","text":"[För tredje gången i detta kapitel ber Job vännerna att vara tysta, se vers 5 och 13.]"},{"book":"Job","chapter":"13","verse":"18","text":"Se, jag ber dig, jag lägger fram (radar upp) min sak,"},{"book":"Job","chapter":"13","verse":"19","text":"Vem finns det som kan anklaga mig?"},{"book":"Job","chapter":"13","verse":"20","text":"[Gud!] Två saker önskar jag att du gör,"},{"book":"Job","chapter":"13","verse":"21","text":"Bort med din hand från mig,"},{"book":"Job","chapter":"13","verse":"22","text":"Kalla på mig och jag ska svara (hebr. anah),"},{"book":"Job","chapter":"13","verse":"23","text":"Vad är (hur stora är) mina missgärningar (hebr. avon) och synder (hebr. chatat),"},{"book":"Job","chapter":"13","verse":"24","text":"Varför gömmer du ditt ansikte,"},{"book":"Job","chapter":"13","verse":"25","text":"Ska du jaga (skrämma) ett bortvirvlande löv [som redan far för vinden]"},{"book":"Job","chapter":"13","verse":"26","text":"Du skriver ner [en dom] över mig – bitter galla (ormgift) [du ger mig ett hårt straff]"},{"book":"Job","chapter":"13","verse":"27","text":"Och du sätter mina fötter i boja (stock)"},{"book":"Job","chapter":"13","verse":"28","text":"[Job talar nu om sig själv i tredje person.]"}]}
+[
+  {
+    "id": 33600,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "1",
+    "text": "Ja, mitt öga har sett allt,"
+  },
+  {
+    "id": 33601,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "2",
+    "text": "Den kunskap ni har, den känner jag också –"
+  },
+  {
+    "id": 33602,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "3",
+    "text": "Men likväl (en skarp betoning och kontrast mellan något som varit och är – hebr. olam),"
+  },
+  {
+    "id": 33603,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "4",
+    "text": "Men likväl (hebr. olam),"
+  },
+  {
+    "id": 33604,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "5",
+    "text": "Om ni ändå bara kunde vara tysta"
+  },
+  {
+    "id": 33605,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "6",
+    "text": "Hör nu min argumentation (tillrättavisning; mitt försvar),"
+  },
+  {
+    "id": 33606,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "7",
+    "text": "Vill ni tala orättfärdighet till Gud (El)"
+  },
+  {
+    "id": 33607,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "8",
+    "text": "Visar ni er partiska för honom (lyfter upp hans ansikte),"
+  },
+  {
+    "id": 33608,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "9",
+    "text": "Inte skulle det gå väl [om rollerna var ombytta] och han prövade er?"
+  },
+  {
+    "id": 33609,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "10",
+    "text": "Han ska verkligen gå till rätta med er,"
+  },
+  {
+    "id": 33610,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "11",
+    "text": "Ska inte hans majestät skrämma er [som den skrämde Job, se Job 31:23],"
+  },
+  {
+    "id": 33611,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "12",
+    "text": "Era minnesord (krönikor) [Est 6:1] är ordspråk i aska [tomhet],"
+  },
+  {
+    "id": 33612,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "13",
+    "text": "Var tysta – bort [från mig], låt mig få tala,"
+  },
+  {
+    "id": 33613,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "14",
+    "text": "Varför skulle jag fatta mitt kött i mina tänder [som ett vilddjur som tar ett byte]"
+  },
+  {
+    "id": 33614,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "15",
+    "text": "Kanske han [Gud] dödar mig – jag väntar mig inget annat,"
+  },
+  {
+    "id": 33615,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "16",
+    "text": "Det skulle till och med bli min räddning,"
+  },
+  {
+    "id": 33616,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "17",
+    "text": "[För tredje gången i detta kapitel ber Job vännerna att vara tysta, se vers 5 och 13.]"
+  },
+  {
+    "id": 33617,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "18",
+    "text": "Se, jag ber dig, jag lägger fram (radar upp) min sak,"
+  },
+  {
+    "id": 33618,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "19",
+    "text": "Vem finns det som kan anklaga mig?"
+  },
+  {
+    "id": 33619,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "20",
+    "text": "[Gud!] Två saker önskar jag att du gör,"
+  },
+  {
+    "id": 33620,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "21",
+    "text": "Bort med din hand från mig,"
+  },
+  {
+    "id": 33621,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "22",
+    "text": "Kalla på mig och jag ska svara (hebr. anah),"
+  },
+  {
+    "id": 33622,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "23",
+    "text": "Vad är (hur stora är) mina missgärningar (hebr. avon) och synder (hebr. chatat),"
+  },
+  {
+    "id": 33623,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "24",
+    "text": "Varför gömmer du ditt ansikte,"
+  },
+  {
+    "id": 33624,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "25",
+    "text": "Ska du jaga (skrämma) ett bortvirvlande löv [som redan far för vinden]"
+  },
+  {
+    "id": 33625,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "26",
+    "text": "Du skriver ner [en dom] över mig – bitter galla (ormgift) [du ger mig ett hårt straff]"
+  },
+  {
+    "id": 33626,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "27",
+    "text": "Och du sätter mina fötter i boja (stock)"
+  },
+  {
+    "id": 33627,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "28",
+    "text": "[Job talar nu om sig själv i tredje person.]"
+  }
+]

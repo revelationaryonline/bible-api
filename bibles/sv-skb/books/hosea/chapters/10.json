@@ -1,1 +1,107 @@
-{"data":[{"book":"Hosea","chapter":"10","verse":"1","text":"Israel är ett frodigt vin"},{"book":"Hosea","chapter":"10","verse":"2","text":"Deras hjärta är delat,"},{"book":"Hosea","chapter":"10","verse":"3","text":"Nu ska de säkert säga: ”Vi har ingen kung"},{"book":"Hosea","chapter":"10","verse":"4","text":"De talar ord,"},{"book":"Hosea","chapter":"10","verse":"5","text":"Samariens invånare"},{"book":"Hosea","chapter":"10","verse":"6","text":"Också den [den gjutna avgudakalven i Betel] ska bäras bort till Assyrien,"},{"book":"Hosea","chapter":"10","verse":"7","text":"Samariens kung är avhuggen"},{"book":"Hosea","chapter":"10","verse":"8","text":"[Beit] Avens höga platser ska förgöras,"},{"book":"Hosea","chapter":"10","verse":"9","text":"Från Givas dagar har du syndat Israel,"},{"book":"Hosea","chapter":"10","verse":"10","text":"När det är min önskan [i min tid], ska jag tukta dem,"},{"book":"Hosea","chapter":"10","verse":"11","text":"Och Efraim är en kviga som älskar att tröska"},{"book":"Hosea","chapter":"10","verse":"12","text":"Så åt er själva i rättfärdighet,"},{"book":"Hosea","chapter":"10","verse":"13","text":"Ni har plöjt ondska,"},{"book":"Hosea","chapter":"10","verse":"14","text":"Därför ska tumult bryta ut i dina härar"},{"book":"Hosea","chapter":"10","verse":"15","text":"Så har Betel gjort mot dig"}]}
+[
+  {
+    "id": 27615,
+    "book": "hosea                                   ",
+    "chapter": "10",
+    "verse": "1",
+    "text": "Israel är ett frodigt vin"
+  },
+  {
+    "id": 27616,
+    "book": "hosea                                   ",
+    "chapter": "10",
+    "verse": "2",
+    "text": "Deras hjärta är delat,"
+  },
+  {
+    "id": 27617,
+    "book": "hosea                                   ",
+    "chapter": "10",
+    "verse": "3",
+    "text": "Nu ska de säkert säga: ”Vi har ingen kung"
+  },
+  {
+    "id": 27618,
+    "book": "hosea                                   ",
+    "chapter": "10",
+    "verse": "4",
+    "text": "De talar ord,"
+  },
+  {
+    "id": 27619,
+    "book": "hosea                                   ",
+    "chapter": "10",
+    "verse": "5",
+    "text": "Samariens invånare"
+  },
+  {
+    "id": 27620,
+    "book": "hosea                                   ",
+    "chapter": "10",
+    "verse": "6",
+    "text": "Också den [den gjutna avgudakalven i Betel] ska bäras bort till Assyrien,"
+  },
+  {
+    "id": 27621,
+    "book": "hosea                                   ",
+    "chapter": "10",
+    "verse": "7",
+    "text": "Samariens kung är avhuggen"
+  },
+  {
+    "id": 27622,
+    "book": "hosea                                   ",
+    "chapter": "10",
+    "verse": "8",
+    "text": "[Beit] Avens höga platser ska förgöras,"
+  },
+  {
+    "id": 27623,
+    "book": "hosea                                   ",
+    "chapter": "10",
+    "verse": "9",
+    "text": "Från Givas dagar har du syndat Israel,"
+  },
+  {
+    "id": 27624,
+    "book": "hosea                                   ",
+    "chapter": "10",
+    "verse": "10",
+    "text": "När det är min önskan [i min tid], ska jag tukta dem,"
+  },
+  {
+    "id": 27625,
+    "book": "hosea                                   ",
+    "chapter": "10",
+    "verse": "11",
+    "text": "Och Efraim är en kviga som älskar att tröska"
+  },
+  {
+    "id": 27626,
+    "book": "hosea                                   ",
+    "chapter": "10",
+    "verse": "12",
+    "text": "Så åt er själva i rättfärdighet,"
+  },
+  {
+    "id": 27627,
+    "book": "hosea                                   ",
+    "chapter": "10",
+    "verse": "13",
+    "text": "Ni har plöjt ondska,"
+  },
+  {
+    "id": 27628,
+    "book": "hosea                                   ",
+    "chapter": "10",
+    "verse": "14",
+    "text": "Därför ska tumult bryta ut i dina härar"
+  },
+  {
+    "id": 27629,
+    "book": "hosea                                   ",
+    "chapter": "10",
+    "verse": "15",
+    "text": "Så har Betel gjort mot dig"
+  }
+]

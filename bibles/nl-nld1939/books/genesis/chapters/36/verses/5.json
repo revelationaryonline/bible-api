@@ -1,1 +1,9 @@
-{"verse":"5","text":"Oholibama baarde Jeoesj, Jalam en Kórach. Dit zijn de zonen van Esau, die hem in het land Kanaän werden geboren."}
+[
+  {
+    "id": 12345,
+    "book": "genesis                                 ",
+    "chapter": "36",
+    "verse": "5",
+    "text": "Oholibama baarde Jeoesj, Jalam en Kórach. Dit zijn de zonen van Esau, die hem in het land Kanaän werden geboren."
+  }
+]

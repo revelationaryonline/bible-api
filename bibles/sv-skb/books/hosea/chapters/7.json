@@ -1,1 +1,114 @@
-{"data":[{"book":"Hosea","chapter":"7","verse":"1","text":"När jag helar Israel"},{"book":"Hosea","chapter":"7","verse":"2","text":"Låt dem inte säga till sina egna hjärtan"},{"book":"Hosea","chapter":"7","verse":"3","text":"De gör kungen glad med sin ondska"},{"book":"Hosea","chapter":"7","verse":"4","text":"De är alla äktenskapsbrytare,"},{"book":"Hosea","chapter":"7","verse":"5","text":"På vår kungs dag gör furstarna honom sjuk med vinets hetta,"},{"book":"Hosea","chapter":"7","verse":"6","text":"De har gjort sina hjärtan redo som en ugn medan de ligger på lur (i bakhåll),"},{"book":"Hosea","chapter":"7","verse":"7","text":"De är alla heta som en ugn och slukar sina domare,"},{"book":"Hosea","chapter":"7","verse":"8","text":"Efraim har blandat sig själv med folken."},{"book":"Hosea","chapter":"7","verse":"9","text":"Främlingar har slukat hans styrka"},{"book":"Hosea","chapter":"7","verse":"10","text":"Israels stolthet vittnar mot hans ansikte,"},{"book":"Hosea","chapter":"7","verse":"11","text":"Och Efraim har blivit som en menlös duva"},{"book":"Hosea","chapter":"7","verse":"12","text":"När de går ska jag sprida ut mitt nät över dem,"},{"book":"Hosea","chapter":"7","verse":"13","text":"Ve över dem,"},{"book":"Hosea","chapter":"7","verse":"14","text":"Och de har inte ropat till mig med sina hjärtan"},{"book":"Hosea","chapter":"7","verse":"15","text":"Och jag har tränat och styrkt deras armar,"},{"book":"Hosea","chapter":"7","verse":"16","text":"De återvänder inte upprätt,"}]}
+[
+  {
+    "id": 27568,
+    "book": "hosea                                   ",
+    "chapter": "7",
+    "verse": "1",
+    "text": "När jag helar Israel"
+  },
+  {
+    "id": 27569,
+    "book": "hosea                                   ",
+    "chapter": "7",
+    "verse": "2",
+    "text": "Låt dem inte säga till sina egna hjärtan"
+  },
+  {
+    "id": 27570,
+    "book": "hosea                                   ",
+    "chapter": "7",
+    "verse": "3",
+    "text": "De gör kungen glad med sin ondska"
+  },
+  {
+    "id": 27571,
+    "book": "hosea                                   ",
+    "chapter": "7",
+    "verse": "4",
+    "text": "De är alla äktenskapsbrytare,"
+  },
+  {
+    "id": 27572,
+    "book": "hosea                                   ",
+    "chapter": "7",
+    "verse": "5",
+    "text": "På vår kungs dag gör furstarna honom sjuk med vinets hetta,"
+  },
+  {
+    "id": 27573,
+    "book": "hosea                                   ",
+    "chapter": "7",
+    "verse": "6",
+    "text": "De har gjort sina hjärtan redo som en ugn medan de ligger på lur (i bakhåll),"
+  },
+  {
+    "id": 27574,
+    "book": "hosea                                   ",
+    "chapter": "7",
+    "verse": "7",
+    "text": "De är alla heta som en ugn och slukar sina domare,"
+  },
+  {
+    "id": 27575,
+    "book": "hosea                                   ",
+    "chapter": "7",
+    "verse": "8",
+    "text": "Efraim har blandat sig själv med folken."
+  },
+  {
+    "id": 27576,
+    "book": "hosea                                   ",
+    "chapter": "7",
+    "verse": "9",
+    "text": "Främlingar har slukat hans styrka"
+  },
+  {
+    "id": 27577,
+    "book": "hosea                                   ",
+    "chapter": "7",
+    "verse": "10",
+    "text": "Israels stolthet vittnar mot hans ansikte,"
+  },
+  {
+    "id": 27578,
+    "book": "hosea                                   ",
+    "chapter": "7",
+    "verse": "11",
+    "text": "Och Efraim har blivit som en menlös duva"
+  },
+  {
+    "id": 27579,
+    "book": "hosea                                   ",
+    "chapter": "7",
+    "verse": "12",
+    "text": "När de går ska jag sprida ut mitt nät över dem,"
+  },
+  {
+    "id": 27580,
+    "book": "hosea                                   ",
+    "chapter": "7",
+    "verse": "13",
+    "text": "Ve över dem,"
+  },
+  {
+    "id": 27581,
+    "book": "hosea                                   ",
+    "chapter": "7",
+    "verse": "14",
+    "text": "Och de har inte ropat till mig med sina hjärtan"
+  },
+  {
+    "id": 27582,
+    "book": "hosea                                   ",
+    "chapter": "7",
+    "verse": "15",
+    "text": "Och jag har tränat och styrkt deras armar,"
+  },
+  {
+    "id": 27583,
+    "book": "hosea                                   ",
+    "chapter": "7",
+    "verse": "16",
+    "text": "De återvänder inte upprätt,"
+  }
+]

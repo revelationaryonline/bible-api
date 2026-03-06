@@ -1,1 +1,198 @@
-{"data":[{"book":"Job","chapter":"13","verse":"1","text":"Zie, dit alles heb ik met eigen ogen aanschouwd, Mijn oor heeft het gehoord en verstaan."},{"book":"Job","chapter":"13","verse":"2","text":"Wat gij weet, weet ik even goed: Ik doe niet onder voor u."},{"book":"Job","chapter":"13","verse":"3","text":"Daarom wil ik tot den Almachtige spreken, Mijn zaak bepleiten voor God!"},{"book":"Job","chapter":"13","verse":"4","text":"Want gij zijt leugensmeden, En kwakzalvers allemaal!"},{"book":"Job","chapter":"13","verse":"5","text":"Als gij er nu maar het zwijgen toe deedt, Rekende men het u als wijsheid aan."},{"book":"Job","chapter":"13","verse":"6","text":"Luistert dus liever naar mijn pleit, En geeft acht op het pleidooi mijner lippen."},{"book":"Job","chapter":"13","verse":"7","text":"Moogt gij leugens spreken, om God te believen, Ter wille van Hem onwaarheid zeggen;"},{"book":"Job","chapter":"13","verse":"8","text":"Moogt gij partijdig voor Hem zijn, Wanneer gij voor God denkt te pleiten?"},{"book":"Job","chapter":"13","verse":"9","text":"Loopt dit goed voor u af, wanneer Hij u in verhoor neemt; Of denkt gij Hem te bedriegen, zoals men mensen bedriegt?"},{"book":"Job","chapter":"13","verse":"10","text":"Ten zwaarste zal Hij u straffen, Zo gij partijdig zijt in het geniep."},{"book":"Job","chapter":"13","verse":"11","text":"Zal zijn Majesteit u dan niet ontstellen, Zijn verschrikkingen u niet overvallen?"},{"book":"Job","chapter":"13","verse":"12","text":"Want uw uitspraken zijn spreuken van as, Uw betogen, betogen van leem!"},{"book":"Job","chapter":"13","verse":"13","text":"Zwijgt derhalve, en laat mij spreken; Laat er van komen wat wil!"},{"book":"Job","chapter":"13","verse":"14","text":"Ik pak mijn vlees tussen mijn tanden, En neem mijn leven in mijn hand."},{"book":"Job","chapter":"13","verse":"15","text":"Wil Hij me doden, ik wacht Hem af; Maar ik verdedig mijn wandel voor Hem!"},{"book":"Job","chapter":"13","verse":"16","text":"Dit zal reeds een triomf voor mij zijn; Want de boze durft niet eens voor zijn aanschijn treden!"},{"book":"Job","chapter":"13","verse":"17","text":"Luistert dus goed naar mijn woord, Leent het oor aan mijn rede."},{"book":"Job","chapter":"13","verse":"18","text":"Zie, ik heb mijn pleit gereed, Ik ben mij bewust van mijn recht!"},{"book":"Job","chapter":"13","verse":"19","text":"Wie brengt er iets tegen mij in? Ik zou aanstonds zwijgen en sterven."},{"book":"Job","chapter":"13","verse":"20","text":"Twee dingen moet Gij mij echter besparen, Dan verschuil ik mij niet voor uw aanschijn:"},{"book":"Job","chapter":"13","verse":"21","text":"Neem uw hand van mij weg, En verbijster mij niet door uw verschrikking."},{"book":"Job","chapter":"13","verse":"22","text":"Daag mij dus uit, en ik zal antwoorden; Of laat mij spreken, en antwoord Gij:"},{"book":"Job","chapter":"13","verse":"23","text":"Hoeveel fouten en zonden heb ik bedreven, Noem mij mijn misdaden en zonden op!"},{"book":"Job","chapter":"13","verse":"24","text":"Waarom verbergt Gij uw aanschijn, En beschouwt Gij mij als uw vijand?"},{"book":"Job","chapter":"13","verse":"25","text":"Wilt gij een weggewaaid blad nog verschrikken, Een verdorde halm nog vervolgen:"},{"book":"Job","chapter":"13","verse":"26","text":"Dat Gij zo’n bitter lot mij bestemt, En de fouten wreekt van mijn jeugd;"},{"book":"Job","chapter":"13","verse":"27","text":"Mijn voeten steekt in een blok, al mijn gangen bewaakt, En mijn voetzolen bespiedt?"},{"book":"Job","chapter":"13","verse":"28","text":"-"}]}
+[
+  {
+    "id": 17599,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "1",
+    "text": "Zie, dit alles heb ik met eigen ogen aanschouwd, Mijn oor heeft het gehoord en verstaan."
+  },
+  {
+    "id": 17600,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "2",
+    "text": "Wat gij weet, weet ik even goed: Ik doe niet onder voor u."
+  },
+  {
+    "id": 17601,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "3",
+    "text": "Daarom wil ik tot den Almachtige spreken, Mijn zaak bepleiten voor God!"
+  },
+  {
+    "id": 17602,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "4",
+    "text": "Want gij zijt leugensmeden, En kwakzalvers allemaal!"
+  },
+  {
+    "id": 17603,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "5",
+    "text": "Als gij er nu maar het zwijgen toe deedt, Rekende men het u als wijsheid aan."
+  },
+  {
+    "id": 17604,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "6",
+    "text": "Luistert dus liever naar mijn pleit, En geeft acht op het pleidooi mijner lippen."
+  },
+  {
+    "id": 17605,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "7",
+    "text": "Moogt gij leugens spreken, om God te believen, Ter wille van Hem onwaarheid zeggen;"
+  },
+  {
+    "id": 17606,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "8",
+    "text": "Moogt gij partijdig voor Hem zijn, Wanneer gij voor God denkt te pleiten?"
+  },
+  {
+    "id": 17607,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "9",
+    "text": "Loopt dit goed voor u af, wanneer Hij u in verhoor neemt; Of denkt gij Hem te bedriegen, zoals men mensen bedriegt?"
+  },
+  {
+    "id": 17608,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "10",
+    "text": "Ten zwaarste zal Hij u straffen, Zo gij partijdig zijt in het geniep."
+  },
+  {
+    "id": 17609,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "11",
+    "text": "Zal zijn Majesteit u dan niet ontstellen, Zijn verschrikkingen u niet overvallen?"
+  },
+  {
+    "id": 17610,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "12",
+    "text": "Want uw uitspraken zijn spreuken van as, Uw betogen, betogen van leem!"
+  },
+  {
+    "id": 17611,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "13",
+    "text": "Zwijgt derhalve, en laat mij spreken; Laat er van komen wat wil!"
+  },
+  {
+    "id": 17612,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "14",
+    "text": "Ik pak mijn vlees tussen mijn tanden, En neem mijn leven in mijn hand."
+  },
+  {
+    "id": 17613,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "15",
+    "text": "Wil Hij me doden, ik wacht Hem af; Maar ik verdedig mijn wandel voor Hem!"
+  },
+  {
+    "id": 17614,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "16",
+    "text": "Dit zal reeds een triomf voor mij zijn; Want de boze durft niet eens voor zijn aanschijn treden!"
+  },
+  {
+    "id": 17615,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "17",
+    "text": "Luistert dus goed naar mijn woord, Leent het oor aan mijn rede."
+  },
+  {
+    "id": 17616,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "18",
+    "text": "Zie, ik heb mijn pleit gereed, Ik ben mij bewust van mijn recht!"
+  },
+  {
+    "id": 17617,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "19",
+    "text": "Wie brengt er iets tegen mij in? Ik zou aanstonds zwijgen en sterven."
+  },
+  {
+    "id": 17618,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "20",
+    "text": "Twee dingen moet Gij mij echter besparen, Dan verschuil ik mij niet voor uw aanschijn:"
+  },
+  {
+    "id": 17619,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "21",
+    "text": "Neem uw hand van mij weg, En verbijster mij niet door uw verschrikking."
+  },
+  {
+    "id": 17620,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "22",
+    "text": "Daag mij dus uit, en ik zal antwoorden; Of laat mij spreken, en antwoord Gij:"
+  },
+  {
+    "id": 17621,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "23",
+    "text": "Hoeveel fouten en zonden heb ik bedreven, Noem mij mijn misdaden en zonden op!"
+  },
+  {
+    "id": 17622,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "24",
+    "text": "Waarom verbergt Gij uw aanschijn, En beschouwt Gij mij als uw vijand?"
+  },
+  {
+    "id": 17623,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "25",
+    "text": "Wilt gij een weggewaaid blad nog verschrikken, Een verdorde halm nog vervolgen:"
+  },
+  {
+    "id": 17624,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "26",
+    "text": "Dat Gij zo’n bitter lot mij bestemt, En de fouten wreekt van mijn jeugd;"
+  },
+  {
+    "id": 17625,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "27",
+    "text": "Mijn voeten steekt in een blok, al mijn gangen bewaakt, En mijn voetzolen bespiedt?"
+  },
+  {
+    "id": 17626,
+    "book": "job                                     ",
+    "chapter": "13",
+    "verse": "28",
+    "text": "-"
+  }
+]

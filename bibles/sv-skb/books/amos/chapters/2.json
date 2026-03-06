@@ -1,1 +1,114 @@
-{"data":[{"book":"Amos","chapter":"2","verse":"1","text":"Så säger Herren (Jahve):"},{"book":"Amos","chapter":"2","verse":"2","text":"Jag ska sända en eld över Moab"},{"book":"Amos","chapter":"2","verse":"3","text":"Jag ska utrota (hugga av) domaren från landet (dess mitt)"},{"book":"Amos","chapter":"2","verse":"4","text":"Så säger Herren (Jahve):"},{"book":"Amos","chapter":"2","verse":"5","text":"Jag ska sända en eld över Juda"},{"book":"Amos","chapter":"2","verse":"6","text":"Så säger Herren (Jahve):"},{"book":"Amos","chapter":"2","verse":"7","text":"De trampar ner den fattiges huvud i jordens stoft"},{"book":"Amos","chapter":"2","verse":"8","text":"De lägger sig ner vid varje (alla) altare,"},{"book":"Amos","chapter":"2","verse":"9","text":"Likväl fördärvade jag amoréerna framför dem,"},{"book":"Amos","chapter":"2","verse":"10","text":"Jag förde också upp dig ut ur Egyptens land"},{"book":"Amos","chapter":"2","verse":"11","text":"Bland dina unga söner reste jag upp profeter"},{"book":"Amos","chapter":"2","verse":"12","text":"”Men ni gav nasirerna vin att dricka och befallde profeterna och sade: ’Profetera inte’. [Att vara nasir innebär att man har avlagt nasirlöften, däribland att avstå från allt som kommer från vinrankan, se 4 Mos 6.]"},{"book":"Amos","chapter":"2","verse":"13","text":"Se, Jag ska låta det knaka under er,"},{"book":"Amos","chapter":"2","verse":"14","text":"Den snabbe ska inte kunna fly,"},{"book":"Amos","chapter":"2","verse":"15","text":"Inte heller ska den som hanterar bågen kunna stå"},{"book":"Amos","chapter":"2","verse":"16","text":"Den modige bland de mäktiga ska fly sin väg naken på den dagen.”"}]}
+[
+  {
+    "id": 13001,
+    "book": "amos                                    ",
+    "chapter": "2",
+    "verse": "1",
+    "text": "Så säger Herren (Jahve):"
+  },
+  {
+    "id": 13002,
+    "book": "amos                                    ",
+    "chapter": "2",
+    "verse": "2",
+    "text": "Jag ska sända en eld över Moab"
+  },
+  {
+    "id": 13003,
+    "book": "amos                                    ",
+    "chapter": "2",
+    "verse": "3",
+    "text": "Jag ska utrota (hugga av) domaren från landet (dess mitt)"
+  },
+  {
+    "id": 13004,
+    "book": "amos                                    ",
+    "chapter": "2",
+    "verse": "4",
+    "text": "Så säger Herren (Jahve):"
+  },
+  {
+    "id": 13005,
+    "book": "amos                                    ",
+    "chapter": "2",
+    "verse": "5",
+    "text": "Jag ska sända en eld över Juda"
+  },
+  {
+    "id": 13006,
+    "book": "amos                                    ",
+    "chapter": "2",
+    "verse": "6",
+    "text": "Så säger Herren (Jahve):"
+  },
+  {
+    "id": 13007,
+    "book": "amos                                    ",
+    "chapter": "2",
+    "verse": "7",
+    "text": "De trampar ner den fattiges huvud i jordens stoft"
+  },
+  {
+    "id": 13008,
+    "book": "amos                                    ",
+    "chapter": "2",
+    "verse": "8",
+    "text": "De lägger sig ner vid varje (alla) altare,"
+  },
+  {
+    "id": 13009,
+    "book": "amos                                    ",
+    "chapter": "2",
+    "verse": "9",
+    "text": "Likväl fördärvade jag amoréerna framför dem,"
+  },
+  {
+    "id": 13010,
+    "book": "amos                                    ",
+    "chapter": "2",
+    "verse": "10",
+    "text": "Jag förde också upp dig ut ur Egyptens land"
+  },
+  {
+    "id": 13011,
+    "book": "amos                                    ",
+    "chapter": "2",
+    "verse": "11",
+    "text": "Bland dina unga söner reste jag upp profeter"
+  },
+  {
+    "id": 13012,
+    "book": "amos                                    ",
+    "chapter": "2",
+    "verse": "12",
+    "text": "”Men ni gav nasirerna vin att dricka och befallde profeterna och sade: ’Profetera inte’. [Att vara nasir innebär att man har avlagt nasirlöften, däribland att avstå från allt som kommer från vinrankan, se 4 Mos 6.]"
+  },
+  {
+    "id": 13013,
+    "book": "amos                                    ",
+    "chapter": "2",
+    "verse": "13",
+    "text": "Se, Jag ska låta det knaka under er,"
+  },
+  {
+    "id": 13014,
+    "book": "amos                                    ",
+    "chapter": "2",
+    "verse": "14",
+    "text": "Den snabbe ska inte kunna fly,"
+  },
+  {
+    "id": 13015,
+    "book": "amos                                    ",
+    "chapter": "2",
+    "verse": "15",
+    "text": "Inte heller ska den som hanterar bågen kunna stå"
+  },
+  {
+    "id": 13016,
+    "book": "amos                                    ",
+    "chapter": "2",
+    "verse": "16",
+    "text": "Den modige bland de mäktiga ska fly sin väg naken på den dagen.”"
+  }
+]

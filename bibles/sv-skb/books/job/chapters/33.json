@@ -1,1 +1,233 @@
-{"data":[{"book":"Job","chapter":"33","verse":"1","text":"Eliho tog till orda och sade:"},{"book":"Job","chapter":"33","verse":"2","text":"Se, jag ber dig, jag har öppnat min mun,"},{"book":"Job","chapter":"33","verse":"3","text":"I mitt hjärtas uppriktighet säger jag,"},{"book":"Job","chapter":"33","verse":"4","text":"Guds (Els) Ande har skapat mig"},{"book":"Job","chapter":"33","verse":"5","text":"Om du kan bemöta mig,"},{"book":"Job","chapter":"33","verse":"6","text":"Se, jag är, som din mun (vi är lika), till (inför) Gud (El),"},{"book":"Job","chapter":"33","verse":"7","text":"Se, min skräck ska inte göra dig rädd,"},{"book":"Job","chapter":"33","verse":"8","text":"Men du [Job] sade inför mina öron,"},{"book":"Job","chapter":"33","verse":"9","text":"”Jag är ren (moraliskt ren – hebr. zach) och utan synd,"},{"book":"Job","chapter":"33","verse":"10","text":"Men se, han [Gud] är avståndstagande (hindrar och håller tillbaka – hebr. tenoa) mig,"},{"book":"Job","chapter":"33","verse":"11","text":"Han sätter mina fötter i boja (stock),"},{"book":"Job","chapter":"33","verse":"12","text":"Se, vad det gäller detta har du inte rätt [Job] – det är mitt svar till dig,"},{"book":"Job","chapter":"33","verse":"13","text":"Varför (av vilken anledning) tvistar du med (motsätter du dig – hebr. riv) honom,"},{"book":"Job","chapter":"33","verse":"14","text":"För Gud (El) talar ibland på ett sätt,"},{"book":"Job","chapter":"33","verse":"15","text":"I drömmen, i en syn om natten,"},{"book":"Job","chapter":"33","verse":"16","text":"då aväcker han människornas öron"},{"book":"Job","chapter":"33","verse":"17","text":"för att hindra människan (hebr. adam) från en ogärning"},{"book":"Job","chapter":"33","verse":"18","text":"Han bevarar hennes liv (själ) från graven"},{"book":"Job","chapter":"33","verse":"19","text":"Han tuktas med plågor på sin sjukbädd"},{"book":"Job","chapter":"33","verse":"20","text":"Så han får avsmak för bröd (mat),"},{"book":"Job","chapter":"33","verse":"21","text":"Hans kött tärs bort tills inget finns kvar,"},{"book":"Job","chapter":"33","verse":"22","text":"Hans liv (själ) närmar sig graven,"},{"book":"Job","chapter":"33","verse":"23","text":"Men om en ängel då finnes, som vakar över honom,"},{"book":"Job","chapter":"33","verse":"24","text":"då förbarmar sig han [Gud] över honom och säger:"},{"book":"Job","chapter":"33","verse":"25","text":"Då får hans kropp ny ungdomskraft,"},{"book":"Job","chapter":"33","verse":"26","text":"Han ber till Gud (Eloha) och han visar nåt (hebr. ratsah) mot honom,"},{"book":"Job","chapter":"33","verse":"27","text":"Han sjunger då [upprättad] inför människorna:"},{"book":"Job","chapter":"33","verse":"28","text":"Han friköpte min liv (själ – hebr. nefesh) från att hamna i fördärvet,"},{"book":"Job","chapter":"33","verse":"29","text":"Se, allt detta gör Gud (El) [talar genom drömmar och plågor, vers 15-22]"},{"book":"Job","chapter":"33","verse":"30","text":"för att återföra hans liv (själ) från graven"},{"book":"Job","chapter":"33","verse":"31","text":"Lyssna Job! Hör på mig!"},{"book":"Job","chapter":"33","verse":"32","text":"Om du har något babbel (hebr. milah) att bemöta mig med (ge tillbaka till mig),"},{"book":"Job","chapter":"33","verse":"33","text":"Om inte, lyssna du då till mig."}]}
+[
+  {
+    "id": 34097,
+    "book": "job                                     ",
+    "chapter": "33",
+    "verse": "1",
+    "text": "Eliho tog till orda och sade:"
+  },
+  {
+    "id": 34098,
+    "book": "job                                     ",
+    "chapter": "33",
+    "verse": "2",
+    "text": "Se, jag ber dig, jag har öppnat min mun,"
+  },
+  {
+    "id": 34099,
+    "book": "job                                     ",
+    "chapter": "33",
+    "verse": "3",
+    "text": "I mitt hjärtas uppriktighet säger jag,"
+  },
+  {
+    "id": 34100,
+    "book": "job                                     ",
+    "chapter": "33",
+    "verse": "4",
+    "text": "Guds (Els) Ande har skapat mig"
+  },
+  {
+    "id": 34101,
+    "book": "job                                     ",
+    "chapter": "33",
+    "verse": "5",
+    "text": "Om du kan bemöta mig,"
+  },
+  {
+    "id": 34102,
+    "book": "job                                     ",
+    "chapter": "33",
+    "verse": "6",
+    "text": "Se, jag är, som din mun (vi är lika), till (inför) Gud (El),"
+  },
+  {
+    "id": 34103,
+    "book": "job                                     ",
+    "chapter": "33",
+    "verse": "7",
+    "text": "Se, min skräck ska inte göra dig rädd,"
+  },
+  {
+    "id": 34104,
+    "book": "job                                     ",
+    "chapter": "33",
+    "verse": "8",
+    "text": "Men du [Job] sade inför mina öron,"
+  },
+  {
+    "id": 34105,
+    "book": "job                                     ",
+    "chapter": "33",
+    "verse": "9",
+    "text": "”Jag är ren (moraliskt ren – hebr. zach) och utan synd,"
+  },
+  {
+    "id": 34106,
+    "book": "job                                     ",
+    "chapter": "33",
+    "verse": "10",
+    "text": "Men se, han [Gud] är avståndstagande (hindrar och håller tillbaka – hebr. tenoa) mig,"
+  },
+  {
+    "id": 34107,
+    "book": "job                                     ",
+    "chapter": "33",
+    "verse": "11",
+    "text": "Han sätter mina fötter i boja (stock),"
+  },
+  {
+    "id": 34108,
+    "book": "job                                     ",
+    "chapter": "33",
+    "verse": "12",
+    "text": "Se, vad det gäller detta har du inte rätt [Job] – det är mitt svar till dig,"
+  },
+  {
+    "id": 34109,
+    "book": "job                                     ",
+    "chapter": "33",
+    "verse": "13",
+    "text": "Varför (av vilken anledning) tvistar du med (motsätter du dig – hebr. riv) honom,"
+  },
+  {
+    "id": 34110,
+    "book": "job                                     ",
+    "chapter": "33",
+    "verse": "14",
+    "text": "För Gud (El) talar ibland på ett sätt,"
+  },
+  {
+    "id": 34111,
+    "book": "job                                     ",
+    "chapter": "33",
+    "verse": "15",
+    "text": "I drömmen, i en syn om natten,"
+  },
+  {
+    "id": 34112,
+    "book": "job                                     ",
+    "chapter": "33",
+    "verse": "16",
+    "text": "då aväcker han människornas öron"
+  },
+  {
+    "id": 34113,
+    "book": "job                                     ",
+    "chapter": "33",
+    "verse": "17",
+    "text": "för att hindra människan (hebr. adam) från en ogärning"
+  },
+  {
+    "id": 34114,
+    "book": "job                                     ",
+    "chapter": "33",
+    "verse": "18",
+    "text": "Han bevarar hennes liv (själ) från graven"
+  },
+  {
+    "id": 34115,
+    "book": "job                                     ",
+    "chapter": "33",
+    "verse": "19",
+    "text": "Han tuktas med plågor på sin sjukbädd"
+  },
+  {
+    "id": 34116,
+    "book": "job                                     ",
+    "chapter": "33",
+    "verse": "20",
+    "text": "Så han får avsmak för bröd (mat),"
+  },
+  {
+    "id": 34117,
+    "book": "job                                     ",
+    "chapter": "33",
+    "verse": "21",
+    "text": "Hans kött tärs bort tills inget finns kvar,"
+  },
+  {
+    "id": 34118,
+    "book": "job                                     ",
+    "chapter": "33",
+    "verse": "22",
+    "text": "Hans liv (själ) närmar sig graven,"
+  },
+  {
+    "id": 34119,
+    "book": "job                                     ",
+    "chapter": "33",
+    "verse": "23",
+    "text": "Men om en ängel då finnes, som vakar över honom,"
+  },
+  {
+    "id": 34120,
+    "book": "job                                     ",
+    "chapter": "33",
+    "verse": "24",
+    "text": "då förbarmar sig han [Gud] över honom och säger:"
+  },
+  {
+    "id": 34121,
+    "book": "job                                     ",
+    "chapter": "33",
+    "verse": "25",
+    "text": "Då får hans kropp ny ungdomskraft,"
+  },
+  {
+    "id": 34122,
+    "book": "job                                     ",
+    "chapter": "33",
+    "verse": "26",
+    "text": "Han ber till Gud (Eloha) och han visar nåt (hebr. ratsah) mot honom,"
+  },
+  {
+    "id": 34123,
+    "book": "job                                     ",
+    "chapter": "33",
+    "verse": "27",
+    "text": "Han sjunger då [upprättad] inför människorna:"
+  },
+  {
+    "id": 34124,
+    "book": "job                                     ",
+    "chapter": "33",
+    "verse": "28",
+    "text": "Han friköpte min liv (själ – hebr. nefesh) från att hamna i fördärvet,"
+  },
+  {
+    "id": 34125,
+    "book": "job                                     ",
+    "chapter": "33",
+    "verse": "29",
+    "text": "Se, allt detta gör Gud (El) [talar genom drömmar och plågor, vers 15-22]"
+  },
+  {
+    "id": 34126,
+    "book": "job                                     ",
+    "chapter": "33",
+    "verse": "30",
+    "text": "för att återföra hans liv (själ) från graven"
+  },
+  {
+    "id": 34127,
+    "book": "job                                     ",
+    "chapter": "33",
+    "verse": "31",
+    "text": "Lyssna Job! Hör på mig!"
+  },
+  {
+    "id": 34128,
+    "book": "job                                     ",
+    "chapter": "33",
+    "verse": "32",
+    "text": "Om du har något babbel (hebr. milah) att bemöta mig med (ge tillbaka till mig),"
+  },
+  {
+    "id": 34129,
+    "book": "job                                     ",
+    "chapter": "33",
+    "verse": "33",
+    "text": "Om inte, lyssna du då till mig."
+  }
+]

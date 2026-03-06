@@ -1,1 +1,170 @@
-{"data":[{"book":"Job","chapter":"37","verse":"1","text":"ja, inför sådant [oväder] bävar mitt hjärta"},{"book":"Job","chapter":"37","verse":"2","text":"Hör, hör (lyssna och lyd noga – hebr. shama shama) dundret från hans röst,"},{"book":"Job","chapter":"37","verse":"3","text":"Han sänder ut det över hela himlarna,"},{"book":"Job","chapter":"37","verse":"4","text":"Efter [blixten] hörs en rytande röst,"},{"book":"Job","chapter":"37","verse":"5","text":"Gud (El) dundrar underbart (förunderligt) med sin röst,"},{"book":"Job","chapter":"37","verse":"6","text":"För till snön säger han: ”Fall över jorden!”,"},{"book":"Job","chapter":"37","verse":"7","text":"Alla människors (hebr. adam) händer blir som förseglade"},{"book":"Job","chapter":"37","verse":"8","text":"Allt levande rör sig in i sin håla (gömsle – hebr. erev),"},{"book":"Job","chapter":"37","verse":"9","text":"Från kammaren (den innersta, mest privata rummet) kommer stormvinden,"},{"book":"Job","chapter":"37","verse":"10","text":"med sin livsande (hebr. neshamah) [1 Mos 2:7] sänder Gud (El) frost,"},{"book":"Job","chapter":"37","verse":"11","text":"Också med väta (hebr. ri) lastar han molnen,"},{"book":"Job","chapter":"37","verse":"12","text":"De [åskmolnen] far runt åt alla håll efter hans styrning"},{"book":"Job","chapter":"37","verse":"13","text":"Han låter dem komma som straff,"},{"book":"Job","chapter":"37","verse":"14","text":"Lyssna [med emfas] noga på detta Job!"},{"book":"Job","chapter":"37","verse":"15","text":"Förstår du hur Gud styr dem"},{"book":"Job","chapter":"37","verse":"16","text":"Förstår du jämvikten (balansen) i molnen [Job 26:8],"},{"book":"Job","chapter":"37","verse":"17","text":"Du vars kläder blir varma"},{"book":"Job","chapter":"37","verse":"18","text":"Kan du, som han [Gud], expandera (sprida ut) skyarna (universum),"},{"book":"Job","chapter":"37","verse":"19","text":"Lär oss vad vi ska säga till honom,"},{"book":"Job","chapter":"37","verse":"20","text":"Ska han informeras om att jag vill tala?"},{"book":"Job","chapter":"37","verse":"21","text":"Men nu, Ingen kan väl se på ljuset [solen eller Guds härlighetsljus] som strålar (hebr. bahir) i skyarna"},{"book":"Job","chapter":"37","verse":"22","text":"Från norr (hebr. tsafon) kommer en glans av guld,"},{"book":"Job","chapter":"37","verse":"23","text":"Den Allsmäktige (Shaddaj) – honom kan vi inte hitta (förstå),"},{"book":"Job","chapter":"37","verse":"24","text":"Därför fruktar [bräckliga] människor (hebr. enosh) honom."}]}
+[
+  {
+    "id": 34216,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "1",
+    "text": "ja, inför sådant [oväder] bävar mitt hjärta"
+  },
+  {
+    "id": 34217,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "2",
+    "text": "Hör, hör (lyssna och lyd noga – hebr. shama shama) dundret från hans röst,"
+  },
+  {
+    "id": 34218,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "3",
+    "text": "Han sänder ut det över hela himlarna,"
+  },
+  {
+    "id": 34219,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "4",
+    "text": "Efter [blixten] hörs en rytande röst,"
+  },
+  {
+    "id": 34220,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "5",
+    "text": "Gud (El) dundrar underbart (förunderligt) med sin röst,"
+  },
+  {
+    "id": 34221,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "6",
+    "text": "För till snön säger han: ”Fall över jorden!”,"
+  },
+  {
+    "id": 34222,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "7",
+    "text": "Alla människors (hebr. adam) händer blir som förseglade"
+  },
+  {
+    "id": 34223,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "8",
+    "text": "Allt levande rör sig in i sin håla (gömsle – hebr. erev),"
+  },
+  {
+    "id": 34224,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "9",
+    "text": "Från kammaren (den innersta, mest privata rummet) kommer stormvinden,"
+  },
+  {
+    "id": 34225,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "10",
+    "text": "med sin livsande (hebr. neshamah) [1 Mos 2:7] sänder Gud (El) frost,"
+  },
+  {
+    "id": 34226,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "11",
+    "text": "Också med väta (hebr. ri) lastar han molnen,"
+  },
+  {
+    "id": 34227,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "12",
+    "text": "De [åskmolnen] far runt åt alla håll efter hans styrning"
+  },
+  {
+    "id": 34228,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "13",
+    "text": "Han låter dem komma som straff,"
+  },
+  {
+    "id": 34229,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "14",
+    "text": "Lyssna [med emfas] noga på detta Job!"
+  },
+  {
+    "id": 34230,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "15",
+    "text": "Förstår du hur Gud styr dem"
+  },
+  {
+    "id": 34231,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "16",
+    "text": "Förstår du jämvikten (balansen) i molnen [Job 26:8],"
+  },
+  {
+    "id": 34232,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "17",
+    "text": "Du vars kläder blir varma"
+  },
+  {
+    "id": 34233,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "18",
+    "text": "Kan du, som han [Gud], expandera (sprida ut) skyarna (universum),"
+  },
+  {
+    "id": 34234,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "19",
+    "text": "Lär oss vad vi ska säga till honom,"
+  },
+  {
+    "id": 34235,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "20",
+    "text": "Ska han informeras om att jag vill tala?"
+  },
+  {
+    "id": 34236,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "21",
+    "text": "Men nu, Ingen kan väl se på ljuset [solen eller Guds härlighetsljus] som strålar (hebr. bahir) i skyarna"
+  },
+  {
+    "id": 34237,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "22",
+    "text": "Från norr (hebr. tsafon) kommer en glans av guld,"
+  },
+  {
+    "id": 34238,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "23",
+    "text": "Den Allsmäktige (Shaddaj) – honom kan vi inte hitta (förstå),"
+  },
+  {
+    "id": 34239,
+    "book": "job                                     ",
+    "chapter": "37",
+    "verse": "24",
+    "text": "Därför fruktar [bräckliga] människor (hebr. enosh) honom."
+  }
+]
