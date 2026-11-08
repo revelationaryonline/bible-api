@@ -1,5 +1,21 @@
 # Revelationary Bible data rules
 
+## Verified publisher parsing boundary — 8 November 2026
+
+- HTML verse wrappers may nest, close early or contain book introductions.
+  Closing spans and element textContent alone are not reliable verse boundaries.
+  Follow explicit numbered markers/reference links, retain continuations outside
+  wrappers, and validate every row before writing. SKB Psalms 70:6/125:2 are
+  regression examples, not the limit of this rule.
+- Separate scripture, numbered superscriptions, inline expansions, editorial
+  notes and unnumbered section/book introductions. A quoted alternative inside
+  commentary never establishes another scripture row (SKB Psalm 145 Nun example).
+- Complete SKB Psalms recovery is local commit `8614a8d9b6fa`; original routes and
+  publisher source are retained in `conversion-provenance/2026-11-08/sv-skb/`.
+  The current source rewrite approval covers Psalms only. Other verified Swedish
+  gaps and the researched next repair are in the parent `docs/swedish-feature-checks.md`.
+  Comparison differences are review candidates, never permission for hybrid text.
+
 ## Approved same-edition recovery — 8 November 2026
 
 Chris approved the complete TSI publisher import and source-correction plan.
