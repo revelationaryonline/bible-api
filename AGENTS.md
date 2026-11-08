@@ -27,6 +27,15 @@
   omissions. Keep frozen original chapters and hash-pinned source archives so
   repeat imports and changed-text evidence are independently checkable.
 
+## Dutch local correction approval — 8 November 2026
+
+Chris approved the six Canisius 1939 passage corrections and local feature plan in
+parent `docs/dutch-feature-checks.md`. Preserve all IDs/routes and source omissions;
+DAG is publisher Daniel, not an unsupported book. Archive/source hashes and frozen
+originals are in `conversion-provenance/2026-11-08/nl-nld1939/`. No Dutch merge,
+push or deployment is approved. The earlier Indonesian/Swedish release approval
+must not be reused for these new changes.
+
 ## Approved same-edition recovery — 8 November 2026
 
 Chris approved the complete TSI publisher import and source-correction plan.
