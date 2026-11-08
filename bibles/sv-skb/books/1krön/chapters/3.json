@@ -1,1 +1,148 @@
-{"data":[{"book":"1 Krön","chapter":"3","verse":"1","text":"Dessa var de söner som föddes åt David i Hebron:"},{"book":"1 Krön","chapter":"3","verse":"2","text":"Avshalom, den tredje – son till Maaka, som var dotter till Talmaj, kungen i Geshur,"},{"book":"1 Krön","chapter":"3","verse":"3","text":"Shefatja, den femte – av Abital,"},{"book":"1 Krön","chapter":"3","verse":"4","text":"Dessa sex föddes åt honom i Hebron, där han regerade i sju år och sex månader."},{"book":"1 Krön","chapter":"3","verse":"5","text":"Dessa söner föddes åt honom i Jerusalem: Shimea, Sobab, Natan och Salomo, tillsammans fyra, av Bat-Shua, Ammiels dotter."},{"book":"1 Krön","chapter":"3","verse":"6","text":"Dessutom Jibnar, Elishama, Elifelet,"},{"book":"1 Krön","chapter":"3","verse":"7","text":"Noga, Nefeg, Jafia,"},{"book":"1 Krön","chapter":"3","verse":"8","text":"Elishama, Eljada och Elifelet, tillsammans nio."},{"book":"1 Krön","chapter":"3","verse":"9","text":"Dessa var alla Davids söner, förutom sönerna med bihustrurna. Tamar var deras syster."},{"book":"1 Krön","chapter":"3","verse":"10","text":"Salomos son var Rehabeam,"},{"book":"1 Krön","chapter":"3","verse":"11","text":"dennes son Joram,"},{"book":"1 Krön","chapter":"3","verse":"12","text":"dennes son Amasja,"},{"book":"1 Krön","chapter":"3","verse":"13","text":"dennes son Ahas,"},{"book":"1 Krön","chapter":"3","verse":"14","text":"dennes son Amon,"},{"book":"1 Krön","chapter":"3","verse":"15","text":"Josias söner var"},{"book":"1 Krön","chapter":"3","verse":"16","text":"Jehojaqims söner var hans son Jekonja och dennes son Sidkia."},{"book":"1 Krön","chapter":"3","verse":"17","text":"Jekonjas söner i fångenskap var: hans son Shealtiel,"},{"book":"1 Krön","chapter":"3","verse":"18","text":"dessutom Malkiram, Pedaja, Senassar, Jekamja, Hoshama och Nedabja."},{"book":"1 Krön","chapter":"3","verse":"19","text":"Pedajas söner var Serubbabel och Shimei,"},{"book":"1 Krön","chapter":"3","verse":"20","text":"dessutom Hashuba, Ohel, Berekja, Hasadja och Jushab-Hesed, tillsammans fem."},{"book":"1 Krön","chapter":"3","verse":"21","text":"Hananjas söner var Pelatja och Jesaja, dessutom Refajas söner, Arnans söner, Obadjas söner och Shekanjas söner."},{"book":"1 Krön","chapter":"3","verse":"22","text":"Shekanjas son var Shemaja."},{"book":"1 Krön","chapter":"3","verse":"23","text":"Nearjas söner var Eljoenaj, Hiskia och Asrikam, tillsammans tre."},{"book":"1 Krön","chapter":"3","verse":"24","text":"Eljoenajs söner var Hodavja, Eljashib, Pelaja, Ackub, Johanan, Delaja och Anani, tillsammans sju."}]}
+{
+  "data": [
+    {
+      "book": "1 Krön",
+      "chapter": "3",
+      "verse": "1",
+      "text": "Dessa var de söner som föddes åt David i Hebron (hebr. Chevron): Amnon, den förstfödde – av Ahinoam från Jizreel, Daniel, den andre – av Abigail från Karmel,"
+    },
+    {
+      "book": "1 Krön",
+      "chapter": "3",
+      "verse": "2",
+      "text": "Avshalom, den tredje – son till Maacha. som var dotter till Talmaj, kungen i Geshur, Adonija (hebr. Adonijaho), den fjärde – Chaggits son,"
+    },
+    {
+      "book": "1 Krön",
+      "chapter": "3",
+      "verse": "3",
+      "text": "Shefatja, den femte – av Abital, Jitream, den sjätte – av hans hustru Egla."
+    },
+    {
+      "book": "1 Krön",
+      "chapter": "3",
+      "verse": "4",
+      "text": "Dessa sex föddes åt honom i Hebron, där han regerade i 7 år och 6 månader. I Jerusalem regerade han i 33 år."
+    },
+    {
+      "book": "1 Krön",
+      "chapter": "3",
+      "verse": "5",
+      "text": "Dessa söner föddes åt honom i Jerusalem: Shimea, Sobab, Natan och Salomo, tillsammans fyra, av Bat-Shua, Ammiels dotter."
+    },
+    {
+      "book": "1 Krön",
+      "chapter": "3",
+      "verse": "6",
+      "text": "Dessutom Jibnar, Elishama, Elifelet,"
+    },
+    {
+      "book": "1 Krön",
+      "chapter": "3",
+      "verse": "7",
+      "text": "Noga, Nefeg, Jafia,"
+    },
+    {
+      "book": "1 Krön",
+      "chapter": "3",
+      "verse": "8",
+      "text": "Elishama, Eljada och Elifelet, tillsammans nio."
+    },
+    {
+      "book": "1 Krön",
+      "chapter": "3",
+      "verse": "9",
+      "text": "Dessa var alla Davids söner, förutom sönerna med bihustrurna. Tamar var deras syster."
+    },
+    {
+      "book": "1 Krön",
+      "chapter": "3",
+      "verse": "10",
+      "text": "Salomos son var Rehabeam (hebr. Rechavam), dennes son Avijah, dennes son Asa, dennes son Joshafat,"
+    },
+    {
+      "book": "1 Krön",
+      "chapter": "3",
+      "verse": "11",
+      "text": "dennes son Joram, dennes son Achasja, dennes son Joash,"
+    },
+    {
+      "book": "1 Krön",
+      "chapter": "3",
+      "verse": "12",
+      "text": "dennes son Amasja (hebr. Amatsjaho), dennes son Asarja [Ussia, se 2 Kung 15:1; 2 Krön 26:1; Matt 1:8], dennes son Jotam,"
+    },
+    {
+      "book": "1 Krön",
+      "chapter": "3",
+      "verse": "13",
+      "text": "dennes son Achaz, dennes son Hiskia, dennes son Manasse,"
+    },
+    {
+      "book": "1 Krön",
+      "chapter": "3",
+      "verse": "14",
+      "text": "dennes son Amon, dennes son Josia (hebr. Joshijaho)."
+    },
+    {
+      "book": "1 Krön",
+      "chapter": "3",
+      "verse": "15",
+      "text": "Josias söner var Jochanan, den förstfödde, Jojakim (hebr. Jehojaqim), den andre, Sidkia (hebr. Tsidqijaho), den tredje, Shallom, den fjärde."
+    },
+    {
+      "book": "1 Krön",
+      "chapter": "3",
+      "verse": "16",
+      "text": "Jehojaqims söner var hans son Jekonja och dennes son Sidkia."
+    },
+    {
+      "book": "1 Krön",
+      "chapter": "3",
+      "verse": "17",
+      "text": "Jekonjas söner i fångenskap var: hans son Shealtiel,"
+    },
+    {
+      "book": "1 Krön",
+      "chapter": "3",
+      "verse": "18",
+      "text": "dessutom Malkiram, Pedaja, Senassar, Jekamja, Hoshama och Nedabja."
+    },
+    {
+      "book": "1 Krön",
+      "chapter": "3",
+      "verse": "19",
+      "text": "Pedajas söner var Serubbabel och Shimei, Serubbabels söner var Meshullam och Hananja, och deras syster var Shelomit,"
+    },
+    {
+      "book": "1 Krön",
+      "chapter": "3",
+      "verse": "20",
+      "text": "dessutom Hashuba, Ohel, Berekja, Hasadja och Jushab-Hesed, tillsammans fem."
+    },
+    {
+      "book": "1 Krön",
+      "chapter": "3",
+      "verse": "21",
+      "text": "Hananjas söner var Pelatja och Jesaja, dessutom Refajas söner, Arnans söner, Obadjas söner och Shekanjas söner."
+    },
+    {
+      "book": "1 Krön",
+      "chapter": "3",
+      "verse": "22",
+      "text": "Shekanjas son var Shemaja. Shemajas söner var Hattush [kom från Babylon 458 f.Kr., se Esra 8:2], Jigal, Baria, Nearja och Shafat, tillsammans sex."
+    },
+    {
+      "book": "1 Krön",
+      "chapter": "3",
+      "verse": "23",
+      "text": "Nearjas söner var Eljoenaj, Hiskia och Asrikam, tillsammans tre."
+    },
+    {
+      "book": "1 Krön",
+      "chapter": "3",
+      "verse": "24",
+      "text": "Eljoenajs söner var Hodavja, Eljashib, Pelaja, Ackub, Johanan, Delaja och Anani, tillsammans sju."
+    }
+  ]
+}

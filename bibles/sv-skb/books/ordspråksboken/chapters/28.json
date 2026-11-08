@@ -1,1 +1,172 @@
-{"data":[{"book":"Ordspråksboken","chapter":"28","verse":"1","text":"Den onde flyr även när ingen förföljer honom,"},{"book":"Ordspråksboken","chapter":"28","verse":"2","text":"När ett land syndar (gör uppror mot Gud), får det många ledare"},{"book":"Ordspråksboken","chapter":"28","verse":"3","text":"En fattig stridsman (en stark man) som förtrycker de svaga (andra fattiga människor)"},{"book":"Ordspråksboken","chapter":"28","verse":"4","text":"De som överger undervisningen (hebr. Torah) lovordar (talar väl, prisar och upphöjer) syndaren,"},{"book":"Ordspråksboken","chapter":"28","verse":"5","text":"Onda människor förstår inte hur man dömer rättvist (vad dom och rätt är),"},{"book":"Ordspråksboken","chapter":"28","verse":"6","text":"Bättre en fattig man som är ärlig (har integritet och vandrar upprätt),"},{"book":"Ordspråksboken","chapter":"28","verse":"7","text":"Ett vist barn håller buden [lagen, följer instruktionerna från sina föräldrar och Gud],"},{"book":"Ordspråksboken","chapter":"28","verse":"8","text":"Den som ökar sin rikedom genom att ta ut ockerräntor (skyhöga räntor, använder tvivelaktiga metoder, utpressning),"},{"book":"Ordspråksboken","chapter":"28","verse":"9","text":"Den som vänder bort sitt öra från att höra undervisningen [vägrar att lyssna och leva efter Guds bud],"},{"book":"Ordspråksboken","chapter":"28","verse":"10","text":"Den som leder de rättfärdiga in på en ond väg faller själv i sin grop,"},{"book":"Ordspråksboken","chapter":"28","verse":"11","text":"Den rike är vis i sina egna ögon [tror sig ha gjort allt rätt],"},{"book":"Ordspråksboken","chapter":"28","verse":"12","text":"När de rättfärdiga triumferar är det underbart (glädje, fest),"},{"book":"Ordspråksboken","chapter":"28","verse":"13","text":"Den som gömmer (täcker över, döljer) sina synder har ingen framgång (lycka, välgång, ekonomisk välsignelse),"},{"book":"Ordspråksboken","chapter":"28","verse":"14","text":"Välsignad (salig, lycklig, avundsvärd) är den som i vördnadsfull tillbedjan alltid fruktar Herren [oavsett omständigheter],"},{"book":"Ordspråksboken","chapter":"28","verse":"15","text":"Som ett rytande lejon eller en vild (rasande) björn"},{"book":"Ordspråksboken","chapter":"28","verse":"16","text":"En furste (ledare) som saknar förstånd (insikt, förståelse) är en grym tyrann,"},{"book":"Ordspråksboken","chapter":"28","verse":"17","text":"Om en man medvetet utgjuter en människas blod [mördar någon],"},{"book":"Ordspråksboken","chapter":"28","verse":"18","text":"Den som vandrar rättfärdigt (har integritet) ska bli räddad (befriad, frälst),"},{"book":"Ordspråksboken","chapter":"28","verse":"19","text":"Den som odlar sin jord"},{"book":"Ordspråksboken","chapter":"28","verse":"20","text":"En som är trogen får överflödande välsignelser (framgångar, gåvor, frid),"},{"book":"Ordspråksboken","chapter":"28","verse":"21","text":"Att vara partisk (ha anseende) till personer [i en rättslig tvist, på grund av deras status eller ställning] är aldrig rätt,"},{"book":"Ordspråksboken","chapter":"28","verse":"22","text":"Den som har ett ont öga (fullt av begär) rusar fram för att bli rik,"},{"book":"Ordspråksboken","chapter":"28","verse":"23","text":"Den som tillrättavisar [i kärlek går till rätta med] någon"},{"book":"Ordspråksboken","chapter":"28","verse":"24","text":"Den som rånar sin far och mor och säger: ”Det är ingen synd!”"},{"book":"Ordspråksboken","chapter":"28","verse":"25","text":"Den som har ett girigt hjärta rör upp trätor (startar tvister),"},{"book":"Ordspråksboken","chapter":"28","verse":"26","text":"Den som bara förlitar sig på sitt förstånd (hjärta, inre) är en dåre,"},{"book":"Ordspråksboken","chapter":"28","verse":"27","text":"Den som ger till den fattige behöver inte sakna någonting,"},{"book":"Ordspråksboken","chapter":"28","verse":"28","text":"När de ogudaktiga reser sig upp [och får makt], gömmer sig folk (man blir försiktig och varsam i allt man gör),"}]}
+{
+  "data": [
+    {
+      "book": "Ordspråksboken",
+      "chapter": "28",
+      "verse": "1",
+      "text": "Den onde flyr även när ingen förföljer honom, men de rättfärdiga är oförskräckta (frimodiga) som lejon."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "28",
+      "verse": "2",
+      "text": "När ett land syndar [gör uppror mot Gud], får det många ledare [som kämpar om makten, eftersom Guds välsignelse och beskydd är borta], men när ledaren är en man med förstånd (kunskap, insikt), blir det långvarig stabilitet."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "28",
+      "verse": "3",
+      "text": "En fattig stridsman (en stark man) som förtrycker de svaga (andra fattiga människor) är som ett skyfall som förstör skörden [plundrar dem på allt de har]."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "28",
+      "verse": "4",
+      "text": "De som överger undervisningen (hebr. Torah) lovordar (talar väl, prisar och upphöjer) syndaren, men de som håller fast vid undervisningen [Guds lag, Bibelns instruktioner] tar upp striden mot de ogudaktiga."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "28",
+      "verse": "5",
+      "text": "Onda människor förstår inte hur man dömer rättvist (vad dom och rätt är), men de som söker (hänger sig åt, frågar efter) Herren (Jahveh) får full insikt."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "28",
+      "verse": "6",
+      "text": "Bättre en fattig man som är ärlig (har integritet och vandrar upprätt), än en rik man som medvetet vandrar på felaktiga vägar."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "28",
+      "verse": "7",
+      "text": "Ett vist barn håller buden [lagen, följer instruktionerna från sina föräldrar och Gud], men den som umgås (associerar sig) med slösaktiga (impulsiva) människor är en skam för sin far."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "28",
+      "verse": "8",
+      "text": "Den som ökar sin rikedom genom att ta ut ockerräntor (skyhöga räntor, använder tvivelaktiga metoder, utpressning), samlar sin förmögenhet till någon som kommer att ta sig an (visa nåd mot) de fattiga [och ge tillbaka pengarna]. [Prefixet i det hebreiska ordet för ockerränta, be-neshech (”genom” ränta), indikerar att motivet för att ge lånet är just räntan. Det är genom räntan man vill öka sitt välstånd. Ordet kommer från verbet ”att bita” och beskriver hur den som lånar ut får en andel av summan. Att utnyttja någon i beroendeställning på detta sätt är något avskyvärt, se Hes 18:13. Torah (Mose undervisning) uppmanar att låna ut pengar utan ränta till sina landsmän, dock är det tillåtet att ta tillbörlig ränta av en utlänning, se 3 Mos 25:35-37; 2 Mos 22:25; 5 Mos 23:19-20.]"
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "28",
+      "verse": "9",
+      "text": "Den som vänder bort sitt öra från att höra undervisningen [vägrar att lyssna och leva efter Guds bud], även hans bön är avskyvärd [inför Gud]."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "28",
+      "verse": "10",
+      "text": "Den som leder de rättfärdiga in på en ond väg faller själv i sin grop, men de renhjärtade kommer att få ett gott arv."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "28",
+      "verse": "11",
+      "text": "Den rike är vis i sina egna ögon [tror sig ha gjort allt rätt], men en fattig man med förstånd utforskar (genomskådar) honom."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "28",
+      "verse": "12",
+      "text": "När de rättfärdiga triumferar är det underbart (glädje, fest), men när de ogudaktiga reser sig upp [och får makt], håller folk sig undan."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "28",
+      "verse": "13",
+      "text": "Den som gömmer (täcker över, döljer) sina synder har ingen framgång (lycka, välgång, ekonomisk välsignelse), men den som bekänner och ångrar sina synder (lämnar dem) får nåd."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "28",
+      "verse": "14",
+      "text": "Välsignad (salig, lycklig, avundsvärd) är den som i vördnadsfull tillbedjan alltid fruktar Herren [oavsett omständigheter], men den som förhärdar sitt hjärta [mot Gud] störtar i olycka (råkar ut för svårigheter)."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "28",
+      "verse": "15",
+      "text": "Som ett rytande lejon eller en vild (rasande) björn är en ogudaktig ledare över ett fattigt folk."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "28",
+      "verse": "16",
+      "text": "En furste (ledare) som saknar förstånd (insikt, förståelse) är en grym tyrann, men den [ledare] som hatar orättfärdiga inkomster (avskyr girighet) ska leva länge."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "28",
+      "verse": "17",
+      "text": "Om en man medvetet utgjuter en människas blod [mördar någon], blir han flykting ända till sin egen grav, låt ingen understödja (hjälpa, försörja) honom."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "28",
+      "verse": "18",
+      "text": "Den som vandrar rättfärdigt (har integritet) ska bli räddad (befriad, frälst), men den som går orätta vägar (säger en sak men gör en annan), hans fall kommer plötsligt."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "28",
+      "verse": "19",
+      "text": "Den som odlar sin jord får en rik skörd, men den som ivrigt (passionerat) jagar fåfänglighet (moraliskt fördärvade personer, meningslösa mål, snabba pengar) mättas med fattigdom."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "28",
+      "verse": "20",
+      "text": "Den som är trogen får överflödande välsignelser (framgångar, gåvor, frid), men den som snabbt vill bli rik [oavsett pris] ska inte bli ostraffad."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "28",
+      "verse": "21",
+      "text": "Att vara partisk (ha anseende) till personer [i en rättslig tvist, på grund av deras status eller ställning] är aldrig rätt, trots det kan en del synda [köpas för att vittna falskt] bara för en bit bröd."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "28",
+      "verse": "22",
+      "text": "Den som har ett ont öga (fullt av begär) rusar fram för att bli rik, omedveten om att fattigdomen hinner ikapp honom."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "28",
+      "verse": "23",
+      "text": "Den som tillrättavisar [i kärlek går till rätta med] någon får efteråt mer oförtjänt nåd [uppskattning] än den som bara smickrar med tungan"
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "28",
+      "verse": "24",
+      "text": "Den som rånar sin far och mor och säger: ”Det är ingen synd!” Han är kompanjon med den som förgör (raserar, dödar)."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "28",
+      "verse": "25",
+      "text": "Den som har ett girigt hjärta rör upp trätor (startar tvister), men den som sätter sitt hopp till Herren (Jahveh) blir välsignad (får framgång och blir mättad)."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "28",
+      "verse": "26",
+      "text": "Den som bara förlitar sig på sitt förstånd (hjärta, inre) är en dåre, men den som vandrar i [Guds] vishet blir befriad [från många fällor]."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "28",
+      "verse": "27",
+      "text": "Den som ger till den fattige behöver inte sakna någonting, men den som vänder bort blicken [för att inte se deras behov] får många förbannelser."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "28",
+      "verse": "28",
+      "text": "När de ogudaktiga reser sig upp [och får makt], gömmer sig folk (man blir försiktig och varsam i allt man gör), men när de ogudaktiga förgås, ökar de rättfärdiga i antal."
+    }
+  ]
+}

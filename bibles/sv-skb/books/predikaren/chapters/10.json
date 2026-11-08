@@ -1,1 +1,124 @@
-{"data":[{"book":"Predikaren","chapter":"10","verse":"1","text":"Döda flugor gör parfymerarens salvor stinkande och ruttna,"},{"book":"Predikaren","chapter":"10","verse":"2","text":"En vis man har sitt hjärta till höger"},{"book":"Predikaren","chapter":"10","verse":"3","text":"Likaså när en dåre vandrar utefter vägen (går genom livet)"},{"book":"Predikaren","chapter":"10","verse":"4","text":"Om en ledares ande reser sig upp emot dig,"},{"book":"Predikaren","chapter":"10","verse":"5","text":"Det finns en ondska som jag har sett under solen,"},{"book":"Predikaren","chapter":"10","verse":"6","text":"Dårskap lyfts till skyarna"},{"book":"Predikaren","chapter":"10","verse":"7","text":"Jag har sett tjänare som rider på hästar"},{"book":"Predikaren","chapter":"10","verse":"8","text":"Han som gräver en grop ska själv falla i den,"},{"book":"Predikaren","chapter":"10","verse":"9","text":"Den som kastar stenar kan skadas av dem,"},{"book":"Predikaren","chapter":"10","verse":"10","text":"Om järnet blir slött (trubbigt)"},{"book":"Predikaren","chapter":"10","verse":"11","text":"Om ormen biter innan den har blivit tjusad,"},{"book":"Predikaren","chapter":"10","verse":"12","text":"Orden från en vis mans mun är vänliga,"},{"book":"Predikaren","chapter":"10","verse":"13","text":"Början på orden från hans mun är dåraktiga"},{"book":"Predikaren","chapter":"10","verse":"14","text":"En dåre låter även orden vara många."},{"book":"Predikaren","chapter":"10","verse":"15","text":"Dårarnas arbete tröttar ut dem alla,"},{"book":"Predikaren","chapter":"10","verse":"16","text":"Ve dig du land, när din kung är en pojke"},{"book":"Predikaren","chapter":"10","verse":"17","text":"Lycklig är du, du land, när din kung är en fri man"},{"book":"Predikaren","chapter":"10","verse":"18","text":"Genom lättja faller takbjälkarna ner"},{"book":"Predikaren","chapter":"10","verse":"19","text":"Bröd är gjort för skratt (glädje)"},{"book":"Predikaren","chapter":"10","verse":"20","text":"Förbanna inte (ta inte lätt på, vanära inte) kungen,"}]}
+{
+  "data": [
+    {
+      "book": "Predikaren",
+      "chapter": "10",
+      "verse": "1",
+      "text": "Döda flugor gör parfymerarens salvor stinkande och ruttna, på samma sätt gör lite dårskap att vishet och ära övervinns (fördärvas, får stå tillbaka)."
+    },
+    {
+      "book": "Predikaren",
+      "chapter": "10",
+      "verse": "2",
+      "text": "En vis man har sitt hjärta till höger och dåren har hjärtat till vänster. [Den högra sidan representerar styrka och förstånd medan den vänstra dårskap och brist på styrka.]"
+    },
+    {
+      "book": "Predikaren",
+      "chapter": "10",
+      "verse": "3",
+      "text": "Likaså när en dåre vandrar utefter vägen (går genom livet) så sviker hans förstånd honom, och han säger till alla att han är en dåre."
+    },
+    {
+      "book": "Predikaren",
+      "chapter": "10",
+      "verse": "4",
+      "text": "Om en ledares ande reser sig upp emot dig [om han blir arg på dig], lämna inte din plats, för mildhet stillar stora överträdelser."
+    },
+    {
+      "book": "Predikaren",
+      "chapter": "10",
+      "verse": "5",
+      "text": "Det finns en ondska som jag har sett under solen, som ett misstag som fortgår från en härskare."
+    },
+    {
+      "book": "Predikaren",
+      "chapter": "10",
+      "verse": "6",
+      "text": "Dårskap lyfts till skyarna och den rike får sitta på en låg plats."
+    },
+    {
+      "book": "Predikaren",
+      "chapter": "10",
+      "verse": "7",
+      "text": "Jag har sett tjänare som rider på hästar och prinsar som vandrar som tjänare på jorden."
+    },
+    {
+      "book": "Predikaren",
+      "chapter": "10",
+      "verse": "8",
+      "text": "Han som gräver en grop ska själv falla i den, och den som bryter igenom ett staket [olovligen går in på ett avspärrat område] ska bli biten av en orm."
+    },
+    {
+      "book": "Predikaren",
+      "chapter": "10",
+      "verse": "9",
+      "text": "Den som kastar stenar kan skadas av dem, och den som klyver trä är i fara när han gör det."
+    },
+    {
+      "book": "Predikaren",
+      "chapter": "10",
+      "verse": "10",
+      "text": "Om järnet blir slött (trubbigt, dåligt) och ingen skärper eggen måste han använda mer kraft, men vishet lönar sig för vägledning [man tjänar på vishetens goda råd]."
+    },
+    {
+      "book": "Predikaren",
+      "chapter": "10",
+      "verse": "11",
+      "text": "Om ormen biter innan den blivit tjusad (hebr. lachash) [utan förvarning], har ormtjusaren (ordagrant: tungans mästare – hebr. baal lashon) ingen vinning [av sin konst]."
+    },
+    {
+      "book": "Predikaren",
+      "chapter": "10",
+      "verse": "12",
+      "text": "Orden från en vis mans mun är nåd (vänliga, oförtjänta – hebr. chen), men en dåres läppar ska sluka honom."
+    },
+    {
+      "book": "Predikaren",
+      "chapter": "10",
+      "verse": "13",
+      "text": "Början på orden från hans mun är dåraktiga och slutet på hans tal är total galenskap."
+    },
+    {
+      "book": "Predikaren",
+      "chapter": "10",
+      "verse": "14",
+      "text": "En dåre låter även orden vara många. Människan vet inte (saknar intim kunskap om) vad som ska bli och det som kommer efter henne. Vem kan berätta för henne?"
+    },
+    {
+      "book": "Predikaren",
+      "chapter": "10",
+      "verse": "15",
+      "text": "Dårarnas arbete tröttar ut dem alla, för de vet inte hur de ska gå för att komma till staden."
+    },
+    {
+      "book": "Predikaren",
+      "chapter": "10",
+      "verse": "16",
+      "text": "Ve dig, du land, när din kung är en yngling (tonåring – hebr. naar) [oerfaren och lättpåverkad] och dina prinsar äter [festar] på morgonen [då de istället skulle skipat rättvisa, se Jer 21:12]! [I den hebreiska kulturen prisas ålderdom framför ungdom eftersom vishet, erfarenhet och förstånd kommer med stigande ålder.]"
+    },
+    {
+      "book": "Predikaren",
+      "chapter": "10",
+      "verse": "17",
+      "text": "Lycklig är du, du land, när din kung är en fri man och dina prinsar äter på rätt tid, i styrka och inte i dryckenskap."
+    },
+    {
+      "book": "Predikaren",
+      "chapter": "10",
+      "verse": "18",
+      "text": "Genom lättja faller takbjälkarna ner och på grund av handens sysslolöshet läcker huset."
+    },
+    {
+      "book": "Predikaren",
+      "chapter": "10",
+      "verse": "19",
+      "text": "Bröd är gjort för skratt (glädje) och vin gör livet glatt och pengar (silver) är svaret på allt."
+    },
+    {
+      "book": "Predikaren",
+      "chapter": "10",
+      "verse": "20",
+      "text": "Förbanna inte (ta inte lätt på, vanära inte) kungen, inte ens i dina tankar (för dig själv) och förbanna inte (ta inte lätt på, vanära inte) en rik man [som Gud välsignat, se Ps 112:3], inte ens i ditt sovrum, för en fågel i skyn kan bära rösten (viska i någons öra) och någon med vingar kan berätta dina ord. [Ordspråket ”en fågel har viskat i mitt öra...” härstammar från detta bibelställe. Var varsam med vad du säger, för rykten och skvaller sprids snabbt och blir lätt allmänt känt.]"
+    }
+  ]
+}

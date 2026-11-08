@@ -1,1 +1,136 @@
-{"data":[{"book":"Klagovisorna","chapter":"5","verse":"1","text":"Kom ihåg Herre (Jahve) vad som har drabbat oss,"},{"book":"Klagovisorna","chapter":"5","verse":"2","text":"Vårt arv har getts till främlingar,"},{"book":"Klagovisorna","chapter":"5","verse":"3","text":"Vi har blivit föräldralösa, utan fäder,"},{"book":"Klagovisorna","chapter":"5","verse":"4","text":"Vi har druckit vårt vatten för pengar (vi har betalat för vårt dricksvatten),"},{"book":"Klagovisorna","chapter":"5","verse":"5","text":"Våra förföljare flåsar oss i nacken,"},{"book":"Klagovisorna","chapter":"5","verse":"6","text":"Vi har räckt ut våra händer till Egypten"},{"book":"Klagovisorna","chapter":"5","verse":"7","text":"Våra fäder har syndat och finns inte mer"},{"book":"Klagovisorna","chapter":"5","verse":"8","text":"Slavar regerar över oss,"},{"book":"Klagovisorna","chapter":"5","verse":"9","text":"Vi får vårt bröd med fara för vårt liv,"},{"book":"Klagovisorna","chapter":"5","verse":"10","text":"Vår hud är varm som en ugn,"},{"book":"Klagovisorna","chapter":"5","verse":"11","text":"Kvinnorna i Sion [tempelberget i Jerusalem] har blivit våldtagna,"},{"book":"Klagovisorna","chapter":"5","verse":"12","text":"Furstarna har blivit upphängda i sina händer,"},{"book":"Klagovisorna","chapter":"5","verse":"13","text":"De unga männen sliter med kvarnstenen."},{"book":"Klagovisorna","chapter":"5","verse":"14","text":"De gamla har slutat att sitta i porten [platsen där de äldste satt när viktiga beslut för staden skulle fattas],"},{"book":"Klagovisorna","chapter":"5","verse":"15","text":"Glädjen har lämnat våra hjärtan,"},{"book":"Klagovisorna","chapter":"5","verse":"16","text":"Kronan har fallit av våra huvuden."},{"book":"Klagovisorna","chapter":"5","verse":"17","text":"Därför är våra hjärtan svaga,"},{"book":"Klagovisorna","chapter":"5","verse":"18","text":"På Sions berg [tempelberget i Jerusalem] som är öde,"},{"book":"Klagovisorna","chapter":"5","verse":"19","text":"Du Herre (Jahve) tronar för evigt,"},{"book":"Klagovisorna","chapter":"5","verse":"20","text":"Varför tycks du glömma oss för evigt?"},{"book":"Klagovisorna","chapter":"5","verse":"21","text":"Vänd oss Herre (Jahve) till dig och vi ska bli omvända,"},{"book":"Klagovisorna","chapter":"5","verse":"22","text":"Du kan inte helt avvisa oss"}]}
+{
+  "data": [
+    {
+      "book": "Klagovisorna",
+      "chapter": "5",
+      "verse": "1",
+      "text": "Kom ihåg, Herre (Jahveh), vad som har drabbat oss, titta och se vår skam och vanära."
+    },
+    {
+      "book": "Klagovisorna",
+      "chapter": "5",
+      "verse": "2",
+      "text": "Vårt arv har getts till främlingar, våra hus och hem till utlänningar."
+    },
+    {
+      "book": "Klagovisorna",
+      "chapter": "5",
+      "verse": "3",
+      "text": "Vi har blivit föräldralösa, utan fäder, våra mödrar är som änkor."
+    },
+    {
+      "book": "Klagovisorna",
+      "chapter": "5",
+      "verse": "4",
+      "text": "Vi har druckit vårt vatten för pengar (vi har betalat för vårt dricksvatten), vår ved kommer med ett pris (vi måste betala för veden). [Veden var nödvändig för att kunna laga mat. Tidigare hade man kunnat samla sin ved utan kostnad och vattnet från stadens damm var gratis att hämta för alla invånare.]"
+    },
+    {
+      "book": "Klagovisorna",
+      "chapter": "5",
+      "verse": "5",
+      "text": "Våra förföljare flåsar oss i nacken, vi arbetar utan att få någon vila."
+    },
+    {
+      "book": "Klagovisorna",
+      "chapter": "5",
+      "verse": "6",
+      "text": "Vi har räckt ut våra händer till Egypten och Assyrien (erbjudit våra tjänster) för att få tillräckligt med bröd."
+    },
+    {
+      "book": "Klagovisorna",
+      "chapter": "5",
+      "verse": "7",
+      "text": "Våra fäder har syndat och finns inte mer och vi bär deras överträdelser."
+    },
+    {
+      "book": "Klagovisorna",
+      "chapter": "5",
+      "verse": "8",
+      "text": "Slavar regerar över oss, det finns ingen som befriar oss ur deras hand."
+    },
+    {
+      "book": "Klagovisorna",
+      "chapter": "5",
+      "verse": "9",
+      "text": "Vi får vårt bröd med fara för vårt liv, på grund av vildmarkens svärd."
+    },
+    {
+      "book": "Klagovisorna",
+      "chapter": "5",
+      "verse": "10",
+      "text": "Vår hud är varm som en ugn, eftersom svälten ger oss feber."
+    },
+    {
+      "book": "Klagovisorna",
+      "chapter": "5",
+      "verse": "11",
+      "text": "Kvinnorna i Sion [tempelberget i Jerusalem] har blivit våldtagna, jungfrurna i Juda städer."
+    },
+    {
+      "book": "Klagovisorna",
+      "chapter": "5",
+      "verse": "12",
+      "text": "Furstarna har blivit upphängda i sina händer, de äldres ansikten visas ingen respekt."
+    },
+    {
+      "book": "Klagovisorna",
+      "chapter": "5",
+      "verse": "13",
+      "text": "De unga männen sliter med kvarnstenen. Pojkar dignar och snubblar under bördan av ved."
+    },
+    {
+      "book": "Klagovisorna",
+      "chapter": "5",
+      "verse": "14",
+      "text": "De gamla har slutat att sitta i porten [platsen där de äldste satt när viktiga beslut för staden skulle fattas], de unga har upphört med sin musik [de roar sig inte längre på ungdomars vis]."
+    },
+    {
+      "book": "Klagovisorna",
+      "chapter": "5",
+      "verse": "15",
+      "text": "Glädjen har lämnat våra hjärtan, dansen har vänts till sorg."
+    },
+    {
+      "book": "Klagovisorna",
+      "chapter": "5",
+      "verse": "16",
+      "text": "Kronan har fallit av våra huvuden. Ve oss, för vi har syndat."
+    },
+    {
+      "book": "Klagovisorna",
+      "chapter": "5",
+      "verse": "17",
+      "text": "Därför är våra hjärtan svaga, på grund av detta (våra synder) är våra ögon skumma."
+    },
+    {
+      "book": "Klagovisorna",
+      "chapter": "5",
+      "verse": "18",
+      "text": "På Sions berg [tempelberget i Jerusalem] som är öde, vandrar rävarna omkring. [Denna vers börjar med ordet ”På” (hebr. al) där första bokstaven är ajin. I den hebreiska texten avslutas versen med bokstaven pe. Detta pe är en markering för att avgränsa texten i olika stycken och kallas parashah. Även om det är en teknisk detalj i texten, som inte översätts, gör det ändå att det kiastiska mönstret återfinns här med ajin och pe i samma ordning som i första kapitlet, se Klag 1:16-17. Däremot i de centrala sektionerna i kapitel 2-4 är ordningen omvänd, se Klag 2:16-17; 3:46-51; 4:16-17.]"
+    },
+    {
+      "book": "Klagovisorna",
+      "chapter": "5",
+      "verse": "19",
+      "text": "Du, Herre (Jahveh), tronar för evigt, din tron består från generation till generation."
+    },
+    {
+      "book": "Klagovisorna",
+      "chapter": "5",
+      "verse": "20",
+      "text": "Varför tycks du glömma oss för evigt? Varför överger du oss så många dagar? [Kapitel 5 som helhet följer inte det akrostiska mönstret, men här i vers 19-20 finns ett akrostiskt mönster med fyra bokstäver. Här återfinns den första, den sista och däremellan de två mittersta bokstäverna. Vers 19a börjar med alef, vers 19b börjar med kaf, vers 20a börjar med lamed och vers 20b börjar med tav. Hela alfabetet symboliseras här genom att använda den första, elfte, tolfte och tjugoandra bokstaven. Det kiastiska mönstret i Klagovisorna fullbordas med detta femte akrostikon i kapitel 5.]"
+    },
+    {
+      "book": "Klagovisorna",
+      "chapter": "5",
+      "verse": "21",
+      "text": "Vänd oss, Herre (Jahveh), till dig och vi ska bli omvända, förnya våra dagar så att de blir som i gamla tider (öster)."
+    },
+    {
+      "book": "Klagovisorna",
+      "chapter": "5",
+      "verse": "22",
+      "text": "Du kan inte helt avvisa oss och inte ständigt vara mycket vred mot oss. [I vers 21 används ordet kedem för gamla tider. Alltså ordet för öster som handlar både om att se bakåt och framåt samtidigt. Att göra bokslut med det som varit och se de nya framtidsvisionerna. Nu är det mer framtidsvision i detta uttryck än i tidigare kapitel där det var mest bokslut.]"
+    }
+  ]
+}

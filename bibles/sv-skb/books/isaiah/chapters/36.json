@@ -1,5 +1,12 @@
 [
   {
+    "id": 11,
+    "book": "isaiah                                  ",
+    "chapter": "36",
+    "verse": "1",
+    "text": "[Bokens första del är skriven i poetisk stil, för att i kap 36-39 skifta till prosa, för att på nytt bli poetisk i kap 40-66. Detta skrivsätt bildar alltså en stilistisk kiasm. Det blir också en markör som visar att detta stycke är det centrala i hela boken. Kapitel 36-39 består av sju episoder ordnade i ett kiastiskt mönster: A Ett fientligt assyriskt sändebud (Jes 36:1-22) B Hiskias nöd och vädjan till Herren (Jes 37:1-7) C Sanheribs hånfulla bud till Hiskia (Jes 37:8-13) D Hiskias bön till Herren (Jes 37:14-20) C Herrens svar till Sanheribs hån (Jes 37:21-38) B Hiskias sjukdom och vädjan till Herren (Jes 38:1-22) A Ett ”vänligt” babyloniskt sändebud (ironi) (Jes 39:1-8) Den tematiska symmetrin i kiasmen har fått företräde före den kronologiska ordningen, händelserna i kapitel 38-39 inträffar före händelserna i 36-37: 725-722 f.Kr. Assyrien belägrar Samarien, israeliterna i exil 715 f.Kr. Hiskia blir kung i Juda 705 f.Kr. Sanherib blir kung i Assyrien 701 f.Kr. Sanherib invaderar Juda 681 f.Kr. Sanherib mördas av två av sina söner (Jes 37:36)] Nu hände det i [Juda, det södra rikets] kung Hiskias 14:e år [701 f.Kr.], att Sanherib (hebr. Sancheriv), kung i Assyrien, kom upp mot de befästa städerna i Juda och intog dem."
+  },
+  {
     "id": 32703,
     "book": "isaiah                                  ",
     "chapter": "36",
@@ -11,14 +18,14 @@
     "book": "isaiah                                  ",
     "chapter": "36",
     "verse": "3",
-    "text": "Då kom [följande tre män från Hiskias palats]:"
+    "text": "Då kom [följande tre män från Hiskias palats]: Eljaqim, son till Hilkia (hebr. Chilqijaho) [Jes 22:20], som var över [ansvarade för palatset i Jerusalem], och skrivaren Shevna [Jes 22:15] och Joach, upptecknaren Asafs son, fram till honom."
   },
   {
     "id": 32705,
     "book": "isaiah                                  ",
     "chapter": "36",
     "verse": "4",
-    "text": "Och befälhavaren (hebr. ravshake) sade till dem:"
+    "text": "Och befälhavaren (hebr. ravshake) sa till dem: ”Säg nu till [er kung] Hiskia: Så säger den store kungen, kungen i Assyrien [Sanherib]: Vilken trygghet sätter du din förtröstan till?"
   },
   {
     "id": 32706,
@@ -81,14 +88,14 @@
     "book": "isaiah                                  ",
     "chapter": "36",
     "verse": "13",
-    "text": "Sedan stod befälhavaren och ropade med hög (stark) röst på det judiska språket och sade:"
+    "text": "Sedan stod befälhavaren och ropade med hög (stark) röst på det judiska språket och sa: ”Lyssna till orden från den store kungen – Assyriens kung!"
   },
   {
     "id": 32715,
     "book": "isaiah                                  ",
     "chapter": "36",
     "verse": "14",
-    "text": "Så säger kungen [världshärskaren över dåtidens stormakt]:"
+    "text": "Så säger kungen [världshärskaren över dåtidens stormakt]: Låt inte [er kung] Hiskia lura er, för han kommer inte att kunna befria er."
   },
   {
     "id": 32716,
@@ -116,14 +123,14 @@
     "book": "isaiah                                  ",
     "chapter": "36",
     "verse": "18",
-    "text": "Akta er så att inte Hiskia övertalar er och säger: ’Herren (Jahve) ska befria oss.’"
+    "text": "Akta er så att inte Hiskia övertalar er och säger: Herren (Jahveh) ska befria oss. Har något annat lands gud befriat sitt land ur den assyriske kungens hand?"
   },
   {
     "id": 32720,
     "book": "isaiah                                  ",
     "chapter": "36",
     "verse": "19",
-    "text": "Var är Chamats och Arpads gudar?"
+    "text": "Var är Chamats och Arpads gudar? [Två städer i centrala Syrien som assyrierna besegrat under sina fälttåg, se Jes 10:9] Var är Sefarvims gudar? [Sefarvim (betyder: ”de två skrivarna”), en stad i norra Syrien på östra sidan av Eufrat som Assyrien intagit.] Har de befriat Samarien ur min hand? [Den assyriska kungen Shalmaneser V (727-722 f.Kr.) började belägringen mot Hosea eftersom han ingick förbund med Egypten (2 Kung 17:4). Sargon avslutade belägringen, och nämner antalet israeliter som fördes bort i fångenskap till 27 280.]"
   },
   {
     "id": 32721,
@@ -144,6 +151,6 @@
     "book": "isaiah                                  ",
     "chapter": "36",
     "verse": "22",
-    "text": "Sedan kom [de tre männen]"
+    "text": "Sedan kom [de tre männen] Eljaqim, son till Hilkia (hebr. Chilqijaho), som ansvarade för palatset (ordagrant: var över huset) [i Jerusalem], och skrivaren Shevna och Joach, upptecknaren Asafs son, till Hiskia med sina kläder sönderrivna [som ett yttre tecken på sorg] och berättade för honom befälhavarens (hebr. ravshakes) ord."
   }
 ]

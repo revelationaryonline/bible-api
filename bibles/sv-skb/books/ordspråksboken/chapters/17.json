@@ -1,1 +1,172 @@
-{"data":[{"book":"Ordspråksboken","chapter":"17","verse":"1","text":"Bättre en torr brödkaka [som kan ätas] i lugn (frid, ro)"},{"book":"Ordspråksboken","chapter":"17","verse":"2","text":"En vis tjänare får regera över en son som orsakar skam (förvirring, oreda),"},{"book":"Ordspråksboken","chapter":"17","verse":"3","text":"Smältdegeln är till för [att förädla] silver, och smältugnen för [att förädla] guld,"},{"book":"Ordspråksboken","chapter":"17","verse":"4","text":"En ond människa lyssnar på (uppmärksammar) ondskefulla läppar (tomt prat),"},{"book":"Ordspråksboken","chapter":"17","verse":"5","text":"Den som ser ner på (förlöjligar, hånar, driver med) den fattige förolämpar (förnärmar) hans Skapare,"},{"book":"Ordspråksboken","chapter":"17","verse":"6","text":"Gamla mäns krona (stolthet) är deras barnbarn,"},{"book":"Ordspråksboken","chapter":"17","verse":"7","text":"Överdrivet (stortaligt) tal lämpar sig inte för en dåre,"},{"book":"Ordspråksboken","chapter":"17","verse":"8","text":"En gåva (muta) fungerar som en skinande diamant [ordagrant ”en sten som charmerar”] för den som ger den,"},{"book":"Ordspråksboken","chapter":"17","verse":"9","text":"Den som har överseende med (skyler, förlåter) ett felsteg (överträdelse) väljer (strävar efter; söker; vill främja) kärleken,"},{"book":"Ordspråksboken","chapter":"17","verse":"10","text":"En tillrättavisning påverkar den vise"},{"book":"Ordspråksboken","chapter":"17","verse":"11","text":"En ond människa söker bara uppror [genom att medvetet bryta mot det som är rätt],"},{"book":"Ordspråksboken","chapter":"17","verse":"12","text":"Det är bättre att möta en björnhona som blivit separerad från sina ungar,"},{"book":"Ordspråksboken","chapter":"17","verse":"13","text":"Lönar någon gott med ont,"},{"book":"Ordspråksboken","chapter":"17","verse":"14","text":"Att börja ett gräl (ordväxling, konflikt) är som att öppna en dammlucka med vatten,"},{"book":"Ordspråksboken","chapter":"17","verse":"15","text":"Den som rättfärdigar syndaren och den som fördömer den rättfärdige"},{"book":"Ordspråksboken","chapter":"17","verse":"16","text":"Till vilken nytta är pengar i en dåres hand"},{"book":"Ordspråksboken","chapter":"17","verse":"17","text":"En vän (medmänniska – hebr. rea) älskar alltid (visar hela tiden tillgivenhet) [är trofast, hjälpsam och självuppoffrande],"},{"book":"Ordspråksboken","chapter":"17","verse":"18","text":"En människa som saknar förstånd skriver under (ger sitt handslag),"},{"book":"Ordspråksboken","chapter":"17","verse":"19","text":"Den som älskar synd,"},{"book":"Ordspråksboken","chapter":"17","verse":"20","text":"Den som har ett fördärvat (falskt) hjärta får ingen framgång (rikedom, gott),"},{"book":"Ordspråksboken","chapter":"17","verse":"21","text":"Den förälder som får en [ondskefull] dåre till barn får sorg,"},{"book":"Ordspråksboken","chapter":"17","verse":"22","text":"Ett glatt hjärta (själ) verkar som en god medicin,"},{"book":"Ordspråksboken","chapter":"17","verse":"23","text":"Den ogudaktige (syndaren, kriminelle) tar emot mutor under bordet (i hemlighet)"},{"book":"Ordspråksboken","chapter":"17","verse":"24","text":"En man med förstånd placerar Guds vishet framför sina ögon (fokuserar på den),"},{"book":"Ordspråksboken","chapter":"17","verse":"25","text":"En självgod, dåraktig son är en sorg för sin far"},{"book":"Ordspråksboken","chapter":"17","verse":"26","text":"Att straffa den rättfärdige är inte rätt,"},{"book":"Ordspråksboken","chapter":"17","verse":"27","text":"Den som har kunskap (vishet) är sparsam med sina ord [Jak 1:19],"},{"book":"Ordspråksboken","chapter":"17","verse":"28","text":"Även en [babblande] dåre (hebr. evil) kan tas för att vara vis om han håller tyst,"}]}
+{
+  "data": [
+    {
+      "book": "Ordspråksboken",
+      "chapter": "17",
+      "verse": "1",
+      "text": "Bättre en torr brödkaka [som kan ätas] i lugn (frid, ro) än ett hem fyllt av mat men med stridigheter."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "17",
+      "verse": "2",
+      "text": "En vis tjänare får regera över en son som orsakar skam (förvirring, oreda), och han får dela arvet med bröderna."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "17",
+      "verse": "3",
+      "text": "Smältdegeln är till för [att förädla] silver, och smältugnen för [att förädla] guld, på samma sätt prövar (undersöker, testar) Herren (Jahveh) hjärtan."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "17",
+      "verse": "4",
+      "text": "En ond människa lyssnar på (uppmärksammar) ondskefulla läppar (tomt prat), och en lögnare lyssnar på en förödande tunga (destruktivt, oanständigt tal)."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "17",
+      "verse": "5",
+      "text": "Den som ser ner på (förlöjligar, hånar, driver med) den fattige (hebr. rosh) förolämpar (förnärmar) hans Skapare, den som är skadeglad (gläder sig åt andras olycka) undgår inte straff."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "17",
+      "verse": "6",
+      "text": "Gamla mäns krona (stolthet) är deras barnbarn, och barnens krona är deras fäder."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "17",
+      "verse": "7",
+      "text": "Överdrivet (stortaligt) tal lämpar sig inte för en dåre, och ännu mer opassande är ljugande läppar hos en ledare."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "17",
+      "verse": "8",
+      "text": "En gåva (muta) fungerar som en skinande diamant [ordagrant ”en sten som charmerar”] för den som ger den, varthelst han vänder sig ger den honom framgång. [Versen kan tolkas positivt att en gåva stillar vrede, se Ords 21:14. Ordet gåva kan också översättas muta vilket inte är accepterat enligt judisk lag, och då är versen en sorglig kommentar om det mänskliga beteendet, se vers 23.]"
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "17",
+      "verse": "9",
+      "text": "Den som har överseende med (skyler, förlåter) ett felsteg (överträdelse) väljer (strävar efter; söker; vill främja) kärleken, men den som ältar vad någon har sagt (gjort) skiljer vänner åt [driver bort en nära vän]. [Ords 10:12]"
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "17",
+      "verse": "10",
+      "text": "En tillrättavisning påverkar den vise mer än hundra slag på dåren."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "17",
+      "verse": "11",
+      "text": "En ond människa söker bara uppror [genom att medvetet bryta mot det som är rätt], därför ska en grym budbärare (ängel) skickas mot honom."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "17",
+      "verse": "12",
+      "text": "Det är bättre att möta en björnhona som blivit separerad från sina ungar, än att möta en [högfärdig, arrogant] dåre i sin dårskap."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "17",
+      "verse": "13",
+      "text": "Lönar någon gott med ont, viker inte ondskan från hans hus."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "17",
+      "verse": "14",
+      "text": "Att börja ett gräl (ordväxling, konflikt) är som att öppna en dammlucka med vatten, stoppa därför grälet innan orden väller fram ohindrat."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "17",
+      "verse": "15",
+      "text": "Den som rättfärdigar syndaren och den som fördömer den rättfärdige – båda är lika avskyvärda (motbjudande, vidriga) i Herrens (Jahvehs) ögon."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "17",
+      "verse": "16",
+      "text": "Till vilken nytta är pengar i en dåres hand eftersom han inte har någon vilja (längtan, hjärta) att lära sig? [Vishet kan inte köpas, se Job 28:15-19; den kommer genom att följa Guds väg och att vörda Herren, se Ords 1:28-33. En vanlig källa till konflikt mellan vänner är pengar, temat återkommer i vers 18.]"
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "17",
+      "verse": "17",
+      "text": "En vän (medmänniska – hebr. rea) älskar alltid (visar hela tiden tillgivenhet) [är trofast, hjälpsam och självuppoffrande], en broder finns med (föddes för att hjälpa) i motgång (nöd, trångmål – hebr. tsarah) [i en svår tid]. [Här kan ”en broder” även åsyfta någon som står nära, oavsett blodsband, se Ords 18:24.]"
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "17",
+      "verse": "18",
+      "text": "En människa som saknar förstånd skriver under (ger sitt handslag), och går [förhastat] i borgen för sin vän (medmänniska – hebr. rea)."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "17",
+      "verse": "19",
+      "text": "Den som älskar synd, älskar strider (tvister, ordstrider, tävlan, gräl), den som bygger höga portar [som en fasad för att imponera och verka bättre än vad han är] försäkrar sig om sitt eget fall (ras)."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "17",
+      "verse": "20",
+      "text": "Den som har ett fördärvat (falskt) hjärta får ingen framgång (rikedom, gott), och den som har en fördärvad (förvrängd, pervers) tunga faller i olycka."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "17",
+      "verse": "21",
+      "text": "Den förälder som får en [ondskefull] dåre till barn får sorg, en far till en [ohyfsad] dåre har ingen glädje."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "17",
+      "verse": "22",
+      "text": "Ett glatt hjärta (själ) verkar som en god medicin, men en sårad (bruten) ande suger märgen ur benen (torkar ut och försvagar hela kroppen)."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "17",
+      "verse": "23",
+      "text": "Den ogudaktige (syndaren, kriminelle) tar emot mutor under bordet (i hemlighet) för att förvränga rättvisans stigar (välkända upptrampade gångvägar)."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "17",
+      "verse": "24",
+      "text": "En man med förstånd placerar Guds vishet framför sina ögon (fokuserar på den), medan en dåres ögon ser [irrar runt] på allt som finns på jorden [utom på visdom]."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "17",
+      "verse": "25",
+      "text": "En självgod, dåraktig son är en sorg för sin far och bitter sorg för henne som fött honom."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "17",
+      "verse": "26",
+      "text": "Att straffa den rättfärdige är inte rätt, att slå (döda) personer med hög moral för deras ärlighet (övertygelse, moral, rättvisa) är också fel."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "17",
+      "verse": "27",
+      "text": "Den som har kunskap (vishet) är sparsam med sina ord [Jak 1:19], och en man med insikt (förståelse) har en dyrbar (värdefull, högt aktad) ande."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "17",
+      "verse": "28",
+      "text": "Även en [babblande] dåre (hebr. evil) kan tas för att vara vis om han håller tyst, den som stänger sina läppar kan tyckas vara skärpt (skarpsinnig; ha urskillningsförmåga)."
+    }
+  ]
+}

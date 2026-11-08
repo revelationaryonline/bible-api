@@ -12,9 +12,20 @@
   commentary never establishes another scripture row (SKB Psalm 145 Nun example).
 - Complete SKB Psalms recovery is local commit `8614a8d9b6fa`; original routes and
   publisher source are retained in `conversion-provenance/2026-11-08/sv-skb/`.
-  The current source rewrite approval covers Psalms only. Other verified Swedish
-  gaps and the researched next repair are in the parent `docs/swedish-feature-checks.md`.
+  Chris subsequently approved the remaining missing verses and truncated passages
+  on 8 November. The full local repair is recorded in the parent
+  `docs/swedish-feature-checks.md` and `remaining-manifest.json` beside the Psalm evidence.
   Comparison differences are review candidates, never permission for hybrid text.
+
+- Even same-edition publisher exports can duplicate a preceding chapter passage,
+  shift labels or omit a final passage. Verify correspondence by content against
+  retained records; preserve stored IDs/labels/routes and use explicit reviewed
+  adapters. Never derive alignment from counts, ordinal positions or offsets.
+  Numbers 13, Ecclesiastes 7 and Ezekiel 42 provide regression evidence.
+- Complete older wording is retained. Restore a confirmed truncated passage as
+  one coherent publisher passage; do not splice revisions or expand intentional
+  omissions. Keep frozen original chapters and hash-pinned source archives so
+  repeat imports and changed-text evidence are independently checkable.
 
 ## Approved same-edition recovery — 8 November 2026
 

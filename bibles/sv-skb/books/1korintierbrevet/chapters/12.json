@@ -1,1 +1,190 @@
-{"data":[{"book":"1 Korintierbrevet","chapter":"12","verse":"1","text":"Vad det gäller det andliga (manifestationer, andliga gåvor), så vill jag inte att ni ska vara felinformerade (okunniga, sakna kunskap)."},{"book":"1 Korintierbrevet","chapter":"12","verse":"2","text":"Ni vet ju att medan ni var hedningar fördes ni ständigt bort (som fångar) till stumma avgudar. Ni var ledda (influerade) så fort det fanns ett tillfälle [för köttet eller djävulen att agera]."},{"book":"1 Korintierbrevet","chapter":"12","verse":"3","text":"Därför vill jag klargöra för er så att ni förstår att ingen som vanemässigt talar genom (influerad och i kraft av) Guds Ande säger: ”Förbannad är Jesus”, och att ingen kan [verkligen] säga ”Jesus är [min] Herre” annat än genom (influerad och i kraft av) den helige Ande."},{"book":"1 Korintierbrevet","chapter":"12","verse":"4","text":"Det finns olika gåvor (fritt givna gåvor, olika till sin karaktär, fördelade på olika personer),"},{"book":"1 Korintierbrevet","chapter":"12","verse":"5","text":"Det finns olika tjänster (sätt att betjäna, olika till sin karaktär, fördelade på olika personer),"},{"book":"1 Korintierbrevet","chapter":"12","verse":"6","text":"Det finns olika typer av kraftgärningar (sätt att arbeta, utföra ett uppdrag, olika till sin karaktär, fördelade på olika personer),"},{"book":"1 Korintierbrevet","chapter":"12","verse":"7","text":"Till varje person har Anden uppenbarats (visat sig, getts som ett bevis) för att göra nytta (kontinuerligt förena, samla, vara användbar för andra)."},{"book":"1 Korintierbrevet","chapter":"12","verse":"8","text":"Till en ges genom Anden [kraften att tala] ord av vishet [ett vägledande ord i en speciell situation]."},{"book":"1 Korintierbrevet","chapter":"12","verse":"9","text":"Till en annan, tro [för under och tecken] genom samma Ande."},{"book":"1 Korintierbrevet","chapter":"12","verse":"10","text":"Till en annan att utföra kraftgärningar (mirakler, tecken, under)."},{"book":"1 Korintierbrevet","chapter":"12","verse":"11","text":"Alla dessa [gåvor, kraftgärningar] är inspirerade av (får sin kraft genom) en och samma Ande, som fördelar dem till varje person som han vill."},{"book":"1 Korintierbrevet","chapter":"12","verse":"12","text":"För på samma sätt som kroppen är en (är en enhet)"},{"book":"1 Korintierbrevet","chapter":"12","verse":"13","text":"Med en och samma Ande har vi alla döpts in i samma kropp,"},{"book":"1 Korintierbrevet","chapter":"12","verse":"14","text":"För kroppen består inte av en enda del (lem)"},{"book":"1 Korintierbrevet","chapter":"12","verse":"15","text":"Om foten skulle säga:"},{"book":"1 Korintierbrevet","chapter":"12","verse":"16","text":"Om örat skulle säga:"},{"book":"1 Korintierbrevet","chapter":"12","verse":"17","text":"Om hela kroppen var ett öga,"},{"book":"1 Korintierbrevet","chapter":"12","verse":"18","text":"Men nu har Gud placerat varje kroppsdel i kroppen, varenda en av dem precis där han ville ha dem (där de passar och fungerar bäst, där han tänkt ut att de ska vara)."},{"book":"1 Korintierbrevet","chapter":"12","verse":"19","text":"Om kroppen bestod av en enda del (lem), då skulle det inte vara en kropp."},{"book":"1 Korintierbrevet","chapter":"12","verse":"20","text":"Men nu är det så att det är många delar, men en enda kropp."},{"book":"1 Korintierbrevet","chapter":"12","verse":"21","text":"Ögat kan inte säga till handen:"},{"book":"1 Korintierbrevet","chapter":"12","verse":"22","text":"Nej, tvärtom, de delar av kroppen som verkar svagast (skörast)"},{"book":"1 Korintierbrevet","chapter":"12","verse":"23","text":"och de delar av kroppen som vi inte tycker är värdefulla (ärofyllda),"},{"book":"1 Korintierbrevet","chapter":"12","verse":"24","text":"medan de andra delarna inte behöver något sådant."},{"book":"1 Korintierbrevet","chapter":"12","verse":"25","text":"Detta för att det inte skulle uppstå splittring (uppdelning, söndring – gr. schisma) i kroppen, utan delarna (lemmarna) skulle ha samma omsorg om varandra (vara genuint angelägna om vars och ens bästa)."},{"book":"1 Korintierbrevet","chapter":"12","verse":"26","text":"Om en kroppsdel (lem) lider,"},{"book":"1 Korintierbrevet","chapter":"12","verse":"27","text":"Nu är ni [tillsammans] den Smordes (Messias, Kristi) kropp, och var för sig [utifrån en särskild utportionerad och begränsad del – gr. ek merous] lemmar [i den]."},{"book":"1 Korintierbrevet","chapter":"12","verse":"28","text":"Gud har utvalt människor (lagt ner gåvor) i församlingen (kyrkan, folket som samlas):"},{"book":"1 Korintierbrevet","chapter":"12","verse":"29","text":"Alla är inte apostlar, eller hur?"},{"book":"1 Korintierbrevet","chapter":"12","verse":"30","text":"Alla har inte extraordinär gåva att hela, eller hur?"},{"book":"1 Korintierbrevet","chapter":"12","verse":"31","text":"Var ivriga att få tag på (sök, längta och sträva ständigt efter) de mest användbara (de bästa, högsta) gåvorna."}]}
+{
+  "data": [
+    {
+      "book": "1 Korintierbrevet",
+      "chapter": "12",
+      "verse": "1",
+      "text": "Vad det gäller det andliga (manifestationer, andliga gåvor), så vill jag inte att ni ska vara felinformerade (okunniga, sakna kunskap)."
+    },
+    {
+      "book": "1 Korintierbrevet",
+      "chapter": "12",
+      "verse": "2",
+      "text": "Ni vet ju att medan ni var hedningar fördes ni ständigt bort (som fångar) till stumma avgudar. Ni var ledda (influerade) så fort det fanns ett tillfälle [för köttet eller djävulen att agera]."
+    },
+    {
+      "book": "1 Korintierbrevet",
+      "chapter": "12",
+      "verse": "3",
+      "text": "Därför vill jag klargöra för er så att ni förstår att ingen som vanemässigt talar genom (influerad och i kraft av) Guds Ande säger: ”Förbannad är Jesus”, och att ingen kan [verkligen] säga ”Jesus är [min] Herre” annat än genom (influerad och i kraft av) den helige Ande."
+    },
+    {
+      "book": "1 Korintierbrevet",
+      "chapter": "12",
+      "verse": "4",
+      "text": "Det finns olika gåvor (fritt givna gåvor, olika till sin karaktär, fördelade på olika personer), men Anden är densamme."
+    },
+    {
+      "book": "1 Korintierbrevet",
+      "chapter": "12",
+      "verse": "5",
+      "text": "Det finns olika tjänster (sätt att betjäna, olika till sin karaktär, fördelade på olika personer), men Herren är densamme."
+    },
+    {
+      "book": "1 Korintierbrevet",
+      "chapter": "12",
+      "verse": "6",
+      "text": "Det finns olika typer av kraftgärningar (sätt att arbeta, utföra ett uppdrag, olika till sin karaktär, fördelade på olika personer), men Gud är densamme som verkar (inspirerar, ger kraften) i dem alla."
+    },
+    {
+      "book": "1 Korintierbrevet",
+      "chapter": "12",
+      "verse": "7",
+      "text": "Till varje person har Anden uppenbarats (visat sig, getts som ett bevis) för att göra nytta (kontinuerligt förena, samla, vara användbar för andra)."
+    },
+    {
+      "book": "1 Korintierbrevet",
+      "chapter": "12",
+      "verse": "8",
+      "text": "Till en ges genom Anden [kraften att tala] ord av vishet [ett vägledande ord i en speciell situation]. Till en annan ges [kraften att ge] ord av kunskap [insikt om något som Gud på ett övernaturligt sätt uppenbarar] genom samma Ande. [Skillnaden mellan vishet och kunskap är att vishet handlar om hur kunskap ska appliceras i en viss situation. Ord av vishet handlar ofta om hur konflikter ska lösas och skapa enhet vilket betonas i föregående verser, se vers 4-6. Ett exempel på ord av vishet är när Salomo fick fram vem som var barnets verkliga mor i en vårdnadstvist, se 1 Kung 3:16-28. Flera exempel finns i Apostlagärningarna där ord av vishet hjälper till att strukturera upp matutdelningen och senare hur Jakobs ord löser en stor konflikt, se Apg 6:2-4; 15:19-22. Exempel på ord av kunskap är när Jesus ber Petrus att gå ner till sjön där han vet att en fisk kommer att ha ett silvermynt i sin mun som de ska använda till tempelskatten, se Matt 17:24-27. Andra exempel är när Jesus talar till Natanael och till kvinnan vid brunnen, se Joh 1:47-48; 4:16.]"
+    },
+    {
+      "book": "1 Korintierbrevet",
+      "chapter": "12",
+      "verse": "9",
+      "text": "Till en annan tro [för under och tecken] genom samma Ande. Till en annan gåvor att hela (bota sjuka, återskapa) genom samma Ande. [Det grekiska ordet är i plural. Kan syfta på många helanden men också på att det finns olika gåvor och sätt att hela olika sjukdomar, se Matt 10:1.]"
+    },
+    {
+      "book": "1 Korintierbrevet",
+      "chapter": "12",
+      "verse": "10",
+      "text": "Till en annan att utföra kraftgärningar (mirakler, tecken, under). Till en annan profetisk klarsyn [gåvan att förstå och förmedla Guds vilja och syfte]. Till en annan att skilja (ha förmåga att urskilja, särskilja) mellan andar. Till en annan olika sorters språk (tungotal), Till en annan uttydning av (förmågan att förklara) [sådana] språk (tungotal)."
+    },
+    {
+      "book": "1 Korintierbrevet",
+      "chapter": "12",
+      "verse": "11",
+      "text": "Alla dessa [gåvor, kraftgärningar] är inspirerade av (får sin kraft genom) en och samma Ande, som fördelar dem till varje person som han vill."
+    },
+    {
+      "book": "1 Korintierbrevet",
+      "chapter": "12",
+      "verse": "12",
+      "text": "För på samma sätt som kroppen är en (är en enhet) har den ändå många delar (lemmar). Trots att det är många olika delar, formar de tillsammans en kropp, så är det också med den Smorde (Messias, Kristus)."
+    },
+    {
+      "book": "1 Korintierbrevet",
+      "chapter": "12",
+      "verse": "13",
+      "text": "Med en och samma Ande har vi alla döpts in i samma kropp, vare sig vi är judar eller greker, slavar eller fria. Vi har alla fått dricka (fått törsten släckt, blivit fyllda) av samma Ande."
+    },
+    {
+      "book": "1 Korintierbrevet",
+      "chapter": "12",
+      "verse": "14",
+      "text": "För kroppen består inte av en enda del (lem) utan av många. [I mitten mellan stycket som handlar om Jesu kropp, vers 12-14 och 25-27, finns en liknelse med den fysiska kroppen. Faran av ytligt jämförande och känslor av underlägsenhet/överlägsenhet tas upp. Händer och fötter är kroppsdelar som utför fysiskt arbete. Ögon, öron och näsa är sinnesorgan som bearbetar intryck. I vers 15-17 handlar det om känslan av underlägsenhet. Foten är avundsjuk på handen och örat känner sig inte lika viktig som ögat. Konkurrensen verkar finnas mellan liknande kategorier av gåvor. Foten jämför sig inte med örat eller ögat, utan med handen. I vers 21 sker konversationen mellan de mer administrativa gåvorna (öga och huvud) som inte ska se ner på de mer praktiska funktionerna (händer och fötter).]"
+    },
+    {
+      "book": "1 Korintierbrevet",
+      "chapter": "12",
+      "verse": "15",
+      "text": "Om foten skulle säga: ”Eftersom jag inte är handen, så tillhör jag inte kroppen”, skulle den inte ändå tillhöra kroppen?"
+    },
+    {
+      "book": "1 Korintierbrevet",
+      "chapter": "12",
+      "verse": "16",
+      "text": "Om örat skulle säga: ”Eftersom jag inte är ögat, så tillhör jag inte kroppen”, skulle den inte ändå tillhöra kroppen?"
+    },
+    {
+      "book": "1 Korintierbrevet",
+      "chapter": "12",
+      "verse": "17",
+      "text": "Om hela kroppen var ett öga, hur skulle den då kunna höra, eller om den bara var ett öra, hur skulle den då kunna känna lukt?"
+    },
+    {
+      "book": "1 Korintierbrevet",
+      "chapter": "12",
+      "verse": "18",
+      "text": "Men nu har Gud placerat varje kroppsdel i kroppen, varenda en av dem precis där han ville ha dem (där de passar och fungerar bäst, där han tänkt ut att de ska vara)."
+    },
+    {
+      "book": "1 Korintierbrevet",
+      "chapter": "12",
+      "verse": "19",
+      "text": "Om kroppen bestod av en enda del (lem), då skulle det inte vara en kropp."
+    },
+    {
+      "book": "1 Korintierbrevet",
+      "chapter": "12",
+      "verse": "20",
+      "text": "Men nu är det så att det är många delar, men en enda kropp."
+    },
+    {
+      "book": "1 Korintierbrevet",
+      "chapter": "12",
+      "verse": "21",
+      "text": "Ögat kan inte säga till handen: ”Jag behöver inte dig”, och inte heller huvudet till fötterna: ”Jag behöver inte er.”"
+    },
+    {
+      "book": "1 Korintierbrevet",
+      "chapter": "12",
+      "verse": "22",
+      "text": "Nej, tvärtom, de delar av kroppen som verkar svagast (skörast) är desto mer nödvändiga,"
+    },
+    {
+      "book": "1 Korintierbrevet",
+      "chapter": "12",
+      "verse": "23",
+      "text": "och de delar av kroppen som vi inte tycker är värdefulla (ärofyllda), just dem klär vi med värdighet, och de mindre attraktiva delarna omger vi med så mycket större omtanke (elegans),"
+    },
+    {
+      "book": "1 Korintierbrevet",
+      "chapter": "12",
+      "verse": "24",
+      "text": "medan de andra delarna inte behöver något sådant. Gud har sammanfogat kroppens alla delar (förenat, kombinerat dem i rätt proportioner), och gett större ära till de delar som saknar ära [de som inte har uppenbar yttre betydelse]."
+    },
+    {
+      "book": "1 Korintierbrevet",
+      "chapter": "12",
+      "verse": "25",
+      "text": "Detta för att det inte skulle uppstå splittring (uppdelning, söndring – gr. schisma) i kroppen, utan delarna (lemmarna) skulle ha samma omsorg om varandra (vara genuint angelägna om vars och ens bästa)."
+    },
+    {
+      "book": "1 Korintierbrevet",
+      "chapter": "12",
+      "verse": "26",
+      "text": "Om en kroppsdel (lem) lider, lider alla delarna (lemmarna) med [den]. Om en kroppsdel blir ärad (upphöjd), gläder sig alla delarna (lemmarna) med [den]."
+    },
+    {
+      "book": "1 Korintierbrevet",
+      "chapter": "12",
+      "verse": "27",
+      "text": "Nu är ni [tillsammans] den Smordes (Messias, Kristi) kropp, och var för sig [utifrån en särskild utportionerad och begränsad del – gr. ek merous] lemmar [i den]."
+    },
+    {
+      "book": "1 Korintierbrevet",
+      "chapter": "12",
+      "verse": "28",
+      "text": "Gud har utvalt människor (lagt ner gåvor) i församlingen (kyrkan, folket som samlas): Först apostlar (budbärare, ambassadörer) [som grundar en församling], som nummer två profeter (inspirerade förkunnare), på tredje plats lärare, sedan [de som utför] kraftgärningar (mirakler) [har styrka över onda andemakter, sjukdomar], sedan [de som har] gåvan att hela (bota sjukdomar, återskapa), [de som är speciellt fokuserade på att] hjälpa till (kärleksfulla handlingar, hjälpsamhet, bära andras bördor) [grekiska ordet ”lyfta upp, bära”], styra (gåvan att vara skicklig i administration, leda) [grekiska ordet för sjökapten], tala olika tungor (språk). [På ett övernaturligt sätt kunna tala språk man normalt inte talar, t.ex. det som skedde på pingstdagen, se Apg 2:5-13.]"
+    },
+    {
+      "book": "1 Korintierbrevet",
+      "chapter": "12",
+      "verse": "29",
+      "text": "Alla är inte apostlar, eller hur? Alla är inte profeter, eller hur? Alla är inte lärare, eller hur? Alla utför inte kraftgärningar (mirakler), eller hur?"
+    },
+    {
+      "book": "1 Korintierbrevet",
+      "chapter": "12",
+      "verse": "30",
+      "text": "Alla har inte extraordinär gåva att hela, eller hur? Alla talar inte andra språk, eller hur? Alla kan inte uttyda, eller hur?"
+    },
+    {
+      "book": "1 Korintierbrevet",
+      "chapter": "12",
+      "verse": "31",
+      "text": "Var ivriga att få tag på (sök, längta och sträva ständigt efter) de mest användbara (de bästa, högsta) gåvorna. Nu vill jag ändå göra er uppmärksamma på (visa er) en ojämförbart mycket högre väg. [En ”högre väg” kan beskriva en väg genom ett bergspass, där det krävs ansträngning för att ta sig över, och binds fint ihop med 1 Kor 14:1 som uppmanar att ”springa efter kärleken”. Den högre vägen är osjälvisk, utgivande kärlek.]"
+    }
+  ]
+}

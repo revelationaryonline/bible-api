@@ -1,1 +1,172 @@
-{"data":[{"book":"Ordspråksboken","chapter":"12","verse":"1","text":"Den som älskar korrigering (rättning, fostran) han älskar kunskap (insikt, förståelse),"},{"book":"Ordspråksboken","chapter":"12","verse":"2","text":"En god människa får nåd (favör, accepterande, uppskattning) av Herren,"},{"book":"Ordspråksboken","chapter":"12","verse":"3","text":"Ingen människa kan bestå (vara säker) genom [att göra] ondska,"},{"book":"Ordspråksboken","chapter":"12","verse":"4","text":"En skicklig (effektiv, alert, hederlig) hustru (med stark karaktär och initiativförmåga) är sin makes krona,"},{"book":"Ordspråksboken","chapter":"12","verse":"5","text":"Tankarna (planerna) hos de rättfärdiga är ärliga (pålitliga),"},{"book":"Ordspråksboken","chapter":"12","verse":"6","text":"Orden från de ogudaktiga är som ett dödligt bakhåll,"},{"book":"Ordspråksboken","chapter":"12","verse":"7","text":"De ogudaktiga blir omkullkastade (störtade, fällda), det är slutet för dem,"},{"book":"Ordspråksboken","chapter":"12","verse":"8","text":"En människa blir dömd [av både Gud och människor] i förhållande till sitt förstånd"},{"book":"Ordspråksboken","chapter":"12","verse":"9","text":"Bättre ha ett lågt anseende (vara ringaktad, föraktad av människor) och ha en tjänare,"},{"book":"Ordspråksboken","chapter":"12","verse":"10","text":"Den rättfärdige tar hand om sina djur (känner och har medlidande med dem),"},{"book":"Ordspråksboken","chapter":"12","verse":"11","text":"Den som brukar sin jord får överflöd av mat,"},{"book":"Ordspråksboken","chapter":"12","verse":"12","text":"De ogudaktiga har begär efter onda människors byte [vinst som fåtts på orättfärdigt sätt],"},{"book":"Ordspråksboken","chapter":"12","verse":"13","text":"Den som är ond fångas av sitt eget syndfulla tal,"},{"book":"Ordspråksboken","chapter":"12","verse":"14","text":"En [rättfärdig] människa får själv glädja (fröjda) sig och ta del av (fyllas upp av) resultatet av sina ord,"},{"book":"Ordspråksboken","chapter":"12","verse":"15","text":"En dåres väg är rätt i hans egna ögon,"},{"book":"Ordspråksboken","chapter":"12","verse":"16","text":"En dåres ilska (heta temperament) blir synligt på en gång,"},{"book":"Ordspråksboken","chapter":"12","verse":"17","text":"Den som vittnar sant talar sanning (uppenbarar hela sanningen),"},{"book":"Ordspråksboken","chapter":"12","verse":"18","text":"Den som talar först och tänker sedan (är snabb att ge svar på tal),"},{"book":"Ordspråksboken","chapter":"12","verse":"19","text":"Läppar som talar sanning står fast för evigt,"},{"book":"Ordspråksboken","chapter":"12","verse":"20","text":"Svek (bedrägeri) finns i hjärtat hos dem som planerar ondska,"},{"book":"Ordspråksboken","chapter":"12","verse":"21","text":"Ingen ondska [som resultat från en ogudaktig livsstil] kan drabba den rättfärdige,"},{"book":"Ordspråksboken","chapter":"12","verse":"22","text":"Läppar som ljuger är motbjudande (avskyvärda, vidriga) för Herren (Jahve),"},{"book":"Ordspråksboken","chapter":"12","verse":"23","text":"En förståndig (välbetänkt, försiktig, aktsam) människa stoltserar inte med sin kunskap,"},{"book":"Ordspråksboken","chapter":"12","verse":"24","text":"De som är arbetsamma (flitiga) når ledande positioner,"},{"book":"Ordspråksboken","chapter":"12","verse":"25","text":"Bekymmer (oro, rädsla) i en mans hjärta tynger ner det [orsakar depression],"},{"book":"Ordspråksboken","chapter":"12","verse":"26","text":"Den rättfärdige leder sin vän (nästa, granne) rätt,"},{"book":"Ordspråksboken","chapter":"12","verse":"27","text":"Den late (bedragaren) jagar inte sitt eget byte och tillreder det inte,"},{"book":"Ordspråksboken","chapter":"12","verse":"28","text":"På rättfärdighetens stig (välkända, upptrampade gångväg) finns liv,"}]}
+{
+  "data": [
+    {
+      "book": "Ordspråksboken",
+      "chapter": "12",
+      "verse": "1",
+      "text": "Den som älskar korrigering (rättning, fostran) han älskar kunskap (insikt, förståelse), men den som hatar tillrättavisning är helt omdömeslös (enfaldig, dum)."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "12",
+      "verse": "2",
+      "text": "En god människa får nåd (favör, accepterande, uppskattning) av Herren, men Herren (Jahveh) dömer en människa med onda planer."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "12",
+      "verse": "3",
+      "text": "Ingen människa kan bestå (vara säker) genom [att göra] ondska, men de rättfärdiga står stadigt (är djupt rotade) och kan inte rubbas."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "12",
+      "verse": "4",
+      "text": "En skicklig (effektiv, alert, hederlig) hustru (med stark karaktär och initiativförmåga) är sin makes krona, men en maka som orsakar skam (förvirring, oreda) är som röta (förruttnelse) i hans ben."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "12",
+      "verse": "5",
+      "text": "Tankarna (planerna) hos de rättfärdiga är ärliga (pålitliga), men råden från de ogudaktiga (syndarna, kriminella) är bara svek (bedrägeri)."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "12",
+      "verse": "6",
+      "text": "Orden från de ogudaktiga är som ett dödligt bakhåll, men de rättfärdiga räddas (rycks bort) [från överfallet] genom sina ord."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "12",
+      "verse": "7",
+      "text": "De ogudaktiga blir omkullkastade (störtade, fällda), det är slutet för dem, men de rättfärdigas hus (boning, familj) består."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "12",
+      "verse": "8",
+      "text": "En människa blir dömd [av både Gud och människor] i förhållande till sitt förstånd [insikt och förmåga att förstå], men den som har ett medvetet fördärvat (förvridet) hjärta blir föraktad."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "12",
+      "verse": "9",
+      "text": "Bättre ha ett lågt anseende (vara ringaktad, föraktad av människor) och ha en tjänare, än att skryta om sin status (och sig själv) men inte ha mat för dagen."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "12",
+      "verse": "10",
+      "text": "Den rättfärdige tar hand om sina djur (känner och har medlidande med dem), men den ogudaktiges ”barmhärtighet” (”nåd”) är grymhet."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "12",
+      "verse": "11",
+      "text": "Den som brukar sin jord får överflöd av mat, men den som springer efter (söker, följer) tomhet (fantiserar om lättförtjänta pengar) saknar förstånd."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "12",
+      "verse": "12",
+      "text": "De ogudaktiga har begär efter onda människors byte [vinst som fåtts på orättfärdigt sätt], men de rättfärdiga står stadigt (djupt rotade) och bär [rikare långsiktig] frukt."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "12",
+      "verse": "13",
+      "text": "Den som är ond fångas av sitt eget syndfulla tal, men de rättfärdiga tar sig ur (hittar en väg ur) problem (oro, svåra situationer)."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "12",
+      "verse": "14",
+      "text": "En [rättfärdig] människa får själv glädja (fröjda) sig och ta del av (fyllas upp av) resultatet av sina ord, och arbetet som hennes händer utför kommer tillbaka till henne [som en skörd av det goda som har såtts]."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "12",
+      "verse": "15",
+      "text": "En dåres väg är rätt i hans egna ögon, men den som är vis lyssnar på råd."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "12",
+      "verse": "16",
+      "text": "En dåres ilska (heta temperament) blir synligt på en gång (ordagrant: ”samma dag”), men den som är förståndig (välbetänkt, aktsam) döljer skam (vanära). [Den förståndige har överseende, brusar inte upp och ger igen när han blir förorättad. Skammen kan syfta på den skada och felbehandling som en annan person orsakat. Eller så är det den skam som kommer efter att någon har överreagerat med ett häftigt vredesutbrott. Se även Ords 20:22; 24:29; Matt 18:15.]"
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "12",
+      "verse": "17",
+      "text": "Den som andas trofasthet (talar sanning – hebr. poach emonah) berättar rätt, men ett falskt (hebr. sheqer) vittnesbörd är lögn och svek. [Att andas trofasthet talar om en livsstil av att tala sanning och vara ärlig, jfr ”andas svek” i Ords 14:5. Se även om sanningen som står fast och lögnen som vacklar i Ps 12.]"
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "12",
+      "verse": "18",
+      "text": "Den som talar först och tänker sedan (är snabb att ge svar på tal), hans ord skär (sticker, genomborrar) som ett svärd, men de visas tunga är helande (läkedom)."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "12",
+      "verse": "19",
+      "text": "Läppar som talar sanning står fast för evigt, en tunga som ljuger hörs bara för ett ögonblick."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "12",
+      "verse": "20",
+      "text": "Svek (bedrägeri) finns i hjärtat hos dem som planerar ondska, men de som verkar för (medlar mellan parter för att skapa) fred får glädje [i hjärtat]."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "12",
+      "verse": "21",
+      "text": "Ingen ondska [som resultat från en ogudaktig livsstil] kan drabba den rättfärdige, men de ogudaktiga får uppleva mycket olycka (elände, bedrövelse, bekymmer, oro, plåga, sjukdom) [eftersom de medvetet har valt bort Gud]."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "12",
+      "verse": "22",
+      "text": "Läppar som ljuger är motbjudande (avskyvärda, vidriga) för Herren (Jahveh), men de [människor] som är rättvisa (trogna, som motstår frestelser) är hans glädje (behag)."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "12",
+      "verse": "23",
+      "text": "En förståndig (välbetänkt, försiktig, aktsam) människa stoltserar inte med sin kunskap, medan dårars hjärtan ropar (skriker) ut sin dårskap (oförstånd, galenskap)."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "12",
+      "verse": "24",
+      "text": "De som är arbetsamma (flitiga) når ledande positioner, medan den late tvingas arbeta hårt (arbeta som slav åt en annan herre)."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "12",
+      "verse": "25",
+      "text": "Bekymmer (oro, rädsla) i en mans hjärta tynger ner det [orsakar depression], men ett gott (uppmuntrande, vänligt) ord gör det glatt."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "12",
+      "verse": "26",
+      "text": "Den rättfärdige leder sin vän (nästa, granne) rätt, men de ondas väg leder [dem själva och andra] vilse."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "12",
+      "verse": "27",
+      "text": "Den late (bedragaren) jagar inte sitt eget byte och tillreder det inte, till skillnad från den arbetsamme (noggranne, som inte ljuger) som får värdefulla tillgångar (ära, dyrbara diamanter). [Han har glädje över dem, tillreder med gott samvete köttet han själv jagat så att det smakar gott.]"
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "12",
+      "verse": "28",
+      "text": "På rättfärdighetens stig [välkända upptrampade gångväg] finns liv, och på den vägen finns ingen död [utan evigt liv]."
+    }
+  ]
+}

@@ -1,1 +1,160 @@
-{"data":[{"book":"2 Moseboken","chapter":"20","verse":"1","text":"Sedan talade Gud dessa ord:"},{"book":"2 Moseboken","chapter":"20","verse":"2","text":"Jag är Herren din Gud (Jahve Elohim), som förde dig ut ur Egyptens land, ut ur slavhuset (slaveriet)."},{"book":"2 Moseboken","chapter":"20","verse":"3","text":"Du ska inte ha några andra (främmande) [plural] gudar (elohim) vid sidan av mig (ordagrant: ”över mitt ansikte”; som konkurrerar med min plats)."},{"book":"2 Moseboken","chapter":"20","verse":"4","text":"Du ska inte göra dig någon bildstod (staty i trä eller sten) eller någon avbild"},{"book":"2 Moseboken","chapter":"20","verse":"5","text":"Du ska inte tillbe (böja dig inför) dem, och inte heller tjäna dem."},{"book":"2 Moseboken","chapter":"20","verse":"6","text":"men visar min trofasta kärlek mot tusenden [i tusen generationer] när man älskar mig och håller mina bud."},{"book":"2 Moseboken","chapter":"20","verse":"7","text":"Du ska inte representera (ordagrant: ”lyfta upp”, ”bära”) Herrens namn (hans karaktär) på ett felaktigt sätt (tanklöst, i tomhet )."},{"book":"2 Moseboken","chapter":"20","verse":"8","text":"[Följande gäller dig och din familj:] Kom ihåg sabbatsdagen [vilket inte bara betyder att inte glömma bort, utan att högtidlighålla betydelsen och innebörden som är skapelsen och uttåget ur Egypten], och håll den helig (avsätt den som en speciell dag dedikerad till Gud)."},{"book":"2 Moseboken","chapter":"20","verse":"9","text":"Sex dagar ska du arbeta och uträtta alla dina sysslor (vardagliga arbetsuppgifter),"},{"book":"2 Moseboken","chapter":"20","verse":"10","text":"men den sjunde är Herren, din Guds, sabbat. Då ska du inte utföra något arbete, varken du eller din son eller din dotter, din slav eller din slavinna, din boskap eller invandraren inom dina portar (i dina städer)."},{"book":"2 Moseboken","chapter":"20","verse":"11","text":"För på sex dagar formade Gud himlen och jorden och havet och allt som är i dem, men på sjunde dagen vilade han. Det är därför Herren har välsignat sabbatsdagen och gjort den till en helig dag (avsatt den som en speciell dag)."},{"book":"2 Moseboken","chapter":"20","verse":"12","text":"Hedra (värdera högt, visa vördnad och respekt för) din far och din mor. Då ska du få leva länge i det land som Herren, din Gud ska ge dig."},{"book":"2 Moseboken","chapter":"20","verse":"13","text":"Du ska inte mörda."},{"book":"2 Moseboken","chapter":"20","verse":"14","text":"Du ska inte begå äktenskapsbrott."},{"book":"2 Moseboken","chapter":"20","verse":"15","text":"Du ska inte stjäla."},{"book":"2 Moseboken","chapter":"20","verse":"16","text":"Du ska inte bära falskt (hebr. sheqer) vittnesbörd mot din nästa (hebr. rea)."},{"book":"2 Moseboken","chapter":"20","verse":"17","text":"Du ska inte ha begär till (avundas, åtrå):"},{"book":"2 Moseboken","chapter":"20","verse":"18","text":"Allt folket blev vittnen till åskmullret och blixtarna och ljudet från shofaren och rykandet (röken som rykte) på berget. När folket såg det blev de förskräckta och stod långt bort."},{"book":"2 Moseboken","chapter":"20","verse":"19","text":"De sade till Mose: ”Tala du till oss så ska vi lyssna, men låt inte Gud (Elohim) tala till oss för då ska vi dö."},{"book":"2 Moseboken","chapter":"20","verse":"20","text":"Mose sade till folket: ”Frukta inte, var inte rädda, för Gud (Elohim) ska pröva er, för att vördnad för Honom ska finnas i er så att ni inte syndar.”"},{"book":"2 Moseboken","chapter":"20","verse":"21","text":"Folket stod på behörigt avstånd när Mose gick närmare det tjocka mörkret (ett tjockt mörkt moln) där Gud (Elohim) var."},{"book":"2 Moseboken","chapter":"20","verse":"22","text":"Herren (Jahve) sade till Mose: ”Detta ska du säga till Israels barn (söner); ni har själva sett att jag har talat med er från himlen."},{"book":"2 Moseboken","chapter":"20","verse":"23","text":"Ni ska inte göra – vid sidan av mig –"},{"book":"2 Moseboken","chapter":"20","verse":"24","text":"Ni ska göra ett altare av jord till mig och offra brännoffer [3 Mos 1:3-16] på det och shalomoffer [ett gemenskapsoffer som alla i familjen åt tillsammans, se 3 Mos 7:11-21], dina får och dina oxar. På varje plats där jag vill att mitt namn ska bli omnämnt ska jag komma till er och välsigna er."},{"book":"2 Moseboken","chapter":"20","verse":"25","text":"Och om du gör ett altare till mig av sten, ska du inte bygga det av huggna stenar, för om du rör det med ett verktyg har du förorenat det."},{"book":"2 Moseboken","chapter":"20","verse":"26","text":"Inte heller ska du gå upp på trappsteg till mitt altare, för att din nakenhet inte ska bli avslöjad därpå."}]}
+{
+  "data": [
+    {
+      "book": "2 Moseboken",
+      "chapter": "20",
+      "verse": "1",
+      "text": "Sedan talade Gud dessa ord:"
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "20",
+      "verse": "2",
+      "text": "Jag är Herren din Gud (Jahve Elohim), som förde dig ut ur Egyptens land, ut ur slavhuset (slaveriet)."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "20",
+      "verse": "3",
+      "text": "Du ska inte ha några andra (främmande) [plural] gudar (elohim) vid sidan av mig (ordagrant: ”över mitt ansikte”; som konkurrerar med min plats)."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "20",
+      "verse": "4",
+      "text": "Du ska inte göra dig någon bildstod [staty i trä eller sten] eller någon avbild av något uppe i himlen eller nere på jorden eller i vattnet under jorden."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "20",
+      "verse": "5",
+      "text": "Du ska inte tillbe (böja dig inför) dem, och inte heller tjäna dem. [Ordet för att tjäna (hebr. avad) betyder både att tjäna något gudomligt och att arbeta. Samma ord används i vers 9 om att ”arbeta” sex dagar, se även 1 Mos 2:5; 15. För Gud hör tillbedjan och arbete ihop och är inte åtskilda som i grekiskt tänkande där det heliga och det profana skiljs åt.] Jag, Herren (Jahveh) din Gud (Elohim), är en nitälskande Gud [hebr. El qana; en avundsjuk Gud (i fråga om avgudadyrkan och falsk tillbedjan) som kräver odelad lojalitet]. Jag låter fädernas synd drabba (besöker, konsekvenserna av denna synd drabbar) barnen fram till tredje och fjärde släktled när man hatar mig,"
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "20",
+      "verse": "6",
+      "text": "men visar min trofasta kärlek mot tusenden [i tusen generationer] när man älskar mig och håller mina bud."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "20",
+      "verse": "7",
+      "text": "Du ska inte representera (ordagrant: ”lyfta upp”, ”bära”) Herrens (Jahvehs) namn (hans karaktär) på ett felaktigt sätt (tanklöst, i tomhet). Herren ska inte låta den som missbrukar hans namn vara ostraffad. [Ofta har detta bud förringats till att inte nämna Guds namn på ett lättsinnigt sätt eller att inte svära. Att ”bära” Herrens namn har innebörden att inte häda hans namn, men tyngdpunkten finns i att inte representera honom och hans karaktär på ett felaktigt sätt. Detta skulle kunna beskrivas som ”religiös ondska” som sker i Guds namn. Om en ogudaktig begår onda handlingar är det illa. När någon som säger sig tro på Gud gör samma onda handling och säger att det är i Guds namn, begår denne inte bara ondska utan skadar även människors syn på Gud. Man behöver inte ha en kristen tro för att begå detta brott. En islamist som i Guds namn ropar Allahu akbar (”Gud är större” på arabiska) och mördar, gör att det är svårare för människor att tro att det kan finnas en god Gud. Ett av de vanligaste argumenten mot den kristna tron är just brott mot detta bud begångna av korsfarare förr i tiden, eller idag av islamister.]"
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "20",
+      "verse": "8",
+      "text": "[Följande gäller dig och din familj:] Kom ihåg sabbatsdagen [vilket inte bara betyder att inte glömma bort, utan att högtidlighålla betydelsen och innebörden som är skapelsen och uttåget ur Egypten], och håll den helig (avsätt den som en speciell dag dedikerad till Gud)."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "20",
+      "verse": "9",
+      "text": "Sex dagar ska du arbeta och uträtta alla dina sysslor (vardagliga arbetsuppgifter),"
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "20",
+      "verse": "10",
+      "text": "men den sjunde är Herren, din Guds, sabbat. Då ska du inte utföra något arbete, varken du eller din son eller din dotter, din slav eller din slavinna, din boskap eller invandraren inom dina portar (i dina städer)."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "20",
+      "verse": "11",
+      "text": "För på sex dagar formade Gud himlen och jorden och havet och allt som är i dem, men på sjunde dagen vilade han. Det är därför Herren har välsignat sabbatsdagen och gjort den till en helig dag (avsatt den som en speciell dag)."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "20",
+      "verse": "12",
+      "text": "Hedra (värdera högt, visa vördnad och respekt för) din far och din mor. Då ska du få leva länge i det land som Herren, din Gud ska ge dig."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "20",
+      "verse": "13",
+      "text": "Du ska inte mörda."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "20",
+      "verse": "14",
+      "text": "Du ska inte begå äktenskapsbrott."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "20",
+      "verse": "15",
+      "text": "Du ska inte stjäla."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "20",
+      "verse": "16",
+      "text": "Du ska inte bära falskt (hebr. sheqer) vittnesbörd mot din nästa (hebr. rea)."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "20",
+      "verse": "17",
+      "text": "Du ska inte ha begär till (avundas, åtrå) din nästas hus (familj och ägodelar). Du ska inte ha begär till hans fru, hans tjänare, hans tjänarinna, hans oxe, hans åsna, eller något annat som tillhör din granne (bekante, vän, landsman). [Detta bud går djupare än tidigare bud eftersom det berör tanken och inte den fysiska handlingen. Men varför ett förbud mot att fantisera om att vilja ha grannens oxe? Anledningen är att det är begäret som kan leda till handlingar som förbjudits i de föregående fyra buden, se vers 13-16. Att åtrå andra människor och ägodelar kan leda till äktenskapsbrott, mord, stöld och falska vittnesmål. Ett exempel på det sistnämnda finns i 1 Kung 21 där Ahab tar över Navots vingård. Jesu halvbror skriver att där det finns avund och själviskhet, där finns det också oordning och alla slags onda handlingar, se Jak 3:16. Ordet begär förekommer två gånger i denna vers, vilket har lett till att budet ibland har delats upp i två olika bud. Det är dock tydligt att uppräkningen efter det andra ordet bara är ett förtydligande när det beskriver vad som finns i huset. Ett begär är en brinnande ohälsosam längtan efter något förbjudet. Samtidigt finns det också en positiv längtan och känsla av att vilja ha mer som Bibeln uppmanar till. Paulus längtar efter att känna Herren bättre, se Fil 3:7-14, söka de andliga gåvorna, se 1 Kor 12:31 osv.] [ Olika indelningar Det finns olika indelningar. I den judiska traditionen inkluderas den inledande frasen med första budet, vilket inte den lutherska, katolska eller reformerta traditionen gör. En annan skillnad är placeringen av budet att vörda sina föräldrar, beroende på om det anses höra till den första eller den andra gruppen blir det 5:e eller 6:e budet (4:e budet i Luthers katekes). Kärnbibelns rubriker följer den judiska uppdelningen. Det finns en tematisk och tydlig strukturell struktur som talar för detta, förutom att den var den äldsta och även gällde bland de första kristna. De första fem punkterna består alla av två sektioner där den första beskriver budordet och den andra ger förklaring eller beskrivning. De första fem har också samma text ”Herren din Gud” i varje punkt. De sista fem punkterna består däremot av kortare fraser med förbud. Här nämns inte Guds namn och det finns inte heller någon tillhörande förklaring. Det finns också ett spegelvänt mönster i båda dessa halvor som börjar med hjärtat, tar sig uttryck i tal och sedan sist i handlingar. Det är ett kiastiskt mönster där första och sista punkten handlar om en inre osynlig kvalitet; både första punkten som handlar om tron på Gud och sista som handlar om girighet, har att göra med hjärtat. Det andra temat är ord; förbudet att ingå eder och vittna falskt hör ihop. Vad hjärtat är fullt av, det talar munnen och det leder vidare till praktiska handlingar som att inte respektera vilodagen, sina föräldrar, människoliv, äktenskap och andras egendom.]"
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "20",
+      "verse": "18",
+      "text": "Allt folket blev vittnen till åskmullret och blixtarna och ljudet från shofaren och rykandet (röken som rykte) på berget. När folket såg det blev de förskräckta och stod långt bort."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "20",
+      "verse": "19",
+      "text": "De sade till Mose: ”Tala du till oss så ska vi lyssna, men låt inte Gud (Elohim) tala till oss för då ska vi dö."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "20",
+      "verse": "20",
+      "text": "Mose sade till folket: ”Frukta inte, var inte rädda, för Gud (Elohim) ska pröva er, för att vördnad för Honom ska finnas i er så att ni inte syndar.”"
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "20",
+      "verse": "21",
+      "text": "Folket stod på behörigt avstånd när Mose gick närmare det tjocka mörkret (ett tjockt mörkt moln) där Gud (Elohim) var."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "20",
+      "verse": "22",
+      "text": "Herren (Jahve) sade till Mose: ”Detta ska du säga till Israels barn (söner); ni har själva sett att jag har talat med er från himlen."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "20",
+      "verse": "23",
+      "text": "Ni ska inte göra – vid sidan av mig – gudar av silver eller gudar av guld, det ska ni inte göra åt er. [I ett kiastiskt mönster repeteras det inledande budordet att inte ha andra gudar vid Guds sida, se 2 Mos 20:3-5. Det är inte bara detta budord som åsyftas, utan det blir som en titel för hela undervisningen ovan med de tio budorden. Bibeln visar att det finns saker som inte ska göras och saker som ska göras när det gäller offer. Nu i vers 24 följer de positiva buden med vad som ska offras.]"
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "20",
+      "verse": "24",
+      "text": "Ni ska göra ett altare av jord till mig och offra brännoffer [3 Mos 1:3-16] på det och shalomoffer [ett gemenskapsoffer som alla i familjen åt tillsammans, se 3 Mos 7:11-21], dina får och dina oxar. På varje plats där jag vill att mitt namn ska bli omnämnt ska jag komma till er och välsigna er."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "20",
+      "verse": "25",
+      "text": "Och om du gör ett altare till mig av sten, ska du inte bygga det av huggna stenar, för om du rör det med ett verktyg har du förorenat det."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "20",
+      "verse": "26",
+      "text": "Inte heller ska du gå upp på trappsteg till mitt altare, för att din nakenhet inte ska bli avslöjad därpå."
+    }
+  ]
+}

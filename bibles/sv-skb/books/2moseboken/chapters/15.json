@@ -1,1 +1,166 @@
-{"data":[{"book":"2 Moseboken","chapter":"15","verse":"1","text":"Då sjöng Mose och israeliterna denna sång till Herren, de sjöng:"},{"book":"2 Moseboken","chapter":"15","verse":"2","text":"Herren (Jah, kortformen av Jahve, betecknar att han alltid har existerat) är min styrka (starkhet) och min lovsång,"},{"book":"2 Moseboken","chapter":"15","verse":"3","text":"Herren (Jahve) är en stridsman,"},{"book":"2 Moseboken","chapter":"15","verse":"4","text":"Faraos vagnar och hans armé"},{"book":"2 Moseboken","chapter":"15","verse":"5","text":"Djupen har täckt dem,"},{"book":"2 Moseboken","chapter":"15","verse":"6","text":"Din högra hand, o Herre,"},{"book":"2 Moseboken","chapter":"15","verse":"7","text":"I din stora härlighet (upphöjdhet, majestät)"},{"book":"2 Moseboken","chapter":"15","verse":"8","text":"En fnysning från din näsa [östanvinden som blåste under natten, se 2 Mos 14:21]"},{"book":"2 Moseboken","chapter":"15","verse":"9","text":"Fienden sade:"},{"book":"2 Moseboken","chapter":"15","verse":"10","text":"men du [Herre] blåste med din vind (andades),"},{"book":"2 Moseboken","chapter":"15","verse":"11","text":"Vem bland gudarna [alla avgudar som fanns i Egypten] liknar dig, o Herre?"},{"book":"2 Moseboken","chapter":"15","verse":"12","text":"Du sträckte ut din högra hand"},{"book":"2 Moseboken","chapter":"15","verse":"13","text":"Du i din nåd (omsorgsfulla kärlek) ledde folket"},{"book":"2 Moseboken","chapter":"15","verse":"14","text":"När folken hör, bävar de,"},{"book":"2 Moseboken","chapter":"15","verse":"15","text":"Edoms ledare är skräckslagna."},{"book":"2 Moseboken","chapter":"15","verse":"16","text":"Skräck och fruktan ska falla över dem,"},{"book":"2 Moseboken","chapter":"15","verse":"17","text":"Du förde dem in och planterade dem"},{"book":"2 Moseboken","chapter":"15","verse":"18","text":"Herren ska regera från evighet till evighet!"},{"book":"2 Moseboken","chapter":"15","verse":"19","text":"För faraos hästar med hans vagnar och hans ryttare gick ut i havet, men Herren (Jahve) förde tillbaka vattnet över dem. Ändå kunde Israels söner (folk) gå mitt i havet på torr mark."},{"book":"2 Moseboken","chapter":"15","verse":"20","text":"Sedan tog profetissan Mirjam, Arons syster, en tamburin i sin hand och alla kvinnor följde henne med tamburiner och med dans,"},{"book":"2 Moseboken","chapter":"15","verse":"21","text":"medan Mirjam sjöng för dem:"},{"book":"2 Moseboken","chapter":"15","verse":"22","text":"Sedan ledde Mose folket vidare från Vasshavet. De gick ut i öknen Shor. De gick tre dagar in i öknen och fann inget vatten."},{"book":"2 Moseboken","chapter":"15","verse":"23","text":"Och när de kom till Mara kunde de inte dricka Maras vatten för det var bittert. Därför kallades platsen Mara (som betyder bitter)."},{"book":"2 Moseboken","chapter":"15","verse":"24","text":"Och folket knotade mot Mose och sade: Vad ska vi dricka?"},{"book":"2 Moseboken","chapter":"15","verse":"25","text":"Och han ropade till Herren (Jahve) och Herren (Jahve) visade honom ett träd, och han kastade det i vattnet och vattnet blev sött."},{"book":"2 Moseboken","chapter":"15","verse":"26","text":"Han [Mose] sade: ”Om du hör Herren (Jahve) din Guds (Elohim) röst och noga lyssnar till hans bud och håller alla hans stadgar, ska jag inte lägga på dig någon av de sjukdomar som jag lade på egyptierna, för jag är Herren din läkare (hebr. JHVH rafa).”"},{"book":"2 Moseboken","chapter":"15","verse":"27","text":"Sedan kom de till Elim där det fanns 12 vattenkällor och 70 palmträd. Där lägrade de sig vid vattnet."}]}
+{
+  "data": [
+    {
+      "book": "2 Moseboken",
+      "chapter": "15",
+      "verse": "1",
+      "text": "Då sjöng Mose och israeliterna denna sång till Herren, de sjöng: Jag vill sjunga till Herren, för han har vunnit en överväldigande seger. Häst och ryttare störtade (slungade) han ner i havet."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "15",
+      "verse": "2",
+      "text": "Herren (Jah, kortformen av Jahveh, betecknar att han alltid har existerat) är min styrka (starkhet) och min lovsång, han blev min frälsning (räddning). Han är min Gud (El) och jag vill prisa honom, min faders Gud (Elohim) och jag vill upphöja honom."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "15",
+      "verse": "3",
+      "text": "Herren (Jahveh) är en stridsman, Herren (Jahveh, Jag Är och har alltid existerat) är hans namn."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "15",
+      "verse": "4",
+      "text": "Faraos vagnar och hans armé har han kastat i havet; hans högsta befälhavare dränktes också i Vasshavet (hebr. jam sof) [Röda havet]."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "15",
+      "verse": "5",
+      "text": "Djupen har täckt dem, de sjönk till botten som stenar."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "15",
+      "verse": "6",
+      "text": "Din högra hand, Herre (Jahveh), var majestätisk i kraft (helt överlägsen allt annat). Din högra hand, Herre (Jahveh), krossade fienden."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "15",
+      "verse": "7",
+      "text": "I din stora härlighet (upphöjdhet, majestät) slog du ner dem som reste sig upp mot dig. Du släppte lös din förtärande eld (vrede) som förtärde dem som halm. [Samma verb ”släpp lös” användes genomgående i kravet mot farao att ”släppa” israeliterna fria. Ironiskt nog släpps nu Guds eld lös över honom själv då han vägrade lyda Gud.]"
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "15",
+      "verse": "8",
+      "text": "En fnysning från din näsa [östanvinden som blåste under natten, se 2 Mos 14:21] dämde upp vattnen (staplade upp dem). det böljande (forsande vattnet) reste sig som en mur, vattenströmmarna stelnade i havets djup."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "15",
+      "verse": "9",
+      "text": "Fienden sa: ”Jag ska jaga, jag ska hinna i kapp, jag ska fördela bytet, min vilja ska ske med dem, jag ska dra mitt svärd, min hand ska utrota dem.”"
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "15",
+      "verse": "10",
+      "text": "men du [Herre] blåste med din vind (andades), och havet övertäckte dem. De sjönk (virvlade ner) som bly i de väldiga vattnen."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "15",
+      "verse": "11",
+      "text": "Vem bland gudarna [alla avgudar som fanns i Egypten] liknar dig, Herre (Jahveh)? Vem är som du – majestätisk i helighet (helt fullkomlig, totalt avskild från allt orent) [motsatsen till all synd], värdig förundran (respekt, vördnad) under lovsång, du som gör under (förunderliga ting, mirakler)?"
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "15",
+      "verse": "12",
+      "text": "Du sträckte ut din högra hand och jorden slukade dem."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "15",
+      "verse": "13",
+      "text": "Du i din nåd (omsorgsfulla kärlek) ledde folket som du återlöst (hebr. gaal) [2 Mos 6:6]. Du har väglett dem i din styrka och i din heliga boning."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "15",
+      "verse": "14",
+      "text": "När folken hör bävar de. Ångest har tagit sitt grepp om Filistéens inbyggare."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "15",
+      "verse": "15",
+      "text": "Edoms ledare är skräckslagna. Ångest har gripit Moabs mäktiga män. Alla Kanaans invånare smälter bort. [Ordet för att smälta betecknar en förändring som inte går att stå emot. Människorna skakar av skräck och kan inte göra någonting åt situationen.]"
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "15",
+      "verse": "16",
+      "text": "Skräck och fruktan ska falla över dem, genom din arms storhet ska de bli förstenade (bli stilla som stenar), till dess ditt folk har passerat, Herre (Jahveh), till dess folket som du friköpt passerat förbi."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "15",
+      "verse": "17",
+      "text": "Du förde dem in och planterade dem på bergen av ditt arv, platsen, Herre (Jahveh), som du har gjort för dig själv att bo på, det heliga (templet), Herre (Adonai), som dina händer har förberett."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "15",
+      "verse": "18",
+      "text": "Herren ska regera från evighet till evighet!"
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "15",
+      "verse": "19",
+      "text": "För faraos hästar med hans vagnar och hans ryttare gick ut i havet, men Herren (Jahve) förde tillbaka vattnet över dem. Ändå kunde Israels söner (folk) gå mitt i havet på torr mark."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "15",
+      "verse": "20",
+      "text": "Sedan tog profetissan Mirjam, Arons syster, en tamburin i sin hand och alla kvinnor följde henne med tamburiner och med dans,"
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "15",
+      "verse": "21",
+      "text": "medan Mirjam sjöng för dem: Sjung till Herren (Jahveh), för högt är han upphöjd! Hästen och dess ryttare har han kastat i havet!"
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "15",
+      "verse": "22",
+      "text": "Sedan ledde Mose folket vidare från Vasshavet. De gick ut i öknen Shor. De gick tre dagar in i öknen och fann inget vatten."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "15",
+      "verse": "23",
+      "text": "Och när de kom till Mara kunde de inte dricka Maras vatten för det var bittert. Därför kallades platsen Mara (som betyder bitter)."
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "15",
+      "verse": "24",
+      "text": "Och folket knotade mot Mose och sade: Vad ska vi dricka?"
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "15",
+      "verse": "25",
+      "text": "Och han ropade till Herren (Jahveh) och Herren (Jahveh) visade honom ett träd, och han kastade det [hela, eller en del av det] i vattnet och vattnet blev sött. Där gjorde han en stadga och en förordning för dem och där prövade han dem. [Hebr. ets används om träd, men även grenar och bräder av trä, se Hag 1:8; Hes 37:16. Det kan vara någon mindre buske som Mose rycker upp och kastar i vattnet eller en gren från trädet.]"
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "15",
+      "verse": "26",
+      "text": "Han [Mose] sade: ”Om du hör Herren (Jahve) din Guds (Elohim) röst och noga lyssnar till hans bud och håller alla hans stadgar, ska jag inte lägga på dig någon av de sjukdomar som jag lade på egyptierna, för jag är Herren din läkare (hebr. JHVH rafa).”"
+    },
+    {
+      "book": "2 Moseboken",
+      "chapter": "15",
+      "verse": "27",
+      "text": "Sedan kom de till Elim där det fanns 12 vattenkällor och 70 palmträd. Där lägrade de sig vid vattnet."
+    }
+  ]
+}

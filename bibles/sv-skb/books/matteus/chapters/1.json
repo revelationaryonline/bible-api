@@ -1,1 +1,154 @@
-{"data":[{"book":"Matteus","chapter":"1","verse":"1","text":"Detta är släkttavlan [ordagrant ”boken om genealogin”] för Jesus den Smorde (Messias, Kristus),"},{"book":"Matteus","chapter":"1","verse":"2","text":"Abraham födde Isak,"},{"book":"Matteus","chapter":"1","verse":"3","text":"Juda födde Peres och Serach, vilkas mor var Tamar"},{"book":"Matteus","chapter":"1","verse":"4","text":"Ram födde Amminadav,"},{"book":"Matteus","chapter":"1","verse":"5","text":"Salmon födde Boas, vars mor var Rahab (gr. Rachav)"},{"book":"Matteus","chapter":"1","verse":"6","text":"Jishaj födde David, konungen."},{"book":"Matteus","chapter":"1","verse":"7","text":"Salomo födde Rehabeam,"},{"book":"Matteus","chapter":"1","verse":"8","text":"Asa födde Joshafat,"},{"book":"Matteus","chapter":"1","verse":"9","text":"Ussia födde Jotam,"},{"book":"Matteus","chapter":"1","verse":"10","text":"Hiskia födde Manasse,"},{"book":"Matteus","chapter":"1","verse":"11","text":"Josia födde Jojakin och hans bröder [här hoppas Johoiakim över, se 2 Kung 23:34],"},{"book":"Matteus","chapter":"1","verse":"12","text":"Efter exilen i Babylon:"},{"book":"Matteus","chapter":"1","verse":"13","text":"Serubbabel födde Avihud,"},{"book":"Matteus","chapter":"1","verse":"14","text":"Asor födde Sadok,"},{"book":"Matteus","chapter":"1","verse":"15","text":"Elihud födde Elasar,"},{"book":"Matteus","chapter":"1","verse":"16","text":"Jakob födde Josef, Marias [Mirjams] man;"},{"book":"Matteus","chapter":"1","verse":"17","text":"Antalet släktled är alltså:"},{"book":"Matteus","chapter":"1","verse":"18","text":"Så här gick det till när Jesus den Smorde (Messias, Kristus) föddes: När hans mor Maria var (hade blivit) trolovad med Josef [dvs. då de äktenskapliga löftena redan avgetts], visade det sig – innan de kommit tillsammans [som man och hustru] – att hon (ordagrant: livmodern) var havande genom (utifrån) den helige Ande."},{"book":"Matteus","chapter":"1","verse":"19","text":"Eftersom Josef, hennes blivande man, var rättfärdig och inte ville utsätta henne för vanära (inte låta henne bli offentligt förödmjukad och bli till allmänt åtlöje), beslöt han sig för att i hemlighet (i stillhet) skilja sig från henne. [Den judiska trolovningen var så bindande att det krävdes ett skilsmässobrev för att bryta den, se Matt 19:7.]"},{"book":"Matteus","chapter":"1","verse":"20","text":"Men medan han funderade (resonerade fram och tillbaka) över allt detta visade sig plötsligt en ängel för honom i en dröm och sade: ”Josef, Davids son, var inte rädd att ta till dig Maria [Mirjam], din hustru, för det som har blivit till (skapats, frambringats, alstrats) i henne är från (har sitt ursprung i) den helige Ande."},{"book":"Matteus","chapter":"1","verse":"21","text":"Hon ska ju föda en son, och du ska ge honom namnet Jesus, för han ska frälsa (rädda, befria) sitt folk från deras synder.”"},{"book":"Matteus","chapter":"1","verse":"22","text":"Allt detta hände för att det som var sagt av Herren genom profeten [Jesaja] skulle gå i uppfyllelse:"},{"book":"Matteus","chapter":"1","verse":"23","text":"”Se, jungfrun [den unga, ogifta kvinnan – som ännu inte varit med någon man]"},{"book":"Matteus","chapter":"1","verse":"24","text":"Josef vaknade upp ur sin sömn och gjorde som Herrens budbärare (ängel) hade befallt honom. Han tog sin hustru till sig,"},{"book":"Matteus","chapter":"1","verse":"25","text":"men rörde henne inte (de hade inte äktenskapligt samliv), förrän hon hade fött en son. Han gav honom namnet Jesus."}]}
+{
+  "data": [
+    {
+      "book": "Matteus",
+      "chapter": "1",
+      "verse": "1",
+      "text": "Detta är boken (skriften, berättelsen – gr. biblos) om släkttavlan (genealogin – gr. genesis) om Jesus den Smorde (Messias, Kristus), ättling (son, släkt) till David, ättling (son, släkt) till Abraham. [Matteus använder samma grekiska fras som den grekiska översättningen av Moseböckerna gör för det hebreiska ordet toledot. Detta ord används för att markera ett nytt stycke och en ”fortsatt historia” i Första Moseboken, se 1 Mos 2:4; 5:1; 6:9; 10:1; 11:10 osv. Ordet kopplar tydligt ihop detta evangelium med Guds stora frälsningsplan genom hela Bibeln. I den första versen summeras hur Jesus uppfyller hela Gamla testamentets förväntan på den Messias som skulle komma från kung Davids ätt. Släkttavlan utgår från Abraham, israeliternas fader, genom vilken alla folk på jorden ska välsignas. I den judiska kulturen står kvinnor högt. Det fanns kvinnliga domare och två böcker är uppkallade efter kvinnor. I släkttavlor är det dock ovanligt att deras namn står med, se 1 Mos 5; 11:10-32. Det är anmärkningsvärt att Matteus väljer att lyfta fram just följande fem kvinnor: - Tamar som förklädde sig till prostituerad och fick barn med sin svärfar Juda, se vers 3. - Rahab som gått till historien som ”skökan Rahab”, se vers 5. - Rut som förlorade sin man i unga år, se vers 5. - Batseba som blev lurad in i en otrohetsaffär med David, se vers 6. - Maria som fick utstå lidande och förtal eftersom få trodde på jungfrufödseln, se vers 16. Talet fem står för nåd. Vilken nåd att det i Jesu mänskliga gener fanns människor som råkat ut för de värsta situationer man kan tänka sig.] [Första delen har fjorton led mellan Abraham och David. Trettio namn nämns, inklusive upprepningar och Serach, se vers 3, som inte ingår i släktträdet. Av dessa är 27 män och tre kvinnor.]"
+    },
+    {
+      "book": "Matteus",
+      "chapter": "1",
+      "verse": "2",
+      "text": "Abraham födde Isak, Isak födde Jakob, Jakob födde Juda och hans bröder,"
+    },
+    {
+      "book": "Matteus",
+      "chapter": "1",
+      "verse": "3",
+      "text": "Juda födde Peres och Serach, vilkas mor var Tamar [sonhustru till Juda inblandad i en komplicerad relationshistoria, se 1 Mos 38], Peres födde Hesron, Hesron födde Ram,"
+    },
+    {
+      "book": "Matteus",
+      "chapter": "1",
+      "verse": "4",
+      "text": "Ram födde Amminadav, Amminadav födde Nachshon, Nachshon födde Salmon,"
+    },
+    {
+      "book": "Matteus",
+      "chapter": "1",
+      "verse": "5",
+      "text": "Salmon födde Boas, vars mor var Rahab (gr. Rachav) [en hedning som tog emot de israeliska spejarna i Jeriko, se Jos 2], Boas födde Oved, vars mor var Rut [moabitiskan som följde med sin svärmor Noomi tillbaka till Juda, se Rut 1-4], Oved födde Jishaj (Isai),"
+    },
+    {
+      "book": "Matteus",
+      "chapter": "1",
+      "verse": "6",
+      "text": "Jishaj födde David, konungen. [Både ”David” och ”konung” är i bestämd form i grekiskan vilket ger en extra betoning. Ordagrant: ”Daviden, konungen”.] [Andra delen har fjorton led mellan Salomo och Jojakin, David nämns igen men räknas inte som ett led. Trettio namn nämns, inklusive upprepningen av David och Batsebas man Uria som inte ingår i släktträdet. Av dessa är 29 män och en kvinna.] David födde Salomo, vars mor [Batseba; hebr. Batsheva] var Urias hustru [som David stal från honom, se 2 Sam 11],"
+    },
+    {
+      "book": "Matteus",
+      "chapter": "1",
+      "verse": "7",
+      "text": "Salomo födde Rehabeam (Rechavam), Rehabeam födde Avia (Avijam), Avia födde Asa,"
+    },
+    {
+      "book": "Matteus",
+      "chapter": "1",
+      "verse": "8",
+      "text": "Asa födde Joshafat, Joshafat födde Joram, Joram födde Ussia [här hoppar Matteus över tre led – Ahazia, Joash och Amazia, se 2 Kung 8:25; 12:1; 14:1],"
+    },
+    {
+      "book": "Matteus",
+      "chapter": "1",
+      "verse": "9",
+      "text": "Ussia födde Jotam, Jotam födde Achas, Achas födde Hiskia,"
+    },
+    {
+      "book": "Matteus",
+      "chapter": "1",
+      "verse": "10",
+      "text": "Hiskia födde Manasse, Manasse födde Amon, Amon födde Josia,"
+    },
+    {
+      "book": "Matteus",
+      "chapter": "1",
+      "verse": "11",
+      "text": "Josia födde Jojakin och hans bröder [här hoppas Johoiakim över, se 2 Kung 23:34], vid den tid då folket fördes bort till Babylon [2 Kung 24:14; 1 Krön 3:15-16]. [Tredje delen har fjorton led från Jojakin till Jesus. Jojakin räknas till både denna och föregående uppräkning. Tjugosju namn nämns, inklusive upprepningen av Jojakin. Av dessa är 26 män och en kvinna.]"
+    },
+    {
+      "book": "Matteus",
+      "chapter": "1",
+      "verse": "12",
+      "text": "Efter exilen i Babylon: Jojakin födde Shealtiel, Shealtiel födde Serubbabel,"
+    },
+    {
+      "book": "Matteus",
+      "chapter": "1",
+      "verse": "13",
+      "text": "Serubbabel födde Avihud, Avihud födde Eljakim, Eljakim födde Asor,"
+    },
+    {
+      "book": "Matteus",
+      "chapter": "1",
+      "verse": "14",
+      "text": "Asor födde Sadok, Sadok födde Akim, Akim födde Elihud,"
+    },
+    {
+      "book": "Matteus",
+      "chapter": "1",
+      "verse": "15",
+      "text": "Elihud födde Elasar, Elasar födde Mattan, Mattan födde Jakob,"
+    },
+    {
+      "book": "Matteus",
+      "chapter": "1",
+      "verse": "16",
+      "text": "Jakob födde Josef, Marias [Mirjams] man; genom henne föddes Jesus som kallas den Smorde (Messias, Kristus). [I grekiskan är Josef i bestämd form för att ge betoning. Maria är den grekiska formen av det arameiska namnet Mariam, från hebreiska Mirjam. Här finns en fin koppling till det första förbundet och Mose som fick undervisningen och budorden av Gud. Den kvinna som utväljs att föda Messias, som fullkomnar Torah, heter Mirjam – samma namn som Mose syster! Det var hon som vakade över att Mose blev räddad till livet, se 2 Mos 2:4-10.]"
+    },
+    {
+      "book": "Matteus",
+      "chapter": "1",
+      "verse": "17",
+      "text": "Antalet släktled är alltså: från Abraham till David fjorton led, från David till fångenskapen i Babylon fjorton led och från fångenskapen i Babylon till den Smorde (Messias, Kristus) fjorton led. [Den hebreiska kulturen som Matteus riktar sig till är förtjust i siffror och språklig symmetri. Att just talet fjorton har valts kan bero på att det är två gånger talet sju som står för fullhet. Fjorton är också det hebreiska numeriska värdet på Davids namn, se även Ps 27. I jämförelse med Lukas släkttavla, se Luk 3:23-37, finns skillnader. Matteus hoppar ibland över några led för att få en litterär symmetri med tre grupper med fjorton generationer i varje grupp. Det grekiska ordet gennao, som översatts ”födde”, kan också betyda ”förfader” och behöver inte betyda att sonen är i direkt nedstigande led. Andra skillnader är att Matteus startar med judarnas förfader Abraham och verkar relatera till Josefs släktskap med David. Lukas däremot går via Maria hela vägen tillbaka till Adam och Eva, för att betona att han är hela mänsklighetens Frälsare. I nästa kapitel nämns Josef vid namn, medan Maria refereras till som barnets mor. Kristus är en transkribering av en grekisk översättning av hebreiska Mashiach som betyder ”den Smorde”. I de profetiska böckerna väntade man på Herrens Smorde som skulle rädda Israels folk. Matteus vill visa att Jesus är denne smorde kung som har kommit!]"
+    },
+    {
+      "book": "Matteus",
+      "chapter": "1",
+      "verse": "18",
+      "text": "Så här gick det till när Jesus den Smorde (Messias, Kristus) föddes: När hans mor Maria var (hade blivit) trolovad med Josef [dvs. då de äktenskapliga löftena redan avgetts], visade det sig – innan de kommit tillsammans [som man och hustru] – att hon (ordagrant: livmodern) var havande genom (utifrån) den helige Ande."
+    },
+    {
+      "book": "Matteus",
+      "chapter": "1",
+      "verse": "19",
+      "text": "Eftersom Josef, hennes blivande man, var rättfärdig och inte ville utsätta henne för vanära (inte låta henne bli offentligt förödmjukad och bli till allmänt åtlöje), beslöt han sig för att i hemlighet (i stillhet) skilja sig från henne. [Den judiska trolovningen var så bindande att det krävdes ett skilsmässobrev för att bryta den, se Matt 19:7.]"
+    },
+    {
+      "book": "Matteus",
+      "chapter": "1",
+      "verse": "20",
+      "text": "Men medan han funderade (resonerade fram och tillbaka) över allt detta visade sig plötsligt en ängel för honom i en dröm och sade: ”Josef, Davids son, var inte rädd att ta till dig Maria [Mirjam], din hustru, för det som har blivit till (skapats, frambringats, alstrats) i henne är från (har sitt ursprung i) den helige Ande."
+    },
+    {
+      "book": "Matteus",
+      "chapter": "1",
+      "verse": "21",
+      "text": "Hon ska ju föda en son, och du ska ge honom namnet Jesus, för han ska frälsa (rädda, befria) sitt folk från deras synder.”"
+    },
+    {
+      "book": "Matteus",
+      "chapter": "1",
+      "verse": "22",
+      "text": "Allt detta hände för att det som var sagt av Herren genom profeten [Jesaja] skulle gå i uppfyllelse:"
+    },
+    {
+      "book": "Matteus",
+      "chapter": "1",
+      "verse": "23",
+      "text": "”Se, jungfrun [den unga, ogifta kvinnan – som ännu inte varit med någon man; gr. parthenos] ska bli havande (ordagrant: ’bära/ha i livmoder’) och föda (gr. tikto) en son, och de ska ge honom namnet Emmanuel.” [Jes 7:14] Vilket översatt [utifrån hebreiskans immanu el, se Jes 8:10] blir: ”Gud med oss” [Matt 28:20]. [Ordagrant är sista frasen: meth hemon ho Theos – Med oss Guden. Den som är Gud finns härefter hos oss. Grekiskans preposition meth indikerar även en förändring som sker som ett resultat av något. Matteus citerar från den grekiska översättningen Septuaginta där hebreiska ordet för ung kvinna (hebr. almah) är översatt med parthenos som betyder en jungfru som inte varit med någon man. Sammanhanget i Jesaja handlar om ett barn som skulle födas under kung Achas styre (735-715 f.Kr.) och innan pojken blivit mer än 2-3 år gammal skulle fienderna ha besegrats av Assyrien, se Jes 7:12, 16. I den hebreiska tankevärlden har profetior flera uppfyllelser. Inom judendomen tolkades denna profetia tidigt att den handlade om en framtida Messias.]"
+    },
+    {
+      "book": "Matteus",
+      "chapter": "1",
+      "verse": "24",
+      "text": "Josef vaknade upp ur sin sömn och gjorde som Herrens budbärare (ängel) hade befallt honom. Han tog sin hustru till sig,"
+    },
+    {
+      "book": "Matteus",
+      "chapter": "1",
+      "verse": "25",
+      "text": "men rörde henne inte (de hade inte äktenskapligt samliv), förrän hon hade fött en son. Han gav honom namnet Jesus."
+    }
+  ]
+}

@@ -1,1 +1,196 @@
-{"data":[{"book":"Ordspråksboken","chapter":"10","verse":"1","text":"Salomos ordspråk. [Det numeriska värdet av de hebreiska bokstäverna i ordet Salomo är totalt 375 – det exakta antalet verser i 10:1-22:16.]"},{"book":"Ordspråksboken","chapter":"10","verse":"2","text":"Välstånd (skatter, rikedom) som införskaffats på ett orättfärdigt sätt ger ingen behållning (nytta, gagn),"},{"book":"Ordspråksboken","chapter":"10","verse":"3","text":"Herren (Jahve) tillåter inte den rättfärdige att hungra,"},{"book":"Ordspråksboken","chapter":"10","verse":"4","text":"Den som arbetar med lata händer blir fattig,"},{"book":"Ordspråksboken","chapter":"10","verse":"5","text":"Den som samlar in [skörden] under sommaren är en vis son,"},{"book":"Ordspråksboken","chapter":"10","verse":"6","text":"Välsignelser (gåvor och goda ord från både människor och Gud) kommer över den rättfärdiges huvud,"},{"book":"Ordspråksboken","chapter":"10","verse":"7","text":"Den rättfärdiges minne välsignas (lovordas),"},{"book":"Ordspråksboken","chapter":"10","verse":"8","text":"Den som har ett vist hjärta tar emot (följer, accepterar) buden,"},{"book":"Ordspråksboken","chapter":"10","verse":"9","text":"Den som är rättfärdig vandrar säkert (tryggt),"},{"book":"Ordspråksboken","chapter":"10","verse":"10","text":"Den som blinkar med ögonen [har för vana att i hemlighet planera ondska] skapar sorg (smärta, sår),"},{"book":"Ordspråksboken","chapter":"10","verse":"11","text":"Den rättfärdiges mun (ord) är en källa till liv,"},{"book":"Ordspråksboken","chapter":"10","verse":"12","text":"Hat väcker (driver, eggar, rör upp) strider (tvister, ordstrider, tävlan, gräl),"},{"book":"Ordspråksboken","chapter":"10","verse":"13","text":"På läpparna (talet) hos den som har gott omdöme hittar man [Guds] kunskap (insikt, förståelse, medömkan),"},{"book":"Ordspråksboken","chapter":"10","verse":"14","text":"Visa människor bevarar (samlar, gömmer, bygger upp ett förråd av) kunskap [i sitt hjärta och sinne för framtiden],"},{"book":"Ordspråksboken","chapter":"10","verse":"15","text":"Den rike mannens förmögenhet (rikedom, överflöd) är som en befäst stad [hans säkerhet och trygghet],"},{"book":"Ordspråksboken","chapter":"10","verse":"16","text":"Den rättfärdiges inkomst leder till liv,"},{"book":"Ordspråksboken","chapter":"10","verse":"17","text":"Den som tar emot tillrättavisning befinner sig på livets stig (välkänd, upptrampade gångväg),"},{"book":"Ordspråksboken","chapter":"10","verse":"18","text":"Den som gömmer hat inom sig sprider lögner,"},{"book":"Ordspråksboken","chapter":"10","verse":"19","text":"Där det talas många ord [i upprört tillstånd], där saknas inte synd,"},{"book":"Ordspråksboken","chapter":"10","verse":"20","text":"Den rättfärdiges tunga är som utvalt silver,"},{"book":"Ordspråksboken","chapter":"10","verse":"21","text":"Läpparna från en rättfärdig matar (vägleder, lotsar) många,"},{"book":"Ordspråksboken","chapter":"10","verse":"22","text":"Herrens (Jahves) välsignelse gör en människa rik,"},{"book":"Ordspråksboken","chapter":"10","verse":"23","text":"En [oresonlig] dåre ser det som en sport att tänka ut (planera, uppfinna) ondska,"},{"book":"Ordspråksboken","chapter":"10","verse":"24","text":"Den ogudaktige drabbas av det han fruktar. [Konsekvenserna av hans handlande kommer till sist ifatt honom.]"},{"book":"Ordspråksboken","chapter":"10","verse":"25","text":"När stormvinden passerar så sveps de ogudaktiga bort,"},{"book":"Ordspråksboken","chapter":"10","verse":"26","text":"Som vinäger för tänderna och rök för ögonen,"},{"book":"Ordspråksboken","chapter":"10","verse":"27","text":"Att frukta (respektera, vörda) Herren (Jahve) förlänger livet (ger fler dagar),"},{"book":"Ordspråksboken","chapter":"10","verse":"28","text":"Den rättfärdiges hopp [om en evighet med Gud och om Guds rättvisa dom] ger glädje,"},{"book":"Ordspråksboken","chapter":"10","verse":"29","text":"Herrens (Jahves) vägar är ett värn (en tillflykt, skydd, försvar, en säker fästning) för de ärliga (de som har integritet),"},{"book":"Ordspråksboken","chapter":"10","verse":"30","text":"Den rättfärdige ska aldrig vackla [när världen skakar av oro],"},{"book":"Ordspråksboken","chapter":"10","verse":"31","text":"Den rättfärdiges mun [som är i harmoni med Guds ord] bär vishet som frukt,"},{"book":"Ordspråksboken","chapter":"10","verse":"32","text":"Den rättfärdiges läppar vet [och säger därför] vad som är behagligt (vackert),"}]}
+{
+  "data": [
+    {
+      "book": "Ordspråksboken",
+      "chapter": "10",
+      "verse": "1",
+      "text": "Salomos ordspråk. [Det numeriska värdet av de hebreiska bokstäverna i ordet Salomo är totalt 375 (300 + 30 + 40 + 5) – det exakta antalet verser i Ords 10:1-22:16. Sektionen består av korta ordspråk som handlar om rätt och fel, ibland grupperade, men oftast fristående.] En vis son (barn) är en glädje för sin far, men en självsäker dåre till son (barn) är en sorg (bedrövelse, smärta, tyngd) för sin mor."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "10",
+      "verse": "2",
+      "text": "Välstånd (skatter, rikedom) som införskaffats på ett orättfärdigt sätt ger ingen behållning (nytta, gagn), men rättfärdighet (i både andliga och moraliska frågor) räddar från undergång (död)."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "10",
+      "verse": "3",
+      "text": "Herren (Jahveh) tillåter inte den rättfärdige att hungra, men han tar undan (driver bort) aptiten hos syndaren (den skyldige, kriminelle)."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "10",
+      "verse": "4",
+      "text": "Den som arbetar med lata händer blir fattig, men de flitigas (arbetsammas) händer producerar välgång (rikedom)."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "10",
+      "verse": "5",
+      "text": "Den som samlar in [skörden] under sommaren är en vis son, men den som sover under skördetiden är en skam [för sin far och för sig själv]."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "10",
+      "verse": "6",
+      "text": "Välsignelser (gåvor och goda ord från både människor och Gud) kommer över den rättfärdiges huvud, men orden från en syndare gömmer (är en täckmantel för) våld (ondska)."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "10",
+      "verse": "7",
+      "text": "Den rättfärdiges minne välsignas (lovordas), medan syndarens namn (rykte) förmultnar bort."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "10",
+      "verse": "8",
+      "text": "Den som har ett vist hjärta tar emot (följer, accepterar) buden, men en pladdrande dåre faller framstupa (går under)."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "10",
+      "verse": "9",
+      "text": "Den som är rättfärdig vandrar säkert (tryggt), men den som viker av från [den rätta] vägen (medvetet går omvägar, förvränger sanningen, handlar omoraliskt och ohederligt) kommer att bli avslöjad."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "10",
+      "verse": "10",
+      "text": "Den som blinkar med ögonen [har för vana att i hemlighet planera ondska] skapar sorg (smärta, sår), och den som talar dårskap (utan förstånd) kommer att falla."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "10",
+      "verse": "11",
+      "text": "Den rättfärdiges mun (ord) är en källa till liv, men en syndares tal är en täckmantel för ondska (våld)."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "10",
+      "verse": "12",
+      "text": "Hat väcker (driver, eggar, rör upp) strider (tvister, ordstrider, tävlan, gräl), men kärlek täcker (skyler, gömmer) [genom förlåtelse och överseende] alla synder."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "10",
+      "verse": "13",
+      "text": "På läpparna (talet) hos den som har gott omdöme hittar man [Guds] kunskap (insikt, förståelse, medömkan), men tillrättavisning (spö straff) väntar den (ordagrant: den rygg) som saknar kunskap (insikt, förståelse, medömkan)."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "10",
+      "verse": "14",
+      "text": "De visa bevarar (samlar, gömmer, bygger upp ett förråd av) kunskap [i sitt hjärta och sinne för framtiden], men dårens mun (tal) är nära (överhängande risk för) olycka (förstörelse, att något raseras). [De visa bevarar sin vishet och säger väl valda ord vid rätt tillfälle. En dåre däremot kastar ur sig sin dårskap vilket gör att han själv och de runt honom ständigt är nära katastrofala konsekvenser.]"
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "10",
+      "verse": "15",
+      "text": "Den rike mannens förmögenhet (rikedom, överflöd) är som en befäst stad [hans säkerhet och trygghet], men de fattiga faller (raseras) på grund av sin brist [på materiella tillgångar]."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "10",
+      "verse": "16",
+      "text": "Den rättfärdiges inkomst leder till liv, men syndarens (den skyldiges, kriminelles) vinst leder bara till mer synd."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "10",
+      "verse": "17",
+      "text": "Den som tar emot tillrättavisning befinner sig på livets stig (välkända, upptrampade gångväg), men den som nonchalerar tillrättavisning går vilse."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "10",
+      "verse": "18",
+      "text": "Den som gömmer hat inom sig sprider lögner, den som sprider förtal är en dåre. [Sista delen, vers 19-32, är symmetriskt strukturerad i en poetisk form som kallas kiasm. Detta innebär att temat i första stycket hör ihop med temat i den sista, temat i andra stycket med näst sista stycket osv. Texten är inskjuten för att åskådliggöra det mönstret nedan.]"
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "10",
+      "verse": "19",
+      "text": "Där det talas många ord [i upprört tillstånd], där saknas inte synd, men den som håller tillbaka (lägger band på, tyglar) sina läppar är vis."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "10",
+      "verse": "20",
+      "text": "Den rättfärdiges tunga är som utvalt silver, men en ond (ogudaktig) människas förstånd (inre människa, hjärta, tankar) är utan värde."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "10",
+      "verse": "21",
+      "text": "Läpparna från en rättfärdig vallar (vägleder, lotsar) många [till goda betesmarker och rent vatten], men dårarna dör i brist på förstånd (vishet, medömkan)."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "10",
+      "verse": "22",
+      "text": "Herrens (Jahvehs) välsignelse gör en människa rik, och det utan sorg (smärta, hårt arbete, lidande)."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "10",
+      "verse": "23",
+      "text": "En [oresonlig] dåre ser det som en sport att tänka ut (planera, uppfinna) ondska, men den förståndige finner nöje i [gläder sig i stället åt och uppskattar] vishet."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "10",
+      "verse": "24",
+      "text": "Den ogudaktige drabbas av det han fruktar. [Konsekvenserna av hans handlande kommer till sist ifatt honom.] Däremot blir de rättfärdigas önskan uppfylld (de får vad de längtar efter)."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "10",
+      "verse": "25",
+      "text": "När stormvinden passerar så sveps de ogudaktiga bort, men de rättfärdiga har en grund som består i evighet."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "10",
+      "verse": "26",
+      "text": "Som vinäger för tänderna och rök för ögonen, så är en lat person för en arbetsgivare som har sänt ut honom."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "10",
+      "verse": "27",
+      "text": "Att frukta (respektera, vörda) Herren (Jahveh) förlänger livet (ger fler dagar), men de ogudaktigas år (livslängd) förkortas."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "10",
+      "verse": "28",
+      "text": "Den rättfärdiges hopp [om en evighet med Gud och om Guds rättvisa dom] ger glädje, däremot uppfylls inte de ogudaktigas förväntan."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "10",
+      "verse": "29",
+      "text": "Herrens (Jahvehs) vägar är ett värn (en tillflykt, skydd, försvar, en säker fästning) för de ärliga (de som har integritet), men är undergång (olycka, skräck) för syndarna (för dem som har som livsstil att planera och utföra ondska)."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "10",
+      "verse": "30",
+      "text": "Den rättfärdige ska aldrig vackla [när världen skakar av oro], men de ogudaktiga ska inte bo kvar i landet."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "10",
+      "verse": "31",
+      "text": "Den rättfärdiges mun [som är i harmoni med Guds ord] bär vishet som frukt, men en tunga med förvridet tal huggs ner [som ett fruktlöst, dött, ruttet träd]."
+    },
+    {
+      "book": "Ordspråksboken",
+      "chapter": "10",
+      "verse": "32",
+      "text": "Den rättfärdiges läppar vet [och säger därför] vad som är behagligt (vackert), men de orättfärdigas mun känner bara till [och talar därför bara] det som är förvridet (omoraliskt)."
+    }
+  ]
+}

@@ -1,1 +1,112 @@
-{"data":[{"book":"Rut","chapter":"3","verse":"1","text":"Noomi, Ruts svärmoder, sade till henne: ”Min dotter, det är mitt ansvar att se till att du kan få ro [ett tryggt hem och en god make], så det går väl för dig (så du får ett gott liv)."},{"book":"Rut","chapter":"3","verse":"2","text":"Boas är vår släkting, du har varit med hans kvinnliga arbetare. Ikväll kommer han att tröska korn på tröskplatsen."},{"book":"Rut","chapter":"3","verse":"3","text":"Tvätta dig, smörj dig [med välluktande olja] och klä dig [lägg bort dina sorgekläder]."},{"book":"Rut","chapter":"3","verse":"4","text":"Se var han går och lägger sig för att sova. När han ligger ner, gå och lyft manteln av hans fötter och lägg dig där. Han kommer sedan att säga vad du ska göra.”"},{"book":"Rut","chapter":"3","verse":"5","text":"Rut svarade Noomi: ”Allt vad du säger ska jag göra.”"},{"book":"Rut","chapter":"3","verse":"6","text":"Rut gick ner till tröskplatsen och gjorde allt som hennes svärmor hade instruerat henne."},{"book":"Rut","chapter":"3","verse":"7","text":"När Boas hade ätit och var mätt och belåten lade han sig för att sova längst bort vid sädeshögen [på andra sidan från Ruts perspektiv]. [Även hans arbetare sov där vid tröskplatsen.] Då smög hon fram och avtäckte hans fötter och lade sig där."},{"book":"Rut","chapter":"3","verse":"8","text":"Mitt i natten skakade (ryckte) han till [det var kanske kyligt] och rörde på sig. Då såg han en kvinna som låg vid hans fötter!"},{"book":"Rut","chapter":"3","verse":"9","text":"Han frågade: ”Vem är du?”"},{"book":"Rut","chapter":"3","verse":"10","text":"Då sade Boas: ”Välsignad är du av Herren (Jahve), min dotter! Nu har du visat ännu större nåd (trohet) än förut genom att inte springa efter unga män, vare sig fattiga eller rika. [För tredje gången förekommer det hebreiska nyckelordet chesed, se Rut 1:8; 2:20. Här framkommer ännu en nyans där nåden är frimodig och vågar ta initiativ till en fördjupad kärlek.]"},{"book":"Rut","chapter":"3","verse":"11","text":"Så var nu inte rädd, min dotter. Allt vad du säger vill jag göra för dig. [Nu är rollerna omvända, Boas blir Ruts tjänare! Här finns också en bild på hur Jesus blir vår tjänare, se Mark 10:45; Joh 13:4-5; Fil 2:5-8.] Alla i stadsporten [där de äldste möttes, och beslut togs] vet att du är en ärbar (värdig, stark, modig, inflytelserik) kvinna. [Samma ord för någon som ärbar och stark tillskrivs både Boas, Rut och deras framtida släkt, se Rut 2:1; 4:11.]"},{"book":"Rut","chapter":"3","verse":"12","text":"Det är sant att jag är din återlösare. Men det finns [ju] en annan återlösare som är närmare [släkt med din avlidne man och svärfar Elimelek] än jag."},{"book":"Rut","chapter":"3","verse":"13","text":"Var kvar här i natt. [På nytt är författaren noga med ord så att det inte kan missuppfattas. Istället för ”ligg här” väljs ordet ”var här”, samma ord som används när Rut säger att hon vill vara varhelst Noomi är, jämför Rut 1:16; 4:13.] Imorgon på morgonen [på en gång] ska jag ge honom möjlighet att få agera som en återlösare [och gifta sig med dig]. Om han vill det så får han göra det, men om han inte vill så lovar jag så sant Herren (Jahve) lever att göra det. Var kvar här tills det blir morgon. [Det är inte tryggt för dig att bege dig iväg nu mitt i natten.]”"},{"book":"Rut","chapter":"3","verse":"14","text":"Så Rut låg kvar vid hans fötter ända till tidig morgon. Hon steg upp tidigt före gryningen, innan folk kunde känna igen varandra, för Boas hade sagt till henne: ”Låt det inte bli känt att det kom en kvinna hit till tröskplatsen.” [Boas är mån om att behålla Ruts anseende som en ärbar kvinna, så ingen skulle tro att hon var en prostituerad som varit där.]"},{"book":"Rut","chapter":"3","verse":"15","text":"Han sade: ”Ge mig sjalen du har på dig, sträck ut den.”"},{"book":"Rut","chapter":"3","verse":"16","text":"När Rut kom tillbaka till sin svärmor frågade Noomi: ”Vem är du, min dotter?” [Frågan bottnar i Ruts identitet, samma fras ”vem är du” finns i vers 6 där Rut kallar sig Boas tjänarinna. Noomi undrar om planen fungerat, är hon fortfarande moabitiskan Rut eller Boas framtida fru?] Då berättade hon allt vad mannen hade gjort mot henne."},{"book":"Rut","chapter":"3","verse":"17","text":"Hon sade också: ”Han gav mig också dessa sex mått korn, för han sade: ’Gå inte tomhänt hem till din svärmor.’ ”"},{"book":"Rut","chapter":"3","verse":"18","text":"Noomi svarade: ”Sitt här [var lugn, vänta här hos mig] min dotter, tills du ser hur allting går, för den mannen kommer inte unna sig någon vila innan han ordnat med detta idag.”"}]}
+{
+  "data": [
+    {
+      "book": "Rut",
+      "chapter": "3",
+      "verse": "1",
+      "text": "Noomi, Ruts svärmoder, sade till henne: ”Min dotter, det är mitt ansvar att se till att du kan få ro [ett tryggt hem och en god make], så det går väl för dig (så du får ett gott liv)."
+    },
+    {
+      "book": "Rut",
+      "chapter": "3",
+      "verse": "2",
+      "text": "Boas är vår släkting, du har varit med hans kvinnliga arbetare. Ikväll kommer han att tröska korn på tröskplatsen."
+    },
+    {
+      "book": "Rut",
+      "chapter": "3",
+      "verse": "3",
+      "text": "Tvätta dig, smörj dig [med välluktande olja] och klä dig [lägg bort dina sorgekläder]. [Här används det generella ordet för kläder (hebr. simlah). Samma ordningsföljd med att ”tvätta, smörja och klä sig” finns i 2 Sam 12:20 där David avbryter en tid av sorg. Det finns även en parallell med Guds handlande med Jerusalem, där Gud breder ut sin mantel, tvättar, smörjer och klär sin blivande brud, se Hes 16:8-14. Noomi uppmanar nu troligtvis Rut att byta ut sina sorgekläder till vanliga kläder, och troligtvis också att ta på sin finaste klänning. Vi vet inte hur länge Rut bar sorgekläder, men i exemplet med Tamar rör det sig om många år, se 1 Mos 38:14, 19. Om så är fallet hade hon sorgekläder när hon arbetade på fältet. Det kan förklara varför Boaz inte gjort någon ansats att uppfylla sin roll som återlösare, utan väntar på att hon ska vara redo.] Gå sedan ner till tröskplatsen [utanför Betlehem], men [var försiktig] låt honom inte se dig innan han avslutat sin måltid (ätit och druckit)."
+    },
+    {
+      "book": "Rut",
+      "chapter": "3",
+      "verse": "4",
+      "text": "Se var han går och lägger sig för att sova. När han ligger ner, gå och lyft manteln av hans fötter och lägg dig där. Han kommer sedan att säga vad du ska göra.”"
+    },
+    {
+      "book": "Rut",
+      "chapter": "3",
+      "verse": "5",
+      "text": "Rut svarade Noomi: ”Allt vad du säger ska jag göra.”"
+    },
+    {
+      "book": "Rut",
+      "chapter": "3",
+      "verse": "6",
+      "text": "Rut gick ner till tröskplatsen och gjorde allt som hennes svärmor hade instruerat henne."
+    },
+    {
+      "book": "Rut",
+      "chapter": "3",
+      "verse": "7",
+      "text": "När Boas hade ätit och var mätt och belåten lade han sig för att sova längst bort vid sädeshögen [på andra sidan från Ruts perspektiv]. [Även hans arbetare sov där vid tröskplatsen.] Då smög hon fram och avtäckte hans fötter och lade sig där."
+    },
+    {
+      "book": "Rut",
+      "chapter": "3",
+      "verse": "8",
+      "text": "Mitt i natten skakade (ryckte) han till [det var kanske kyligt] och rörde på sig. Då såg han en kvinna som låg vid hans fötter!"
+    },
+    {
+      "book": "Rut",
+      "chapter": "3",
+      "verse": "9",
+      "text": "Han frågade: ”Vem är du?” Hon svarade: ”Jag är Rut, din tjänarinna. Bred ut din mantelflik (vinge – hebr. kanaf) över din tjänarinna [gift dig med mig, se Hes 16:8], för du är min återlösare.” [Här använder Rut termen amah för tjänarinna, ordet har en högre rang än shifchah, det ord som Rut använder om sig själv i Rut 2:13. När Noomi nu skickar henne till Boaz för att fråga om giftermål är hon medveten om Boaz ansvar som en nära släkting till hennes avlidna man. Hon utmanar honom att fullfölja sin skyldighet. Som alla judar bar Boaz tofsar i de fyra hörnen på sin yttermantel. Tofsarna (hebr. tsitsit) var alltid synliga för att påminna om de 613 buden i Torah, se 4 Mos 15:38-39. Hörntofsen är också en symbol på makt och auktoritet, se 1 Sam 24:1-7; Matt 9:20-21. Samma ord för mantelflik (hebr. kanaf) används i Mal 4:2 där det står att ”rättfärdighetens sol”, som syftar på den kommande Messias, ”ska gå upp med läkedom under sina vingar”. Denna vers är en av bokens dramatiska höjdpunkter. Kommer Boaz att bejaka eller avfärda henne? Nästa vers är lugnande, välsignelsen som han ber liknar den Noomi bad över honom tidigare, se Rut 2:20.]"
+    },
+    {
+      "book": "Rut",
+      "chapter": "3",
+      "verse": "10",
+      "text": "Då sade Boas: ”Välsignad är du av Herren (Jahve), min dotter! Nu har du visat ännu större nåd (trohet) än förut genom att inte springa efter unga män, vare sig fattiga eller rika. [För tredje gången förekommer det hebreiska nyckelordet chesed, se Rut 1:8; 2:20. Här framkommer ännu en nyans där nåden är frimodig och vågar ta initiativ till en fördjupad kärlek.]"
+    },
+    {
+      "book": "Rut",
+      "chapter": "3",
+      "verse": "11",
+      "text": "Så var nu inte rädd, min dotter. Allt vad du säger vill jag göra för dig. [Nu är rollerna omvända, Boas blir Ruts tjänare! Här finns också en bild på hur Jesus blir vår tjänare, se Mark 10:45; Joh 13:4-5; Fil 2:5-8.] Alla i stadsporten [där de äldste möttes, och beslut togs] vet att du är en ärbar (värdig, stark, modig, inflytelserik) kvinna. [Samma ord för någon som ärbar och stark tillskrivs både Boas, Rut och deras framtida släkt, se Rut 2:1; 4:11.]"
+    },
+    {
+      "book": "Rut",
+      "chapter": "3",
+      "verse": "12",
+      "text": "Det är sant att jag är din återlösare. Men det finns [ju] en annan återlösare som är närmare [släkt med din avlidne man och svärfar Elimelek] än jag."
+    },
+    {
+      "book": "Rut",
+      "chapter": "3",
+      "verse": "13",
+      "text": "Var kvar här i natt. [På nytt är författaren noga med ord så att det inte kan missuppfattas. Istället för ”ligg här” väljs ordet ”var här”, samma ord som används när Rut säger att hon vill vara varhelst Noomi är, jämför Rut 1:16; 4:13.] Imorgon på morgonen [på en gång] ska jag ge honom möjlighet att få agera som en återlösare [och gifta sig med dig]. Om han vill det så får han göra det, men om han inte vill så lovar jag så sant Herren (Jahve) lever att göra det. Var kvar här tills det blir morgon. [Det är inte tryggt för dig att bege dig iväg nu mitt i natten.]”"
+    },
+    {
+      "book": "Rut",
+      "chapter": "3",
+      "verse": "14",
+      "text": "Så Rut låg kvar vid hans fötter ända till tidig morgon. Hon steg upp tidigt före gryningen, innan folk kunde känna igen varandra, för Boas hade sagt till henne: ”Låt det inte bli känt att det kom en kvinna hit till tröskplatsen.” [Boas är mån om att behålla Ruts anseende som en ärbar kvinna, så ingen skulle tro att hon var en prostituerad som varit där.]"
+    },
+    {
+      "book": "Rut",
+      "chapter": "3",
+      "verse": "15",
+      "text": "Han sa: ”Ge mig sjalen du har på dig, sträck ut den.” Så hon höll fram den. Han mätte upp sex mått korn i den och lade den på henne [på ryggen eller huvudet och sände iväg henne]. Sedan gick han in i staden. [Vissa senare manuskript har ”hon gick” istället för ”han gick”, men den hebreiska texten indikerar att efter att Rut har gått, beger sig Boaz in till staden på en gång. Det förstärker hur han tar tag i situationen på en gång och vill lösa den. Måttenheten anges inte, men i Rut 2:17 var enheten en efa. Om det är samma mått här motsvarar sex efa-mått totalt omkring 100 kg, vilket är för mycket för att bära hem. Nästa mått i storleksordning är sea-måttet, men det är tveksamt om tyget kunde hålla 30 kg som sex sea-mått motsvarar. Ett mer rimligt mått är i så fall en omer, som är en tiondels efa. Sex sådana mått motsvarar 8-13 kg. Eftersom måttet inte specificeras kanske sex mått syftar på ett mått med båda händerna kupade, eller av något mindre kärl som fanns där för att skopa upp kornet. Läsaren får inte reda på varför Boaz ger henne denna gåva. Det är först om några verser i Ruts konversation med sin svärmor Noomi som vi får fler detaljer från Boaz och Ruts konversation.]"
+    },
+    {
+      "book": "Rut",
+      "chapter": "3",
+      "verse": "16",
+      "text": "När Rut kom tillbaka till sin svärmor frågade Noomi: ”Vem är du, min dotter?” [Frågan bottnar i Ruts identitet, samma fras ”vem är du” finns i vers 6 där Rut kallar sig Boas tjänarinna. Noomi undrar om planen fungerat, är hon fortfarande moabitiskan Rut eller Boas framtida fru?] Då berättade hon allt vad mannen hade gjort mot henne."
+    },
+    {
+      "book": "Rut",
+      "chapter": "3",
+      "verse": "17",
+      "text": "Hon sade också: ”Han gav mig också dessa sex mått korn, för han sade: ’Gå inte tomhänt hem till din svärmor.’ ”"
+    },
+    {
+      "book": "Rut",
+      "chapter": "3",
+      "verse": "18",
+      "text": "Noomi svarade: ”Sitt här [var lugn, vänta här hos mig] min dotter, tills du ser hur allting går, för den mannen kommer inte unna sig någon vila innan han ordnat med detta idag.”"
+    }
+  ]
+}
