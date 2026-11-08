@@ -1,1 +1,178 @@
-{"data":[{"book":"Psaltaren","chapter":"102","verse":"1","text":"En bön av en betryckt (ansatt), när han är överväldigad och utgjuter sin klagan (fundering, i sitt lågmälda grubblande) inför Herren (Jahve)."},{"book":"Psaltaren","chapter":"102","verse":"2","text":"Herre (Jahve) hör min bön,"},{"book":"Psaltaren","chapter":"102","verse":"3","text":"Göm inte ditt ansikte för mig"},{"book":"Psaltaren","chapter":"102","verse":"4","text":"Mina dagar försvinner som rök,"},{"book":"Psaltaren","chapter":"102","verse":"5","text":"Mitt hjärta är slaget (attackerat, bränt) och förvissnat som gräs [Hos 9:16],"},{"book":"Psaltaren","chapter":"102","verse":"6","text":"På grund av min suckande röst"},{"book":"Psaltaren","chapter":"102","verse":"7","text":"Jag är som en pelikan i öknen,"},{"book":"Psaltaren","chapter":"102","verse":"8","text":"Jag tittar och har blivit"},{"book":"Psaltaren","chapter":"102","verse":"9","text":"Mina fiender hånar mig hela dagen,"},{"book":"Psaltaren","chapter":"102","verse":"10","text":"Jag har ätit aska som bröd,"},{"book":"Psaltaren","chapter":"102","verse":"11","text":"På grund av din harm och din vrede,"},{"book":"Psaltaren","chapter":"102","verse":"12","text":"är mina dagar som en lång skugga"},{"book":"Psaltaren","chapter":"102","verse":"13","text":"Men du Herre (Jahve) sitter på tronen för evigt,"},{"book":"Psaltaren","chapter":"102","verse":"14","text":"Du kommer att uppstå och ha nåd och förbarmande över Sion [tempelberget i Jerusalem],"},{"book":"Psaltaren","chapter":"102","verse":"15","text":"Dina tjänare har sitt behag i hennes stenar"},{"book":"Psaltaren","chapter":"102","verse":"16","text":"Nationerna (länderna, hedningarna) fruktar (vördar) Herrens (Jahves) namn,"},{"book":"Psaltaren","chapter":"102","verse":"17","text":"När Herren (Jahve) har byggt upp Sion [tempelberget i Jerusalem],"},{"book":"Psaltaren","chapter":"102","verse":"18","text":"när han har sett de utblottades böner,"},{"book":"Psaltaren","chapter":"102","verse":"19","text":"Detta ska skrivas för kommande generationer,"},{"book":"Psaltaren","chapter":"102","verse":"20","text":"För han har sett ner från sin helgedom i höjden,"},{"book":"Psaltaren","chapter":"102","verse":"21","text":"för att höra jämmern från de fångna,"},{"book":"Psaltaren","chapter":"102","verse":"22","text":"för att människor ska berätta om Herrens (Jahves) namn i Sion [tempelberget i Jerusalem],"},{"book":"Psaltaren","chapter":"102","verse":"23","text":"När folken samlas,"},{"book":"Psaltaren","chapter":"102","verse":"24","text":"Han försvagar min styrka på vägen,"},{"book":"Psaltaren","chapter":"102","verse":"25","text":"Jag säger: Min Gud (El) ta inte bort mig mitt i mina dagar (mitt i livet),"},{"book":"Psaltaren","chapter":"102","verse":"26","text":"En gång lade du jordens grund,"},{"book":"Psaltaren","chapter":"102","verse":"27","text":"De ska förgås,"},{"book":"Psaltaren","chapter":"102","verse":"28","text":"Du är densamme (du förändras inte),"},{"book":"Psaltaren","chapter":"102","verse":"29","text":"Dina tjänares barn ska bo här,"}]}
+{
+  "data": [
+    {
+      "book": "Psaltaren",
+      "chapter": "102",
+      "verse": "1",
+      "text": "En bön av en betryckt (ansatt), när han är överväldigad och utgjuter sin klagan (fundering, i sitt lågmälda grubblande) inför Herren (Jahveh)."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "102",
+      "verse": "2",
+      "text": "Herre (Jahveh), hör min bön, ja, låt mitt rop komma inför dig."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "102",
+      "verse": "3",
+      "text": "Göm inte ditt ansikte för mig [ignorera inte mig] på min nöds dag (i tider av stor begränsning och trångmål). Vänd ditt öra (lyssna noga) till mig, den dag då jag ropar [höjer min röst i bön], svara mig med hast (fort)."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "102",
+      "verse": "4",
+      "text": "Mina dagar försvinner som rök, och mina ben brinner (glöder) som [ved i] en eldstad [Job 30:30]."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "102",
+      "verse": "5",
+      "text": "Mitt hjärta är slaget (attackerat, bränt) och förvissnat som gräs [Hos 9:16], för jag glömmer att äta mitt bröd. [Förlorad aptit är inte ovanligt hos någon som är drabbad av ångest.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "102",
+      "verse": "6",
+      "text": "På grund av min suckande röst åtskiljs mina ben från mitt kött (skelett och muskler faller isär)."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "102",
+      "verse": "7",
+      "text": "Jag är som en pelikan i öknen, jag har blivit som en minervauggla [en liten ihopkurad uggla] på en övergiven plats. [Jes 34:10–15; Sef 2:13–15]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "102",
+      "verse": "8",
+      "text": "Jag tittar och har blivit som en ensam fågel på taket."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "102",
+      "verse": "9",
+      "text": "Mina fiender hånar mig hela dagen, de som är arga på mig använder mig som en förbannelse."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "102",
+      "verse": "10",
+      "text": "Jag har ätit aska som bröd, och blandat min dryck med tårar."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "102",
+      "verse": "11",
+      "text": "På grund av din harm och din vrede, för du tog upp mig och kastade bort mig,"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "102",
+      "verse": "12",
+      "text": "är mina dagar som en lång skugga och jag vissnar bort som gräs."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "102",
+      "verse": "13",
+      "text": "Men du Herre (Jahveh) sitter på tronen för evigt, och ditt namn är för alla släktled (generationer, det upphör aldrig)."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "102",
+      "verse": "14",
+      "text": "Du kommer att uppstå och ha nåd och förbarmande över Sion [tempelberget i Jerusalem], för det är tid att visa nåd (oförtjänt kärlek; favör) mot henne, för hennes bestämda tid har kommit."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "102",
+      "verse": "15",
+      "text": "Dina tjänare har sitt behag i hennes stenar [Jerusalems ruiner] och visar oförtjänt nåd mot hennes stoft [grus]."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "102",
+      "verse": "16",
+      "text": "Nationerna (länderna, hedningarna) fruktar (vördar) Herrens (Jahvehs) namn, alla jordens kungar din härlighet."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "102",
+      "verse": "17",
+      "text": "När Herren (Jahveh) har byggt upp Sion [tempelberget i Jerusalem], när han har visat sig i sin härlighet,"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "102",
+      "verse": "18",
+      "text": "när han har sett de utblottades böner, och inte föraktat deras böner."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "102",
+      "verse": "19",
+      "text": "Detta [hur Gud har gripit in, se vers 14, 17–18] ska skrivas [låt det bli skrivet] för en kommande generation [Ps 22:31], och ett folk som ska skapas [Hes 37; Ef 2:10] för att prisa Herren (Jah) [kortformen av Guds namn]."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "102",
+      "verse": "20",
+      "text": "För han har sett ner från sin helgedom i höjden, från himlarna har Herren (Jahveh) skådat ner på jorden,"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "102",
+      "verse": "21",
+      "text": "för att höra jämmern från de fångna, för att lösa dem som är bestämda till död (bokstavligt; för att öppna för dödens söner),"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "102",
+      "verse": "22",
+      "text": "för att människor ska återberätta om Herrens (Jahvehs) namn i Sion [tempelberget i Jerusalem], och förkunna hans lov i Jerusalem."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "102",
+      "verse": "23",
+      "text": "När folken samlas, och kungarikena för att tjäna Herren (Jahveh)."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "102",
+      "verse": "24",
+      "text": "Han försvagar min styrka på vägen, han förkortar mina dagar (gör dem färre)."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "102",
+      "verse": "25",
+      "text": "Jag säger: \"Min Gud (El), ta inte bort mig mitt i mina dagar (mitt i livet), du vars år varar genom alla släkten (generationer)."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "102",
+      "verse": "26",
+      "text": "En gång (längesedan; ordagrant: från ansiktet) lade du jordens grund, och himlarna är dina händers verk. [Heb 1:10]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "102",
+      "verse": "27",
+      "text": "De ska förgås, men du står kvar. De slits ut som ett plagg, som kläder ska du ta av dem och byta ut (förändra) dem."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "102",
+      "verse": "28",
+      "text": "Du är densamme (du förändras inte), dina år har inget slut."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "102",
+      "verse": "29",
+      "text": "Dina tjänares barn ska bo här, och deras barn ska leva i trygghet inför dig (i din närhet).\""
+    }
+  ]
+}

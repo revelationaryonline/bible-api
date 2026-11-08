@@ -1,1 +1,52 @@
-{"data":[{"book":"Psaltaren","chapter":"129","verse":"1","text":"En pilgrimssång (en vallfartsång; ”en sång från/för dem som vandrar upp”). [Oavsett varifrån man kommer så går man alltid upp till Jerusalem.]"},{"book":"Psaltaren","chapter":"129","verse":"2","text":"Hur mycket, hur ofta (många gånger) har de varit fientliga mot mig ända från min ungdom,"},{"book":"Psaltaren","chapter":"129","verse":"3","text":"Drängar har plöjt min rygg,"},{"book":"Psaltaren","chapter":"129","verse":"4","text":"Herren (Jahve) är rättfärdig,"},{"book":"Psaltaren","chapter":"129","verse":"5","text":"Må alla som hatar Sion [tempelberget i Jerusalem]"},{"book":"Psaltaren","chapter":"129","verse":"6","text":"Låt dem bli som gräs på taken"},{"book":"Psaltaren","chapter":"129","verse":"7","text":"en skördeman kan inte fylla sin hand med det,"},{"book":"Psaltaren","chapter":"129","verse":"8","text":"Låt aldrig dem som råkar gå förbi kunna säga:"}]}
+{
+  "data": [
+    {
+      "book": "Psaltaren",
+      "chapter": "129",
+      "verse": "1",
+      "text": "En pilgrimssång (en vallfartsång; \"en sång från/för dem som vandrar upp\"). [Oavsett varifrån man kommer så går man alltid upp till Jerusalem.] Hur ofta (mycket, många gånger) var de inte fientliga mot mig, ända från min ungdom, låt Israel nu säga:"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "129",
+      "verse": "2",
+      "text": "Hur ofta (mycket, många gånger) var de inte fientliga mot mig, ända från min ungdom, men de har inte övervunnit mig. [Vistelsen i Egypten var Israels ungdom, se Hos 11:1.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "129",
+      "verse": "3",
+      "text": "Plöjare har plöjt min rygg, de gjorde sina plogfåror långa. [Förlängde lidandet, även profetiskt om Jesus, vars rygg blev slagen.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "129",
+      "verse": "4",
+      "text": "Herren (Jahveh) är rättfärdig, han har huggit av de ondas band (rep). [Ordet används om de remmar på plogens ok som fästes vid oxens hals, se Job 39:10.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "129",
+      "verse": "5",
+      "text": "Må alla som hatar Sion [tempelberget i Jerusalem] drivas tillbaka i skam (vanära)."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "129",
+      "verse": "6",
+      "text": "Låt dem bli som gräs på taken [Jes 37:27] som vissnar bort innan det [ens] kan ryckas bort,"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "129",
+      "verse": "7",
+      "text": "en skördeman kan inte fylla sin hand med det, inte heller kan den som binder ihop kärvarna fylla sin kärve."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "129",
+      "verse": "8",
+      "text": "Ingen som går förbi ska säga [kunna ge en välsignelse under skördetiden]: \"Herrens (Jahvehs) välsignelse över er! Vi välsignar dig i Herrens (Jahvehs) namn.\" [Ett exempel är Boaz som hälsar skördearbetarna som sedan svarar, se Rut 2:4.]"
+    }
+  ]
+}

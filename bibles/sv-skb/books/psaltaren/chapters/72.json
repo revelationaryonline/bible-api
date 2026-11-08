@@ -1,1 +1,124 @@
-{"data":[{"book":"Psaltaren","chapter":"72","verse":"1","text":"Av (för) Salomo."},{"book":"Psaltaren","chapter":"72","verse":"2","text":"Han ska döma ditt folk med rättfärdighet (rättvist),"},{"book":"Psaltaren","chapter":"72","verse":"3","text":"Bergen ska ge (bära, berätta nyheten om) frid åt folket,"},{"book":"Psaltaren","chapter":"72","verse":"4","text":"Han ska försvara de betryckta i folket (skipa rätt),"},{"book":"Psaltaren","chapter":"72","verse":"5","text":"Människor ska frukta dig (tillbe dig i vördnad),"},{"book":"Psaltaren","chapter":"72","verse":"6","text":"Han ska vara som regnet som kommer ner på det nyslagna gräset"},{"book":"Psaltaren","chapter":"72","verse":"7","text":"I hans dagar [då Jesus regerar i tusenårsriket] ska den rättfärdige blomstra"},{"book":"Psaltaren","chapter":"72","verse":"8","text":"Han ska härska från hav till hav,"},{"book":"Psaltaren","chapter":"72","verse":"9","text":"Öknens (ödemarkens) folk ska böja knä för honom,"},{"book":"Psaltaren","chapter":"72","verse":"10","text":"Kungarna från Tarshish och avlägsna kuster [i väst]"},{"book":"Psaltaren","chapter":"72","verse":"11","text":"Ja, alla kungar ska falla ner inför honom,"},{"book":"Psaltaren","chapter":"72","verse":"12","text":"Han ska befria den nödställde som skriker (ropar efter hjälp),"},{"book":"Psaltaren","chapter":"72","verse":"13","text":"Han ska känna medlidande med de nödställda (de som lider),"},{"book":"Psaltaren","chapter":"72","verse":"14","text":"Han ska återköpa deras liv från förtryck och våld,"},{"book":"Psaltaren","chapter":"72","verse":"15","text":"Må han leva [länge leve Konungen] och må man offra"},{"book":"Psaltaren","chapter":"72","verse":"16","text":"Må säden växa rikt i landet,"},{"book":"Psaltaren","chapter":"72","verse":"17","text":"Må hans namn [kungen] leva för evigt,"},{"book":"Psaltaren","chapter":"72","verse":"18","text":"Välsignad är Herren Gud (Jahve Elohim),"},{"book":"Psaltaren","chapter":"72","verse":"19","text":"Välsignat är hans härliga Namn för evigt."},{"book":"Psaltaren","chapter":"72","verse":"20","text":"Slut på Davids, Ishais sons, böner."}]}
+{
+  "data": [
+    {
+      "book": "Psaltaren",
+      "chapter": "72",
+      "verse": "1",
+      "text": "Av (för) Salomo. [Psalmen är en bön för kungen. Titeln \"av Salomo\" kan även översättas \"för Salomo\", och då är det också en bön skriven för Salomo och efterkommande kungar. Bönen återspeglar idealbilden av en kung. Den beskriver enligt judisk tradition hur Messias, och enligt den tidiga kyrkans tradition hur Jesus, ska regera i tusenårsriket.] Gud (Elohim), ge konungen dina domar (förmågan att döma rättvist), ge konungasonen din rättfärdighet (låt honom bli kvalificerad för sitt uppdrag)."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "72",
+      "verse": "2",
+      "text": "Han ska döma ditt folk med rättfärdighet (rättvist), och dina betryckta (de ödmjuka) med rättvisa. [De ska få rättvisa domar.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "72",
+      "verse": "3",
+      "text": "Bergen ska ge (bära, berätta nyheten om) frid åt folket, och höjderna rättfärdighet. [Bergen och höjderna är poetiskt personifierade som budbärare som kommer med frid, det hebreiska ordet shalom, som innebär Guds välsignelser på alla områden.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "72",
+      "verse": "4",
+      "text": "Han ska försvara de betryckta i folket (skipa rätt), han ska befria de fattigas barn (de som är nödställda) och krossa förtryckaren."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "72",
+      "verse": "5",
+      "text": "Människor ska frukta dig (tillbe dig i vördnad), så länge solen och månen finns kvar, generation efter generation."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "72",
+      "verse": "6",
+      "text": "Han ska vara som regnet som kommer ner på det nyslagna gräset [då skörden bärgats och rötterna är som mest känsliga för torka], som regnskurar (våg efter våg av stilla strilande regn) som vattnar jorden."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "72",
+      "verse": "7",
+      "text": "I hans dagar [då Jesus regerar i tusenårsriket] ska den rättfärdige blomstra och det ska vara stor frid (välsignelser på alla områden) så länge månen finns i skyn."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "72",
+      "verse": "8",
+      "text": "Han ska härska från hav till hav, från floden till jordens ändar."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "72",
+      "verse": "9",
+      "text": "Öknens (ödemarkens) folk ska böja knä för honom, hans fiender ska slicka stoftet."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "72",
+      "verse": "10",
+      "text": "Kungarna från Tarshish och avlägsna kuster [i väst] ska komma med gåvor. Kungarna från Saba [hebr. Sheba; nuvarande Jemen eller Aksum i Etiopien] och Seva [i öst] ska bära fram gåvor."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "72",
+      "verse": "11",
+      "text": "Ja, alla kungar ska falla ner inför honom, alla hednafolk ska tjäna honom."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "72",
+      "verse": "12",
+      "text": "Han ska befria den nödställde som skriker (ropar efter hjälp), och den förtryckte som inte har någon hjälpare (ingen som försvarar honom)."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "72",
+      "verse": "13",
+      "text": "Han ska känna medlidande med de nödställda (de som lider), han ska frälsa deras liv (rädda deras själ, ande)."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "72",
+      "verse": "14",
+      "text": "Han ska återköpa deras liv från förtryck och våld, deras blod ska vara dyrbart i hans ögon."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "72",
+      "verse": "15",
+      "text": "Må han leva [länge leve Konungen] och må man offra guld från Saba (hebr. Sheva) till honom [vers 10]. Må man ständigt vädja till (falla ner i bön inför) honom och välsigna (falla ner och ge gåvor till) honom hela dagen lång."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "72",
+      "verse": "16",
+      "text": "Må säden växa rikt i landet, ända upp till bergens toppar. Må dess frukt vaja som Libanons skogar [cederträd] och städernas folk blomstra som markens örter."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "72",
+      "verse": "17",
+      "text": "Må hans namn [kungen] leva för evigt, må hans namn blomstra så länge solen skiner. I honom ska man välsigna sig, alla hednafolk ska prisa honom salig. [1 Mos 12:3]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "72",
+      "verse": "18",
+      "text": "Välsignad är Herren Gud (Jahveh Elohim), Israels Gud (Elohim) som ensam gör under!"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "72",
+      "verse": "19",
+      "text": "Välsignat är hans härliga Namn för evigt. Må hans ära [närvaro] fylla hela jorden! Amen och amen."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "72",
+      "verse": "20",
+      "text": "Slut på Davids, Jishajs sons, böner. [Detta är ett tillägg som inte heller hör till Psalm 72, men som avslutar den andra boken. Eftersom Psaltaren är så pass omfattande fick den inte plats på en skriftrulle utan delades ofta upp på två. Den första innehöll Psalm 1-72 och den andra Psalm 73-150. Detta tillägg har troligen att göra med att detta avslutar den första skriftrullen som främst har psalmer med David som författare. Det finns även fynd med andra sammanställningar av psalmer, troligtvis för andra syften, på liknande sätt som vi idag också sammanställer olika sångböcker.]"
+    }
+  ]
+}

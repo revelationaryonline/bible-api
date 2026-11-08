@@ -1,1 +1,94 @@
-{"data":[{"book":"Psaltaren","chapter":"48","verse":"1","text":"En sång, en psalm (sång ackompanjerad på strängar) av (för) Korachs söner."},{"book":"Psaltaren","chapter":"48","verse":"2","text":"Stor är Herren (Jahve) och högt är han prisad"},{"book":"Psaltaren","chapter":"48","verse":"3","text":"är den vackraste höjden,"},{"book":"Psaltaren","chapter":"48","verse":"4","text":"Gud (Elohim) bor i dess palats (borgar),"},{"book":"Psaltaren","chapter":"48","verse":"5","text":"Se, när kungarna samlade sig,"},{"book":"Psaltaren","chapter":"48","verse":"6","text":"De såg, de häpnade,"},{"book":"Psaltaren","chapter":"48","verse":"7","text":"Bävan (fruktan) grep dem där,"},{"book":"Psaltaren","chapter":"48","verse":"8","text":"[Ett skifte i psalmen markeras här genom att verbformen blir imperfekt, även en metafor med skepp introduceras. Psalmisten riktar sig också nu direkt till Gud i bön och tacksägelse:]"},{"book":"Psaltaren","chapter":"48","verse":"9","text":"Det vi har hört, det fick vi se"},{"book":"Psaltaren","chapter":"48","verse":"10","text":"Vi begrundar din nåd (omsorgsfulla kärlek), Gud (Elohim),"},{"book":"Psaltaren","chapter":"48","verse":"11","text":"Liksom ditt namn, Gud (Elohim),"},{"book":"Psaltaren","chapter":"48","verse":"12","text":"Låt Sions berg [tempelberget i Jerusalem] glädja sig."},{"book":"Psaltaren","chapter":"48","verse":"13","text":"Tåga runt Sion [Jerusalem], vandra omkring det,"},{"book":"Psaltaren","chapter":"48","verse":"14","text":"Lägg märke (sätt ditt hjärta) till dess murar (befästningar),"},{"book":"Psaltaren","chapter":"48","verse":"15","text":"att sådan är Gud (Elohim)."}]}
+{
+  "data": [
+    {
+      "book": "Psaltaren",
+      "chapter": "48",
+      "verse": "1",
+      "text": "En sång, en psalm [sång ackompanjerad på strängar] av (för) Korachs söner. [Den grekiska översättningen Septuaginta har också med tillägget: \"för veckans andra dag\", vilket är måndag.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "48",
+      "verse": "2",
+      "text": "Stor är Herren (Jahveh) och högt är han prisad i vår Guds (Elohims) stad. Hans heliga berg"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "48",
+      "verse": "3",
+      "text": "är den vackraste höjden, hela jordens fröjd (glädje). [Klag 2:15] Sions berg [tempelberget i Jerusalem] är [som] nordsidan [som gudaberget Tsafon i norr], den store Kungens stad. [Matt 5:35] [Hebreiska tsafon är det vanliga ordet för \"norr\". Tsafon identifieras i ugaritiska och andra kanaaneiska myter som boningsplatsen för stormguden Baal-Tsafon och ansågs även vara en samlingsplats för andra gudar. Platsen identifieras som berget Jebel Aqra på gränsen mellan moderna Syrien och Turkiet vid mynningen av floden Orontes, några mil norr om Ugarit.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "48",
+      "verse": "4",
+      "text": "Gud (Elohim) bor i dess palats (borgar), han har gjort sig känd som ett försvarstorn (värn; en fästning, en säker höjd)."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "48",
+      "verse": "5",
+      "text": "Se, när kungarna samlade sig, de ryckte fram tillsammans [mot Israel]."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "48",
+      "verse": "6",
+      "text": "De såg, de häpnade, de blev skräckslagna, de flydde."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "48",
+      "verse": "7",
+      "text": "Bävan (fruktan) grep dem där, vånda (ordagrant \"med vridande\", smärta) som hos en födande kvinna. [Vers 6–7 har liknande språk som i 2 Mos 15:15]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "48",
+      "verse": "8",
+      "text": "Med en östanvind, krossade du (förgör du fullständigt, gång på gång) skepp från Tarshish [väst]. [Tarshish kan referera till Spanien eller en ö i Medelhavet, se Jona 1:3. I denna vers möts väderstrecken öst och väst. Stora lastskepp var också en symbol på mänsklig storhet och ekonomisk välgång, se Jes 2:16.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "48",
+      "verse": "9",
+      "text": "Det vi har hört, det fick vi se i Härskarornas Herres (Jahveh Sebaots) stad, i vår Guds (Elohims) stad, som Gud bevarar till evig tid. Selah. [Antagligen ett avbrott för instrumentalt mellanspel, en paus för att begrunda vad som just har sjungits. Vad var det fienderna såg i vers 6 som fick dem att fly? Det är inte Jerusalems murar, utan Guds närvaro som beskyddar staden, se även Hes 10.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "48",
+      "verse": "10",
+      "text": "Vi begrundar din nåd (omsorgsfulla kärlek), Gud (Elohim), här i ditt tempel."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "48",
+      "verse": "11",
+      "text": "Liksom ditt namn, Gud (Elohim), når ditt lov till jordens ändar. [Vers 11b–12 formar en kiasm som ramas in av rättfärdighet/domar:] Av rättfärdighet är din högra hand full."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "48",
+      "verse": "12",
+      "text": "Låt Sions berg [tempelberget i Jerusalem] glädja sig. Låt Juda döttrar [städerna i Juda] fröjda sig, på grund av dina domar."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "48",
+      "verse": "13",
+      "text": "Tåga runt Sion [Jerusalem], vandra omkring det, räkna hennes torn."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "48",
+      "verse": "14",
+      "text": "Lägg märke (sätt ditt hjärta) till dess murar (befästningar), gå igenom dess palats (borgar), så att ni kan återberätta om dem för en generation (ett släkte) som kommer (som följer, bakom),"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "48",
+      "verse": "15",
+      "text": "att sådan är Gud (Elohim). Vår Gud (Elohim) för alltid och evigt, han ska leda oss förbi döden (till slutet, vid/till döden – hebr. al mot). [Den sista frasen al mot liknar ordet alamot som används i Ps 9:1 och i Ps 46:1.]"
+    }
+  ]
+}

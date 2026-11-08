@@ -1,1 +1,76 @@
-{"data":[{"book":"Psaltaren","chapter":"63","verse":"1","text":"En psalm (sång ackompanjerad på strängar) av David, när han var i Juda öken. [Den torra ödemarken öster om Jerusalem ner mot Döda havet.]"},{"book":"Psaltaren","chapter":"63","verse":"2","text":"Gud (Elohim), du är min Gud (El, den mäktige, starke), jag söker (längtar) ivrigt efter dig."},{"book":"Psaltaren","chapter":"63","verse":"3","text":"Ja, jag har sett dig i helgedomen,"},{"book":"Psaltaren","chapter":"63","verse":"4","text":"För [att få erfara] din nåd (omsorgsfulla kärlek) är bättre än livet självt,"},{"book":"Psaltaren","chapter":"63","verse":"5","text":"Därför ska jag välsigna (prisa) dig med mitt liv (så länge jag lever),"},{"book":"Psaltaren","chapter":"63","verse":"6","text":"Som av märg och olja (fett) [utsökt feta rätter] mättas min själ (hela min varelse)"},{"book":"Psaltaren","chapter":"63","verse":"7","text":"När jag kommer ihåg dig"},{"book":"Psaltaren","chapter":"63","verse":"8","text":"Du har varit min hjälp"},{"book":"Psaltaren","chapter":"63","verse":"9","text":"Hela mitt jag (min själ) klamrar sig fast vid dig,"},{"book":"Psaltaren","chapter":"63","verse":"10","text":"Men de som söker efter att fördärva (skada) mitt liv (min själ)"},{"book":"Psaltaren","chapter":"63","verse":"11","text":"De ska bli plundrade av svärdet"},{"book":"Psaltaren","chapter":"63","verse":"12","text":"Men kungen ska glädja sig i Gud (Elohim)."}]}
+{
+  "data": [
+    {
+      "book": "Psaltaren",
+      "chapter": "63",
+      "verse": "1",
+      "text": "En psalm [sång ackompanjerad på strängar] av David, när han var i Juda öken. [Den torra ödemarken öster om Jerusalem ner mot Döda havet.] [Bakgrunden kan vara Davids egen sons Avshaloms uppror då David tvingas fly till öknen, se 2 Sam 15–17. I så fall kan referensen i vers 2 till hur David är \"törstig\" och hur han och de med honom anlände \"utmattade\" vara en beröringspunkt, se 2 Sam 16:14. En annan händelse kan vara när David fick fly för Saul, se 1 Sam 21–31.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "63",
+      "verse": "2",
+      "text": "Gud (Elohim), du är min Gud (El, den mäktige, starke), jag söker dig tidigt (som högsta prioritet – hebr. shachar). [Det första jag gör på morgonen, min högsta önskan är att ha en relation med dig, se också Ps 42:2–3.] Hela min varelse (min själ, jag) törstar efter dig, min kropp längtar efter dig, i ett kargt och uttorkat land där det inte finns något vatten."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "63",
+      "verse": "3",
+      "text": "Ja, jag har sett dig i helgedomen, och sett din makt och ära (härlighet)."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "63",
+      "verse": "4",
+      "text": "För [att få erfara] din nåd (omsorgsfulla kärlek) är bättre än livet självt, mina läppar ska lovsjunga (prisa) dig."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "63",
+      "verse": "5",
+      "text": "Därför ska jag välsigna (prisa) dig med mitt liv (så länge jag lever), i ditt namn ska jag lyfta mina händer [i bön och vördnad för dig]."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "63",
+      "verse": "6",
+      "text": "Som av märg och olja (fett) [utsökt feta rätter] mättas min själ (hela min varelse) [mitt inre blir riktigt tillfredsställt; en mättnadskänsla infinner sig som efter en perfekt måltid], så med jublande läppar (läppars jubelrop) prisar min mun dig."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "63",
+      "verse": "7",
+      "text": "När jag kommer ihåg dig på min bädd och under nattväkterna, begrundar jag (talar jag lågmält och tänker på) dig. [Jos 1:8] [Judarna delade in natten i tre nattpass på vardera fyra timmar. Pluralformen indikerar flera pass, vakna timmar och sömnlösa nätter.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "63",
+      "verse": "8",
+      "text": "Du har varit min hjälp och under dina vingars skugga sjunger jag (höjer jag gälla triumferande jubelrop)!"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "63",
+      "verse": "9",
+      "text": "Hela mitt jag (min själ) klamrar sig fast vid dig, din högra hand upprätthåller mig."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "63",
+      "verse": "10",
+      "text": "Men de som söker efter att fördärva (skada) mitt liv (min själ) ska gå ner i jordens djup [till dödsriket eller graven]."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "63",
+      "verse": "11",
+      "text": "De ska bli plundrade av svärdet och bli ett byte för schakalerna."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "63",
+      "verse": "12",
+      "text": "Men kungen ska glädja sig i Gud (Elohim). Alla som svär vid honom [Gud] ska äras, men de som talar lögn ska få sin mun tillsluten (tystad, stängd, tilltäppt)."
+    }
+  ]
+}

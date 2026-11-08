@@ -1,1 +1,214 @@
-{"data":[{"book":"Psaltaren","chapter":"104","verse":"1","text":"Välsigna (prisa; böj dig ner inför) Herren (Jahve)"},{"book":"Psaltaren","chapter":"104","verse":"2","text":"Du sveper dig i ljus som en klädnad,"},{"book":"Psaltaren","chapter":"104","verse":"3","text":"och har lagt (konstruerat, timrat) balkarna till dina övre rum [tronsalar] ovan skyn (vattnen)."},{"book":"Psaltaren","chapter":"104","verse":"4","text":"Du gör vindar till dina sändebud,"},{"book":"Psaltaren","chapter":"104","verse":"5","text":"Du grundade jorden på dess fästen,"},{"book":"Psaltaren","chapter":"104","verse":"6","text":"Du täckte den med djupet som en klädnad,"},{"book":"Psaltaren","chapter":"104","verse":"7","text":"På ditt kommando flydde de,"},{"book":"Psaltaren","chapter":"104","verse":"8","text":"De gick över bergen,"},{"book":"Psaltaren","chapter":"104","verse":"9","text":"Du har satt en gräns som vattnen inte får gå över,"},{"book":"Psaltaren","chapter":"104","verse":"10","text":"Du förvandlar källor till flöden,"},{"book":"Psaltaren","chapter":"104","verse":"11","text":"De vattnar alla markens djur,"},{"book":"Psaltaren","chapter":"104","verse":"12","text":"Vid dem har himlens fåglar sina bon,"},{"book":"Psaltaren","chapter":"104","verse":"13","text":"Du vattnar bergen från dina salar,"},{"book":"Psaltaren","chapter":"104","verse":"14","text":"Du låter gräs växa för boskapen,"},{"book":"Psaltaren","chapter":"104","verse":"15","text":"och vin som gör människan glad,"},{"book":"Psaltaren","chapter":"104","verse":"16","text":"Herrens (Jahves) träd har sin mättnad (tillfredsställelse, all näring som de behöver med råge),"},{"book":"Psaltaren","chapter":"104","verse":"17","text":"Där bygger fåglarna sina bon,"},{"book":"Psaltaren","chapter":"104","verse":"18","text":"De höga bergen är [ett hem] för stengetterna [Job 39:4-7],"},{"book":"Psaltaren","chapter":"104","verse":"19","text":"Månen visar de bestämda tiderna [1 Mos 1:14-15],"},{"book":"Psaltaren","chapter":"104","verse":"20","text":"Du har gjort mörkret och det är natt,"},{"book":"Psaltaren","chapter":"104","verse":"21","text":"De unga lejonen ryter efter byte,"},{"book":"Psaltaren","chapter":"104","verse":"22","text":"Solen går upp och de gömmer sig,"},{"book":"Psaltaren","chapter":"104","verse":"23","text":"Människan kommer ut till sina sysslor"},{"book":"Psaltaren","chapter":"104","verse":"24","text":"Hur mångfaldiga är dina verk, Herre (Jahve),"},{"book":"Psaltaren","chapter":"104","verse":"25","text":"Där borta är havet, stort och brett (vidsträckt),"},{"book":"Psaltaren","chapter":"104","verse":"26","text":"Där går skeppen, där är Leviatan"},{"book":"Psaltaren","chapter":"104","verse":"27","text":"Alla dessa [allt levande som Gud har skapat] ser med förväntan på dig,"},{"book":"Psaltaren","chapter":"104","verse":"28","text":"Du ger dem mat och de tar emot,"},{"book":"Psaltaren","chapter":"104","verse":"29","text":"Du döljer ditt ansikte"},{"book":"Psaltaren","chapter":"104","verse":"30","text":"När du sänder ut din livgivande ande"},{"book":"Psaltaren","chapter":"104","verse":"31","text":"Låt Herrens ära (majestät, tyngd) bestå för evigt."},{"book":"Psaltaren","chapter":"104","verse":"32","text":"Han som ser på jorden och den darrar [det blir jordbävningar],"},{"book":"Psaltaren","chapter":"104","verse":"33","text":"Jag ska sjunga till Herren (Jahve) så länge jag lever,"},{"book":"Psaltaren","chapter":"104","verse":"34","text":"Mitt tal (begrundan, fundering, mitt lågmälda grubblande) behagade honom,"},{"book":"Psaltaren","chapter":"104","verse":"35","text":"Låt syndaren försvinna från jorden"}]}
+{
+  "data": [
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "1",
+      "text": "Välsigna (prisa; böj dig ner inför) Herren (Jahveh) min själ (hela min varelse). Herre, min Gud, du är väldig och stor, du är klädd i majestät och härlighet."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "2",
+      "text": "Du sveper dig i ljus som en klädnad, du spänner ut (expanderar) himlarna (universum) som ett tält [här antyds ett expanderade universum, se även Ps 18:10],"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "3",
+      "text": "och har lagt (konstruerat, timrat) balkarna till dina övre rum [tronsalar] ovan skyn (vattnen). Du gör molnen till din vagn, och drar fram på vindens vingar."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "4",
+      "text": "Du gör vindar till dina sändebud, eldslågor till dina tjänare. [Kan även översättas: \"Du gör dina änglar till sändebud, dina tjänare till flammande eldslågor.\"]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "5",
+      "text": "Du grundade jorden på dess fästen, så att den aldrig kommer att vackla."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "6",
+      "text": "Du täckte den med djupet som en klädnad, vattnet stod högt över bergen."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "7",
+      "text": "På ditt kommando flydde de, för din dundrande röst skyndade de bort."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "8",
+      "text": "De gick över bergen, de gick ner i dalarna, till den plats du hade bestämt för dem."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "9",
+      "text": "Du har satt en gräns som vattnen inte får gå över, aldrig mer ska de täcka jorden. [1 Mos 9:11]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "10",
+      "text": "Du förvandlar källor till flöden, och låter dem forsa fram mellan bergen."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "11",
+      "text": "De vattnar (ger vatten att dricka) till alla markens djur, vildåsnor släcker sin törst."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "12",
+      "text": "Vid dem har himlens fåglar sina bon, de sjunger från grenarna."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "13",
+      "text": "Du vattnar bergen från dina salar, jorden mättas av din frukt."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "14",
+      "text": "Du låter gräs växa för boskapen, och grödor (plantor, spannmål) som människan kan bruka. Du gör så att marken producerar bröd (mat),"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "15",
+      "text": "och vin som gör människan glad, som får hennes ansikte att skina (stråla) med [glädjens] olja [Ps 23:5; 45:7], och bröd som styrker människans hjärta."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "16",
+      "text": "Herrens (Jahvehs) träd har sin mättnad (tillfredsställelse, all näring som de behöver med råge), Libanons cedrar som han har planterat."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "17",
+      "text": "Där bygger fåglarna sina bon, storken har sitt hem i furorna."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "18",
+      "text": "De höga bergen är [ett hem] för stengetterna [Job 39:4–7], klipporna är en tillflyktsort för klippgrävlingarna [klipphyraxen, se 3 Mos 11:5]."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "19",
+      "text": "Månen visar de bestämda tiderna [1 Mos 1:14–15], solen vet när den ska gå ner."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "20",
+      "text": "Du har gjort mörkret och det är natt, när alla skogens djur kommer fram."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "21",
+      "text": "De unga lejonen ryter efter byte, och söker sin mat från Gud (El)."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "22",
+      "text": "Solen går upp och de gömmer sig, de lägger sig i sina lyor."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "23",
+      "text": "Människan kommer ut till sina sysslor och arbetar till kvällen."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "24",
+      "text": "Hur mångfaldiga är inte dina verk, Herre (Jahveh), i vishet har du gjort dem alla, jorden är full av det du har skapat."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "25",
+      "text": "Där borta är havet, stort och brett (vidsträckt), däri finns oräkneliga ting som glider omkring, levande varelser både små och stora."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "26",
+      "text": "Där går skeppen, där är Leviatan som du har format till att leka där. [Grundordet för Leviatan betyder att tvinna och vrida sig och det verkar beskriva ett sjöodjur med reptilliknande drag, se Ps 74:14; Job 40:20.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "27",
+      "text": "Alla dessa [allt levande som Gud har skapat] ser med förväntan på dig, att du ger dem mat i rätt tid."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "28",
+      "text": "Du ger dem mat och de tar emot, du öppnar din hand och de äter sig mätta."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "29",
+      "text": "Du döljer ditt ansikte och de blir skräckslagna. När du tar bort deras ande, dör de och återgår till jorden (stoft)."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "30",
+      "text": "När du sänder ut din livgivande ande då skapas de och du förnyar jordens yta."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "31",
+      "text": "Låt Herrens (Jahvehs) ära (majestät, tyngd) bestå för evigt. låt Herren (Jahveh) glädja sig över allt han gjort."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "32",
+      "text": "Han som ser på jorden och den darrar [det blir jordbävningar], han rör vid bergen och de ryker [det sker vulkanutbrott]."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "33",
+      "text": "Jag ska sjunga till Herren (Jahveh) så länge jag lever, jag ska sjunga lovsång till min Gud (Elohim) så länge jag andas."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "34",
+      "text": "Mitt tal (begrundan, fundering, mitt lågmälda grubblande) behagade honom, jag ska glädja mig i Herren (Jahveh)."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "104",
+      "verse": "35",
+      "text": "Låt syndaren försvinna från jorden och låt inte de onda finnas mer. Välsigna (prisa; böj dig ner inför) Herren (Jahveh), min själ (hela min varelse). Prisa Herren (lova Jah – hebr. hallelu jah)!"
+    }
+  ]
+}

@@ -1,1 +1,64 @@
-{"data":[{"book":"Psaltaren","chapter":"141","verse":"1","text":"En psalm (sång ackompanjerad på strängar), av (för) David."},{"book":"Psaltaren","chapter":"141","verse":"2","text":"Låt mina böner vara som rökelse inför dig [2 Mos 30:7-8; Upp 5:8],"},{"book":"Psaltaren","chapter":"141","verse":"3","text":"Sätt en vakt Herre (Jahve) framför min mun,"},{"book":"Psaltaren","chapter":"141","verse":"4","text":"Låt inte mitt hjärta vika av (luta, dras iväg) mot onda ting,"},{"book":"Psaltaren","chapter":"141","verse":"5","text":"Låt den rättfärdige drabba mig, det är nåd (omsorgsfull kärlek),"},{"book":"Psaltaren","chapter":"141","verse":"6","text":"Deras domare är nedkastade från klippan,"},{"book":"Psaltaren","chapter":"141","verse":"7","text":"Som när man plöjer och bryter upp jorden,"},{"book":"Psaltaren","chapter":"141","verse":"8","text":"För mina ögon är vända till dig O, Gud, min Herre (Jahve Adonaj),"},{"book":"Psaltaren","chapter":"141","verse":"9","text":"Bevara mig från snaran som de har lagt ut för mig,"},{"book":"Psaltaren","chapter":"141","verse":"10","text":"Låt de onda falla i sina egna nät,"}]}
+{
+  "data": [
+    {
+      "book": "Psaltaren",
+      "chapter": "141",
+      "verse": "1",
+      "text": "En psalm [sång ackompanjerad på strängar], av (för) David. Herre (Jahveh), jag ropar [höjer min röst i bön] till dig, skynda till mig, Lyssna (vänd ditt öra) till min röst, när jag ropar [höjer min röst i bön] efter dig!"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "141",
+      "verse": "2",
+      "text": "Låt mina böner vara som rökelse inför dig [2 Mos 30:7–8; Upp 5:8], mina upplyfta händer som kvällsoffret."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "141",
+      "verse": "3",
+      "text": "Sätt en vakt, Herre (Jahveh), framför min mun, vakta över mina läppars dörr. [Hjälp mig kontrollera mina ord, se Ords 13:3; 21:23; Jak 3:1–12.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "141",
+      "verse": "4",
+      "text": "Låt inte mitt hjärta vika av (luta, dras iväg) mot onda ting, så det blir upptaget med ondskans gärningar, med människor som begår överträdelser, och låt mig inte äta av deras läckerheter [vara delaktig i deras synd]."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "141",
+      "verse": "5",
+      "text": "Låt den rättfärdige drabba mig, det är nåd (omsorgsfull kärlek), och tillrättavisa mig, det är olja på mitt huvud. Men mina böner är fortfarande emot deras ondska."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "141",
+      "verse": "6",
+      "text": "Deras domare är nedkastade från klippan, och de ska höra mina ord, för de är ljuvliga."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "141",
+      "verse": "7",
+      "text": "Som när man plöjer och bryter upp jorden, ska våra ben spridas för Sheols (gravens, underjordens) öppning (mun) [porten/ingången till de dödas plats]."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "141",
+      "verse": "8",
+      "text": "För till dig, Herre Herre (Jahveh Adonai), är mina ögon [riktade], i dig har jag min tillflykt, utgjut inte min själ (släck inte mitt liv; låt det inte rinna bort)."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "141",
+      "verse": "9",
+      "text": "Bevara mig från snaran som de har lagt ut för mig, och från våldsverkarens fälla."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "141",
+      "verse": "10",
+      "text": "Låt de onda falla i sina egna nät, medan jag kan gå förbi oskadd."
+    }
+  ]
+}

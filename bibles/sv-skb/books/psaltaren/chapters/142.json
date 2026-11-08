@@ -1,1 +1,52 @@
-{"data":[{"book":"Psaltaren","chapter":"142","verse":"1","text":"En sång med visdom [hebr. maskil, en musikalisk eller litterär term, kan även betyda ”en välskriven sång”]. Av David. En bön. När han var i grottan."},{"book":"Psaltaren","chapter":"142","verse":"2","text":"Jag höjer min röst och ropar till Herren (Jahve),"},{"book":"Psaltaren","chapter":"142","verse":"3","text":"Jag utgjuter min klagan (fundering, grubblar lågmält) inför honom,"},{"book":"Psaltaren","chapter":"142","verse":"4","text":"När min ande försvagas i mig,"},{"book":"Psaltaren","chapter":"142","verse":"5","text":"Titta på min högra hand och se,"},{"book":"Psaltaren","chapter":"142","verse":"6","text":"Jag har ropat till dig O, Herre (Jahve), jag har sagt:"},{"book":"Psaltaren","chapter":"142","verse":"7","text":"Ge akt (lyssna uppmärksamt) på mitt rop, för jag är djupt nedböjd,"},{"book":"Psaltaren","chapter":"142","verse":"8","text":"Befria mig (mitt liv, min själ) från fängelset (stängda dörrar),"}]}
+{
+  "data": [
+    {
+      "book": "Psaltaren",
+      "chapter": "142",
+      "verse": "1",
+      "text": "En sång med visdom [hebr. maskil, en musikalisk eller litterär term, kan även betyda \"en välskriven sång\"]. Av David. En bön. När han var i grottan. [Troligtvis utspelar sig händelserna i Adullam strax sydväst om Jerusalem, se 1 Sam 22:1–5, men ett annat alternativ är Ein Gedi vid Döda havet, se 1 Sam 24. Se även Ps 57:1 som också nämner hur David flydde från Saul och var i grottan.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "142",
+      "verse": "2",
+      "text": "Jag höjer min röst och ropar till Herren (Jahveh), jag höjer min röst och ber till Herren (Jahveh) om nåd (oförtjänt kärlek; favör)."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "142",
+      "verse": "3",
+      "text": "Jag utgjuter, inför honom (hans ansikte), min klagan (fundering, grubblar lågmält), min nöd (pressade situation) inför honom (hans ansikte), berättar jag."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "142",
+      "verse": "4",
+      "text": "När min ande försvagas i mig, känner du mina steg (min väg). På stigen (min välkända upptrampade gångväg) där jag går har de gömt en snara (fälla) för mig."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "142",
+      "verse": "5",
+      "text": "Titta på min högra hand och se, för det finns ingen som känner mig. Jag har ingenstans att fly, ingen bryr sig om (söker, frågar efter) min själ (mitt liv)."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "142",
+      "verse": "6",
+      "text": "Jag har ropat till dig, Herre (Jahveh), jag har sagt: \"Du är min tillflykt, min del i de levandes land.\""
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "142",
+      "verse": "7",
+      "text": "Ge akt (lyssna uppmärksamt) på mitt rop, för jag är djupt nedböjd, rädda (ryck bort) mig från mina förföljare för de är för starka för mig."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "142",
+      "verse": "8",
+      "text": "Befria mig (mitt liv, min själ) från fängelset (stängda dörrar), så att jag kan tacka [med öppna händer – prisa, hylla och erkänna] ditt namn. De rättfärdiga ska krönas för min skull, för du ska handla nåderikt och överflödande mot mig. [Det finns en tydlig messiansk anspelning i den sista versen. Genom Jesu försoningsverk får vi räknas som rättfärdiga och bli krönta för hans skull.]"
+    }
+  ]
+}

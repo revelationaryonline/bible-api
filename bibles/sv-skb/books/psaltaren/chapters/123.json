@@ -1,1 +1,28 @@
-{"data":[{"book":"Psaltaren","chapter":"123","verse":"1","text":"En pilgrimssång (en vallfartsång; ”en sång från/för dem som vandrar upp”). [Oavsett varifrån man kommer så går man alltid upp till Jerusalem.]"},{"book":"Psaltaren","chapter":"123","verse":"2","text":"Som tjänarens ögon ser mot sin herres hand,"},{"book":"Psaltaren","chapter":"123","verse":"3","text":"Visa oss nåd (oförtjänt kärlek; favör), Herre (Jahve), visa oss nåd (oförtjänt kärlek; favör),"},{"book":"Psaltaren","chapter":"123","verse":"4","text":"Vår själ är fylld till brädden av de självsäkras hån,"}]}
+{
+  "data": [
+    {
+      "book": "Psaltaren",
+      "chapter": "123",
+      "verse": "1",
+      "text": "En pilgrimssång (en vallfartsång; \"en sång från/för dem som vandrar upp\"). [Oavsett varifrån man kommer så går man alltid upp till Jerusalem.] Jag lyfter mina ögon mot dig, du som bor (har din tron) i himlen."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "123",
+      "verse": "2",
+      "text": "Som tjänarens ögon ser mot sin herres hand, som tjänarinnans ögon ser mot sin husmors hand, på samma sätt ser våra ögon mot Herren (Jahveh), vår Gud (Elohim), ända tills han visar oss nåd (oförtjänt kärlek; favör)."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "123",
+      "verse": "3",
+      "text": "Visa oss nåd (oförtjänt kärlek; favör), Herre (Jahveh), visa oss nåd (oförtjänt kärlek; favör), för vi [Guds folk, som har vårt hopp i dig] har blivit föraktade länge nog nu. [Upprepningen av frasen \"visa oss nåd\" förstärker desperationen och ärligheten i bönen.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "123",
+      "verse": "4",
+      "text": "Vår själ är fylld till brädden av de självsäkras hån, och de högmodigas (arrogantas) förakt."
+    }
+  ]
+}

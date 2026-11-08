@@ -1,1 +1,88 @@
-{"data":[{"book":"Psaltaren","chapter":"108","verse":"1","text":"En sång, en psalm (sång ackompanjerad på strängar). Av (för) David."},{"book":"Psaltaren","chapter":"108","verse":"2","text":"Mitt hjärta är redo Gud (Elohim), jag ska sjunga,"},{"book":"Psaltaren","chapter":"108","verse":"3","text":"Vakna Nevel-lyra (hebr. nevel) [vanligtvis tolvsträngad] och Kinnor-harpa (kithara – hebr. kinnor) [mindre harpa],"},{"book":"Psaltaren","chapter":"108","verse":"4","text":"Jag ska tacka [med öppna händer – prisa, hylla och erkänna] dig Herre (Jahve) bland folken,"},{"book":"Psaltaren","chapter":"108","verse":"5","text":"För din nåd (omsorgsfulla kärlek) är stor över himlarna,"},{"book":"Psaltaren","chapter":"108","verse":"6","text":"Var upphöjd Gud (Elohim) över himlarna,"},{"book":"Psaltaren","chapter":"108","verse":"7","text":"För att dina älskade må bli befriade,"},{"book":"Psaltaren","chapter":"108","verse":"8","text":"Gud tala i din helighet, så att jag kan upphöja,"},{"book":"Psaltaren","chapter":"108","verse":"9","text":"Gilead [bergsområde öster om Sukkot] är mitt, Manasse [öster och väster om Jordanfloden, se 4 Mos 32:33] är mitt,"},{"book":"Psaltaren","chapter":"108","verse":"10","text":"Moab [fiender öster om Döda havet, se Dom 3:12] är mitt tvättfat [som jag tvättar mina fötter i],"},{"book":"Psaltaren","chapter":"108","verse":"11","text":"Vem ska föra in mig i den befästa staden?"},{"book":"Psaltaren","chapter":"108","verse":"12","text":"Har inte du Gud (Elohim) förkastat oss?"},{"book":"Psaltaren","chapter":"108","verse":"13","text":"Ge oss hjälp mot vår motståndare,"},{"book":"Psaltaren","chapter":"108","verse":"14","text":"Genom (i) Gud (Elohim) ska jag vara tapper,"}]}
+{
+  "data": [
+    {
+      "book": "Psaltaren",
+      "chapter": "108",
+      "verse": "1",
+      "text": "En sång, en psalm [sång ackompanjerad på strängar]. Av (för) David."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "108",
+      "verse": "2",
+      "text": "Mitt hjärta är redo, Gud (Elohim), jag ska sjunga; ja, jag ska musicera med hela min ära (tyngd)."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "108",
+      "verse": "3",
+      "text": "Vakna nevel-lyra (hebr. nevel) [vanligtvis tolvsträngad] och kinnor-harpa (kithara – hebr. kinnor) [mindre harpa], jag ska väcka morgonrodnaden. [Morgonrodnaden här syftar speciellt på det spektakulära färgspelet när solen går upp över Olivberget öster om Jerusalem och en ny dag gryr. För mer om de olika stränginstrumenten, se Ps 33:2.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "108",
+      "verse": "4",
+      "text": "Jag ska tacka [med öppna händer – prisa, hylla och erkänna] dig Herre (Jahveh) bland folken, jag ska prisa dig bland folkslagen."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "108",
+      "verse": "5",
+      "text": "För din nåd (omsorgsfulla kärlek) är stor över himlarna, och din sanning når till skyarna. [Genom hela Bibeln är nåd och sanning följeslagare, se 2 Sam 15:20; Ords 16:6; Ps 85:11; Joh 1:14. Första gången dessa ord nämns tillsammans är i Guds eget vittnesbörd, se 2 Mos 34:6. Nåd utan sanning blir uddlös, medan sanning utan nåd blir obarmhärtig. Det behövs både nåd och sanning, och nåden kommer alltid först.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "108",
+      "verse": "6",
+      "text": "Var upphöjd, Gud (Elohim), över himlarna, och din ära ska vara över hela jorden."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "108",
+      "verse": "7",
+      "text": "För att dina älskade vänner ska kunna bli befriade, fräls med din högra hand och svara mig. [Exakt citat från Ps 60:7, förutom justeringen av \"oss\" till \"mig\".]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "108",
+      "verse": "8",
+      "text": "Gud (Elohim), tala i din helighet, så att jag kan upphöja, så att jag kan dela Shechem [nuvarande Nablus i Samarien, se 1 Mos 12:6] och mäta ut Sukkots dal [dalen kring staden Sukkot öster om Jordanfloden]."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "108",
+      "verse": "9",
+      "text": "Gilead [bergsområde öster om Sukkot] är mitt, Manasse [öster och väster om Jordanfloden, se 4 Mos 32:33] är mitt, Efraim [väster om Jordanfloden, mellan Manasse och Benjamin] är försvaret av mitt huvud, Juda [Jerusalem och den södra delen av Israel] är min spira."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "108",
+      "verse": "10",
+      "text": "Moab [fiender öster om Döda havet, se Dom 3:12] är mitt tvättfat [som jag tvättar mina fötter i], över Edom [fiende söder om Döda havet] kastar jag min sko [som en tjänare], över Filistéen ropar jag högt i segerjubel."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "108",
+      "verse": "11",
+      "text": "Vem ska föra in mig i den befästa staden? Vem ska leda mig till Edom?"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "108",
+      "verse": "12",
+      "text": "Har inte du, Gud (Elohim), förkastat oss? Drar du inte längre ut med vår armé?"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "108",
+      "verse": "13",
+      "text": "Ge oss hjälp mot vår motståndare, för människors hjälp (hoppet att en människa ska kunna frälsa) är värdelöst."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "108",
+      "verse": "14",
+      "text": "Genom (i) Gud (Elohim) ska jag vara tapper, han är den som ska krossa (förtrampa) våra motståndare."
+    }
+  ]
+}

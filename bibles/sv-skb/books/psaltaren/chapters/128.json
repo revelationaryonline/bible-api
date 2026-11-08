@@ -1,1 +1,40 @@
-{"data":[{"book":"Psaltaren","chapter":"128","verse":"1","text":"En pilgrimssång (en vallfartsång; ”en sång från/för dem som vandrar upp”). [Oavsett varifrån man kommer så går man alltid upp till Jerusalem.]"},{"book":"Psaltaren","chapter":"128","verse":"2","text":"för han ska äta frukten av sin hands arbete."},{"book":"Psaltaren","chapter":"128","verse":"3","text":"Din hustru ska vara som en vinstock"},{"book":"Psaltaren","chapter":"128","verse":"4","text":"Se, den man (stridsman) [en man i sin bästa ålder]"},{"book":"Psaltaren","chapter":"128","verse":"5","text":"Herren (Jahve) välsignar dig från Sion [tempelberget i Jerusalem]"},{"book":"Psaltaren","chapter":"128","verse":"6","text":"Må du leva och få se dina barnbarn."}]}
+{
+  "data": [
+    {
+      "book": "Psaltaren",
+      "chapter": "128",
+      "verse": "1",
+      "text": "En pilgrimssång (en vallfartsång; \"en sång från/för dem som vandrar upp\"). [Oavsett varifrån man kommer så går man alltid upp till Jerusalem.] Rikt välsignade (saliga; mycket lyckliga) är alla som fruktar (vördar, respekterar) Herren (Jahveh) [Ords 1:7; 9:10], som går (vandrar) på hans vägar (gör det som är rätt och behagar Gud),"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "128",
+      "verse": "2",
+      "text": "för han ska äta frukten av sin hands arbete. Du ska vara välsignad (salig, mycket lycklig) och det ska gå väl för dig."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "128",
+      "verse": "3",
+      "text": "Din hustru ska vara som en vinstock som bär riklig frukt i ditt hem. Dina barn ska vara som olivplantor runt ditt bord. [Bordet, eller matbordet, är en viktig symbol för familjens sammanhållning i Bibeln. Att ha ett bord där alla samlas och där det alltid finns en plats för änkan, den faderlöse och främlingen, är att ha en familj som lever i enlighet med Guds intentioner för vårt liv på jorden. Där fattas det aldrig mat eftersom Gud alltid välsignar den som lever enligt hans förordningar.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "128",
+      "verse": "4",
+      "text": "Se, den man (stridsman) [en man i sina bästa år] som fruktar (vördar, respekterar) Herren (Jahveh) ska verkligen (sannerligen) bli (vara) välsignad."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "128",
+      "verse": "5",
+      "text": "Herren (Jahveh) välsignar dig från Sion [tempelberget i Jerusalem] och låter dig se Jerusalems goda i alla dina livsdagar."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "128",
+      "verse": "6",
+      "text": "Må du leva och få se dina barnbarn. Frid (shalom, alla Guds välsignelser) vare över Israel!"
+    }
+  ]
+}

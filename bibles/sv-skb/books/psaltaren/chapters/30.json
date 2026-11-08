@@ -1,1 +1,82 @@
-{"data":[{"book":"Psaltaren","chapter":"30","verse":"1","text":"En psalm, sång (text som ska sjungas) för (vid) husets (boningens, templets) invigning. Av (för) David."},{"book":"Psaltaren","chapter":"30","verse":"2","text":"Jag vill upphöja dig, Herre (Jahve),"},{"book":"Psaltaren","chapter":"30","verse":"3","text":"Herre (Jahve), min Gud (Elohim), jag skrek ut till dig (ropade efter din hjälp),"},{"book":"Psaltaren","chapter":"30","verse":"4","text":"Herre (Jahve), du förde mig upp från Sheol (graven, underjorden – de dödas plats),"},{"book":"Psaltaren","chapter":"30","verse":"5","text":"Lovsjung (sjung och spela till) Herren (Jahve), ni hans trogna följare,"},{"book":"Psaltaren","chapter":"30","verse":"6","text":"Ett ögonblick varar hans vrede,"},{"book":"Psaltaren","chapter":"30","verse":"7","text":"I min framgång (trygghet) sade jag (tänkte jag för mig själv):"},{"book":"Psaltaren","chapter":"30","verse":"8","text":"Herre (Jahve), genom din nåd (favör, välvilja)"},{"book":"Psaltaren","chapter":"30","verse":"9","text":"Till dig Herre (Jahve), ropade jag (höjde jag min röst i bön),"},{"book":"Psaltaren","chapter":"30","verse":"10","text":"”Vad vinner du på mitt blod (min död),"},{"book":"Psaltaren","chapter":"30","verse":"11","text":"Hör Herre (Jahve),"},{"book":"Psaltaren","chapter":"30","verse":"12","text":"Du vände min klagan (ceremoniella sorgeperiod)"},{"book":"Psaltaren","chapter":"30","verse":"13","text":"Därför ska hela min varelse (ordagrant: ”ära”; kan syfta på hjärta, människans innersta eller tungan)"}]}
+{
+  "data": [
+    {
+      "book": "Psaltaren",
+      "chapter": "30",
+      "verse": "1",
+      "text": "En psalm (hebr. mizmor), sång (text som ska sjungas – hebr. shir) för (vid) husets (boningens, templets) invigning. Av (för) David. [Titeln är ovanlig. Den använder både ordet psalm och sång. Det första ordet psalm (hebr. mizmor) används ofta för en sång som ackompanjeras. Det betonar det musikaliska uttryckssättet, grundordet har att göra med att slå an strängar i ett slag. Det andra ordet som översatts med sång är hebr. shir. Det handlar mera om sången och texten än det musikaliska. Det är enda gången det används i första boken (Psalm 1-41) men förekommer ofta i de andra böckerna. Beskrivningen för eller vid \"husets invigning\" är inte helt entydig. Det kan syfta på Davids hus, palats, tabernaklet eller templet. David kan ha skrivit den med tanke på hans son Salomos framtida invigning av templet i Jerusalem. Ordet för invigning är hebr. chanukka. Inom den judiska liturgin citeras psalmen under tempelinvigningsfesten, Chanukka, se Joh 10:22.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "30",
+      "verse": "2",
+      "text": "Jag vill upphöja dig, Herre (Jahveh), för du har dragit mig upp [som ett kärl som sänkts ned och hissats upp], och har inte låtit mina fiender glädja sig över mig. [Hebreiska ordet för \"dragit upp\" är dalah. Det används för att beskriva ett kärl som sänks ned och hissas upp för att dra vatten ur en brunn. Substantivet av detta verb är just ordet för hink. Den huvudsakliga användningen i Bibeln är i betydelsen att dra upp vatten från en brunn, se 2 Mos 2:16 och Ords 20:5. Men i ordet finns också betydelsen att dingla och svaja. Ordet kan även betyda att sänka ned. För att hissa upp en hink måste den ju först ha halats ned. Valet av detta ord med dess dubbla betydelse beskriver träffsäkert de förändringar som karaktäriserar denna psalm. Davids livssituation skulle kunna illustreras med ett tomt kärl som varit på väg ner i brunnen, men nu har det vänt. Gud har fyllt honom och dragit upp honom, se vers 4!]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "30",
+      "verse": "3",
+      "text": "Herre (Jahveh), min Gud (Elohim), jag skrek ut till dig (ropade efter din hjälp), och du helade mig."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "30",
+      "verse": "4",
+      "text": "Herre (Jahveh), du förde mig upp från Sheol (graven, underjorden – de dödas plats), du räddade mitt liv (höll mig vid liv), bevarade mig från att fara ner i graven (cisternen, brunnen)."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "30",
+      "verse": "5",
+      "text": "Lovsjung (sjung och spela till) Herren (Jahveh), ni hans trogna följare, tacka [med öppna händer – prisa, hylla och erkänn] hans heliga hågkomst (omnämnande, minne – hebr. zecher) [heliga namn]. [Hur han räddat folket från slaveriet, gett dem undervisningen, fört dem in i landet, osv. Se även Ps 97:12; Luk 22:19; 1 Kor 11:24–26.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "30",
+      "verse": "6",
+      "text": "Ett ögonblick varar hans vrede, hela livet hans nåd (favör, glädje, behag, välvilja). På kvällen gästar gråt, men på morgonen jubelsång. [Gråten är som en tillfällig nattgäst som avreser redan tidigt nästa dag. Den kan förvandlas till glädje – hastigt, som över en natt. Lika säkert som det efter varje natt kommer en ny dag, lika mycket förtröstar psalmisten på att Gud kommer att gripa in.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "30",
+      "verse": "7",
+      "text": "I min framgång (trygghet) sa jag (tänkte jag för mig själv): \"Jag ska aldrig vackla.\""
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "30",
+      "verse": "8",
+      "text": "Herre (Jahveh), genom din nåd (favör, välvilja) hade du gjort mitt berg starkt. [David regerade från berget Sion, Jerusalem. Gud hade gett honom framgång, trygghet och makt, som berget är en metafor för här.] Du dolde ditt ansikte (ignorerade, var långt borta, se Ps 88:14); jag blev skräckslagen. [Den prästerliga välsignelsen avslutas med att Herren vänder sitt ansikte, se 4 Mos 6:25–26. Att Herren döljer sitt ansikte är motsatsen.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "30",
+      "verse": "9",
+      "text": "Till dig Herre (Jahveh), ropade jag (höjde jag min röst i bön), till Herren (Adonai) vädjade jag om nåd (oförtjänt kärlek; favör):"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "30",
+      "verse": "10",
+      "text": "\"Vad vinner du på mitt blod (min död), att jag sjunker ned i avgrunden (graven)? Kan stoftet tacka (prisa, bekänna) dig, kan det berätta om din trofasthet (sanning)? [På hebreiska är människa adam, blod damm och stoft adamah, se 1 Mos 2:7; 1 Mos 3:19.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "30",
+      "verse": "11",
+      "text": "Hör Herre (Jahveh), jag vädjar om din nåd (oförtjänta kärlek; favör), Herre, var min hjälpare.\""
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "30",
+      "verse": "12",
+      "text": "Du vände min klagan (ceremoniella sorgeperiod) till dans (ringdans, jubel och fest) [2 Mos 15:20; Jer 31:13]; du lossade (befriade mig från) min sorgdräkt (säckklädnad) och klädde mig i glädje."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "30",
+      "verse": "13",
+      "text": "Därför ska hela min varelse (ordagrant: \"ära\"; kan syfta på hjärta, människans innersta eller tungan) lovsjunga dig och inte vara tyst. Herre (Jahveh) min Gud, jag vill tacka [med öppna händer – prisa, hylla och erkänna] dig för evigt. [Exakta detaljer på hur Herren grep in och helade och räddade David från döden ges inte i psalmen. Däremot beskrivs hur Gud personligen grep in och vände situationen. Inom judisk tradition är det en sju dagars sorg när någon dött. Den sörjande familjen lämnade inte huset, och vänner kom på besök, se 1 Mos 23:2; 50:10; 1 Sam 25:1; 28:3. De som sörjde klädde sig i säcktyg för att fysiskt känna och visa att man hade sorg, se 2 Kung 19:1. Tyget gjordes av get- eller kamelhår (Matt 3:4). Materialets sträva och grova struktur lämpade sig bra för tältdukar och säckar, därav namnet, men inte till kläder. Den sista raden i vers 12 beskriver det som om Gud personligen lossar säcktyget, som den sörjande har svept sig i, och klär honom i ljusa festkläder. Från att ha varit begravning blir det förberedelse för fest. Texten refererar inte till att sorgdräkten byts ut till festkläder, utan till \"glädje\". Det ger en fin länk mellan början och slutet av versen – från klagan till glädje!]"
+    }
+  ]
+}

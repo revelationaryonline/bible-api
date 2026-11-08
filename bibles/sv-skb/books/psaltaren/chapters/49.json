@@ -1,1 +1,130 @@
-{"data":[{"book":"Psaltaren","chapter":"49","verse":"1","text":"Till (för) ledaren. [Beskriver någon som utmärker sig – som är strålande och framstående inom sitt område. Syftar dels på föreståndaren för tempelmusiken men även på Messias ”den strålande morgonstjärnan”, se Upp 22:16 och inledningen till Psaltaren.]"},{"book":"Psaltaren","chapter":"49","verse":"2","text":"Hör detta alla folk,"},{"book":"Psaltaren","chapter":"49","verse":"3","text":"hela mänskligheten, varje levande människa,"},{"book":"Psaltaren","chapter":"49","verse":"4","text":"Min mun ska tala visdom,"},{"book":"Psaltaren","chapter":"49","verse":"5","text":"Jag vill böja mitt öra till ordspråk (visa ord; talesätt med många bottnar; ibland även profetiska ord – hebr. mashal),"},{"book":"Psaltaren","chapter":"49","verse":"6","text":"Varför skulle jag vara rädd (frukta) när det är oroliga tider,"},{"book":"Psaltaren","chapter":"49","verse":"7","text":"de som förlitar sig på sina ägodelar (sin egen styrka, förmåga),"},{"book":"Psaltaren","chapter":"49","verse":"8","text":"Ingen människa kan rädda sin broder,"},{"book":"Psaltaren","chapter":"49","verse":"9","text":"Lösensumman för ett människoliv är för hög (kostsam),"},{"book":"Psaltaren","chapter":"49","verse":"10","text":"för att få leva för evigt"},{"book":"Psaltaren","chapter":"49","verse":"11","text":"Det är faktiskt så att även"},{"book":"Psaltaren","chapter":"49","verse":"12","text":"De trodde att deras hus (gods) skulle bestå för evigt,"},{"book":"Psaltaren","chapter":"49","verse":"13","text":"[Refräng:]"},{"book":"Psaltaren","chapter":"49","verse":"14","text":"Detta är vägen (slutresultatet) för dem som (dåraktigt) litar till sig själva,"},{"book":"Psaltaren","chapter":"49","verse":"15","text":"Som en fårhjord (flock med småboskap) är de på väg mot Sheol (graven, underjorden – de dödas plats),"},{"book":"Psaltaren","chapter":"49","verse":"16","text":"Men (ja) Gud (Elohim) ska återlösa mitt liv (min själ) från Sheols (underjordens) makt (kraft, hand),"},{"book":"Psaltaren","chapter":"49","verse":"17","text":"Frukta inte när en människa blir rik,"},{"book":"Psaltaren","chapter":"49","verse":"18","text":"för när han dör kan han inte ta någonting med sig,"},{"book":"Psaltaren","chapter":"49","verse":"19","text":"Även om han prisar sig själv under livet [Ps 10:3; Luk 12:19]"},{"book":"Psaltaren","chapter":"49","verse":"20","text":"men han ska gå till sina fäders släkte [följa dem i familjegraven],"},{"book":"Psaltaren","chapter":"49","verse":"21","text":"[Refräng:]"}]}
+{
+  "data": [
+    {
+      "book": "Psaltaren",
+      "chapter": "49",
+      "verse": "1",
+      "text": "Till (för) ledaren. [Beskriver någon som utmärker sig – som är strålande och framstående inom sitt område. Syftar dels på föreståndaren för tempelmusiken men även på Messias, den strålande morgonstjärnan, se Upp 22:16 och inledningen till Psaltaren.] Av Korachs söner, en psalm [sång ackompanjerad på strängar]."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "49",
+      "verse": "2",
+      "text": "Hör detta alla folk (stammar – hebr. am), lyssna (ge ert öra – lystring, hör upp) alla livsspann (alla som glider förbi, lever i världen – hebr. cheled) [allt liv som passerar],"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "49",
+      "verse": "3",
+      "text": "både mänsklighetens söner (\"låga\" – hebr. bene adam), som mäns söner (\"höga\" – hebr. bene ish) [alla], såväl rik som fattig."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "49",
+      "verse": "4",
+      "text": "Min mun ska tala visdom, mitt hjärtas begrundan (tanke) ska vara förstånd."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "49",
+      "verse": "5",
+      "text": "Jag vill böja mitt öra till ordspråk (visa ord – hebr. mashal) [talesätt med många bottnar; ibland även profetiska ord], jag vill förklara (öppna) mina mysterier (mörka och förbryllande ord) vid kinnor-harpan (kitharan – hebr. kinnor) [mindre harpa, se Ps 33:2]."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "49",
+      "verse": "6",
+      "text": "Varför skulle jag vara rädd (frukta) när det är oroliga tider, när mina förföljares ondska omger mig,"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "49",
+      "verse": "7",
+      "text": "de som förlitar sig på sina ägodelar (sin egen styrka, förmåga), och skryter över sina stora rikedomar?"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "49",
+      "verse": "8",
+      "text": "Ingen människa kan rädda sin broder, man kan inte betala en tillräckligt stor lösensumma till Gud (Elohim)."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "49",
+      "verse": "9",
+      "text": "Lösensumman för ett människoliv är för hög (kostsam), det går inte att betala ett pris"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "49",
+      "verse": "10",
+      "text": "för att få leva för evigt och undgå att se graven."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "49",
+      "verse": "11",
+      "text": "Det är faktiskt så att även de visa en dag kommer att dö. [Döden är ofrånkomlig.] På samma sätt kommer också dårar och andligt okänsliga (oförnuftiga) att en gång dö och de lämnar kvar sina ägodelar åt andra [inte ens till sina barn]."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "49",
+      "verse": "12",
+      "text": "De trodde att deras hus (gods) skulle bestå för evigt, att deras boning [skulle gå i arv] i generation efter generation, de uppkallade platser (landområden) efter sina namn. [I stället blir graven deras eviga boning.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "49",
+      "verse": "13",
+      "text": "En människa i allt sitt välstånd (rikedom) förblir knappast (övernattar knappast – hebr. bal lon), hon liknar (hebr. mashal) boskapen som förgår. [Refrängen återkommer med en liten variation i slutet på psalmen, se vers 21. Liknar (hebr. mashal) har samma rot som ordspråk i vers 5.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "49",
+      "verse": "14",
+      "text": "Detta är vägen (slutresultatet) för dem som (dåraktigt) litar till sig själva, och dem [deras efterföljare] som godkänner (gläder sig i; har mänsklig godtycklig nåd i – hebr. ratsah) deras tal [deras stora mun]. Selah. [Antagligen ett avbrott för instrumentalt mellanspel, en paus för att begrunda vad som just har sjungits.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "49",
+      "verse": "15",
+      "text": "Som en fårhjord (flock med småboskap) är de på väg mot Sheol (graven, underjorden – de dödas plats), med döden som sin herde. De rättfärdiga ska regera över dem när på morgonen [när upprättelsens dag gryr, när Gud griper in]; deras gestalt (form) tynar bort i Sheol (dödsriket), långt bort från deras höga boning [deras imponerande stora hus]."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "49",
+      "verse": "16",
+      "text": "Men (ja) Gud (Elohim) ska återlösa mitt liv (min själ) från Sheols (underjordens) makt (kraft, hand), för han ska ta emot (ta upp) mig. [Samma ord som när Gud \"tog\" Henok, se 1 Mos 5:24.] Selah. [Antagligen ett avbrott för instrumentalt mellanspel, en paus för att begrunda vad som just har sjungits.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "49",
+      "verse": "17",
+      "text": "Frukta inte när en människa blir rik, och hans hus (familj, ägodelar) växer i härlighet [och hans inflytande ökar, se vers 6–7],"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "49",
+      "verse": "18",
+      "text": "för när han dör kan han inte ta någonting med sig, hans härlighet följer inte efter honom ner."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "49",
+      "verse": "19",
+      "text": "Även om han prisar sig själv under livet [Ps 10:3; Luk 12:19] – andra lovordar (tackar, berömmer, applåderar) dig när du lyckas väl –"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "49",
+      "verse": "20",
+      "text": "men han ska gå till sina fäders släkte [följa dem i familjegraven], de ska aldrig mer se ljuset."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "49",
+      "verse": "21",
+      "text": "En människa i allt sitt välstånd (rikedom) är utan förstånd (har ingen urskiljning – hebr. lo bin), hon liknar (hebr. mashal) boskapen som förgår. [Refrängen är nästan identisk med vers 13. Psalmisten byter ut en fras, \"knappast förbli/övernatta\" i vers 13 till att här istället vara \"utan förstånd/urskiljning\". Det betonar dårskapen i att bara se till materiellt välstånd som kan försvinna över en natt, se Luk 12:20.]"
+    }
+  ]
+}

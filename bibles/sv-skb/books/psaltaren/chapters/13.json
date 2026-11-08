@@ -1,1 +1,40 @@
-{"data":[{"book":"Psaltaren","chapter":"13","verse":"1","text":"Till (för) ledaren. [Beskriver någon som utmärker sig – som är strålande och framstående inom sitt område. Syftar dels på föreståndaren för tempelmusiken men även på Messias ”den strålande morgonstjärnan”, se Upp 22:16 och inledningen till Psaltaren.]"},{"book":"Psaltaren","chapter":"13","verse":"2","text":"Hur länge, Herre (Jahve);"},{"book":"Psaltaren","chapter":"13","verse":"3","text":"Hur länge måste jag grubbla (planera, rådslå) inom mig,"},{"book":"Psaltaren","chapter":"13","verse":"4","text":"Se på mig (överväg, tänk på mig),"},{"book":"Psaltaren","chapter":"13","verse":"5","text":"Då skulle min fiende säga:"},{"book":"Psaltaren","chapter":"13","verse":"6","text":"Men jag förtröstar på (litar på) din nåd (kärleksfulla omsorg; trofasthet),"}]}
+{
+  "data": [
+    {
+      "book": "Psaltaren",
+      "chapter": "13",
+      "verse": "1",
+      "text": "Till (för) ledaren. [Beskriver någon som utmärker sig – som är strålande och framstående inom sitt område. Syftar dels på föreståndaren för tempelmusiken men även på Messias, den strålande morgonstjärnan, se Upp 22:16 och inledningen till Psaltaren.] En psalm [sång ackompanjerad på strängar] av David."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "13",
+      "verse": "2",
+      "text": "Hur länge, Herre (Jahveh), ska du glömma (ignorera, inte bry dig om) mig för evigt? Hur länge ska du dölja (gömma) ditt ansikte för mig?"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "13",
+      "verse": "3",
+      "text": "Hur länge måste jag grubbla (planera, rådslå) inom mig, och dagligen (dag efter dag) ha sorg (bedrövelse) i mitt hjärta? Hur länge ska min fiende dominera (vara upphöjd) över mig?"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "13",
+      "verse": "4",
+      "text": "Se på mig (överväg, tänk på mig), svara mig Herre (Jahveh), min Gud (Elohim), ge ljus åt mina ögon, annars somnar jag in i dödens sömn."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "13",
+      "verse": "5",
+      "text": "Då skulle min fiende säga: \"Jag har besegrat (övermannat) honom!\" Då skulle mina motståndare glädja sig över mitt fall (när jag vacklar och blir omkullkastad)."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "13",
+      "verse": "6",
+      "text": "Men jag förtröstar på (litar på) din nåd (kärleksfulla omsorg; trofasthet), mitt hjärta gläder sig i din frälsning (befrielse, framgång, seger). Jag vill sjunga till Herren (Jahveh), för han har behandlat mig väl (är så god mot mig; kommer att kompensera mig)."
+    }
+  ]
+}

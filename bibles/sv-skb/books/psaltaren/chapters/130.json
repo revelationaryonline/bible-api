@@ -1,1 +1,52 @@
-{"data":[{"book":"Psaltaren","chapter":"130","verse":"1","text":"En pilgrimssång (en vallfartsång; ”en sång från/för dem som vandrar upp”). [Oavsett varifrån man kommer så går man alltid upp till Jerusalem.]"},{"book":"Psaltaren","chapter":"130","verse":"2","text":"Herre (Adonaj), hör min röst,"},{"book":"Psaltaren","chapter":"130","verse":"3","text":"Om du, Herre (Jah – kortformen av Jahve; betecknar att han alltid har existerat),"},{"book":"Psaltaren","chapter":"130","verse":"4","text":"Men hos dig finns förlåtelse,"},{"book":"Psaltaren","chapter":"130","verse":"5","text":"Jag väntar på (tittar ivrigt efter; hoppas uthålligt på) Herren (Jahve)"},{"book":"Psaltaren","chapter":"130","verse":"6","text":"Hela min varelse (min själ) [väntar/längtar] efter min Herre (Adonaj),"},{"book":"Psaltaren","chapter":"130","verse":"7","text":"Israel, förtrösta (vänta ivrigt) på Herren (Jahve),"},{"book":"Psaltaren","chapter":"130","verse":"8","text":"Han ska friköpa (befria) Israel"}]}
+{
+  "data": [
+    {
+      "book": "Psaltaren",
+      "chapter": "130",
+      "verse": "1",
+      "text": "En pilgrimssång (en vallfartsång; \"en sång från/för dem som vandrar upp\"). [Oavsett varifrån man kommer så går man alltid upp till Jerusalem.] Ur djupen [vattendjupen; metafor för en situation med oöverstigliga problem] ropar jag (höjer jag min röst i bön) till dig, Herre (Jahveh)."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "130",
+      "verse": "2",
+      "text": "Herre (Adonai), hör min röst, låt dina öron höra mina böners ljud [enträgna, ödmjuka vädjanden om nåd och hjälp]."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "130",
+      "verse": "3",
+      "text": "Om du, Herre (Jah – kortformen av Jahveh; betecknar att han alltid har existerat), skulle hålla fast vid (föra räkenskap över) våra synder, vem skulle då kunna stå inför dig [på domens dag]?"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "130",
+      "verse": "4",
+      "text": "Men hos dig finns förlåtelsen (hebr. ha slichah), för att man ska frukta (vörda) [ära] dig."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "130",
+      "verse": "5",
+      "text": "Jag väntar på (tittar ivrigt efter; hoppas uthålligt på) Herren (Jahveh) – hela min varelse (min själ – hebr. nefesh) väntar – och jag förtröstar på hans ord (väntar på vad han ska säga)."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "130",
+      "verse": "6",
+      "text": "Hela min varelse (min själ) [väntar/längtar] efter min Herre (Adonai), mer än väktarna efter morgonen, mer än väktarna [längtar] efter morgonen. [Versen saknar verb, men det följer underförstått med från vers 5, men med ett nytt objekt – min Herre.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "130",
+      "verse": "7",
+      "text": "Israel, förtrösta (vänta ivrigt) på Herren (Jahveh), för hos Herren (Jahveh) finns nåd (omsorgsfull kärlek – chesed), och hos honom finns full befrielse (fullständig lösensumma för att köpa oss fria från synden)."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "130",
+      "verse": "8",
+      "text": "Han ska friköpa (befria) Israel från alla deras synder (från syndens konsekvenser)."
+    }
+  ]
+}

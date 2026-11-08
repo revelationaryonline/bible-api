@@ -1,1 +1,82 @@
-{"data":[{"book":"Psaltaren","chapter":"96","verse":"1","text":"[Stycket inleds med tre uppmaningar att sjunga.]"},{"book":"Psaltaren","chapter":"96","verse":"2","text":"Sjung till Herren (Jahve), välsigna hans namn."},{"book":"Psaltaren","chapter":"96","verse":"3","text":"Förkunna hans ära bland hednafolken,"},{"book":"Psaltaren","chapter":"96","verse":"4","text":"För Herren (Jahve) är stor och högt är han prisad,"},{"book":"Psaltaren","chapter":"96","verse":"5","text":"Folkets alla gudar (elohim) är avgudar,"},{"book":"Psaltaren","chapter":"96","verse":"6","text":"Majestät och härlighet är inför hans ansikte,"},{"book":"Psaltaren","chapter":"96","verse":"7","text":"[Stycket inleds med tre uppmaningar att ”ge till Herren”.]"},{"book":"Psaltaren","chapter":"96","verse":"8","text":"Ge till Herren (Jahve), den ära som tillhör hans namn."},{"book":"Psaltaren","chapter":"96","verse":"9","text":"Tillbe Herren (Jahve) i helig skrud,"},{"book":"Psaltaren","chapter":"96","verse":"10","text":"Säg bland hednafolken: ”Herren (Jahve) regerar (är kung),"},{"book":"Psaltaren","chapter":"96","verse":"11","text":"[Tre uppmaningar till himlen, havet och marken:]"},{"book":"Psaltaren","chapter":"96","verse":"12","text":"Må marken vara glad, tillsammans med allt på den."},{"book":"Psaltaren","chapter":"96","verse":"13","text":"inför Herren, för han kommer,"}]}
+{
+  "data": [
+    {
+      "book": "Psaltaren",
+      "chapter": "96",
+      "verse": "1",
+      "text": "Sjung till Herren (Jahveh), en ny sång. Sjung till Herren (Jahveh), hela jorden."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "96",
+      "verse": "2",
+      "text": "Sjung till Herren (Jahveh), välsigna hans namn. Ropa ut hans frälsning (räddning – hebr. jesha), dag efter dag."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "96",
+      "verse": "3",
+      "text": "Återberätta om hans ära bland hednafolken, hans under bland alla folk."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "96",
+      "verse": "4",
+      "text": "För Herren (Jahveh) är stor och högt är han prisad, han ska fruktas högt över alla gudar (elohim)."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "96",
+      "verse": "5",
+      "text": "Folkets alla gudar (elohim) är avgudar, men Herren (Jahveh) är den som har gjort himlarna."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "96",
+      "verse": "6",
+      "text": "Majestät och härlighet är inför hans ansikte, makt och glans i hans helgedom."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "96",
+      "verse": "7",
+      "text": "[Stycket inleds med tre uppmaningar att \"ge till Herren\".] Ge till Herren (Jahveh), alla folkens familjer (släkter). Ge till Herren (Jahveh), ära och makt."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "96",
+      "verse": "8",
+      "text": "Ge till Herren (Jahveh), den ära som tillhör hans namn. Bär fram ett offer, och kom till hans gårdar [templet i Jerusalem]. [Motsvarande fras i 1 Krön 16:29 har \"inför hans ansikte\"; templet fanns inte när psalmen skrevs. Gårdar (pluralis) syftar på både inre och yttre gården i templet.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "96",
+      "verse": "9",
+      "text": "Tillbe Herren (Jahveh) i helig skrud, bäva inför honom, hela jorden."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "96",
+      "verse": "10",
+      "text": "Säg bland hednafolken (hebr. goj): \"Herren (Jahveh) regerar (är kung), världen står fast och vacklar inte. Han ska döma folken (hebr. am) med rättvisa.\""
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "96",
+      "verse": "11",
+      "text": "Må himlen glädja sig, och jorden fröjda sig. [De fyra första hebreiska orden är Jishmuho Ha´shamaim Ve´tagel Ha´erets (glädja sig – himlen – och fröjda sig – jorden). Begynnelsebokstäver formar ett akrostiskt mönster för Guds namn JHVH. Fler exempel är Est 1:20; 5:4; 5:13; 7:7.] Må havet brusa, med allt som fyller det."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "96",
+      "verse": "12",
+      "text": "Må marken vara glad, tillsammans med allt på den. Då ska skogens alla träd jubla (triumfera, ropa i glädje),"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "96",
+      "verse": "13",
+      "text": "inför Herren, för han kommer, han kommer för att döma jorden. Han ska döma världen med rättfärdighet, och folken med sin sanning (trofasthet). [Ps 98:9]"
+    }
+  ]
+}

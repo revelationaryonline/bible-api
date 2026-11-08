@@ -1,1 +1,22 @@
-{"data":[{"book":"Psaltaren","chapter":"134","verse":"1","text":"En pilgrimssång (en vallfartsång; ”en sång från/för dem som vandrar upp”). [Oavsett varifrån man kommer så går man alltid upp till Jerusalem.]"},{"book":"Psaltaren","chapter":"134","verse":"2","text":"Lyft upp era händer till helgedomen"},{"book":"Psaltaren","chapter":"134","verse":"3","text":"Må Herren (Jahve) välsigna er från Sion [tempelberget i Jerusalem],"}]}
+{
+  "data": [
+    {
+      "book": "Psaltaren",
+      "chapter": "134",
+      "verse": "1",
+      "text": "En pilgrimssång (en vallfartsång; \"en sång från/för dem som vandrar upp\"). [Oavsett varifrån man kommer så går man alltid upp till Jerusalem.] Skåda, välsigna Herren (Jahveh), alla Herrens (Jahvehs) tjänare, som står hela natten i Herrens (Jahvehs) hus."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "134",
+      "verse": "2",
+      "text": "Lyft upp era händer till helgedomen och välsigna Herren (Jahveh)."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "134",
+      "verse": "3",
+      "text": "Må Herren (Jahveh) välsigna er från Sion [tempelberget i Jerusalem], han som gjort (format, skapat) himlar och jord [1 Mos 1:1]."
+    }
+  ]
+}

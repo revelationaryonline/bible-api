@@ -1,1 +1,58 @@
-{"data":[{"book":"Psaltaren","chapter":"122","verse":"1","text":"En pilgrimssång (en vallfartsång; ”en sång från/för dem som vandrar upp”). [Oavsett varifrån man kommer så går man alltid upp till Jerusalem.]"},{"book":"Psaltaren","chapter":"122","verse":"2","text":"Våra fötter står"},{"book":"Psaltaren","chapter":"122","verse":"3","text":"Jerusalem, byggd som en stad"},{"book":"Psaltaren","chapter":"122","verse":"4","text":"Dit stammarna går upp,"},{"book":"Psaltaren","chapter":"122","verse":"5","text":"Där har troner satts fram för domarna,"},{"book":"Psaltaren","chapter":"122","verse":"6","text":"Be för Jerusalems frid (shalom, välgång på alla områden);"},{"book":"Psaltaren","chapter":"122","verse":"7","text":"Må frid (shalom, all slags välgång) råda inom innanför dina murar,"},{"book":"Psaltaren","chapter":"122","verse":"8","text":"För mina bröders och vänners skull vill jag nu säga:"},{"book":"Psaltaren","chapter":"122","verse":"9","text":"För Herrens (Jahves) hus skull, vår Gud (Elohim)"}]}
+{
+  "data": [
+    {
+      "book": "Psaltaren",
+      "chapter": "122",
+      "verse": "1",
+      "text": "Av (för) David. Jag gladdes, när man sa till mig: \"Låt oss gå upp till Herrens (Jahvehs) hus\""
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "122",
+      "verse": "2",
+      "text": "Våra fötter står vid (innanför) dina portar, Jerusalem. [Psalmen inleds med hur en pilgrim får höra att det är dags att gå upp till en av de tre årliga högtiderna i Jerusalem. På ett ögonblick mellan vers 1 och 2 har målet nåtts och synen av den heliga staden beskrivs.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "122",
+      "verse": "3",
+      "text": "Jerusalem, byggd som en stad där husen står tillsammans (sluter sig tätt intill varandra, hus vid hus utan mellanrum)."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "122",
+      "verse": "4",
+      "text": "Dit stammarna går upp, Herrens (Jahs) stammar, som ett vittnesbörd för Israel för att tacka [med öppna händer – prisa, hylla och erkänna], ge sitt tack till Herrens (Jahvehs) namn."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "122",
+      "verse": "5",
+      "text": "Där har troner satts fram för domarna, troner för Davids hus."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "122",
+      "verse": "6",
+      "text": "Be för Jerusalems frid (shalom, välgång på alla områden); må de som älskar dig ha all slags framgång (hebr. shala). [Ps 48:3]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "122",
+      "verse": "7",
+      "text": "Må frid (shalom, all slags välgång) råda inom (innanför) dina murar, och säkerhet (trygghet, överflöd – hebr. shala) i dina palats (fästningar). [Psalmisten ber (hebr. saalu) för Guds frid (hebr. shalom) och välgång (hebr. salom) över Jerusalem. Sex av de tio orden består av bokstäverna shin och lamed, vilket gör att både visuellt och ljudmässigt betonas frid och fred i bönen.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "122",
+      "verse": "8",
+      "text": "För mina bröders och vänners skull vill jag nu tala: \"Frid (shalom, all slags välsignelse) ska vara hos dig.\""
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "122",
+      "verse": "9",
+      "text": "För Herrens (Jahvehs) hus skull, vår Gud (Elohim), ska jag söka ditt goda."
+    }
+  ]
+}

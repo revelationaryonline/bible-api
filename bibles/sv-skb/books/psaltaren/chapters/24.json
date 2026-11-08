@@ -1,1 +1,64 @@
-{"data":[{"book":"Psaltaren","chapter":"24","verse":"1","text":"Av David, en psalm (sång ackompanjerad på strängar). [Septuaginta tillägger: ”för veckans första dag”, dvs. söndag.]"},{"book":"Psaltaren","chapter":"24","verse":"2","text":"För han har lagt dess grund i haven,"},{"book":"Psaltaren","chapter":"24","verse":"3","text":"Vem får gå upp på Herrens (Jahves) berg?"},{"book":"Psaltaren","chapter":"24","verse":"4","text":"Den som har oskyldiga händer"},{"book":"Psaltaren","chapter":"24","verse":"5","text":"Han ska (kommer att) få välsignelse av Herren (Jahve),"},{"book":"Psaltaren","chapter":"24","verse":"6","text":"Detta är släktet (den generation) som frågar efter (hängivet/flitigt uppsöker) honom:"},{"book":"Psaltaren","chapter":"24","verse":"7","text":"Höj (lyft upp) era huvuden, ni portar"},{"book":"Psaltaren","chapter":"24","verse":"8","text":"Vem är denne ärans Konung (kung av härlighet)?"},{"book":"Psaltaren","chapter":"24","verse":"9","text":"Höj (lyft upp) era huvuden, ni portar"},{"book":"Psaltaren","chapter":"24","verse":"10","text":"Vem är han, denne ärans Konung (kung av härlighet)?"}]}
+{
+  "data": [
+    {
+      "book": "Psaltaren",
+      "chapter": "24",
+      "verse": "1",
+      "text": "Av David, en psalm [sång ackompanjerad på strängar]. [Septuaginta tillägger: \"för veckans första dag\", dvs. söndag.] [\"David\" och \"psalm\" står här för första gången i denna ordning, se även Ps 101:1; 110:1. Den grekiska översättningen Septuaginta har även med ett tillägg om veckodag i fyra andra psalmer: för sabbaten (Ps 38:1), för veckans andra dag (Ps 48:1), för veckans fjärde dag (Ps 94:1) och för dagen innan sabbaten (Ps 93:1). Talmud har instruktioner för läsning av Ps 82 på tredje dagen och Ps 81 på femte dagen. I Ps 92 finns också anvisningen \"en sång för sabbatsdagen\" i den hebreiska grundtexten.] Jorden är Herrens (Jahvehs) och allt som uppfyller den (all dess fullhet; allt vad den rymmer) – världen och de som bor i den."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "24",
+      "verse": "2",
+      "text": "För han har lagt dess grund i haven, och inrättat den på oceanströmmarna (floderna). [Gud äger jorden, men människan har fått auktoritet att råda över den, se 1 Mos 1:26.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "24",
+      "verse": "3",
+      "text": "Vem får gå upp på Herrens (Jahvehs) berg? Vem kan stå upprätt i hans helgedom? [Herrens tempel i Jerusalem, se Jes 2:2–3.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "24",
+      "verse": "4",
+      "text": "Den som har oskyldiga händer och ett rent hjärta [den som är utan skuld och har rena motiv], som inte har lyft upp sin själ till tomhet [gett sig hän åt meningslöshet; burit fram sig själv åt en avgud] eller varit trolös (svurit löften som inte hållits)."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "24",
+      "verse": "5",
+      "text": "Han ska (kommer att) få välsignelse av Herren (Jahveh), och rättfärdighet [ett frikännande från domen] från sin frälsnings Gud (Elohim)."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "24",
+      "verse": "6",
+      "text": "Detta är släktet (den generation) som frågar efter (hängivet/flitigt uppsöker) honom: de som söker ditt ansikte (önskar/längtar att vara inför dig) är Jakob [Jakobs släkte]. Selah. [Antagligen ett avbrott för instrumentalt mellanspel, en paus för att begrunda vad som just har sjungits.]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "24",
+      "verse": "7",
+      "text": "Höj (lyft upp) era huvuden, ni portar och låt höja er [låt er lyftas/tas upp – imperativ passiv], ni eviga dörrar, så att ärans Konung (härlighetens kung) kan komma in!"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "24",
+      "verse": "8",
+      "text": "Vem är denne ärans Konung (kung av härlighet)? Det är Herren (Jahveh), stark [som en kraftfull armé] och mäktig (en stridsman) – Herren (Jahveh), mäktig i strid."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "24",
+      "verse": "9",
+      "text": "Höj (lyft upp) era huvuden, ni portar och höj er [lyft er upp – imperativ aktiv], ni eviga dörrar, så att ärans Konung (härlighetens kung) kan komma in!"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "24",
+      "verse": "10",
+      "text": "Vem är han, denne ärans Konung (kung av härlighet)? Härskarornas Herre (Jahveh Sebaot) – han är ärans Konung. Selah. [Antagligen ett avbrott för instrumentalt mellanspel, en paus för att begrunda vad som just har sjungits.]"
+    }
+  ]
+}

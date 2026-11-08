@@ -1,1 +1,130 @@
-{"data":[{"book":"Psaltaren","chapter":"135","verse":"1","text":"Prisa Herren (lova Jah – hebr. hallelujah)!"},{"book":"Psaltaren","chapter":"135","verse":"2","text":"Ja, ni som står i Herrens (Jahves) hus,"},{"book":"Psaltaren","chapter":"135","verse":"3","text":"Prisa Herren (Jah) för Herren (Jahve) är god,"},{"book":"Psaltaren","chapter":"135","verse":"4","text":"Herren (Jah) har utvalt Jakob [och hans släktled] till sig själv,"},{"book":"Psaltaren","chapter":"135","verse":"5","text":"För jag vet att Herren (Jahve) är stor,"},{"book":"Psaltaren","chapter":"135","verse":"6","text":"Allt som Herren (Jahve) har lust med, det har han gjort,"},{"book":"Psaltaren","chapter":"135","verse":"7","text":"Vem får dimman att stiga från jordens yttersta gräns?"},{"book":"Psaltaren","chapter":"135","verse":"8","text":"Vem slog de förstfödda i Egypten,"},{"book":"Psaltaren","chapter":"135","verse":"9","text":"Han sände tecken och under i din mitt, Egypten,"},{"book":"Psaltaren","chapter":"135","verse":"10","text":"Vem slog många länder"},{"book":"Psaltaren","chapter":"135","verse":"11","text":"Sichon, amoréernas kung"},{"book":"Psaltaren","chapter":"135","verse":"12","text":"och gav deras land som arv,"},{"book":"Psaltaren","chapter":"135","verse":"13","text":"O, Herre (Jahve), ditt namn varar för evigt,"},{"book":"Psaltaren","chapter":"135","verse":"14","text":"För Herren (Jahve) ska döma sitt folk,"},{"book":"Psaltaren","chapter":"135","verse":"15","text":"Ländernas avgudar är silver och guld,"},{"book":"Psaltaren","chapter":"135","verse":"16","text":"De har munnar men talar inte,"},{"book":"Psaltaren","chapter":"135","verse":"17","text":"de har öron men lyssnar inte,"},{"book":"Psaltaren","chapter":"135","verse":"18","text":"De som har gjort dem ska bli dem lika,"},{"book":"Psaltaren","chapter":"135","verse":"19","text":"Israels hus, välsigna Herren (Jahve),"},{"book":"Psaltaren","chapter":"135","verse":"20","text":"Levi hus (alla präster), välsigna Herren (Jahve),"},{"book":"Psaltaren","chapter":"135","verse":"21","text":"Välsignad vare Herren (Jahve) från Sion [tempelberget i Jerusalem], han som bor i Jerusalem."}]}
+{
+  "data": [
+    {
+      "book": "Psaltaren",
+      "chapter": "135",
+      "verse": "1",
+      "text": "Prisa Herren (lova Jah – hebr. hallelu jah)! Prisa Herrens (Jahvehs) namn, lovprisa, ni Herrens (Jahvehs) tjänare."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "135",
+      "verse": "2",
+      "text": "Ja, ni som står i Herrens (Jahvehs) hus, i gårdarna till vår Guds (Elohims) hus."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "135",
+      "verse": "3",
+      "text": "Prisa Herren (Jah) för Herren (Jahveh) är god, sjung lovsång till hans namn, för det är välbehagligt."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "135",
+      "verse": "4",
+      "text": "Herren (Jah) har utvalt Jakob [och hans släktled] till sig själv, och Israel som sin egen dyrbara skatt."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "135",
+      "verse": "5",
+      "text": "För jag vet att Herren (Jahveh) är stor, och att vår Herre (Adonai) är över alla gudar."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "135",
+      "verse": "6",
+      "text": "Allt som Herren (Jahveh) har lust med, det har han gjort, i himlarna och på jorden och i haven och i alla dess djup."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "135",
+      "verse": "7",
+      "text": "Vem får dimman att stiga från jordens yttersta gräns? Han gör blixtar till regnet, Han för fram vindarna ur sina förråd."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "135",
+      "verse": "8",
+      "text": "Vem slog de förstfödda i Egypten, både människor och djur? [2 Mos 11]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "135",
+      "verse": "9",
+      "text": "Han sände tecken och under i din mitt, Egypten, över farao och över hans tjänare. [De tio plågorna, se 2 Mos 7–12]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "135",
+      "verse": "10",
+      "text": "Vem slog många hednafolk (nationer) och slog ner mäktiga kungar?"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "135",
+      "verse": "11",
+      "text": "Sichon, amoréernas kung och Og, Bashans kung [4 Mos 21:21–35] och alla Kanaans kungariken [4 Mos 21:1–3; Jos 1–12],"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "135",
+      "verse": "12",
+      "text": "och gav deras land som arv, ett arv till Israel, hans folk."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "135",
+      "verse": "13",
+      "text": "O, Herre (Jahveh), ditt namn varar för evigt, din ryktbarhet, Herre (Jahveh), genom alla generationer."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "135",
+      "verse": "14",
+      "text": "För Herren (Jahveh) ska döma sitt folk, och ha barmhärtighet och trösta sin tjänare."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "135",
+      "verse": "15",
+      "text": "Hednafolkens avgudar är silver och guld, gjorda av människors händer."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "135",
+      "verse": "16",
+      "text": "De har munnar men talar inte, de har ögon men ser inte,"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "135",
+      "verse": "17",
+      "text": "de har öron men lyssnar inte, inte heller finns det någon andedräkt i deras munnar."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "135",
+      "verse": "18",
+      "text": "De som har gjort dem ska bli dem lika, ja, alla som förtröstar (litar) på dem. [Ps 115:4–8; Jes 44:9–20; 46:6–7; Jer 10:1–9; Hab 2:18–19]"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "135",
+      "verse": "19",
+      "text": "Israels hus, välsigna Herren (Jahveh), Arons hus [prästerna], välsigna Herren (Jahveh),"
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "135",
+      "verse": "20",
+      "text": "Levi hus [alla tempeltjänare], välsigna Herren (Jahveh), ni som fruktar (vördar) Herren (Jahveh), välsigna Herren (Jahveh)."
+    },
+    {
+      "book": "Psaltaren",
+      "chapter": "135",
+      "verse": "21",
+      "text": "Välsignad är Herren (Jahveh) från Sion [tempelberget i Jerusalem], han som bor i Jerusalem. Prisa Herren (lova Jah – hebr. hallelu jah)!"
+    }
+  ]
+}
