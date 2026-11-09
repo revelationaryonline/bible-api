@@ -1,1 +1,28 @@
-{"data":[{"book":"Thi Thiên","chapter":"123","verse":"1","text":"Con ngước mắt lên nhìn Chúa,"},{"book":"Thi Thiên","chapter":"123","verse":"2","text":"Chúng con trông mong Chúa Hằng Hữu, Đức Chúa Trời chúng con thương xót,"},{"book":"Thi Thiên","chapter":"123","verse":"3","text":"Xin thương xót chúng con, lạy Chúa Hằng Hữu, xin thương xót,"},{"book":"Thi Thiên","chapter":"123","verse":"4","text":"Chúng con chịu đựng ê chề vì người tự cao chế nhạo,"}]}
+{
+  "data": [
+    {
+      "book": "Thi Thiên",
+      "chapter": "123",
+      "verse": "1",
+      "text": "Con ngước mắt lên nhìn Chúa, lạy Đức Chúa Trời, Đấng ngự trị trên cao."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "123",
+      "verse": "2",
+      "text": "Chúng con trông mong Chúa Hằng Hữu, Đức Chúa Trời chúng con thương xót, như mắt đầy tớ trông chờ tay chủ, như mắt tớ gái nhìn tay bà chủ."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "123",
+      "verse": "3",
+      "text": "Xin thương xót chúng con, lạy Chúa Hằng Hữu, xin thương xót, vì chúng con bị khinh bỉ quá nhiều."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "123",
+      "verse": "4",
+      "text": "Chúng con chịu đựng ê chề vì người tự cao chế nhạo, và người kiêu ngạo khinh khi."
+    }
+  ]
+}

@@ -1,1 +1,136 @@
-{"data":[{"book":"Thi Thiên","chapter":"34","verse":"1","text":"Tôi luôn luôn chúc tụng Chúa Hằng Hữu,"},{"book":"Thi Thiên","chapter":"34","verse":"2","text":"Tôi sẽ khoe mọi ân lành của Chúa Hằng Hữu;"},{"book":"Thi Thiên","chapter":"34","verse":"3","text":"Hãy cùng tôi tôn vinh Chúa Hằng Hữu;"},{"book":"Thi Thiên","chapter":"34","verse":"4","text":"Tôi tìm kiếm Chúa Hằng Hữu và Ngài đáp ứng."},{"book":"Thi Thiên","chapter":"34","verse":"5","text":"Ai ngửa trông nơi Chúa được Ngài chiếu sáng,"},{"book":"Thi Thiên","chapter":"34","verse":"6","text":"Người cùng khổ này kêu xin, và Chúa Hằng Hữu lắng nghe,"},{"book":"Thi Thiên","chapter":"34","verse":"7","text":"Vì thiên sứ của Chúa Hằng Hữu là người canh giữ;"},{"book":"Thi Thiên","chapter":"34","verse":"8","text":"Hãy nếm thử cho biết Chúa Hằng Hữu là thiện lành."},{"book":"Thi Thiên","chapter":"34","verse":"9","text":"Các người thánh, hãy kính sợ Chúa Hằng Hữu,"},{"book":"Thi Thiên","chapter":"34","verse":"10","text":"Dù sư tử tơ có khi thiếu thốn và đói,"},{"book":"Thi Thiên","chapter":"34","verse":"11","text":"Các con, hãy đến nghe ta,"},{"book":"Thi Thiên","chapter":"34","verse":"12","text":"Có ai là người yêu thích cuộc đời,"},{"book":"Thi Thiên","chapter":"34","verse":"13","text":"Phải giữ miệng lưỡi mình,"},{"book":"Thi Thiên","chapter":"34","verse":"14","text":"Phải tránh xa điều ác và làm việc lành."},{"book":"Thi Thiên","chapter":"34","verse":"15","text":"Vì mắt Chúa Hằng Hữu nhìn người công chính;"},{"book":"Thi Thiên","chapter":"34","verse":"16","text":"Chúa Hằng Hữu đối nghịch người ác;"},{"book":"Thi Thiên","chapter":"34","verse":"17","text":"Người công chính kêu xin, Chúa lắng nghe."},{"book":"Thi Thiên","chapter":"34","verse":"18","text":"Chúa Hằng Hữu ở gần người có lòng tan vỡ;"},{"book":"Thi Thiên","chapter":"34","verse":"19","text":"Người công chính gặp nhiều tai nạn,"},{"book":"Thi Thiên","chapter":"34","verse":"20","text":"Chúa Hằng Hữu giữ gìn xương cốt người công chính;"},{"book":"Thi Thiên","chapter":"34","verse":"21","text":"Tai ương đến tiêu diệt người ác,"},{"book":"Thi Thiên","chapter":"34","verse":"22","text":"Nhưng Chúa Hằng Hữu chuộc người phục vụ Chúa."}]}
+{
+  "data": [
+    {
+      "book": "Thi Thiên",
+      "chapter": "34",
+      "verse": "1",
+      "text": "Tôi luôn luôn chúc tụng Chúa Hằng Hữu, miệng tôi chỉ biết ca ngợi Ngài."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "34",
+      "verse": "2",
+      "text": "Tôi sẽ khoe mọi ân lành của Chúa Hằng Hữu; cho người khốn khó nghe và vui mừng."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "34",
+      "verse": "3",
+      "text": "Hãy cùng tôi tôn vinh Chúa Hằng Hữu; chúng ta hãy suy tôn Danh Ngài."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "34",
+      "verse": "4",
+      "text": "Tôi tìm kiếm Chúa Hằng Hữu và Ngài đáp ứng. Ngài giải thoát tôi khỏi cảnh hãi hùng."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "34",
+      "verse": "5",
+      "text": "Ai ngửa trông nơi Chúa được Ngài chiếu sáng, mặt tươi vui, không hổ thẹn cúi đầu."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "34",
+      "verse": "6",
+      "text": "Người cùng khổ này kêu xin, và Chúa Hằng Hữu lắng nghe, Ngài giải cứu người khỏi hoạn nạn."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "34",
+      "verse": "7",
+      "text": "Vì thiên sứ của Chúa Hằng Hữu là người canh giữ; đóng trại chung quanh và giải cứu người kính thờ Chúa."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "34",
+      "verse": "8",
+      "text": "Hãy nếm thử cho biết Chúa Hằng Hữu là thiện lành. Phước cho người ẩn náu nơi Ngài!"
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "34",
+      "verse": "9",
+      "text": "Các người thánh, hãy kính sợ Chúa Hằng Hữu, vì người kính sợ Chúa chẳng thiếu thốn bao giờ."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "34",
+      "verse": "10",
+      "text": "Dù sư tử tơ có khi thiếu thốn và đói, nhưng người tìm kiếm Chúa Hằng Hữu chẳng thiếu điều lành nào."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "34",
+      "verse": "11",
+      "text": "Các con, hãy đến nghe ta, ta sẽ dạy các con sự kính sợ Chúa Hằng Hữu."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "34",
+      "verse": "12",
+      "text": "Có ai là người yêu thích cuộc đời, muốn sống lâu dài, hạnh phúc?"
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "34",
+      "verse": "13",
+      "text": "Phải giữ miệng lưỡi mình, đừng nói lời độc hại, dối gian!"
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "34",
+      "verse": "14",
+      "text": "Phải tránh xa điều ác và làm việc lành. Hãy tìm kiếm hòa bình, và theo đuổi nó."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "34",
+      "verse": "15",
+      "text": "Vì mắt Chúa Hằng Hữu nhìn người công chính; tai Ngài nghe tiếng họ kêu cầu."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "34",
+      "verse": "16",
+      "text": "Chúa Hằng Hữu đối nghịch người ác; xóa kỷ niệm họ trên thế gian."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "34",
+      "verse": "17",
+      "text": "Người công chính kêu xin, Chúa lắng nghe. Ngài giải thoát họ khỏi mọi gian khổ."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "34",
+      "verse": "18",
+      "text": "Chúa Hằng Hữu ở gần người có lòng tan vỡ; Ngài cứu người biết hối hận ăn năn."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "34",
+      "verse": "19",
+      "text": "Người công chính gặp nhiều tai nạn, nhưng Chúa Hằng Hữu cho tai qua nạn khỏi."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "34",
+      "verse": "20",
+      "text": "Chúa Hằng Hữu giữ gìn xương cốt người công chính; không để cho một cái nào phải gãy!"
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "34",
+      "verse": "21",
+      "text": "Tai ương đến tiêu diệt người ác, ai ghét người ngay bị Chúa phạt."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "34",
+      "verse": "22",
+      "text": "Nhưng Chúa Hằng Hữu chuộc người phục vụ Chúa. Người nào ẩn núp nơi Chúa không bị lên án."
+    }
+  ]
+}

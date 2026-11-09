@@ -1,1 +1,136 @@
-{"data":[{"book":"Gióp","chapter":"10","verse":"1","text":"Tôi đã chán ghét cuộc đời tôi."},{"book":"Gióp","chapter":"10","verse":"2","text":"Tôi sẽ thưa với Đức Chúa Trời: “Xin đừng lên án con—"},{"book":"Gióp","chapter":"10","verse":"3","text":"Chúa có vui không khi Ngài đàn áp con?"},{"book":"Gióp","chapter":"10","verse":"4","text":"Không lẽ Chúa nhìn bằng con mắt của loài người?"},{"book":"Gióp","chapter":"10","verse":"5","text":"Phải chăng đời Chúa chỉ dài bằng đời chúng con?"},{"book":"Gióp","chapter":"10","verse":"6","text":"nên Ngài nhanh chóng truy tội ác con,"},{"book":"Gióp","chapter":"10","verse":"7","text":"Cho dù Chúa biết con vô tội,"},{"book":"Gióp","chapter":"10","verse":"8","text":"Chúa đã nắn con với đôi tay Ngài; Chúa tạo ra con,"},{"book":"Gióp","chapter":"10","verse":"9","text":"Xin Chúa nhớ rằng Ngài đã tạo con từ bụi đất—"},{"book":"Gióp","chapter":"10","verse":"10","text":"Chúa đã chỉ dẫn sự thai nghén con"},{"book":"Gióp","chapter":"10","verse":"11","text":"Chúa đã bọc con bằng da và thịt,"},{"book":"Gióp","chapter":"10","verse":"12","text":"Chúa cho con mạng sống và tình thương của Ngài."},{"book":"Gióp","chapter":"10","verse":"13","text":"Tuy vậy, Chúa đã giấu những điều này trong lòng—"},{"book":"Gióp","chapter":"10","verse":"14","text":"là để trông chừng con, nếu con phạm tội,"},{"book":"Gióp","chapter":"10","verse":"15","text":"Nếu con làm ác, thật khốn cho con;"},{"book":"Gióp","chapter":"10","verse":"16","text":"Nếu con đứng lên, Chúa sẽ vồ con như sư tử"},{"book":"Gióp","chapter":"10","verse":"17","text":"Một lần rồi một lần nữa, Chúa đưa bằng chứng chống lại con."},{"book":"Gióp","chapter":"10","verse":"18","text":"Vậy sao Chúa để con lọt lòng mẹ?"},{"book":"Gióp","chapter":"10","verse":"19","text":"Được vậy con đã khỏi sống trên đời,"},{"book":"Gióp","chapter":"10","verse":"20","text":"Con chỉ còn vài ngày còn lại, xin để con yên,"},{"book":"Gióp","chapter":"10","verse":"21","text":"Trước khi con rời khỏi—không bao giờ trở lại—"},{"book":"Gióp","chapter":"10","verse":"22","text":"Đó là cõi mịt mù như nửa đêm,"}]}
+{
+  "data": [
+    {
+      "book": "Gióp",
+      "chapter": "10",
+      "verse": "1",
+      "text": "Tôi đã chán ghét cuộc đời tôi. Hãy cho tôi tự do than trách. Nói lời cay đắng tự trong tim."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "10",
+      "verse": "2",
+      "text": "Tôi sẽ thưa với Đức Chúa Trời: “Xin đừng lên án con— xin cho con biết Chúa buộc con tội gì?"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "10",
+      "verse": "3",
+      "text": "Chúa có vui không khi Ngài đàn áp con? Sao Chúa từ bỏ con, là công trình của tay Chúa, trong khi Ngài mỉm cười trước mưu đồ kẻ ác?"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "10",
+      "verse": "4",
+      "text": "Không lẽ Chúa nhìn bằng con mắt của loài người? Chúa cũng thấy như người phàm thấy sao?"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "10",
+      "verse": "5",
+      "text": "Phải chăng đời Chúa chỉ dài bằng đời chúng con? Phải chăng cuộc sống Chúa quá ngắn"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "10",
+      "verse": "6",
+      "text": "nên Ngài nhanh chóng truy tội ác con, và tìm kiếm tội lỗi con?"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "10",
+      "verse": "7",
+      "text": "Cho dù Chúa biết con vô tội, không ai có thể giải thoát con khỏi tay Ngài."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "10",
+      "verse": "8",
+      "text": "Chúa đã nắn con với đôi tay Ngài; Chúa tạo ra con, mà bây giờ sao Ngài lại đang tâm hủy diệt con."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "10",
+      "verse": "9",
+      "text": "Xin Chúa nhớ rằng Ngài đã tạo con từ bụi đất— Chúa lại cho con trở về cát bụi sớm như vậy sao?"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "10",
+      "verse": "10",
+      "text": "Chúa đã chỉ dẫn sự thai nghén con và tạo hình dạng con trong tử cung."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "10",
+      "verse": "11",
+      "text": "Chúa đã bọc con bằng da và thịt, và kết chặt con lại bằng xương và gân."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "10",
+      "verse": "12",
+      "text": "Chúa cho con mạng sống và tình thương của Ngài. Sự chăm sóc của Ngài gìn giữ đời sống con."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "10",
+      "verse": "13",
+      "text": "Tuy vậy, Chúa đã giấu những điều này trong lòng— con biết là dụng ý của Ngài—"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "10",
+      "verse": "14",
+      "text": "là để trông chừng con, nếu con phạm tội, Chúa sẽ không tha thứ tội con."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "10",
+      "verse": "15",
+      "text": "Nếu con làm ác, thật khốn cho con; dù nếu con thiện lành, con cũng không dám ngước mặt, vì con thấy toàn nhục nhã và đớn đau."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "10",
+      "verse": "16",
+      "text": "Nếu con đứng lên, Chúa sẽ vồ con như sư tử và dùng sức mạnh Ngài trừ diệt con."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "10",
+      "verse": "17",
+      "text": "Một lần rồi một lần nữa, Chúa đưa bằng chứng chống lại con. Chúa gia tăng cơn giận đổ trên con và thêm quân hùng mạnh tấn công con."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "10",
+      "verse": "18",
+      "text": "Vậy sao Chúa để con lọt lòng mẹ? Sao không cho con chết lúc vừa sinh?"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "10",
+      "verse": "19",
+      "text": "Được vậy con đã khỏi sống trên đời, từ lòng mẹ đi luôn xuống mộ phần."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "10",
+      "verse": "20",
+      "text": "Con chỉ còn vài ngày còn lại, xin để con yên, xin cho con được an thân chốc lát,"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "10",
+      "verse": "21",
+      "text": "Trước khi con rời khỏi—không bao giờ trở lại— đến nơi tối tăm và vô cùng ảm đạm."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "10",
+      "verse": "22",
+      "text": "Đó là cõi mịt mù như nửa đêm, u ám và hỗn loạn, nơi đó ánh sáng chẳng khác gì bóng đêm.”"
+    }
+  ]
+}

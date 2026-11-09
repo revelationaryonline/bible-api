@@ -1,1 +1,22 @@
-{"data":[{"book":"Thi Thiên","chapter":"131","verse":"1","text":"Chúa Hằng Hữu ôi, lòng con không kiêu ngạo;"},{"book":"Thi Thiên","chapter":"131","verse":"2","text":"Con đã làm lắng dịu linh hồn,"},{"book":"Thi Thiên","chapter":"131","verse":"3","text":"Hỡi Ít-ra-ên ơi, hãy hy vọng nơi Chúa Hằng Hữu—"}]}
+{
+  "data": [
+    {
+      "book": "Thi Thiên",
+      "chapter": "131",
+      "verse": "1",
+      "text": "Chúa Hằng Hữu ôi, lòng con không kiêu ngạo; mắt con không kiêu hãnh. Con không mơ việc cao xa, vượt quá tài sức mình."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "131",
+      "verse": "2",
+      "text": "Con đã làm lắng dịu linh hồn, như trẻ thôi bú nằm yên bên mẹ. Linh hồn an tĩnh trong con."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "131",
+      "verse": "3",
+      "text": "Hỡi Ít-ra-ên ơi, hãy hy vọng nơi Chúa Hằng Hữu— từ nay đến muôn đời."
+    }
+  ]
+}

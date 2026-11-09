@@ -1,1 +1,208 @@
-{"data":[{"book":"Gióp","chapter":"41","verse":"1","text":"“Con có thể bắt Lê-vi-a-than41:1 Đây là con quái vật trong truyền thuyết phương Đông  bằng móc câu"},{"book":"Gióp","chapter":"41","verse":"2","text":"Con có thể dùng dây bện bằng sậy mà xâu mũi,"},{"book":"Gióp","chapter":"41","verse":"3","text":"Lẽ nào nó sẽ không xin con thương xót"},{"book":"Gióp","chapter":"41","verse":"4","text":"Nó có bằng lòng lập giao ước với con,"},{"book":"Gióp","chapter":"41","verse":"5","text":"Con có dám chơi với nó như loài chim,"},{"book":"Gióp","chapter":"41","verse":"6","text":"Bạn bè con có mặc cả với nhau mua bán nó,"},{"book":"Gióp","chapter":"41","verse":"7","text":"Con có thể lấy sắt có ngạnh cắm đầy mình nó,"},{"book":"Gióp","chapter":"41","verse":"8","text":"Nếu con thử nắm lấy nó,"},{"book":"Gióp","chapter":"41","verse":"9","text":"Kìa trước mặt nó, hy vọng liền tan biến."},{"book":"Gióp","chapter":"41","verse":"10","text":"Không có ai dám trêu chọc thủy quái,"},{"book":"Gióp","chapter":"41","verse":"11","text":"Ai cho Ta vay mượn để đòi Ta hoàn trả?"},{"book":"Gióp","chapter":"41","verse":"12","text":"Ta phải nhắc đến sức mạnh nó,"},{"book":"Gióp","chapter":"41","verse":"13","text":"Ai dám thử lột bộ da nó,"},{"book":"Gióp","chapter":"41","verse":"14","text":"Ai dám cạy miệng nó ra?"},{"book":"Gióp","chapter":"41","verse":"15","text":"Vảy trên lưng nó sắp lớp giống một hàng khiên,"},{"book":"Gióp","chapter":"41","verse":"16","text":"Chúng khớp chặt với nhau,"},{"book":"Gióp","chapter":"41","verse":"17","text":"Chúng kết dính vào nhau, bám sát lấy nhau."},{"book":"Gióp","chapter":"41","verse":"18","text":"Nó nhảy mũi, lóe ra tia sáng!"},{"book":"Gióp","chapter":"41","verse":"19","text":"Miệng nó phun ngọn lửa cháy như đuốc;"},{"book":"Gióp","chapter":"41","verse":"20","text":"Khói xông lên nghi ngút từ lỗ mũi,"},{"book":"Gióp","chapter":"41","verse":"21","text":"Hơi thở nó nhóm lửa cho than cháy rực,"},{"book":"Gióp","chapter":"41","verse":"22","text":"Cổ nó chứa đầy năng lực,"},{"book":"Gióp","chapter":"41","verse":"23","text":"Các bắp thịt nó cứng và chắc nịch,"},{"book":"Gióp","chapter":"41","verse":"24","text":"Quả tim nó cứng như đá,"},{"book":"Gióp","chapter":"41","verse":"25","text":"Khi nó đứng dậy, dũng sĩ liền khiếp đảm,"},{"book":"Gióp","chapter":"41","verse":"26","text":"Không kiếm nào có thể chém đứt,"},{"book":"Gióp","chapter":"41","verse":"27","text":"Cây sắt trở thành cọng rơm"},{"book":"Gióp","chapter":"41","verse":"28","text":"Trước cung tên nó không hề chạy trốn."},{"book":"Gióp","chapter":"41","verse":"29","text":"Còn phi tiêu nó coi như cỏ rác"},{"book":"Gióp","chapter":"41","verse":"30","text":"Vảy bụng nó nhọn bén như mảnh sành."},{"book":"Gióp","chapter":"41","verse":"31","text":"Nó khuấy động vực thẳm như nồi nước sôi sục."},{"book":"Gióp","chapter":"41","verse":"32","text":"Nó đi qua còn để lại hào quang,"},{"book":"Gióp","chapter":"41","verse":"33","text":"Khắp địa cầu, không sinh vật nào sánh kịp,"},{"book":"Gióp","chapter":"41","verse":"34","text":"Nó khinh dể những giống thú cao lớn."}]}
+{
+  "data": [
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "1",
+      "text": "“Con có thể bắt Lê-vi-a-than41:1 Đây là con quái vật trong truyền thuyết phương Đông  bằng móc câu hay dùng dây kéo lưỡi nó được không?"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "2",
+      "text": "Con có thể dùng dây bện bằng sậy mà xâu mũi, hoặc lấy chông mà chọc thủng hàm nó không?"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "3",
+      "text": "Lẽ nào nó sẽ không xin con thương xót hay van nài lòng trắc ẩn của con?"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "4",
+      "text": "Nó có bằng lòng lập giao ước với con, hoặc nép mình làm nô lệ cho con mãi?"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "5",
+      "text": "Con có dám chơi với nó như loài chim, hoặc buộc nó lại cho trẻ con đùa giỡn?"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "6",
+      "text": "Bạn bè con có mặc cả với nhau mua bán nó, và chia da xẻ thịt nó cho các nhà buôn?"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "7",
+      "text": "Con có thể lấy sắt có ngạnh cắm đầy mình nó, hay lấy lao phóng cá mà đâm thủng đầu nó không?"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "8",
+      "text": "Nếu con thử nắm lấy nó, con sẽ nhớ mãi và chẳng còn dám chơi dại như thế nữa."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "9",
+      "text": "Kìa trước mặt nó, hy vọng liền tan biến. Vừa thấy nó, người ta liền ngã gục."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "10",
+      "text": "Không có ai dám trêu chọc thủy quái, thì còn ai dám đương đầu với Ta?"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "11",
+      "text": "Ai cho Ta vay mượn để đòi Ta hoàn trả? Vạn vật dưới vòm trời đều thuộc về Ta."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "12",
+      "text": "Ta phải nhắc đến sức mạnh nó, với các chân và thân hình đẹp đẽ."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "13",
+      "text": "Ai dám thử lột bộ da nó, hoặc mon men đến gần quai hàm nó không?"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "14",
+      "text": "Ai dám cạy miệng nó ra? Vì hám răng nó thật đáng khiếp sợ!"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "15",
+      "text": "Vảy trên lưng nó sắp lớp giống một hàng khiên, gắn liền nhau khin khít."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "16",
+      "text": "Chúng khớp chặt với nhau, không khí chẳng thể lọt qua."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "17",
+      "text": "Chúng kết dính vào nhau, bám sát lấy nhau. Không thể tách rời được."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "18",
+      "text": "Nó nhảy mũi, lóe ra tia sáng! Mắt nó rạng rỡ như ánh mắt rạng đông."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "19",
+      "text": "Miệng nó phun ngọn lửa cháy như đuốc; với những tia lửa rợn người."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "20",
+      "text": "Khói xông lên nghi ngút từ lỗ mũi, như nồi nước sôi trên ngọn lửa lau sậy."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "21",
+      "text": "Hơi thở nó nhóm lửa cho than cháy rực, vì miệng nó phun ra từng ngọn lửa."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "22",
+      "text": "Cổ nó chứa đầy năng lực, muôn loài khủng khiếp trước mặt nó."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "23",
+      "text": "Các bắp thịt nó cứng và chắc nịch, không tài nào lay chuyển nổi."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "24",
+      "text": "Quả tim nó cứng như đá, như thớt cối bằng hoa cương."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "25",
+      "text": "Khi nó đứng dậy, dũng sĩ liền khiếp đảm, tiếng nó khua động làm họ phách lạc hồn xiêu."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "26",
+      "text": "Không kiếm nào có thể chém đứt, giáo, đao, hay ngọn lao cũng không sờn."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "27",
+      "text": "Cây sắt trở thành cọng rơm và đồng đen biến ra gỗ mục."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "28",
+      "text": "Trước cung tên nó không hề chạy trốn. Đá bắn rào rào, nó coi như rơm khô."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "29",
+      "text": "Còn phi tiêu nó coi như cỏ rác và cười chê khinh miệt các mũi lao."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "30",
+      "text": "Vảy bụng nó nhọn bén như mảnh sành. Tạo những đường cày nơi vùng đồng lầy."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "31",
+      "text": "Nó khuấy động vực thẳm như nồi nước sôi sục. Biến đại dương ra lọ dầu thơm."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "32",
+      "text": "Nó đi qua còn để lại hào quang, khiến mặt biển trông như đầu tóc bạc."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "33",
+      "text": "Khắp địa cầu, không sinh vật nào sánh kịp, một tạo vật chẳng biết sợ là gì"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "41",
+      "verse": "34",
+      "text": "Nó khinh dể những giống thú cao lớn. Nó là vua của những loài thú kiêu hãnh.”"
+    }
+  ]
+}

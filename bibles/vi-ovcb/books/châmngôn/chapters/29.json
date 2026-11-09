@@ -1,1 +1,166 @@
-{"data":[{"book":"Châm Ngôn","chapter":"29","verse":"1","text":"Người cứng lòng cứng cổ trước lời răn dạy"},{"book":"Châm Ngôn","chapter":"29","verse":"2","text":"Người liêm chính cai trị, dân chúng hân hoan."},{"book":"Châm Ngôn","chapter":"29","verse":"3","text":"Con khôn ngoan khiến cha vui lòng,"},{"book":"Châm Ngôn","chapter":"29","verse":"4","text":"Vua công minh, nước cường thịnh,"},{"book":"Châm Ngôn","chapter":"29","verse":"5","text":"Ai nịnh bợ hàng xóm láng giềng,"},{"book":"Châm Ngôn","chapter":"29","verse":"6","text":"Người ác bị tội mình sập bẫy,"},{"book":"Châm Ngôn","chapter":"29","verse":"7","text":"Người ngay tôn trọng quyền lợi của người nghèo khó;"},{"book":"Châm Ngôn","chapter":"29","verse":"8","text":"Người kiêu cường khua mép làm cả thành náo động xôn xao,"},{"book":"Châm Ngôn","chapter":"29","verse":"9","text":"Người khôn chẳng cần tranh luận với kẻ dại dột,"},{"book":"Châm Ngôn","chapter":"29","verse":"10","text":"Người trọn vẹn bị bọn khát máu ghen ghét,"},{"book":"Châm Ngôn","chapter":"29","verse":"11","text":"Người dại để cơn giận mình bùng nổ,"},{"book":"Châm Ngôn","chapter":"29","verse":"12","text":"Nếu vua nghe lời giả dối, dối gạt,"},{"book":"Châm Ngôn","chapter":"29","verse":"13","text":"Người nghèo và người giàu đều giống nhau ở điểm này:"},{"book":"Châm Ngôn","chapter":"29","verse":"14","text":"Vua nào xử công minh cho người nghèo nàn,"},{"book":"Châm Ngôn","chapter":"29","verse":"15","text":"Giáo huấn, đòn vọt rèn luyện trẻ thơ,"},{"book":"Châm Ngôn","chapter":"29","verse":"16","text":"Số người ác càng nhiều, tội phạm càng gia tăng,"},{"book":"Châm Ngôn","chapter":"29","verse":"17","text":"Muốn hưởng hạnh phước và tâm hồn được an tịnh,"},{"book":"Châm Ngôn","chapter":"29","verse":"18","text":"Nước nào không được Chúa hướng dẫn sẽ bị xáo trộn."},{"book":"Châm Ngôn","chapter":"29","verse":"19","text":"Lời nói suông không đủ điều khiển người giúp việc,"},{"book":"Châm Ngôn","chapter":"29","verse":"20","text":"Con có thấy người nói quá hấp tấp?"},{"book":"Châm Ngôn","chapter":"29","verse":"21","text":"Nếu nuông chiều người giúp việc từ thuở bé,"},{"book":"Châm Ngôn","chapter":"29","verse":"22","text":"Người dễ giận suốt ngày gây gổ;"},{"book":"Châm Ngôn","chapter":"29","verse":"23","text":"Tính kiêu căng đưa người xuống dốc,"},{"book":"Châm Ngôn","chapter":"29","verse":"24","text":"Người đồng lõa với kẻ trộm, là gây hại cho bản thân."},{"book":"Châm Ngôn","chapter":"29","verse":"25","text":"Lo sợ người phàm là một cạm bẫy,"},{"book":"Châm Ngôn","chapter":"29","verse":"26","text":"Muốn công lý, cầu xin Chúa Hằng Hữu,"},{"book":"Châm Ngôn","chapter":"29","verse":"27","text":"Người ngay ghét việc gian tà;"}]}
+{
+  "data": [
+    {
+      "book": "Châm Ngôn",
+      "chapter": "29",
+      "verse": "1",
+      "text": "Người cứng lòng cứng cổ trước lời răn dạy sẽ suy sụp thình lình không phương chữa chạy."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "29",
+      "verse": "2",
+      "text": "Người liêm chính cai trị, dân chúng hân hoan. Nhưng người ác nắm quyền, dân chúng lầm than."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "29",
+      "verse": "3",
+      "text": "Con khôn ngoan khiến cha vui lòng, người nuôi gái điếm phá hoại gia phong."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "29",
+      "verse": "4",
+      "text": "Vua công minh, nước cường thịnh, vua tham nhũng, nước mạt vận."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "29",
+      "verse": "5",
+      "text": "Ai nịnh bợ hàng xóm láng giềng, là giăng lưới dưới chân."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "29",
+      "verse": "6",
+      "text": "Người ác bị tội mình sập bẫy, nhưng người ngay ca hát vui mừng."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "29",
+      "verse": "7",
+      "text": "Người ngay tôn trọng quyền lợi của người nghèo khó; còn người ác chẳng biết đến quyền lợi đó."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "29",
+      "verse": "8",
+      "text": "Người kiêu cường khua mép làm cả thành náo động xôn xao, người khôn ngoan làm lắng dịu cơn thịnh nộ cuồng bạo."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "29",
+      "verse": "9",
+      "text": "Người khôn chẳng cần tranh luận với kẻ dại dột, vì nó sẽ nổi giận, hoặc cười ngạo nghễ không thôi."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "29",
+      "verse": "10",
+      "text": "Người trọn vẹn bị bọn khát máu ghen ghét, nhưng được người công chính quý chuộng."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "29",
+      "verse": "11",
+      "text": "Người dại để cơn giận mình bùng nổ, nhưng người khôn chế ngự nó."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "29",
+      "verse": "12",
+      "text": "Nếu vua nghe lời giả dối, dối gạt, bầy tôi người chỉ là phường gian ác."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "29",
+      "verse": "13",
+      "text": "Người nghèo và người giàu đều giống nhau ở điểm này: Chúa Hằng Hữu cho ánh sáng để thấy."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "29",
+      "verse": "14",
+      "text": "Vua nào xử công minh cho người nghèo nàn, sẽ được tồn tại với năm tháng."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "29",
+      "verse": "15",
+      "text": "Giáo huấn, đòn vọt rèn luyện trẻ thơ, đứa trẻ phóng túng làm nhục mẹ nó."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "29",
+      "verse": "16",
+      "text": "Số người ác càng nhiều, tội phạm càng gia tăng, nhưng người công chính sẽ chứng kiến cảnh chúng suy tàn."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "29",
+      "verse": "17",
+      "text": "Muốn hưởng hạnh phước và tâm hồn được an tịnh, hãy sửa phạt con mình."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "29",
+      "verse": "18",
+      "text": "Nước nào không được Chúa hướng dẫn sẽ bị xáo trộn. Quốc gia nào theo luật lệ Chúa, hạnh phước trường tồn."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "29",
+      "verse": "19",
+      "text": "Lời nói suông không đủ điều khiển người giúp việc, vì dù hiểu biết, chưa chắc họ đã lưu tâm."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "29",
+      "verse": "20",
+      "text": "Con có thấy người nói quá hấp tấp? Người ngu đần còn khá hơn người nói hấp tấp."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "29",
+      "verse": "21",
+      "text": "Nếu nuông chiều người giúp việc từ thuở bé, lớn lên nó sẽ đòi được kể như người thừa kế."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "29",
+      "verse": "22",
+      "text": "Người dễ giận suốt ngày gây gổ; người nóng tính lầm lỗi liên miên."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "29",
+      "verse": "23",
+      "text": "Tính kiêu căng đưa người xuống dốc, lòng khiêm tốn đem lại vinh dự."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "29",
+      "verse": "24",
+      "text": "Người đồng lõa với kẻ trộm, là gây hại cho bản thân. Dù đã thề trước tòa, mà ngậm miệng không tố giác,"
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "29",
+      "verse": "25",
+      "text": "Lo sợ người phàm là một cạm bẫy, tin cậy Chúa sẽ được an toàn."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "29",
+      "verse": "26",
+      "text": "Muốn công lý, cầu xin Chúa Hằng Hữu, đừng mong tìm ân huệ của hoàng gia."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "29",
+      "verse": "27",
+      "text": "Người ngay ghét việc gian tà; người gian ghen ghét việc làm của người ngay."
+    }
+  ]
+}

@@ -1,1 +1,214 @@
-{"data":[{"book":"Gióp","chapter":"15","verse":"1","text":"Rồi Ê-li-pha, người xứ Thê-man đáp:"},{"book":"Gióp","chapter":"15","verse":"2","text":"“Người khôn ngoan không đối đáp vu vơ!"},{"book":"Gióp","chapter":"15","verse":"3","text":"Người khôn không lập luận vô bổ."},{"book":"Gióp","chapter":"15","verse":"4","text":"Lẽ nào anh không sợ Đức Chúa Trời,"},{"book":"Gióp","chapter":"15","verse":"5","text":"Tội lỗi anh dạy miệng anh nói."},{"book":"Gióp","chapter":"15","verse":"6","text":"Miệng anh lên án anh, không phải tôi."},{"book":"Gióp","chapter":"15","verse":"7","text":"Phải chăng anh là người sinh ra đầu tiên?"},{"book":"Gióp","chapter":"15","verse":"8","text":"Có phải anh nghe được cuộc luận bàn của Đức Chúa Trời?"},{"book":"Gióp","chapter":"15","verse":"9","text":"Có gì anh biết mà chúng tôi không rõ?"},{"book":"Gióp","chapter":"15","verse":"10","text":"Giữa chúng ta có người cao tuổi, có người tóc bạc,"},{"book":"Gióp","chapter":"15","verse":"11","text":"Lời an ủi của Đức Chúa Trời quá ít cho anh sao?"},{"book":"Gióp","chapter":"15","verse":"12","text":"Vì sao lòng anh bấn loạn?"},{"book":"Gióp","chapter":"15","verse":"13","text":"đến nỗi anh chống lại Đức Chúa Trời"},{"book":"Gióp","chapter":"15","verse":"14","text":"Có thể nào loài người được kể là thanh sạch?"},{"book":"Gióp","chapter":"15","verse":"15","text":"Này! Đức Chúa Trời không tin cậy dù là thiên sứ."},{"book":"Gióp","chapter":"15","verse":"16","text":"Huống chi con người thối nát và tội lỗi"},{"book":"Gióp","chapter":"15","verse":"17","text":"Nếu anh có nghe thì tôi mới trình bày."},{"book":"Gióp","chapter":"15","verse":"18","text":"Cũng là điều các hiền triết đã xác nhận"},{"book":"Gióp","chapter":"15","verse":"19","text":"từ những người được ban cho đất"},{"book":"Gióp","chapter":"15","verse":"20","text":"Vì kẻ gian ác suốt đời luôn sầu khổ."},{"book":"Gióp","chapter":"15","verse":"21","text":"Tai thường nghe những tiếng dữ dằn,"},{"book":"Gióp","chapter":"15","verse":"22","text":"Chúng không dám đi vào nơi tăm tối"},{"book":"Gióp","chapter":"15","verse":"23","text":"Chúng chạy lang thang và nói: ‘Tôi tìm bánh ở đâu?’"},{"book":"Gióp","chapter":"15","verse":"24","text":"Ngày đen tối làm chúng hoảng kinh."},{"book":"Gióp","chapter":"15","verse":"25","text":"Vì chúng đã đưa tay ra chống Đức Chúa Trời,"},{"book":"Gióp","chapter":"15","verse":"26","text":"Nắm chặt chiếc khiên cứng cáp,"},{"book":"Gióp","chapter":"15","verse":"27","text":"Che phủ mặt mình bằng lớp mỡ;"},{"book":"Gióp","chapter":"15","verse":"28","text":"Nhưng thành chúng sẽ bị đổ nát."},{"book":"Gióp","chapter":"15","verse":"29","text":"Dù có của, cũng không bền giữ,"},{"book":"Gióp","chapter":"15","verse":"30","text":"Chúng sẽ chẳng hề thoát được cảnh tối tăm."},{"book":"Gióp","chapter":"15","verse":"31","text":"Đừng lừa dối mình bằng sự tin cậy vào điều hư ảo,"},{"book":"Gióp","chapter":"15","verse":"32","text":"Như cây sẽ bị đốn xuống trước kỳ hạn;"},{"book":"Gióp","chapter":"15","verse":"33","text":"Chúng sẽ như cây nho rụng trái non,"},{"book":"Gióp","chapter":"15","verse":"34","text":"Vì kẻ vô đạo không có hậu tự."},{"book":"Gióp","chapter":"15","verse":"35","text":"Chúng cưu mang tội ác và sinh điều tàn bạo,"}]}
+{
+  "data": [
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "1",
+      "text": "Rồi Ê-li-pha, người xứ Thê-man đáp:"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "2",
+      "text": "“Người khôn ngoan không đối đáp vu vơ! Anh chẳng có gì ngoài ba hoa rỗng tuếch."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "3",
+      "text": "Người khôn không lập luận vô bổ. Lời anh bào chữa chẳng ra gì."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "4",
+      "text": "Lẽ nào anh không sợ Đức Chúa Trời, không kính trọng Ngài?"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "5",
+      "text": "Tội lỗi anh dạy miệng anh nói. Anh chọn lời của kẻ xảo quyệt điêu ngoa."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "6",
+      "text": "Miệng anh lên án anh, không phải tôi. Môi anh tự tố cáo chống lại anh."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "7",
+      "text": "Phải chăng anh là người sinh ra đầu tiên? Lẽ nào anh sinh trước khi đồi núi hình thành?"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "8",
+      "text": "Có phải anh nghe được cuộc luận bàn của Đức Chúa Trời? Và một mình riêng anh thu tóm hết khôn ngoan?"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "9",
+      "text": "Có gì anh biết mà chúng tôi không rõ? Có gì anh hiểu, chúng tôi lại u mê?"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "10",
+      "text": "Giữa chúng ta có người cao tuổi, có người tóc bạc, cao tuổi hơn cả cha anh!"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "11",
+      "text": "Lời an ủi của Đức Chúa Trời quá ít cho anh sao? Có lẽ nào lời dịu dàng của Chúa không đủ?"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "12",
+      "text": "Vì sao lòng anh bấn loạn? Và mắt anh long sòng sọc"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "13",
+      "text": "đến nỗi anh chống lại Đức Chúa Trời và nói lên những lời gian ác?"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "14",
+      "text": "Có thể nào loài người được kể là thanh sạch? Lẽ nào người sinh ra từ người nữ được xem là công chính?"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "15",
+      "text": "Này! Đức Chúa Trời không tin cậy dù là thiên sứ. Ngay cả bầu trời cũng dơ bẩn dưới mắt Ngài."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "16",
+      "text": "Huống chi con người thối nát và tội lỗi uống gian ác mình như nước lã!"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "17",
+      "text": "Nếu anh có nghe thì tôi mới trình bày. Tôi sẽ trả lời anh từ kinh nghiệm bản thân."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "18",
+      "text": "Cũng là điều các hiền triết đã xác nhận và tổ tiên họ cũng đã lưu truyền"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "19",
+      "text": "từ những người được ban cho đất trước khi có dân ngoại đến."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "20",
+      "text": "Vì kẻ gian ác suốt đời luôn sầu khổ. Tuổi càng cao càng chồng chất đớn đau."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "21",
+      "text": "Tai thường nghe những tiếng dữ dằn, dù đang yên bình, cũng sợ kẻ hủy diệt tấn công."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "22",
+      "text": "Chúng không dám đi vào nơi tăm tối vì sợ hãi mình sẽ bị giết hại."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "23",
+      "text": "Chúng chạy lang thang và nói: ‘Tôi tìm bánh ở đâu?’ Chúng biết những ngày hủy diệt gần kề."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "24",
+      "text": "Ngày đen tối làm chúng hoảng kinh. Chúng sống trong đau sầu và khổ não, như vị vua bị bao vây nơi trận mạc."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "25",
+      "text": "Vì chúng đã đưa tay ra chống Đức Chúa Trời, cả gan khinh dể Đấng Toàn Năng,"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "26",
+      "text": "Nắm chặt chiếc khiên cứng cáp, chúng ương ngạnh chống lại Ngài."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "27",
+      "text": "Che phủ mặt mình bằng lớp mỡ; bọc hông mình với tấm mỡ phồng căng."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "28",
+      "text": "Nhưng thành chúng sẽ bị đổ nát. Chúng sống trong nhà bỏ hoang chỉ chờ đến ngày sẽ đổ sập."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "29",
+      "text": "Dù có của, cũng không bền giữ, chẳng bao giờ hưởng cảnh giàu sang. Tài sản dồn chứa, phút chốc tiêu tan."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "30",
+      "text": "Chúng sẽ chẳng hề thoát được cảnh tối tăm. Sức nóng mặt trời sẽ cháy khô bao chồi lộc, và hơi thở của Đức Chúa Trời sẽ tiêu diệt chúng."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "31",
+      "text": "Đừng lừa dối mình bằng sự tin cậy vào điều hư ảo, vì điều hư ảo sẽ là phần thưởng của chúng."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "32",
+      "text": "Như cây sẽ bị đốn xuống trước kỳ hạn; cành lá sẽ không bao giờ xanh tốt."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "33",
+      "text": "Chúng sẽ như cây nho rụng trái non, như cây ô-liu không đơm hoa kết trái."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "34",
+      "text": "Vì kẻ vô đạo không có hậu tự. Nhà của kẻ giàu nhờ hối lộ, sẽ bị thiêu đốt."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "15",
+      "verse": "35",
+      "text": "Chúng cưu mang tội ác và sinh điều tàn bạo, Lòng dạ chúng bày kế gian tà.”"
+    }
+  ]
+}

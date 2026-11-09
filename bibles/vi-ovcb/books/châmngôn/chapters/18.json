@@ -1,1 +1,148 @@
-{"data":[{"book":"Châm Ngôn","chapter":"18","verse":"1","text":"Người sống tách biệt theo đường vị kỷ"},{"book":"Châm Ngôn","chapter":"18","verse":"2","text":"Người điên dại không nghe lời tri thức;"},{"book":"Châm Ngôn","chapter":"18","verse":"3","text":"Tội ác cùng đi với khinh rẻ,"},{"book":"Châm Ngôn","chapter":"18","verse":"4","text":"Lời từ miệng người, như nước vực sâu;"},{"book":"Châm Ngôn","chapter":"18","verse":"5","text":"Vị nể người ác là điều chẳng phải,"},{"book":"Châm Ngôn","chapter":"18","verse":"6","text":"Lời người dại tạo nên tranh chấp;"},{"book":"Châm Ngôn","chapter":"18","verse":"7","text":"Miệng ngu muội làm mình thất bại,"},{"book":"Châm Ngôn","chapter":"18","verse":"8","text":"Lời rỉ tai như của ngon vật lạ,"},{"book":"Châm Ngôn","chapter":"18","verse":"9","text":"Làm việc mà cứ biếng nhác,"},{"book":"Châm Ngôn","chapter":"18","verse":"10","text":"Danh Chúa Hằng Hữu là pháo đài kiên cố;"},{"book":"Châm Ngôn","chapter":"18","verse":"11","text":"Người giàu coi tài sản là thành kiên cố;"},{"book":"Châm Ngôn","chapter":"18","verse":"12","text":"Tự cao dẫn đến suy bại;"},{"book":"Châm Ngôn","chapter":"18","verse":"13","text":"Đáp lời mà chẳng chịu nghe,"},{"book":"Châm Ngôn","chapter":"18","verse":"14","text":"Bệnh thuyên giảm nhờ tinh thần phấn khởi,"},{"book":"Châm Ngôn","chapter":"18","verse":"15","text":"Lòng người thận trọng đón nhận tri thức."},{"book":"Châm Ngôn","chapter":"18","verse":"16","text":"Tặng phẩm có tác dụng dọn đường mở lối;"},{"book":"Châm Ngôn","chapter":"18","verse":"17","text":"Nghe một bên chỉ thấy vài khía cạnh—"},{"book":"Châm Ngôn","chapter":"18","verse":"18","text":"Bắt thăm hòa giải đôi đường;"},{"book":"Châm Ngôn","chapter":"18","verse":"19","text":"Đánh chiếm pháo đài còn dễ hơn lấy lòng anh em bị xúc phạm."},{"book":"Châm Ngôn","chapter":"18","verse":"20","text":"Bông trái của miệng làm dạ dày no đủ;"},{"book":"Châm Ngôn","chapter":"18","verse":"21","text":"Quyền sống chết nằm nơi cái lưỡi;"},{"book":"Châm Ngôn","chapter":"18","verse":"22","text":"Ai tìm được vợ là tìm ra phước hạnh,"},{"book":"Châm Ngôn","chapter":"18","verse":"23","text":"Người nghèo xin rủ lòng thương;"},{"book":"Châm Ngôn","chapter":"18","verse":"24","text":"Nhiều bè bạn có thể là điều tai hại,"}]}
+{
+  "data": [
+    {
+      "book": "Châm Ngôn",
+      "chapter": "18",
+      "verse": "1",
+      "text": "Người sống tách biệt theo đường vị kỷ Chẳng buồn nghe lý luận khôn ngoan."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "18",
+      "verse": "2",
+      "text": "Người điên dại không nghe lời tri thức; nhưng rêu rao ý kiến điên rồ."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "18",
+      "verse": "3",
+      "text": "Tội ác cùng đi với khinh rẻ, sỉ nhục đồng hành với nhuốc nhơ."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "18",
+      "verse": "4",
+      "text": "Lời từ miệng người, như nước vực sâu; nhưng nguồn khôn ngoan là suối tuôn tràn."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "18",
+      "verse": "5",
+      "text": "Vị nể người ác là điều chẳng phải, khước từ công lý với người vô tội là đại bất công."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "18",
+      "verse": "6",
+      "text": "Lời người dại tạo nên tranh chấp; khiến người ta lấy cớ đánh mình."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "18",
+      "verse": "7",
+      "text": "Miệng ngu muội làm mình thất bại, đôi môi thành cạm bẫy linh hồn."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "18",
+      "verse": "8",
+      "text": "Lời rỉ tai như của ngon vật lạ, nuốt vào, thỏa lòng mát dạ."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "18",
+      "verse": "9",
+      "text": "Làm việc mà cứ biếng nhác, là anh em của người phá hoại."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "18",
+      "verse": "10",
+      "text": "Danh Chúa Hằng Hữu là pháo đài kiên cố; người công chính đến được nơi trú ẩn an toàn."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "18",
+      "verse": "11",
+      "text": "Người giàu coi tài sản là thành kiên cố; như tường thành không thể vượt qua."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "18",
+      "verse": "12",
+      "text": "Tự cao dẫn đến suy bại; khiêm nhường đem lại tôn trọng."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "18",
+      "verse": "13",
+      "text": "Đáp lời mà chẳng chịu nghe, là mang sỉ nhục, để cho chúng cười."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "18",
+      "verse": "14",
+      "text": "Bệnh thuyên giảm nhờ tinh thần phấn khởi, xuống tinh thần, thân thể hết cậy trông."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "18",
+      "verse": "15",
+      "text": "Lòng người thận trọng đón nhận tri thức. Tai người khôn ngoan tìm kiếm hiểu biết."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "18",
+      "verse": "16",
+      "text": "Tặng phẩm có tác dụng dọn đường mở lối; dẫn đưa người đến trước mặt yếu nhân."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "18",
+      "verse": "17",
+      "text": "Nghe một bên chỉ thấy vài khía cạnh— nghe cả hai mới biết trọn vấn đề."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "18",
+      "verse": "18",
+      "text": "Bắt thăm hòa giải đôi đường; hai bên quyền thế không còn chống nhau."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "18",
+      "verse": "19",
+      "text": "Đánh chiếm pháo đài còn dễ hơn lấy lòng anh em bị xúc phạm. Vì mối giận như cửa khóa then gài."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "18",
+      "verse": "20",
+      "text": "Bông trái của miệng làm dạ dày no đủ; hoa lợi của môi làm thỏa thích tâm can."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "18",
+      "verse": "21",
+      "text": "Quyền sống chết nằm nơi cái lưỡi; ai nuông chiều, lãnh hậu quả tày đình."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "18",
+      "verse": "22",
+      "text": "Ai tìm được vợ là tìm ra phước hạnh, và hưởng ân lành của Chúa ban."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "18",
+      "verse": "23",
+      "text": "Người nghèo xin rủ lòng thương; người giàu hách dịch nói năng phũ phàng."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "18",
+      "verse": "24",
+      "text": "Nhiều bè bạn có thể là điều tai hại, nhưng có một bạn chí thân hơn cả anh em ruột."
+    }
+  ]
+}

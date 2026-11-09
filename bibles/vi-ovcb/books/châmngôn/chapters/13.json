@@ -1,1 +1,154 @@
-{"data":[{"book":"Châm Ngôn","chapter":"13","verse":"1","text":"Con khôn ngoan để ý nghe cha khuyên dạy,"},{"book":"Châm Ngôn","chapter":"13","verse":"2","text":"Người lành thắng kiện nhờ nói năng dè dặt,"},{"book":"Châm Ngôn","chapter":"13","verse":"3","text":"Người tự chủ biết hãm cầm miệng lưỡi;"},{"book":"Châm Ngôn","chapter":"13","verse":"4","text":"Người làm biếng mong muốn mà chẳng được,"},{"book":"Châm Ngôn","chapter":"13","verse":"5","text":"Người công chính ghét những gì không ngay thật,"},{"book":"Châm Ngôn","chapter":"13","verse":"6","text":"Đức công chính bảo vệ người ngay thẳng,"},{"book":"Châm Ngôn","chapter":"13","verse":"7","text":"Có người tỏ vẻ giàu mà chẳng có chi;"},{"book":"Châm Ngôn","chapter":"13","verse":"8","text":"Người giàu mới có tiền chuộc mạng,"},{"book":"Châm Ngôn","chapter":"13","verse":"9","text":"Đèn người lành sáng choang,"},{"book":"Châm Ngôn","chapter":"13","verse":"10","text":"Tính kiêu căng chỉ sinh ra tranh chấp;"},{"book":"Châm Ngôn","chapter":"13","verse":"11","text":"Của phi nghĩa sớm tan biến;"},{"book":"Châm Ngôn","chapter":"13","verse":"12","text":"Hy vọng trì hoãn khiến lòng đau ê ẩm,"},{"book":"Châm Ngôn","chapter":"13","verse":"13","text":"Người coi thường khuyên dạy, lãnh hậu họa chẳng sai;"},{"book":"Châm Ngôn","chapter":"13","verse":"14","text":"Lời dạy của người khôn như nguồn sự sống;"},{"book":"Châm Ngôn","chapter":"13","verse":"15","text":"Lương tri đem lại lòng mến phục;"},{"book":"Châm Ngôn","chapter":"13","verse":"16","text":"Người khôn13:16 Người thận trọng suy tính kỹ càng;"},{"book":"Châm Ngôn","chapter":"13","verse":"17","text":"Sứ giả gian ác ngã vào tội ác,"},{"book":"Châm Ngôn","chapter":"13","verse":"18","text":"Khước từ kỷ luật gây ra bần cùng nhục nhã;"},{"book":"Châm Ngôn","chapter":"13","verse":"19","text":"Ước muốn thành công làm linh hồn khoan khoái,"},{"book":"Châm Ngôn","chapter":"13","verse":"20","text":"Gần đèn thì sáng, gần người khôn trở nên khôn;"},{"book":"Châm Ngôn","chapter":"13","verse":"21","text":"Tai họa đuổi theo người gian ác,"},{"book":"Châm Ngôn","chapter":"13","verse":"22","text":"Của cải người lành để lại cho con cháu hưởng,"},{"book":"Châm Ngôn","chapter":"13","verse":"23","text":"Ruộng người nghèo có thể sản xuất nhiều hoa lợi,"},{"book":"Châm Ngôn","chapter":"13","verse":"24","text":"Ai kiêng roi vọt ghét con trai mình,"},{"book":"Châm Ngôn","chapter":"13","verse":"25","text":"Người công chính ăn thì được ấm lòng,"}]}
+{
+  "data": [
+    {
+      "book": "Châm Ngôn",
+      "chapter": "13",
+      "verse": "1",
+      "text": "Con khôn ngoan để ý nghe cha khuyên dạy, đứa nhạo cười bỏ lời khiển trách ngoài tai."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "13",
+      "verse": "2",
+      "text": "Người lành thắng kiện nhờ nói năng dè dặt, người ác chỉ ước ao toàn chuyện bạo tàn."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "13",
+      "verse": "3",
+      "text": "Người tự chủ biết hãm cầm miệng lưỡi; người hở môi gặt lấy thất bại hoài."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "13",
+      "verse": "4",
+      "text": "Người làm biếng mong muốn mà chẳng được, người siêng năng ước gì có nấy."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "13",
+      "verse": "5",
+      "text": "Người công chính ghét những gì không ngay thật, người ác ôn dối trá rồi gặt nhuốc nhơ."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "13",
+      "verse": "6",
+      "text": "Đức công chính bảo vệ người ngay thẳng, tội lỗi luôn tiêu diệt bọn tà tâm."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "13",
+      "verse": "7",
+      "text": "Có người tỏ vẻ giàu mà chẳng có chi; có người làm bộ nghèo mà giàu nứt vách."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "13",
+      "verse": "8",
+      "text": "Người giàu mới có tiền chuộc mạng, còn người nghèo đâu sợ ai bắt cóc."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "13",
+      "verse": "9",
+      "text": "Đèn người lành sáng choang, đèn người ác tắt ngấm."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "13",
+      "verse": "10",
+      "text": "Tính kiêu căng chỉ sinh ra tranh chấp; nhưng ai khiêm tốn phục thiện mới là khôn ngoan."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "13",
+      "verse": "11",
+      "text": "Của phi nghĩa sớm tan biến; tiền mồ hôi nước mắt mới còn bền lâu."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "13",
+      "verse": "12",
+      "text": "Hy vọng trì hoãn khiến lòng đau ê ẩm, mộng được thành làm phấn chấn tâm can."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "13",
+      "verse": "13",
+      "text": "Người coi thường khuyên dạy, lãnh hậu họa chẳng sai; người tôn trọng mệnh lệnh nhận phần thưởng chắc chắn."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "13",
+      "verse": "14",
+      "text": "Lời dạy của người khôn như nguồn sự sống; hướng dẫn người nghe thoát cạm bẫy tử thần."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "13",
+      "verse": "15",
+      "text": "Lương tri đem lại lòng mến phục; nhưng đường xảo trá dẫy đầy gian nan."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "13",
+      "verse": "16",
+      "text": "Người khôn13:16 Người thận trọng suy tính kỹ càng; người dại hấp tấp tỏ mình ngây ngô."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "13",
+      "verse": "17",
+      "text": "Sứ giả gian ác ngã vào tội ác, khâm sai trung tín đem lại chữa lành."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "13",
+      "verse": "18",
+      "text": "Khước từ kỷ luật gây ra bần cùng nhục nhã; ai đón nhận khiển trách sẽ thấy ngày quang vinh."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "13",
+      "verse": "19",
+      "text": "Ước muốn thành công làm linh hồn khoan khoái, vì vậy, người ác bám chặt lấy ước muốn lầm sai."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "13",
+      "verse": "20",
+      "text": "Gần đèn thì sáng, gần người khôn trở nên khôn; gần mực thì đen, gần người dại phải mang họa."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "13",
+      "verse": "21",
+      "text": "Tai họa đuổi theo người gian ác, phước hạnh bám sát người thiện lành."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "13",
+      "verse": "22",
+      "text": "Của cải người lành để lại cho con cháu hưởng, gia tài người ác dành cho người công chính dùng."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "13",
+      "verse": "23",
+      "text": "Ruộng người nghèo có thể sản xuất nhiều hoa lợi, nhưng ăn ở bất lương sẽ thành công dã tràng."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "13",
+      "verse": "24",
+      "text": "Ai kiêng roi vọt ghét con trai mình, người biết thương con không quên sửa trị nó."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "13",
+      "verse": "25",
+      "text": "Người công chính ăn thì được ấm lòng, người gian tà ăn mà vẫn đói meo."
+    }
+  ]
+}

@@ -1,1 +1,106 @@
-{"data":[{"book":"Ha-ba-cúc","chapter":"1","verse":"1","text":"Đây là sứ điệp1:1 Nt gánh nặng mà Tiên tri Ha-ba-cúc nhận được trong một khải tượng:"},{"book":"Ha-ba-cúc","chapter":"1","verse":"2","text":"Lạy Chúa Hằng Hữu, đã bao lâu con kêu cứu?"},{"book":"Ha-ba-cúc","chapter":"1","verse":"3","text":"Con phải thấy chuyện bạo ngược mãi sao?"},{"book":"Ha-ba-cúc","chapter":"1","verse":"4","text":"Luật pháp không được tôn trọng,"},{"book":"Ha-ba-cúc","chapter":"1","verse":"5","text":"Chúa Hằng Hữu đáp:"},{"book":"Ha-ba-cúc","chapter":"1","verse":"6","text":"Ta cho người Ba-by-lôn nổi lên,"},{"book":"Ha-ba-cúc","chapter":"1","verse":"7","text":"Dân tộc nổi tiếng về sự hung ác"},{"book":"Ha-ba-cúc","chapter":"1","verse":"8","text":"Chiến mã nó lanh lẹ hơn con báo,"},{"book":"Ha-ba-cúc","chapter":"1","verse":"9","text":"Dân nó kéo đến để áp bức, giết người."},{"book":"Ha-ba-cúc","chapter":"1","verse":"10","text":"Chúng chế nhạo các vua và các tướng sĩ"},{"book":"Ha-ba-cúc","chapter":"1","verse":"11","text":"Lúc ấy, chúng càn quét như giông bão."},{"book":"Ha-ba-cúc","chapter":"1","verse":"12","text":"Lạy Chúa Hằng Hữu, Đức Chúa Trời của con,"},{"book":"Ha-ba-cúc","chapter":"1","verse":"13","text":"Mắt Chúa quá tinh sạch không thể nhìn chuyện gian ác"},{"book":"Ha-ba-cúc","chapter":"1","verse":"14","text":"Có phải Chúa coi con người như cá biển hay giun dế,1:14 Nt bò sát"},{"book":"Ha-ba-cúc","chapter":"1","verse":"15","text":"Chúng thả câu tung lưới bắt cá,"},{"book":"Ha-ba-cúc","chapter":"1","verse":"16","text":"Chúng dâng tế lễ cho lưới,"},{"book":"Ha-ba-cúc","chapter":"1","verse":"17","text":"Chẳng lẽ Ngài để chúng cứ tung lưới mãi mãi?"}]}
+{
+  "data": [
+    {
+      "book": "Ha-ba-cúc",
+      "chapter": "1",
+      "verse": "1",
+      "text": "Đây là sứ điệp1:1 Nt gánh nặng mà Tiên tri Ha-ba-cúc nhận được trong một khải tượng:"
+    },
+    {
+      "book": "Ha-ba-cúc",
+      "chapter": "1",
+      "verse": "2",
+      "text": "Lạy Chúa Hằng Hữu, đã bao lâu con kêu cứu? Nhưng Chúa vẫn không nghe! Con kêu khóc: “Bạo lực ở khắp nơi!” Nhưng Ngài vẫn không cứu."
+    },
+    {
+      "book": "Ha-ba-cúc",
+      "chapter": "1",
+      "verse": "3",
+      "text": "Con phải thấy chuyện bạo ngược mãi sao? Tại sao con phải nhìn cảnh khổ đau này? Đâu đâu cũng thấy tàn phá và bạo lực. Đâu đâu cũng thấy cãi vã và tranh chấp."
+    },
+    {
+      "book": "Ha-ba-cúc",
+      "chapter": "1",
+      "verse": "4",
+      "text": "Luật pháp không được tôn trọng, công lý chẳng được thi hành. Bọn hung ác lấn lướt người công chính, làm thiên lệch cán cân công lý."
+    },
+    {
+      "book": "Ha-ba-cúc",
+      "chapter": "1",
+      "verse": "5",
+      "text": "Chúa Hằng Hữu đáp: “Hãy nhìn sang các nước; con sẽ kinh ngạc sững sờ! Vì Ta sắp làm một việc trong thời con sống, một việc mà con không dám tin."
+    },
+    {
+      "book": "Ha-ba-cúc",
+      "chapter": "1",
+      "verse": "6",
+      "text": "Ta cho người Ba-by-lôn nổi lên, đây là một dân tộc dữ tợn và hung hăng. Chúng tiến quân qua những vùng đất trên thế giới để chiếm đoạt các đồn trại."
+    },
+    {
+      "book": "Ha-ba-cúc",
+      "chapter": "1",
+      "verse": "7",
+      "text": "Dân tộc nổi tiếng về sự hung ác tự tạo lấy luật lệ, tự tôn tự đại."
+    },
+    {
+      "book": "Ha-ba-cúc",
+      "chapter": "1",
+      "verse": "8",
+      "text": "Chiến mã nó lanh lẹ hơn con báo, hung tợn hơn muông sói ban đêm. Kỵ binh nó kéo đến từ xa. Như đàn đại bàng lẹ làng lao xuống vồ mồi."
+    },
+    {
+      "book": "Ha-ba-cúc",
+      "chapter": "1",
+      "verse": "9",
+      "text": "Dân nó kéo đến để áp bức, giết người. Quân đội nó tiến nhanh như vũ bão, dồn tù binh lại như cát biển."
+    },
+    {
+      "book": "Ha-ba-cúc",
+      "chapter": "1",
+      "verse": "10",
+      "text": "Chúng chế nhạo các vua và các tướng sĩ cùng chê cười các đồn lũy kiên cố. Chúng đắp lũy bao vây rồi chiếm đóng!"
+    },
+    {
+      "book": "Ha-ba-cúc",
+      "chapter": "1",
+      "verse": "11",
+      "text": "Lúc ấy, chúng càn quét như giông bão. Đó là những người mắc tội, vì chúng xem sức mạnh của chúng là thần tượng.”"
+    },
+    {
+      "book": "Ha-ba-cúc",
+      "chapter": "1",
+      "verse": "12",
+      "text": "Lạy Chúa Hằng Hữu, Đức Chúa Trời của con, Đấng Thánh của con, Ngài là Đấng Tự Hữu— chắc chắn chúng con sẽ không chết. Lạy Chúa Hằng Hữu, Vầng Đá của chúng con, Ngài đã đưa dân tộc này lên để thi hành công lý, Ngài đã đặt nó để sửa trị chúng con."
+    },
+    {
+      "book": "Ha-ba-cúc",
+      "chapter": "1",
+      "verse": "13",
+      "text": "Mắt Chúa quá tinh sạch không thể nhìn chuyện gian ác Sao Chúa để cho bọn lừa gạt, thất tín tung hoành? Sao Ngài im lặng khi người dữ nuốt người hiền lương hơn nó?"
+    },
+    {
+      "book": "Ha-ba-cúc",
+      "chapter": "1",
+      "verse": "14",
+      "text": "Có phải Chúa coi con người như cá biển hay giun dế,1:14 Nt bò sát không cần ai hướng dẫn?"
+    },
+    {
+      "book": "Ha-ba-cúc",
+      "chapter": "1",
+      "verse": "15",
+      "text": "Chúng thả câu tung lưới bắt cá, dồn hết vào trong chài mình, vì thế chúng vui vẻ ăn mừng."
+    },
+    {
+      "book": "Ha-ba-cúc",
+      "chapter": "1",
+      "verse": "16",
+      "text": "Chúng dâng tế lễ cho lưới, đốt trầm hương cho chài. Vì nghĩ rằng nhờ chài lưới mà giàu có và sống xa hoa."
+    },
+    {
+      "book": "Ha-ba-cúc",
+      "chapter": "1",
+      "verse": "17",
+      "text": "Chẳng lẽ Ngài để chúng cứ tung lưới mãi mãi? Chúng sẽ tiếp tục tàn sát không thương xót sao?"
+    }
+  ]
+}

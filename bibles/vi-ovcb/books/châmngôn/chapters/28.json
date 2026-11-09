@@ -1,1 +1,172 @@
-{"data":[{"book":"Châm Ngôn","chapter":"28","verse":"1","text":"Dù không người đuổi, người ác cắm đầu chạy,"},{"book":"Châm Ngôn","chapter":"28","verse":"2","text":"Khi đất nước loạn lạc, sẽ có nhiều quan chức."},{"book":"Châm Ngôn","chapter":"28","verse":"3","text":"Quan chức bóc lột người nghèo nàn,"},{"book":"Châm Ngôn","chapter":"28","verse":"4","text":"Người bỏ pháp luật đề cao tội ác;"},{"book":"Châm Ngôn","chapter":"28","verse":"5","text":"Người ác chẳng lưu tâm đến công lý,"},{"book":"Châm Ngôn","chapter":"28","verse":"6","text":"Thà nghèo mà ngay thật,"},{"book":"Châm Ngôn","chapter":"28","verse":"7","text":"Con khôn ngoan tôn trọng luật pháp;"},{"book":"Châm Ngôn","chapter":"28","verse":"8","text":"Tài sản của người cho vay nặng lãi"},{"book":"Châm Ngôn","chapter":"28","verse":"9","text":"Người coi thường, xây tai không nghe luật lệ,"},{"book":"Châm Ngôn","chapter":"28","verse":"10","text":"Ai quyến rũ người lành làm ác,"},{"book":"Châm Ngôn","chapter":"28","verse":"11","text":"Người giàu thường tự thấy mình khôn ngoan,"},{"book":"Châm Ngôn","chapter":"28","verse":"12","text":"Khi người liêm chính nắm quyền, mọi người đều hân hoan."},{"book":"Châm Ngôn","chapter":"28","verse":"13","text":"Người che giấu lỗi mình sẽ không được may mắn"},{"book":"Châm Ngôn","chapter":"28","verse":"14","text":"Người kính sợ Chúa luôn hưởng hạnh phước,"},{"book":"Châm Ngôn","chapter":"28","verse":"15","text":"Người ác cai trị làm dân nghèo khốn khổ,"},{"book":"Châm Ngôn","chapter":"28","verse":"16","text":"Một cai quản ngu dốt lo bóc lột dân mình,"},{"book":"Châm Ngôn","chapter":"28","verse":"17","text":"Kẻ sát nhân luôn bị lương tâm dày vò, chạy trốn nơi vực thẳm."},{"book":"Châm Ngôn","chapter":"28","verse":"18","text":"Người ngay được cứu khỏi tai vạ,"},{"book":"Châm Ngôn","chapter":"28","verse":"19","text":"Ai cày sâu cuốc bẩm thu hoạch nhiều hoa lợi,"},{"book":"Châm Ngôn","chapter":"28","verse":"20","text":"Người trung tín hưởng nhiều phước hạnh,"},{"book":"Châm Ngôn","chapter":"28","verse":"21","text":"Thiên vị là xấu, bất kể lý do gì,"},{"book":"Châm Ngôn","chapter":"28","verse":"22","text":"Người tham lam chạy theo của cải làm giàu,"},{"book":"Châm Ngôn","chapter":"28","verse":"23","text":"Đến cuối cùng, người ta sẽ phân định"},{"book":"Châm Ngôn","chapter":"28","verse":"24","text":"Ăn cắp cha mẹ mà nói: “Đâu tội vạ gì,”"},{"book":"Châm Ngôn","chapter":"28","verse":"25","text":"Kiêu căng gây tranh cạnh,"},{"book":"Châm Ngôn","chapter":"28","verse":"26","text":"Người ngu xuẩn tự thị tự mãn,"},{"book":"Châm Ngôn","chapter":"28","verse":"27","text":"Người phân phát tài sản cho người nghèo chẳng hề thiếu thốn,"},{"book":"Châm Ngôn","chapter":"28","verse":"28","text":"Khi người ác cầm quyền, người lành ẩn tránh."}]}
+{
+  "data": [
+    {
+      "book": "Châm Ngôn",
+      "chapter": "28",
+      "verse": "1",
+      "text": "Dù không người đuổi, người ác cắm đầu chạy, còn người ngay như sư tử can trường."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "28",
+      "verse": "2",
+      "text": "Khi đất nước loạn lạc, sẽ có nhiều quan chức. Nhưng nhờ một người hiểu biết và sáng suốt, nước bền vững dài lâu."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "28",
+      "verse": "3",
+      "text": "Quan chức bóc lột người nghèo nàn, khác nào mưa lụt quét sạch mùa màng."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "28",
+      "verse": "4",
+      "text": "Người bỏ pháp luật đề cao tội ác; người giữ pháp luật chống lại người gian."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "28",
+      "verse": "5",
+      "text": "Người ác chẳng lưu tâm đến công lý, người tôn thờ Chúa Hằng Hữu biết rõ công lý là gì."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "28",
+      "verse": "6",
+      "text": "Thà nghèo mà ngay thật, còn hơn giàu mà bất chính."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "28",
+      "verse": "7",
+      "text": "Con khôn ngoan tôn trọng luật pháp; đứa kết bạn côn đồ, gây nhục cho cha."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "28",
+      "verse": "8",
+      "text": "Tài sản của người cho vay nặng lãi lại rơi vào tay người biết thương hại người nghèo."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "28",
+      "verse": "9",
+      "text": "Người coi thường, xây tai không nghe luật lệ, lời cầu nguyện người sẽ chẳng được nghe."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "28",
+      "verse": "10",
+      "text": "Ai quyến rũ người lành làm ác, sẽ rơi vào bẫy chính mình đã giăng, còn người ngay lành vẫn hưởng phước lạc."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "28",
+      "verse": "11",
+      "text": "Người giàu thường tự thấy mình khôn ngoan, nhưng người nghèo sáng dạ nhìn suốt thực hư."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "28",
+      "verse": "12",
+      "text": "Khi người liêm chính nắm quyền, mọi người đều hân hoan. Khi người ác nổi dậy, ai nấy lo ẩn trốn."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "28",
+      "verse": "13",
+      "text": "Người che giấu lỗi mình sẽ không được may mắn nhưng nếu thú nhận và từ bỏ tội, sẽ tìm được xót thương."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "28",
+      "verse": "14",
+      "text": "Người kính sợ Chúa luôn hưởng hạnh phước, người rắn lòng bất chính thường bị họa tai."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "28",
+      "verse": "15",
+      "text": "Người ác cai trị làm dân nghèo khốn khổ, như bị gấu đuổi, như sư tử vồ."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "28",
+      "verse": "16",
+      "text": "Một cai quản ngu dốt lo bóc lột dân mình, một lãnh tụ muốn tồn tại phải liêm chính."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "28",
+      "verse": "17",
+      "text": "Kẻ sát nhân luôn bị lương tâm dày vò, chạy trốn nơi vực thẳm. Đừng ai ngăn nó!"
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "28",
+      "verse": "18",
+      "text": "Người ngay được cứu khỏi tai vạ, còn người gian tà phải bị sa ngã."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "28",
+      "verse": "19",
+      "text": "Ai cày sâu cuốc bẩm thu hoạch nhiều hoa lợi, ai đuổi theo ảo mộng, đói nghèo xác xơ."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "28",
+      "verse": "20",
+      "text": "Người trung tín hưởng nhiều phước hạnh, vội lo làm giàu, hình phạt chẳng thoát đâu."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "28",
+      "verse": "21",
+      "text": "Thiên vị là xấu, bất kể lý do gì, có người chỉ vì một miếng bánh mà thiên vị."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "28",
+      "verse": "22",
+      "text": "Người tham lam chạy theo của cải làm giàu, chẳng ngờ nghèo khó bất chợt theo sau."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "28",
+      "verse": "23",
+      "text": "Đến cuối cùng, người ta sẽ phân định và biết ơn người nói thẳng hơn là dua nịnh."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "28",
+      "verse": "24",
+      "text": "Ăn cắp cha mẹ mà nói: “Đâu tội vạ gì,” chẳng khác đồng lõa với người phá hại."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "28",
+      "verse": "25",
+      "text": "Kiêu căng gây tranh cạnh, tin cậy Chúa Hằng Hữu sẽ được hưng thịnh."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "28",
+      "verse": "26",
+      "text": "Người ngu xuẩn tự thị tự mãn, ai khôn sáng mới được an toàn."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "28",
+      "verse": "27",
+      "text": "Người phân phát tài sản cho người nghèo chẳng hề thiếu thốn, nhưng miệng đời nguyền rủa người nhắm mắt làm ngơ."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "28",
+      "verse": "28",
+      "text": "Khi người ác cầm quyền, người lành ẩn tránh. Khi người ác suy đồi, người lành gia tăng."
+    }
+  ]
+}

@@ -1,1 +1,154 @@
-{"data":[{"book":"Gióp","chapter":"24","verse":"1","text":"“Sao Đấng Toàn Năng không mang kẻ ác ra xét đoán?"},{"book":"Gióp","chapter":"24","verse":"2","text":"Có kẻ gian dời đá ngăn ranh giới."},{"book":"Gióp","chapter":"24","verse":"3","text":"Họ trộm lừa của người mồ côi"},{"book":"Gióp","chapter":"24","verse":"4","text":"Họ đẩy người nghèo khổ khỏi đường họ đi;"},{"book":"Gióp","chapter":"24","verse":"5","text":"Như lừa rừng trong hoang mạc,"},{"book":"Gióp","chapter":"24","verse":"6","text":"Họ gặt hái trong đồng mình không làm chủ,"},{"book":"Gióp","chapter":"24","verse":"7","text":"Suốt đêm họ trần truồng trong giá lạnh,"},{"book":"Gióp","chapter":"24","verse":"8","text":"Họ ướt sũng trong mưa núi,"},{"book":"Gióp","chapter":"24","verse":"9","text":"Kẻ ác giật con côi khỏi vú mẹ,"},{"book":"Gióp","chapter":"24","verse":"10","text":"Bắt người nghèo khổ ra đi không manh áo."},{"book":"Gióp","chapter":"24","verse":"11","text":"Bắt họ ép dầu ô-liu mà không được nếm dầu,"},{"book":"Gióp","chapter":"24","verse":"12","text":"Người hấp hối rên la trong thành phố,"},{"book":"Gióp","chapter":"24","verse":"13","text":"Có kẻ ác nổi lên chống ánh sáng."},{"book":"Gióp","chapter":"24","verse":"14","text":"Buổi sáng, kẻ giết người thức dậy"},{"book":"Gióp","chapter":"24","verse":"15","text":"Mắt kẻ dâm loạn trông chờ bóng tối,"},{"book":"Gióp","chapter":"24","verse":"16","text":"Tên trộm đột nhập vào nhà ban đêm"},{"book":"Gióp","chapter":"24","verse":"17","text":"Đối với họ, đêm tối là bình minh."},{"book":"Gióp","chapter":"24","verse":"18","text":"Nhưng họ sẽ biến mất như bọt trên mặt nước."},{"book":"Gióp","chapter":"24","verse":"19","text":"Như nắng hạn nuốt hết nước chứa trong kho tuyết,"},{"book":"Gióp","chapter":"24","verse":"20","text":"Chính mẹ của họ cũng sẽ quên họ."},{"book":"Gióp","chapter":"24","verse":"21","text":"Họ bạc đãi người đàn bà son sẻ,"},{"book":"Gióp","chapter":"24","verse":"22","text":"Trong năng quyền Đức Chúa Trời, Ngài tiêu diệt kẻ bạo tàn."},{"book":"Gióp","chapter":"24","verse":"23","text":"Chúa cho họ được an ninh,"},{"book":"Gióp","chapter":"24","verse":"24","text":"Họ được trọng vọng trong chốc lát,"},{"book":"Gióp","chapter":"24","verse":"25","text":"Ai có thể bảo đây là lời dối?"}]}
+{
+  "data": [
+    {
+      "book": "Gióp",
+      "chapter": "24",
+      "verse": "1",
+      "text": "“Sao Đấng Toàn Năng không mang kẻ ác ra xét đoán? Tại sao để người biết Chúa phải mòn mỏi chờ trông?"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "24",
+      "verse": "2",
+      "text": "Có kẻ gian dời đá ngăn ranh giới. Cướp bầy chiên rồi đem chúng về đồng cỏ mình."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "24",
+      "verse": "3",
+      "text": "Họ trộm lừa của người mồ côi và bắt bò của người góa bụa làm của thế chấp."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "24",
+      "verse": "4",
+      "text": "Họ đẩy người nghèo khổ khỏi đường họ đi; bắt người khốn cùng trên đất phải chạy trốn."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "24",
+      "verse": "5",
+      "text": "Như lừa rừng trong hoang mạc, người nghèo nai lưng làm lụng kiếm ăn, tìm kiếm thức ăn cho con mình dù trong hoang mạc."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "24",
+      "verse": "6",
+      "text": "Họ gặt hái trong đồng mình không làm chủ, và mót trái trong vườn nho của kẻ ác."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "24",
+      "verse": "7",
+      "text": "Suốt đêm họ trần truồng trong giá lạnh, không áo quần cũng chẳng có chăn mền."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "24",
+      "verse": "8",
+      "text": "Họ ướt sũng trong mưa núi, chạy ẩn nơi núi đá vì không chỗ trú thân."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "24",
+      "verse": "9",
+      "text": "Kẻ ác giật con côi khỏi vú mẹ, bắt giữ trẻ thơ làm con tin."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "24",
+      "verse": "10",
+      "text": "Bắt người nghèo khổ ra đi không manh áo. Vác lúa nặng mà bụng vẫn đói."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "24",
+      "verse": "11",
+      "text": "Bắt họ ép dầu ô-liu mà không được nếm dầu, ép nho lúc khát khô cổ mà không được uống nước nho."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "24",
+      "verse": "12",
+      "text": "Người hấp hối rên la trong thành phố, hồn người bị thương kêu khóc liên hồi, nhưng Đức Chúa Trời làm ngơ tiếng than van của họ."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "24",
+      "verse": "13",
+      "text": "Có kẻ ác nổi lên chống ánh sáng. Họ không biết hướng cũng không đi trên đường ánh sáng."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "24",
+      "verse": "14",
+      "text": "Buổi sáng, kẻ giết người thức dậy tàn sát người nghèo thiếu; ban đêm, họ trở thành tay trộm cướp."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "24",
+      "verse": "15",
+      "text": "Mắt kẻ dâm loạn trông chờ bóng tối, nói rằng: ‘Nào ai thấy được ta.’ Họ che mặt để không ai biết họ."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "24",
+      "verse": "16",
+      "text": "Tên trộm đột nhập vào nhà ban đêm còn ban ngày thì nằm ngủ. Họ không bao giờ hành động dưới ánh sáng."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "24",
+      "verse": "17",
+      "text": "Đối với họ, đêm tối là bình minh. Vì họ làm bạn với hãi hùng của bóng tối."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "24",
+      "verse": "18",
+      "text": "Nhưng họ sẽ biến mất như bọt trên mặt nước. Mọi thứ của họ sẽ bị nguyền rủa, và họ sợ hãi không bước vào vườn nho."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "24",
+      "verse": "19",
+      "text": "Như nắng hạn nuốt hết nước chứa trong kho tuyết, âm phủ cũng nuốt bọn người tội ác."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "24",
+      "verse": "20",
+      "text": "Chính mẹ của họ cũng sẽ quên họ. Giòi bọ ăn nuốt thịt họ. Không ai còn tưởng nhớ họ nữa. Kẻ bất công, áp bức sẽ gãy đổ như cây khô."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "24",
+      "verse": "21",
+      "text": "Họ bạc đãi người đàn bà son sẻ, từ chối giúp đỡ các góa phụ yếu đuối."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "24",
+      "verse": "22",
+      "text": "Trong năng quyền Đức Chúa Trời, Ngài tiêu diệt kẻ bạo tàn. Khi Ngài ra tay, họ không còn hy vọng sống."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "24",
+      "verse": "23",
+      "text": "Chúa cho họ được an ninh, nhưng thật ra, Đức Chúa Trời vẫn để mắt theo dõi họ."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "24",
+      "verse": "24",
+      "text": "Họ được trọng vọng trong chốc lát, nhưng rồi bị tiêu diệt như muôn nghìn người khác, như lúa bị cắt trong mùa gặt."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "24",
+      "verse": "25",
+      "text": "Ai có thể bảo đây là lời dối? Ai có thể đánh đổ lý luận của tôi?”"
+    }
+  ]
+}

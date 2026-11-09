@@ -1,1 +1,202 @@
-{"data":[{"book":"Châm Ngôn","chapter":"30","verse":"1","text":"Lời của A-gu-ra, con trai Gia-kê, nói với Y-thi-ên và U-can:"},{"book":"Châm Ngôn","chapter":"30","verse":"2","text":"Tôi là người ngu dốt nhất,"},{"book":"Châm Ngôn","chapter":"30","verse":"3","text":"Tôi chưa được học sự khôn ngoan,"},{"book":"Châm Ngôn","chapter":"30","verse":"4","text":"Ai đã lên trời, rồi xuống đất?"},{"book":"Châm Ngôn","chapter":"30","verse":"5","text":"Mọi lời của Đức Chúa Trời đều tinh luyện;"},{"book":"Châm Ngôn","chapter":"30","verse":"6","text":"Đừng thêm gì vào lời của Ngài, kẻo Ngài bắt tội,"},{"book":"Châm Ngôn","chapter":"30","verse":"7","text":"Đức Chúa Trời ôi, trước khi con chết,"},{"book":"Châm Ngôn","chapter":"30","verse":"8","text":"Giúp con khỏi dối trá, giả hình."},{"book":"Châm Ngôn","chapter":"30","verse":"9","text":"Nếu giàu có dư dật, con sẽ khước từ Chúa và hỏi: “Chúa Hằng Hữu là ai?”"},{"book":"Châm Ngôn","chapter":"30","verse":"10","text":"Chớ vu khống người đầy tớ với chủ,"},{"book":"Châm Ngôn","chapter":"30","verse":"11","text":"Có người rủa cha,"},{"book":"Châm Ngôn","chapter":"30","verse":"12","text":"Có người tự thấy mình trong trắng,"},{"book":"Châm Ngôn","chapter":"30","verse":"13","text":"Có người đôi mắt kiêu căng,"},{"book":"Châm Ngôn","chapter":"30","verse":"14","text":"Có người răng sắc như gươm,"},{"book":"Châm Ngôn","chapter":"30","verse":"15","text":"Con đỉa có hai miệng hút,"},{"book":"Châm Ngôn","chapter":"30","verse":"16","text":"Âm phủ,"},{"book":"Châm Ngôn","chapter":"30","verse":"17","text":"Mắt của người chế nhạo cha, khinh bỉ mẹ,"},{"book":"Châm Ngôn","chapter":"30","verse":"18","text":"Có ba điều quá lạ lùng—"},{"book":"Châm Ngôn","chapter":"30","verse":"19","text":"Đường đại bàng bay trên không,"},{"book":"Châm Ngôn","chapter":"30","verse":"20","text":"Còn thêm một điều nữa: Người đàn bà ngoại tình,"},{"book":"Châm Ngôn","chapter":"30","verse":"21","text":"Có ba điều làm đất rung chuyển—"},{"book":"Châm Ngôn","chapter":"30","verse":"22","text":"Người nô lệ làm vua,"},{"book":"Châm Ngôn","chapter":"30","verse":"23","text":"người đàn bà ghen ghét lấy được chồng,"},{"book":"Châm Ngôn","chapter":"30","verse":"24","text":"Có bốn loài vật tuy nhỏ bé"},{"book":"Châm Ngôn","chapter":"30","verse":"25","text":"Con kiến là loài yếu ớt,"},{"book":"Châm Ngôn","chapter":"30","verse":"26","text":"Con chồn ít năng lực,"},{"book":"Châm Ngôn","chapter":"30","verse":"27","text":"Con châu chấu tuy không có vua,"},{"book":"Châm Ngôn","chapter":"30","verse":"28","text":"Con thằn lằn mà người ta lấy tay bắt được,"},{"book":"Châm Ngôn","chapter":"30","verse":"29","text":"Có ba dã thú dáng đi hùng dũng đẹp đẽ—"},{"book":"Châm Ngôn","chapter":"30","verse":"30","text":"Con sư tử, chúa sơn lâm, chẳng lùi bước trước loài nào cả,"},{"book":"Châm Ngôn","chapter":"30","verse":"31","text":"con công,"},{"book":"Châm Ngôn","chapter":"30","verse":"32","text":"Nếu con vì ngu dại mà tự kiêu hoặc mưu đồ việc ác,"},{"book":"Châm Ngôn","chapter":"30","verse":"33","text":"Đánh sữa ra bơ"}]}
+{
+  "data": [
+    {
+      "book": "Châm Ngôn",
+      "chapter": "30",
+      "verse": "1",
+      "text": "Lời của A-gu-ra, con trai Gia-kê, nói với Y-thi-ên và U-can:"
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "30",
+      "verse": "2",
+      "text": "Tôi là người ngu dốt nhất, và cũng không hiểu biết như người thường."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "30",
+      "verse": "3",
+      "text": "Tôi chưa được học sự khôn ngoan, cũng không có sự hiểu biết về Đấng Thánh."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "30",
+      "verse": "4",
+      "text": "Ai đã lên trời, rồi xuống đất? Ai đã góp gió trong tay, bọc biển trong áo, tạo nên vũ trụ? Đấng ấy là Ai? Và Con Trai Ngài tên gì? Xin nói giúp tôi, nếu ngươi biết!"
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "30",
+      "verse": "5",
+      "text": "Mọi lời của Đức Chúa Trời đều tinh luyện; Ngài là tấm khiên bảo vệ người nương cậy Ngài."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "30",
+      "verse": "6",
+      "text": "Đừng thêm gì vào lời của Ngài, kẻo Ngài bắt tội, vì người thêm thắt là người nói dối."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "30",
+      "verse": "7",
+      "text": "Đức Chúa Trời ôi, trước khi con chết, xin cho con hai điều:"
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "30",
+      "verse": "8",
+      "text": "Giúp con khỏi dối trá, giả hình. Đừng để con nghèo khổ, cũng đừng cho con giàu có. Xin cho con lương thực vừa đủ cần dùng."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "30",
+      "verse": "9",
+      "text": "Nếu giàu có dư dật, con sẽ khước từ Chúa và hỏi: “Chúa Hằng Hữu là ai?” Nếu nghèo khổ, con sẽ trộm cắp, làm ô nhơ Danh Đức Chúa Trời."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "30",
+      "verse": "10",
+      "text": "Chớ vu khống người đầy tớ với chủ, người sẽ nguyền rủa con vì lỗi con tạo lấy."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "30",
+      "verse": "11",
+      "text": "Có người rủa cha, và không chúc phước cho mẹ."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "30",
+      "verse": "12",
+      "text": "Có người tự thấy mình trong trắng, nhưng chưa được rửa sạch ô uế."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "30",
+      "verse": "13",
+      "text": "Có người đôi mắt kiêu căng, với cái nhìn khinh người."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "30",
+      "verse": "14",
+      "text": "Có người răng sắc như gươm, hàm răng như dao cạo. Họ nhai ngấu nghiến người nghèo, ăn nuốt người thiếu thốn."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "30",
+      "verse": "15",
+      "text": "Con đỉa có hai miệng hút, chúng kêu gào “Hãy cho, Hãy cho!” Có ba vật chẳng hề thỏa mãn, và bốn loài không biết nói “Đủ rồi!”"
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "30",
+      "verse": "16",
+      "text": "Âm phủ, lòng dạ son sẻ, đất không bao giờ đủ nước, và ngọn lửa hừng."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "30",
+      "verse": "17",
+      "text": "Mắt của người chế nhạo cha, khinh bỉ mẹ, sẽ bị quạ móc đi và phụng hoàng nuốt sống."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "30",
+      "verse": "18",
+      "text": "Có ba điều quá lạ lùng— không, bốn việc dị kỳ tôi không hiểu thấu:"
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "30",
+      "verse": "19",
+      "text": "Đường đại bàng bay trên không, lối rắn bò trên đá, đường tàu chạy trên biển, và đường tình ái giữa nam nữ."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "30",
+      "verse": "20",
+      "text": "Còn thêm một điều nữa: Người đàn bà ngoại tình, phạm tội xong, chùi miệng nói: “Tôi có làm gì đâu.”"
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "30",
+      "verse": "21",
+      "text": "Có ba điều làm đất rung chuyển— không, bốn việc khiến đất không chịu nổi:"
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "30",
+      "verse": "22",
+      "text": "Người nô lệ làm vua, người ngu xuẩn no đầy, thịnh vượng,"
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "30",
+      "verse": "23",
+      "text": "người đàn bà ghen ghét lấy được chồng, đứa tớ gái lên làm bà chủ."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "30",
+      "verse": "24",
+      "text": "Có bốn loài vật tuy nhỏ bé nhưng lại khôn ngoan lạ đời:"
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "30",
+      "verse": "25",
+      "text": "Con kiến là loài yếu ớt, dự trữ thực phẩm suốt mùa hạ."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "30",
+      "verse": "26",
+      "text": "Con chồn ít năng lực, nhưng lại biết ẩn mình trong hốc đá."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "30",
+      "verse": "27",
+      "text": "Con châu chấu tuy không có vua, nhưng chúng bay thành đội ngũ."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "30",
+      "verse": "28",
+      "text": "Con thằn lằn mà người ta lấy tay bắt được, lại ở trong cung vua."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "30",
+      "verse": "29",
+      "text": "Có ba dã thú dáng đi hùng dũng đẹp đẽ— không, bốn loài có nước bước oai phong lẫm liệt:"
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "30",
+      "verse": "30",
+      "text": "Con sư tử, chúa sơn lâm, chẳng lùi bước trước loài nào cả,"
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "30",
+      "verse": "31",
+      "text": "con công, con dê đực, và vị vua khi đi duyệt binh."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "30",
+      "verse": "32",
+      "text": "Nếu con vì ngu dại mà tự kiêu hoặc mưu đồ việc ác, phải biết xấu hổ, lấy tay che miệng lại."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "30",
+      "verse": "33",
+      "text": "Đánh sữa ra bơ và đấm mũi gây chảy máu, cũng vậy, chọc giận sinh cãi nhau."
+    }
+  ]
+}

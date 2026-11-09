@@ -1,1 +1,190 @@
-{"data":[{"book":"Châm Ngôn","chapter":"21","verse":"1","text":"Lòng vua như nước trong tay Chúa Hằng Hữu;"},{"book":"Châm Ngôn","chapter":"21","verse":"2","text":"Xét việc làm, tự cho ta phải,"},{"book":"Châm Ngôn","chapter":"21","verse":"3","text":"Chúa Hằng Hữu muốn ta chính trực, công bằng,"},{"book":"Châm Ngôn","chapter":"21","verse":"4","text":"Lòng tự đại, mắt kiêu cường,"},{"book":"Châm Ngôn","chapter":"21","verse":"5","text":"Trù liệu và chăm chỉ thì no nê thịnh vượng;"},{"book":"Châm Ngôn","chapter":"21","verse":"6","text":"Gia tài xây dựng bằng lưỡi dối trá,"},{"book":"Châm Ngôn","chapter":"21","verse":"7","text":"Bọn bất lương chối việc công bằng,"},{"book":"Châm Ngôn","chapter":"21","verse":"8","text":"Đường lối người phạm tội là quanh co;"},{"book":"Châm Ngôn","chapter":"21","verse":"9","text":"Thà ở nơi góc mái nhà,"},{"book":"Châm Ngôn","chapter":"21","verse":"10","text":"Người dữ chuyên làm ác,"},{"book":"Châm Ngôn","chapter":"21","verse":"11","text":"Khi người nhạo báng bị hình phạt, người dại trở thành khôn ngoan;"},{"book":"Châm Ngôn","chapter":"21","verse":"12","text":"Đấng Công Chính quan sát nhà người ác,"},{"book":"Châm Ngôn","chapter":"21","verse":"13","text":"Bịt tai khi người nghèo khổ kêu ca,"},{"book":"Châm Ngôn","chapter":"21","verse":"14","text":"Quà biếu âm thầm làm nguôi cơn giận;"},{"book":"Châm Ngôn","chapter":"21","verse":"15","text":"Công lý đem vui mừng cho người lành,"},{"book":"Châm Ngôn","chapter":"21","verse":"16","text":"Người từ bỏ lương tri,"},{"book":"Châm Ngôn","chapter":"21","verse":"17","text":"Vui chơi khiến con nghèo nàn;"},{"book":"Châm Ngôn","chapter":"21","verse":"18","text":"Người ác lãnh tai nạn thay cho người lành,"},{"book":"Châm Ngôn","chapter":"21","verse":"19","text":"Thà ở nơi hoang mạc,"},{"book":"Châm Ngôn","chapter":"21","verse":"20","text":"Trong tay người khôn, tài sản còn lại,"},{"book":"Châm Ngôn","chapter":"21","verse":"21","text":"Hãy công bằng và nhân từ,"},{"book":"Châm Ngôn","chapter":"21","verse":"22","text":"Người khôn tấn công thành trì người mạnh,"},{"book":"Châm Ngôn","chapter":"21","verse":"23","text":"Ai kiểm soát miệng, cầm giữ lưỡi,"},{"book":"Châm Ngôn","chapter":"21","verse":"24","text":"Người nhạo báng luôn kiêu căng, xấc xược;"},{"book":"Châm Ngôn","chapter":"21","verse":"25","text":"Dục vọng của người lười biếng sẽ giết chết nó,"},{"book":"Châm Ngôn","chapter":"21","verse":"26","text":"Người gian tham suốt ngày thèm thuồng"},{"book":"Châm Ngôn","chapter":"21","verse":"27","text":"Của lễ người ác đã là điều đáng ghét;"},{"book":"Châm Ngôn","chapter":"21","verse":"28","text":"Lời chứng dối tự nó triệt tiêu,"},{"book":"Châm Ngôn","chapter":"21","verse":"29","text":"Người ác làm cho mặt mày chai đá,"},{"book":"Châm Ngôn","chapter":"21","verse":"30","text":"Chẳng ai chống lại được Chúa Hằng Hữu,"},{"book":"Châm Ngôn","chapter":"21","verse":"31","text":"Người ta chuẩn bị ngựa cho ngày chinh chiến,"}]}
+{
+  "data": [
+    {
+      "book": "Châm Ngôn",
+      "chapter": "21",
+      "verse": "1",
+      "text": "Lòng vua như nước trong tay Chúa Hằng Hữu; Ngài nghiêng tay bên nào, nước chảy về bên ấy."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "21",
+      "verse": "2",
+      "text": "Xét việc làm, tự cho ta phải, nhưng Chúa Hằng Hữu xét lòng dạ ta."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "21",
+      "verse": "3",
+      "text": "Chúa Hằng Hữu muốn ta chính trực, công bằng, hơn là đem tế lễ hằng dâng."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "21",
+      "verse": "4",
+      "text": "Lòng tự đại, mắt kiêu cường, cũng là tội lỗi như phường bất lương."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "21",
+      "verse": "5",
+      "text": "Trù liệu và chăm chỉ thì no nê thịnh vượng; bất cẩn vội vàng, thì nghèo đói đương nhiên."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "21",
+      "verse": "6",
+      "text": "Gia tài xây dựng bằng lưỡi dối trá, như hơi nước mau tan, như cạm bẫy tử thần."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "21",
+      "verse": "7",
+      "text": "Bọn bất lương chối việc công bằng, lòng gian tà cuốn đùa chúng đi."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "21",
+      "verse": "8",
+      "text": "Đường lối người phạm tội là quanh co; việc làm người chân thật là ngay thẳng."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "21",
+      "verse": "9",
+      "text": "Thà ở nơi góc mái nhà, còn hơn ở chung nhà với đàn bà hay sinh sự."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "21",
+      "verse": "10",
+      "text": "Người dữ chuyên làm ác, dù láng giềng, nó chẳng thương xót."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "21",
+      "verse": "11",
+      "text": "Khi người nhạo báng bị hình phạt, người dại trở thành khôn ngoan; lúc người khôn được giáo huấn, tri thức người càng tăng."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "21",
+      "verse": "12",
+      "text": "Đấng Công Chính quan sát nhà người ác, Ngài ném người ác vào tai họa."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "21",
+      "verse": "13",
+      "text": "Bịt tai khi người nghèo khổ kêu ca, lúc ta gào khóc gào, nào ai đoái hoài."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "21",
+      "verse": "14",
+      "text": "Quà biếu âm thầm làm nguôi cơn giận; hối lộ kín giấu khiến thịnh nộ tan."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "21",
+      "verse": "15",
+      "text": "Công lý đem vui mừng cho người lành, nhưng gây khiếp sợ cho người ác."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "21",
+      "verse": "16",
+      "text": "Người từ bỏ lương tri, sẽ rơi vào cõi chết."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "21",
+      "verse": "17",
+      "text": "Vui chơi khiến con nghèo nàn; rượu chè xa xỉ không đưa đến giàu có."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "21",
+      "verse": "18",
+      "text": "Người ác lãnh tai nạn thay cho người lành, người bất nghĩa lãnh tai nạn thay cho người ngay thẳng."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "21",
+      "verse": "19",
+      "text": "Thà ở nơi hoang mạc, còn hơn ở chung nhà đàn bà rầy rà, nóng nảy."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "21",
+      "verse": "20",
+      "text": "Trong tay người khôn, tài sản còn lại, người dại hễ có là ăn tiêu hết ngay."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "21",
+      "verse": "21",
+      "text": "Hãy công bằng và nhân từ, con sẽ được trường sinh, công lý, và danh dự."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "21",
+      "verse": "22",
+      "text": "Người khôn tấn công thành trì người mạnh, triệt hạ pháo đài phòng thủ đối phương."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "21",
+      "verse": "23",
+      "text": "Ai kiểm soát miệng, cầm giữ lưỡi, là người giữ mình thoát khỏi rối reng."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "21",
+      "verse": "24",
+      "text": "Người nhạo báng luôn kiêu căng, xấc xược; thái độ lúc nào cũng hợm hĩnh khinh khi."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "21",
+      "verse": "25",
+      "text": "Dục vọng của người lười biếng sẽ giết chết nó, vì đôi tay của nó không chịu làm việc."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "21",
+      "verse": "26",
+      "text": "Người gian tham suốt ngày thèm thuồng nhưng người công chính chia sẻ rời rộng."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "21",
+      "verse": "27",
+      "text": "Của lễ người ác đã là điều đáng ghét; tà tâm nó còn ghê tởm đến đâu!"
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "21",
+      "verse": "28",
+      "text": "Lời chứng dối tự nó triệt tiêu, ai nghe theo sẽ bị hủy diệt đời đời!"
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "21",
+      "verse": "29",
+      "text": "Người ác làm cho mặt mày chai đá, người công chính làm cho đường lối mình vững chãi luôn."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "21",
+      "verse": "30",
+      "text": "Chẳng ai chống lại được Chúa Hằng Hữu, dù khôn ngoan hay thông sáng, dù thương nghị mưu kế."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "21",
+      "verse": "31",
+      "text": "Người ta chuẩn bị ngựa cho ngày chinh chiến, nhưng chiến thắng thuộc về Chúa Hằng Hữu."
+    }
+  ]
+}

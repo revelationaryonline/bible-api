@@ -1,1 +1,16 @@
-{"data":[{"book":"Thi Thiên","chapter":"117","verse":"1","text":"Tất cả các nước, hãy chúc tụng Chúa Hằng Hữu!"},{"book":"Thi Thiên","chapter":"117","verse":"2","text":"Vì Ngài thiết tha yêu chúng ta mãi mãi;"}]}
+{
+  "data": [
+    {
+      "book": "Thi Thiên",
+      "chapter": "117",
+      "verse": "1",
+      "text": "Tất cả các nước, hãy chúc tụng Chúa Hằng Hữu! Tất cả các dân, hãy ca ngợi Ngài!"
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "117",
+      "verse": "2",
+      "text": "Vì Ngài thiết tha yêu chúng ta mãi mãi; đức thành tín của Chúa Hằng Hữu vững chãi muôn đời. Đáng chúc tụng thay Chúa Hằng Hữu!"
+    }
+  ]
+}

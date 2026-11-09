@@ -1,1 +1,214 @@
-{"data":[{"book":"Gióp","chapter":"9","verse":"1","text":"Bấy giờ Gióp trả lời:"},{"book":"Gióp","chapter":"9","verse":"2","text":"“Phải, tôi biết mọi điều này là đúng."},{"book":"Gióp","chapter":"9","verse":"3","text":"Nếu có ai muốn tranh luận với Đức Chúa Trời,"},{"book":"Gióp","chapter":"9","verse":"4","text":"Vì Đức Chúa Trời khôn ngoan và mạnh mẽ vô cùng."},{"book":"Gióp","chapter":"9","verse":"5","text":"Chúa dời núi, núi không hay biết,"},{"book":"Gióp","chapter":"9","verse":"6","text":"Chính tay Chúa làm rung chuyển đất,"},{"book":"Gióp","chapter":"9","verse":"7","text":"Nếu Chúa ra lệnh, mặt trời sẽ không mọc"},{"book":"Gióp","chapter":"9","verse":"8","text":"Chỉ một mình Chúa giăng trải các tầng trời"},{"book":"Gióp","chapter":"9","verse":"9","text":"Ngài tạo dựng tất cả vì sao—sao Bắc Đẩu và sao Thiên Lang,"},{"book":"Gióp","chapter":"9","verse":"10","text":"Chúa làm những việc vĩ đại, không sao hiểu thấu."},{"book":"Gióp","chapter":"9","verse":"11","text":"Chúa đến gần, tôi không thể thấy."},{"book":"Gióp","chapter":"9","verse":"12","text":"Nếu Chúa bắt ai phải chết, ai dám ngăn lại?"},{"book":"Gióp","chapter":"9","verse":"13","text":"Vì Đức Chúa Trời không ngừng cơn thịnh nộ."},{"book":"Gióp","chapter":"9","verse":"14","text":"Vậy tôi là ai mà dám đối đáp cùng Đức Chúa Trời"},{"book":"Gióp","chapter":"9","verse":"15","text":"Nếu tôi đúng, tôi cũng không dám nói."},{"book":"Gióp","chapter":"9","verse":"16","text":"Dù nếu tôi cầu xin và được Chúa đáp lời,"},{"book":"Gióp","chapter":"9","verse":"17","text":"Vì Ngài diệt tôi trong bão tố"},{"book":"Gióp","chapter":"9","verse":"18","text":"Ngài không cho tôi kịp lấy lại hơi thở,"},{"book":"Gióp","chapter":"9","verse":"19","text":"Nếu hỏi về năng lực, Ngài là Đấng mạnh mẽ."},{"book":"Gióp","chapter":"9","verse":"20","text":"Dù tôi vô tội, chính miệng tôi sẽ lên án tôi có tội."},{"book":"Gióp","chapter":"9","verse":"21","text":"Dù tôi vô tội,"},{"book":"Gióp","chapter":"9","verse":"22","text":"Người vô tội hay người gian ác, tất cả đều như nhau trước mặt Đức Chúa Trời."},{"book":"Gióp","chapter":"9","verse":"23","text":"Khi tai họa quét ngang,"},{"book":"Gióp","chapter":"9","verse":"24","text":"Khi đất nước rơi vào tay kẻ ác,"},{"book":"Gióp","chapter":"9","verse":"25","text":"Ngày đời con qua mau hơn người chạy."},{"book":"Gióp","chapter":"9","verse":"26","text":"Nó lướt nhanh như thuyền nan,"},{"book":"Gióp","chapter":"9","verse":"27","text":"Nếu con quyết định không than phiền trách móc,"},{"book":"Gióp","chapter":"9","verse":"28","text":"con cũng phải nhận thêm nhiều đau khổ,"},{"book":"Gióp","chapter":"9","verse":"29","text":"Con sẽ bị kết án."},{"book":"Gióp","chapter":"9","verse":"30","text":"Ngay cả nếu con tắm trong tuyết"},{"book":"Gióp","chapter":"9","verse":"31","text":"thì Chúa cũng dìm con xuống hố bùn,"},{"book":"Gióp","chapter":"9","verse":"32","text":"Đức Chúa Trời đâu phải là loài người như con,"},{"book":"Gióp","chapter":"9","verse":"33","text":"Ước gì có người trung gian giữa Chúa với con,"},{"book":"Gióp","chapter":"9","verse":"34","text":"Người trung gian có thể can ngăn Đức Chúa Trời thôi đánh con,"},{"book":"Gióp","chapter":"9","verse":"35","text":"Bấy giờ con có thể thưa chuyện với Ngài không sợ sệt,"}]}
+{
+  "data": [
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "1",
+      "text": "Bấy giờ Gióp trả lời:"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "2",
+      "text": "“Phải, tôi biết mọi điều này là đúng. Nhưng có ai dám công bố vô tội trước mặt Đức Chúa Trời không?"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "3",
+      "text": "Nếu có ai muốn tranh luận với Đức Chúa Trời, một nghìn câu chẳng đối đáp được một."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "4",
+      "text": "Vì Đức Chúa Trời khôn ngoan và mạnh mẽ vô cùng. Có ai từng thách thức Chúa mà được thành công chăng?"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "5",
+      "text": "Chúa dời núi, núi không hay biết, cơn giận Ngài lật đổ núi non."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "6",
+      "text": "Chính tay Chúa làm rung chuyển đất, các trụ nền nó cũng lung lay."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "7",
+      "text": "Nếu Chúa ra lệnh, mặt trời sẽ không mọc và những vì sao chẳng dám hiện ra."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "8",
+      "text": "Chỉ một mình Chúa giăng trải các tầng trời và giẫm đạp trên từng cơn sóng biển."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "9",
+      "text": "Ngài tạo dựng tất cả vì sao—sao Bắc Đẩu và sao Thiên Lang, sao Thất Tinh và những chòm sao của phương nam."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "10",
+      "text": "Chúa làm những việc vĩ đại, không sao hiểu thấu. Ngài thực hiện những diệu kỳ, không sao đếm xuể."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "11",
+      "text": "Chúa đến gần, tôi không thể thấy. Khi Ngài đi qua, tôi cũng chẳng hay."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "12",
+      "text": "Nếu Chúa bắt ai phải chết, ai dám ngăn lại? Ai dám hỏi: ‘Chúa đang làm gì?’"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "13",
+      "text": "Vì Đức Chúa Trời không ngừng cơn thịnh nộ. Ngay cả kẻ cùng phe với Ra-háp cũng nằm rạp dưới chân Ngài."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "14",
+      "text": "Vậy tôi là ai mà dám đối đáp cùng Đức Chúa Trời hay tìm lời tranh luận cùng Ngài?"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "15",
+      "text": "Nếu tôi đúng, tôi cũng không dám nói. Tôi chỉ có thể cầu xin Chúa xót thương."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "16",
+      "text": "Dù nếu tôi cầu xin và được Chúa đáp lời, tôi cũng không chắc Ngài chịu lắng nghe tôi."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "17",
+      "text": "Vì Ngài diệt tôi trong bão tố và gia tăng thương tích cho tôi vô cớ."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "18",
+      "text": "Ngài không cho tôi kịp lấy lại hơi thở, nhưng chồng chất lên tôi bao nỗi đắng cay."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "19",
+      "text": "Nếu hỏi về năng lực, Ngài là Đấng mạnh mẽ. Nếu nói về công lý, ai dám cáo kiện Ngài?"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "20",
+      "text": "Dù tôi vô tội, chính miệng tôi sẽ lên án tôi có tội. Dù tôi có trọn lành, Chúa cũng sẽ chứng minh tôi gian ác."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "21",
+      "text": "Dù tôi vô tội, nhưng có gì khác cho tôi đâu— tôi khinh khi cuộc sống mình."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "22",
+      "text": "Người vô tội hay người gian ác, tất cả đều như nhau trước mặt Đức Chúa Trời. Thế cho nên tôi nói: ‘Ngài diệt người trọn lành cùng người gian ác,’"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "23",
+      "text": "Khi tai họa quét ngang, Chúa cười nhạo sự chết của người vô tội."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "24",
+      "text": "Khi đất nước rơi vào tay kẻ ác, Đức Chúa Trời che mắt quan tòa. Nếu không phải Chúa, còn ai làm được?"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "25",
+      "text": "Ngày đời con qua mau hơn người chạy. Chúng trôi đi không thấy một niềm vui."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "26",
+      "text": "Nó lướt nhanh như thuyền nan, như đại bàng lao xuống con mồi."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "27",
+      "text": "Nếu con quyết định không than phiền trách móc, cố đổi mặt âu sầu nên vui vẻ,"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "28",
+      "text": "con cũng phải nhận thêm nhiều đau khổ, vì con biết con sẽ không được kể là vô tội, lạy Đức Chúa Trời."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "29",
+      "text": "Con sẽ bị kết án. Còn nhọc công cố gắng làm gì?"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "30",
+      "text": "Ngay cả nếu con tắm trong tuyết và rửa tay con bằng thuốc tẩy,"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "31",
+      "text": "thì Chúa cũng dìm con xuống hố bùn, quần áo con cũng sẽ ghê tởm con."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "32",
+      "text": "Đức Chúa Trời đâu phải là loài người như con, nên con không thể tranh luận với Ngài hay đưa Ngài ra xét xử."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "33",
+      "text": "Ước gì có người trung gian giữa Chúa với con, là người có thể mang con gần với Chúa."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "34",
+      "text": "Người trung gian có thể can ngăn Đức Chúa Trời thôi đánh con, để con không còn khiếp sợ trước hình phạt của Ngài."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "9",
+      "verse": "35",
+      "text": "Bấy giờ con có thể thưa chuyện với Ngài không sợ sệt, nhưng bây giờ con không được như thế.”"
+    }
+  ]
+}

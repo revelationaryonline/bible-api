@@ -1,1 +1,106 @@
-{"data":[{"book":"Nhã Ca","chapter":"2","verse":"1","text":"Em là hoa thủy tiên nở rộ trên Cánh Đồng Sa-rôn,"},{"book":"Nhã Ca","chapter":"2","verse":"2","text":"Em yêu dấu của anh giữa vòng các thiếu nữ"},{"book":"Nhã Ca","chapter":"2","verse":"3","text":"Người yêu của em giữa các chàng trai khác"},{"book":"Nhã Ca","chapter":"2","verse":"4","text":"Chàng đưa em vào phòng yến tiệc;"},{"book":"Nhã Ca","chapter":"2","verse":"5","text":"Hãy thêm sức cho em bằng những bánh nho,"},{"book":"Nhã Ca","chapter":"2","verse":"6","text":"Tay trái chàng kê dưới đầu em,"},{"book":"Nhã Ca","chapter":"2","verse":"7","text":"Hãy hứa với tôi, hỡi người nữ Giê-ru-sa-lem,"},{"book":"Nhã Ca","chapter":"2","verse":"8","text":"Này, em nghe tiếng chân người yêu đang đến!"},{"book":"Nhã Ca","chapter":"2","verse":"9","text":"Người yêu em như linh dương thoăn thoắt"},{"book":"Nhã Ca","chapter":"2","verse":"10","text":"Người yêu em nói với em rằng:"},{"book":"Nhã Ca","chapter":"2","verse":"11","text":"Ô kìa, mùa đông đã trôi qua,"},{"book":"Nhã Ca","chapter":"2","verse":"12","text":"Những cánh hoa đang nở rộ khắp đất,"},{"book":"Nhã Ca","chapter":"2","verse":"13","text":"Những cây vả đã bắt đầu ra trái,"},{"book":"Nhã Ca","chapter":"2","verse":"14","text":"Bồ câu của anh đang ẩn mình trong đá,"},{"book":"Nhã Ca","chapter":"2","verse":"15","text":"Hãy bắt tất cả chồn, những con chồn nhỏ kia,"},{"book":"Nhã Ca","chapter":"2","verse":"16","text":"Người yêu của em thuộc riêng em, và em là của chàng."},{"book":"Nhã Ca","chapter":"2","verse":"17","text":"Trước khi gió mai hiu hiu thổi"}]}
+{
+  "data": [
+    {
+      "book": "Nhã Ca",
+      "chapter": "2",
+      "verse": "1",
+      "text": "Em là hoa thủy tiên nở rộ trên Cánh Đồng Sa-rôn, và là hoa huệ ngoài thung lũng."
+    },
+    {
+      "book": "Nhã Ca",
+      "chapter": "2",
+      "verse": "2",
+      "text": "Em yêu dấu của anh giữa vòng các thiếu nữ như hoa huệ giữa những bụi gai."
+    },
+    {
+      "book": "Nhã Ca",
+      "chapter": "2",
+      "verse": "3",
+      "text": "Người yêu của em giữa các chàng trai khác như cây táo ngon nhất trong vườn cây. Em thích ngồi dưới bóng của chàng, và thưởng thức những trái ngon quả ngọt."
+    },
+    {
+      "book": "Nhã Ca",
+      "chapter": "2",
+      "verse": "4",
+      "text": "Chàng đưa em vào phòng yến tiệc; rõ ràng là chàng yêu em nhiều lắm."
+    },
+    {
+      "book": "Nhã Ca",
+      "chapter": "2",
+      "verse": "5",
+      "text": "Hãy thêm sức cho em bằng những bánh nho, làm em tươi mới bằng những trái táo. Vì yêu mà em dần cạn kiệt."
+    },
+    {
+      "book": "Nhã Ca",
+      "chapter": "2",
+      "verse": "6",
+      "text": "Tay trái chàng kê dưới đầu em, tay phải chàng ôm thân em thật chặt."
+    },
+    {
+      "book": "Nhã Ca",
+      "chapter": "2",
+      "verse": "7",
+      "text": "Hãy hứa với tôi, hỡi người nữ Giê-ru-sa-lem, nhân danh đàn linh dương và đàn nai đồng nội, đừng đánh thức ái tình cho đến khi đúng hạn."
+    },
+    {
+      "book": "Nhã Ca",
+      "chapter": "2",
+      "verse": "8",
+      "text": "Này, em nghe tiếng chân người yêu đang đến! Chàng đang nhảy qua từng khe núi, và phóng nhanh qua các đỉnh đồi."
+    },
+    {
+      "book": "Nhã Ca",
+      "chapter": "2",
+      "verse": "9",
+      "text": "Người yêu em như linh dương thoăn thoắt hay như nai tơ đực lẹ làng. Kìa, chàng đã đến đứng sau bức vách, đang nhìn qua cửa sổ, đang ngó chăm vào phòng."
+    },
+    {
+      "book": "Nhã Ca",
+      "chapter": "2",
+      "verse": "10",
+      "text": "Người yêu em nói với em rằng: “Hãy chỗi dậy, em yêu dấu! Hãy đến cùng anh, người đẹp của anh ơi!"
+    },
+    {
+      "book": "Nhã Ca",
+      "chapter": "2",
+      "verse": "11",
+      "text": "Ô kìa, mùa đông đã trôi qua, mưa đã tạnh rồi."
+    },
+    {
+      "book": "Nhã Ca",
+      "chapter": "2",
+      "verse": "12",
+      "text": "Những cánh hoa đang nở rộ khắp đất, mùa chim hót vang đã đến gần, và tiếng gù của bồ câu khắp không gian."
+    },
+    {
+      "book": "Nhã Ca",
+      "chapter": "2",
+      "verse": "13",
+      "text": "Những cây vả đã bắt đầu ra trái, mùi nho thơm cũng ngào ngạt tỏa hương! Hãy chỗi dậy, em yêu dấu! Hãy đến với anh, người đẹp của anh ơi!”"
+    },
+    {
+      "book": "Nhã Ca",
+      "chapter": "2",
+      "verse": "14",
+      "text": "Bồ câu của anh đang ẩn mình trong đá, tận trong nơi sâu kín của núi đồi. Hãy để anh ngắm nhìn gương mặt em; hãy để anh nghe tiếng của em. Vì giọng nói của em dịu dàng, và gương mặt của em kiều diễm."
+    },
+    {
+      "book": "Nhã Ca",
+      "chapter": "2",
+      "verse": "15",
+      "text": "Hãy bắt tất cả chồn, những con chồn nhỏ kia, trước khi chúng phá hoại vườn nho tình yêu, vì vườn nho đang trong mùa nở rộ!"
+    },
+    {
+      "book": "Nhã Ca",
+      "chapter": "2",
+      "verse": "16",
+      "text": "Người yêu của em thuộc riêng em, và em là của chàng. Chàng vui thỏa giữa rừng hoa huệ."
+    },
+    {
+      "book": "Nhã Ca",
+      "chapter": "2",
+      "verse": "17",
+      "text": "Trước khi gió mai hiu hiu thổi và bóng tối biến tan đi, hãy về với em, người yêu hỡi, như linh dương hay nai tơ trên đồi núi gập ghềnh."
+    }
+  ]
+}

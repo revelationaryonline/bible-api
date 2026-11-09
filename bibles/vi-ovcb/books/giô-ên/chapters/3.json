@@ -1,1 +1,130 @@
-{"data":[{"book":"Giô-ên","chapter":"3","verse":"1","text":"Chúa Hằng Hữu phán: “Vì này, trong thời kỳ ấy,"},{"book":"Giô-ên","chapter":"3","verse":"2","text":"Ta sẽ tụ họp các đội quân trên thế giới"},{"book":"Giô-ên","chapter":"3","verse":"3","text":"Chúng dám bắt thăm chia phần dân Ta"},{"book":"Giô-ên","chapter":"3","verse":"4","text":"Các ngươi đã làm gì với Ta, hỡi Ty-rơ, Si-đôn, và các thành phố của Phi-li-tin? Có phải các ngươi muốn báo thù Ta không? Nếu phải vậy, thì hãy coi chừng! Ta sẽ đoán phạt nhanh chóng và báo trả các ngươi mọi điều ác các ngươi đã làm."},{"book":"Giô-ên","chapter":"3","verse":"5","text":"Các ngươi đã cướp bạc, vàng, và tất cả bảo vật của Ta, rồi chở về cất trong các đền thờ tà thần của mình."},{"book":"Giô-ên","chapter":"3","verse":"6","text":"Các ngươi còn bán con dân của Giu-đa và Giê-ru-sa-lem cho người Hy Lạp để chúng đem họ đi biệt xứ."},{"book":"Giô-ên","chapter":"3","verse":"7","text":"Nhưng Ta sẽ đem họ về nơi các ngươi đã bán họ, và Ta sẽ báo trả tội ác các ngươi đã phạm."},{"book":"Giô-ên","chapter":"3","verse":"8","text":"Ta sẽ bán những con trai và con gái các ngươi cho người Giu-đa, rồi họ sẽ bán chúng cho người Sa-bê, một dân tộc ở rất xa. Ta, Chúa Hằng Hữu, đã phán vậy!”"},{"book":"Giô-ên","chapter":"3","verse":"9","text":"Hãy loan báo đến các dân tộc xa xôi:"},{"book":"Giô-ên","chapter":"3","verse":"10","text":"Lấy lưỡi cày rèn thành gươm,"},{"book":"Giô-ên","chapter":"3","verse":"11","text":"Hãy đến nhanh lên, hỡi tất cả dân tộc từ khắp nơi,"},{"book":"Giô-ên","chapter":"3","verse":"12","text":"“Hỡi các nước được tập hợp thành quân đội."},{"book":"Giô-ên","chapter":"3","verse":"13","text":"Hãy đặt lưỡi hái vào,"},{"book":"Giô-ên","chapter":"3","verse":"14","text":"Hàng nghìn, hàng vạn người đang chờ trong trũng để nghe phán xét."},{"book":"Giô-ên","chapter":"3","verse":"15","text":"Mặt trời mặt trăng sẽ tối đen,"},{"book":"Giô-ên","chapter":"3","verse":"16","text":"Tiếng của Chúa Hằng Hữu sẽ gầm lên từ Si-ôn"},{"book":"Giô-ên","chapter":"3","verse":"17","text":"Lúc ấy, các con sẽ biết Ta là Chúa Hằng Hữu, Đức Chúa Trời của các con,"},{"book":"Giô-ên","chapter":"3","verse":"18","text":"Trong ngày ấy, rượu nho sẽ chảy giọt từ các núi,"},{"book":"Giô-ên","chapter":"3","verse":"19","text":"Còn Ai Cập sẽ trở nên hoang vu"},{"book":"Giô-ên","chapter":"3","verse":"20","text":"“Giu-đa sẽ đông dân cư mãi mãi,"},{"book":"Giô-ên","chapter":"3","verse":"21","text":"Ta sẽ tha thứ tội lỗi của dân Ta,"}]}
+{
+  "data": [
+    {
+      "book": "Giô-ên",
+      "chapter": "3",
+      "verse": "1",
+      "text": "Chúa Hằng Hữu phán: “Vì này, trong thời kỳ ấy, khi Ta đem dân lưu đày của Giu-đa và Giê-ru-sa-lem về nước,"
+    },
+    {
+      "book": "Giô-ên",
+      "chapter": "3",
+      "verse": "2",
+      "text": "Ta sẽ tụ họp các đội quân trên thế giới đem họ xuống trũng Giô-sa-phát. Tại đó Ta sẽ xét xử chúng về tội làm tổn hại dân Ta, dân tuyển chọn của Ta, vì đã phân tán dân Ta khắp các dân tộc, và chia nhau đất nước của Ta."
+    },
+    {
+      "book": "Giô-ên",
+      "chapter": "3",
+      "verse": "3",
+      "text": "Chúng dám bắt thăm chia phần dân Ta rồi đem về làm nô lệ cho chúng. Chúng còn đổi con trai để lấy gái mãi dâm và bán con gái để lấy tiền mua rượu uống cho say."
+    },
+    {
+      "book": "Giô-ên",
+      "chapter": "3",
+      "verse": "4",
+      "text": "Các ngươi đã làm gì với Ta, hỡi Ty-rơ, Si-đôn, và các thành phố của Phi-li-tin? Có phải các ngươi muốn báo thù Ta không? Nếu phải vậy, thì hãy coi chừng! Ta sẽ đoán phạt nhanh chóng và báo trả các ngươi mọi điều ác các ngươi đã làm."
+    },
+    {
+      "book": "Giô-ên",
+      "chapter": "3",
+      "verse": "5",
+      "text": "Các ngươi đã cướp bạc, vàng, và tất cả bảo vật của Ta, rồi chở về cất trong các đền thờ tà thần của mình."
+    },
+    {
+      "book": "Giô-ên",
+      "chapter": "3",
+      "verse": "6",
+      "text": "Các ngươi còn bán con dân của Giu-đa và Giê-ru-sa-lem cho người Hy Lạp để chúng đem họ đi biệt xứ."
+    },
+    {
+      "book": "Giô-ên",
+      "chapter": "3",
+      "verse": "7",
+      "text": "Nhưng Ta sẽ đem họ về nơi các ngươi đã bán họ, và Ta sẽ báo trả tội ác các ngươi đã phạm."
+    },
+    {
+      "book": "Giô-ên",
+      "chapter": "3",
+      "verse": "8",
+      "text": "Ta sẽ bán những con trai và con gái các ngươi cho người Giu-đa, rồi họ sẽ bán chúng cho người Sa-bê, một dân tộc ở rất xa. Ta, Chúa Hằng Hữu, đã phán vậy!”"
+    },
+    {
+      "book": "Giô-ên",
+      "chapter": "3",
+      "verse": "9",
+      "text": "Hãy loan báo đến các dân tộc xa xôi: “Hãy chuẩn bị chiến tranh! Hãy kêu gọi các chiến sĩ giỏi nhất. Hãy động viên toàn lính chiến và tấn công."
+    },
+    {
+      "book": "Giô-ên",
+      "chapter": "3",
+      "verse": "10",
+      "text": "Lấy lưỡi cày rèn thành gươm, và lưỡi liềm rèn thành giáo. Hãy huấn luyện người yếu đuối trở thành dũng sĩ."
+    },
+    {
+      "book": "Giô-ên",
+      "chapter": "3",
+      "verse": "11",
+      "text": "Hãy đến nhanh lên, hỡi tất cả dân tộc từ khắp nơi, hãy tập hợp trong trũng.” Và bây giờ, lạy Chúa Hằng Hữu, xin sai các dũng sĩ của Ngài!"
+    },
+    {
+      "book": "Giô-ên",
+      "chapter": "3",
+      "verse": "12",
+      "text": "“Hỡi các nước được tập hợp thành quân đội. Hãy để chúng tiến vào trũng Giô-sa-phát. Ta, Chúa Hằng Hữu, sẽ ngồi tại đó để công bố sự đoán phạt trên chúng."
+    },
+    {
+      "book": "Giô-ên",
+      "chapter": "3",
+      "verse": "13",
+      "text": "Hãy đặt lưỡi hái vào, vì mùa gặt đã tới. Hãy đến đạp nho, vì máy ép đã đầy. Thùng đã tràn, tội ác chúng nó cũng vậy.”"
+    },
+    {
+      "book": "Giô-ên",
+      "chapter": "3",
+      "verse": "14",
+      "text": "Hàng nghìn, hàng vạn người đang chờ trong trũng để nghe phán xét. Ngày của Chúa Hằng Hữu sẽ sớm đến."
+    },
+    {
+      "book": "Giô-ên",
+      "chapter": "3",
+      "verse": "15",
+      "text": "Mặt trời mặt trăng sẽ tối đen, và các vì sao thôi chiếu sáng."
+    },
+    {
+      "book": "Giô-ên",
+      "chapter": "3",
+      "verse": "16",
+      "text": "Tiếng của Chúa Hằng Hữu sẽ gầm lên từ Si-ôn và sấm vang từ Giê-ru-sa-lem, các tầng trời và đất đều rúng động. Nhưng Chúa Hằng Hữu vẫn là nơi ẩn náu cho dân Ngài, là chiến lũy kiên cố cho dân tộc Ít-ra-ên."
+    },
+    {
+      "book": "Giô-ên",
+      "chapter": "3",
+      "verse": "17",
+      "text": "Lúc ấy, các con sẽ biết Ta là Chúa Hằng Hữu, Đức Chúa Trời của các con, là Đấng ngự tại Si-ôn, Núi Thánh Ta. Giê-ru-sa-lem sẽ nên thánh mãi mãi, và các quân đội nước ngoài không bao giờ dám bén mảng tới nữa."
+    },
+    {
+      "book": "Giô-ên",
+      "chapter": "3",
+      "verse": "18",
+      "text": "Trong ngày ấy, rượu nho sẽ chảy giọt từ các núi, sữa sẽ trào ra từ các đồi. Nước sẽ dâng tràn các dòng sông của Giu-đa, và một dòng suối sẽ ra từ Đền Thờ Chúa Hằng Hữu, nhuần tưới trũng Si-tim."
+    },
+    {
+      "book": "Giô-ên",
+      "chapter": "3",
+      "verse": "19",
+      "text": "Còn Ai Cập sẽ trở nên hoang vu và Ê-đôm sẽ trở nên hoang tàn, vì chúng đã tấn công người Giu-đa và giết người vô tội trong xứ của chúng."
+    },
+    {
+      "book": "Giô-ên",
+      "chapter": "3",
+      "verse": "20",
+      "text": "“Giu-đa sẽ đông dân cư mãi mãi, và Giê-ru-sa-lem sẽ vững vàng trong mọi thế hệ."
+    },
+    {
+      "book": "Giô-ên",
+      "chapter": "3",
+      "verse": "21",
+      "text": "Ta sẽ tha thứ tội lỗi của dân Ta, những tội lỗi mà Ta chưa tha thứ; và Ta, Chúa Hằng Hữu, sẽ ngự trong nhà Ta tại Giê-ru-sa-lem cùng với dân Ta.”"
+    }
+  ]
+}

@@ -1,1 +1,124 @@
-{"data":[{"book":"Truyền Đạo","chapter":"10","verse":"1","text":"Như một con ruồi chết làm hôi thối dầu thơm,"},{"book":"Truyền Đạo","chapter":"10","verse":"2","text":"Lòng người khôn ngoan hướng về điều phải;"},{"book":"Truyền Đạo","chapter":"10","verse":"3","text":"Con có thể nhận ra người dại"},{"book":"Truyền Đạo","chapter":"10","verse":"4","text":"Nếu chủ nổi giận với con, đừng bỏ việc!"},{"book":"Truyền Đạo","chapter":"10","verse":"5","text":"Tôi có thấy một điều tệ hại khác dưới mặt trời. Các vua và những người lãnh đạo đã tạo lỗi lầm"},{"book":"Truyền Đạo","chapter":"10","verse":"6","text":"khi họ cất nhắc người ngu dại lên chức vụ cao, và người có nhiều khả năng phải giữ địa vị thấp kém."},{"book":"Truyền Đạo","chapter":"10","verse":"7","text":"Tôi còn thấy cảnh đầy tớ đi ngựa như các hoàng tử—và hoàng tử lại đi bộ như đầy tớ!"},{"book":"Truyền Đạo","chapter":"10","verse":"8","text":"Ai đào hố phải sa xuống hố."},{"book":"Truyền Đạo","chapter":"10","verse":"9","text":"Người lăn đá bị đá đè."},{"book":"Truyền Đạo","chapter":"10","verse":"10","text":"Dùng một cái rìu cùn sẽ phí nhiều sức,"},{"book":"Truyền Đạo","chapter":"10","verse":"11","text":"Nếu rắn cắn trước khi bị ếm,"},{"book":"Truyền Đạo","chapter":"10","verse":"12","text":"Lời nói của người khôn đem lại thắng lợi,"},{"book":"Truyền Đạo","chapter":"10","verse":"13","text":"Người dại khởi đầu bằng những lời dại khờ,"},{"book":"Truyền Đạo","chapter":"10","verse":"14","text":"họ khoác lác, rườm rà nói mãi."},{"book":"Truyền Đạo","chapter":"10","verse":"15","text":"Người dại phí sức khi làm việc"},{"book":"Truyền Đạo","chapter":"10","verse":"16","text":"Thật khốn cho quốc gia có vua còn trẻ,"},{"book":"Truyền Đạo","chapter":"10","verse":"17","text":"Phước cho quốc gia có vua thuộc dòng quý tộc,"},{"book":"Truyền Đạo","chapter":"10","verse":"18","text":"Sự biếng nhác làm mái nhà xiêu vẹo;"},{"book":"Truyền Đạo","chapter":"10","verse":"19","text":"Tiệc tùng tạo tiếng cười,"},{"book":"Truyền Đạo","chapter":"10","verse":"20","text":"Đừng nhục mạ vua, dù chỉ trong tư tưởng."}]}
+{
+  "data": [
+    {
+      "book": "Truyền Đạo",
+      "chapter": "10",
+      "verse": "1",
+      "text": "Như một con ruồi chết làm hôi thối dầu thơm, một phút điên dại làm mất khôn ngoan và danh dự."
+    },
+    {
+      "book": "Truyền Đạo",
+      "chapter": "10",
+      "verse": "2",
+      "text": "Lòng người khôn ngoan hướng về điều phải; lòng người dại dột nghiêng về điều trái."
+    },
+    {
+      "book": "Truyền Đạo",
+      "chapter": "10",
+      "verse": "3",
+      "text": "Con có thể nhận ra người dại qua cách đi đứng của họ trên đường!"
+    },
+    {
+      "book": "Truyền Đạo",
+      "chapter": "10",
+      "verse": "4",
+      "text": "Nếu chủ nổi giận với con, đừng bỏ việc! Thái độ mềm mỏng có thể ngăn ngừa tội nặng."
+    },
+    {
+      "book": "Truyền Đạo",
+      "chapter": "10",
+      "verse": "5",
+      "text": "Tôi có thấy một điều tệ hại khác dưới mặt trời. Các vua và những người lãnh đạo đã tạo lỗi lầm"
+    },
+    {
+      "book": "Truyền Đạo",
+      "chapter": "10",
+      "verse": "6",
+      "text": "khi họ cất nhắc người ngu dại lên chức vụ cao, và người có nhiều khả năng phải giữ địa vị thấp kém."
+    },
+    {
+      "book": "Truyền Đạo",
+      "chapter": "10",
+      "verse": "7",
+      "text": "Tôi còn thấy cảnh đầy tớ đi ngựa như các hoàng tử—và hoàng tử lại đi bộ như đầy tớ!"
+    },
+    {
+      "book": "Truyền Đạo",
+      "chapter": "10",
+      "verse": "8",
+      "text": "Ai đào hố phải sa xuống hố. Ai phá vách nhà cũ sẽ bị rắn rết cắn."
+    },
+    {
+      "book": "Truyền Đạo",
+      "chapter": "10",
+      "verse": "9",
+      "text": "Người lăn đá bị đá đè. Người bổ củi bị củi gây thương tích."
+    },
+    {
+      "book": "Truyền Đạo",
+      "chapter": "10",
+      "verse": "10",
+      "text": "Dùng một cái rìu cùn sẽ phí nhiều sức, vậy phải mài lưỡi rìu trước. Đó là giá trị của sự khôn ngoan; nó sẽ giúp cho sự thành công."
+    },
+    {
+      "book": "Truyền Đạo",
+      "chapter": "10",
+      "verse": "11",
+      "text": "Nếu rắn cắn trước khi bị ếm, thì thầy bùa rắn có ích lợi gì?"
+    },
+    {
+      "book": "Truyền Đạo",
+      "chapter": "10",
+      "verse": "12",
+      "text": "Lời nói của người khôn đem lại thắng lợi, nhưng miệng lưỡi người dại đem lại tai họa hiểm nghèo."
+    },
+    {
+      "book": "Truyền Đạo",
+      "chapter": "10",
+      "verse": "13",
+      "text": "Người dại khởi đầu bằng những lời dại khờ, rồi kết thúc bằng những lời điên cuồng, độc hại;"
+    },
+    {
+      "book": "Truyền Đạo",
+      "chapter": "10",
+      "verse": "14",
+      "text": "họ khoác lác, rườm rà nói mãi. Không ai biết được việc gì sẽ xảy ra; không ai có thể đoán được việc tương lai."
+    },
+    {
+      "book": "Truyền Đạo",
+      "chapter": "10",
+      "verse": "15",
+      "text": "Người dại phí sức khi làm việc đến độ không còn biết đường về thành."
+    },
+    {
+      "book": "Truyền Đạo",
+      "chapter": "10",
+      "verse": "16",
+      "text": "Thật khốn cho quốc gia có vua còn trẻ, có người lãnh đạo đãi tiệc lúc hừng đông."
+    },
+    {
+      "book": "Truyền Đạo",
+      "chapter": "10",
+      "verse": "17",
+      "text": "Phước cho quốc gia có vua thuộc dòng quý tộc, và cấp lãnh đạo chỉ ăn uống để bổ sức chứ không phải để say sưa."
+    },
+    {
+      "book": "Truyền Đạo",
+      "chapter": "10",
+      "verse": "18",
+      "text": "Sự biếng nhác làm mái nhà xiêu vẹo; lười chảy thây làm nhà dột khắp nơi."
+    },
+    {
+      "book": "Truyền Đạo",
+      "chapter": "10",
+      "verse": "19",
+      "text": "Tiệc tùng tạo tiếng cười, rượu nồng thêm vui vẻ, và tiền bạc giải quyết mọi vấn đề!"
+    },
+    {
+      "book": "Truyền Đạo",
+      "chapter": "10",
+      "verse": "20",
+      "text": "Đừng nhục mạ vua, dù chỉ trong tư tưởng. Và đừng nguyền rủa người giàu có, dù ở trong phòng ngủ mình. Vì chim trời có thể loan truyền lời con và loài có cánh có thể thuật điều con nói."
+    }
+  ]
+}

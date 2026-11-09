@@ -1,1 +1,142 @@
-{"data":[{"book":"Thi Thiên","chapter":"50","verse":"1","text":"Chúa Hằng Hữu, Đấng Toàn Năng, là Đức Chúa Trời,"},{"book":"Thi Thiên","chapter":"50","verse":"2","text":"Từ Núi Si-ôn, kinh thành đẹp đẽ tuyệt vời,"},{"book":"Thi Thiên","chapter":"50","verse":"3","text":"Đức Chúa Trời chúng ta quang lâm,"},{"book":"Thi Thiên","chapter":"50","verse":"4","text":"Ngài bảo trời đất làm nhân chứng"},{"book":"Thi Thiên","chapter":"50","verse":"5","text":"Ngài ra lệnh triệu tập đoàn dân thánh,"},{"book":"Thi Thiên","chapter":"50","verse":"6","text":"Trời xanh thẳm tuyên rao Ngài công chính,"},{"book":"Thi Thiên","chapter":"50","verse":"7","text":"“Hỡi dân Ta, lắng nghe lời Ta nói."},{"book":"Thi Thiên","chapter":"50","verse":"8","text":"Ta không trách các ngươi vì tế lễ,"},{"book":"Thi Thiên","chapter":"50","verse":"9","text":"Nhưng Ta không cần bò giữa trại,"},{"book":"Thi Thiên","chapter":"50","verse":"10","text":"Vì tất cả thú rừng thuộc về Ta,"},{"book":"Thi Thiên","chapter":"50","verse":"11","text":"Ta quen biết từng con chim trên các núi,"},{"book":"Thi Thiên","chapter":"50","verse":"12","text":"Nếu Ta đói, cũng không cần cho ngươi biết,"},{"book":"Thi Thiên","chapter":"50","verse":"13","text":"Ta há ăn thịt bò tế lễ chăng?"},{"book":"Thi Thiên","chapter":"50","verse":"14","text":"Hãy dâng lời tạ ơn làm tế lễ lên Đức Chúa Trời,"},{"book":"Thi Thiên","chapter":"50","verse":"15","text":"Hãy kêu cầu Ta trong lúc gian truân,"},{"book":"Thi Thiên","chapter":"50","verse":"16","text":"Nhưng Đức Chúa Trời trách những người gian ác:"},{"book":"Thi Thiên","chapter":"50","verse":"17","text":"Ngươi vốn ghét thi hành mệnh lệnh,"},{"book":"Thi Thiên","chapter":"50","verse":"18","text":"Thấy kẻ trộm, ngươi tán thành hành động của chúng,"},{"book":"Thi Thiên","chapter":"50","verse":"19","text":"Miệng ngươi tuôn những lời ác độc,"},{"book":"Thi Thiên","chapter":"50","verse":"20","text":"Đặt chuyện cáo gian em ruột,"},{"book":"Thi Thiên","chapter":"50","verse":"21","text":"Ngươi tác hại người khi Ta thinh lặng;50:21 Nt đấy là những công việc ngươi làm"},{"book":"Thi Thiên","chapter":"50","verse":"22","text":"Bọn người quên Chúa nên lưu ý,"},{"book":"Thi Thiên","chapter":"50","verse":"23","text":"Ai dâng lời cảm tạ làm tế lễ là tôn kính Ta."}]}
+{
+  "data": [
+    {
+      "book": "Thi Thiên",
+      "chapter": "50",
+      "verse": "1",
+      "text": "Chúa Hằng Hữu, Đấng Toàn Năng, là Đức Chúa Trời, và Ngài đã phán; Ngài kêu gọi cả toàn cầu, từ khắp cõi đông, tây."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "50",
+      "verse": "2",
+      "text": "Từ Núi Si-ôn, kinh thành đẹp đẽ tuyệt vời, Đức Chúa Trời chiếu rực hào quang."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "50",
+      "verse": "3",
+      "text": "Đức Chúa Trời chúng ta quang lâm, không lặng lẽ, âm thầm. Lửa ăn nuốt mọi thứ trong đường Ngài, và bão tố gầm chung quanh Chúa."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "50",
+      "verse": "4",
+      "text": "Ngài bảo trời đất làm nhân chứng khi Chúa phán xét dân Ngài."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "50",
+      "verse": "5",
+      "text": "Ngài ra lệnh triệu tập đoàn dân thánh, đã từng tế lễ, lập ước với Ngài."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "50",
+      "verse": "6",
+      "text": "Trời xanh thẳm tuyên rao Ngài công chính, Đức Chúa Trời sẽ xét xử thế gian."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "50",
+      "verse": "7",
+      "text": "“Hỡi dân Ta, lắng nghe lời Ta nói. Đây là chứng cớ Ta buộc tội ngươi, hỡi Ít-ra-ên: Ta là Đức Chúa Trời, Đức Chúa Trời của ngươi."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "50",
+      "verse": "8",
+      "text": "Ta không trách các ngươi vì tế lễ, hoặc sinh tế thiêu dâng hiến trên bàn thờ."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "50",
+      "verse": "9",
+      "text": "Nhưng Ta không cần bò giữa trại, cũng chẳng đòi dê trong chuồng."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "50",
+      "verse": "10",
+      "text": "Vì tất cả thú rừng thuộc về Ta, cũng như muông thú trên nghìn đồi cao."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "50",
+      "verse": "11",
+      "text": "Ta quen biết từng con chim trên các núi, và các loài thú nơi đồng xanh thuộc về Ta."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "50",
+      "verse": "12",
+      "text": "Nếu Ta đói, cũng không cần cho ngươi biết, vì Ta làm chủ vũ trụ muôn loài."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "50",
+      "verse": "13",
+      "text": "Ta há ăn thịt bò tế lễ chăng? Ta có uống máu dê non rồi sao?"
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "50",
+      "verse": "14",
+      "text": "Hãy dâng lời tạ ơn làm tế lễ lên Đức Chúa Trời, trả điều khấn nguyện cho Đấng Chí Cao."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "50",
+      "verse": "15",
+      "text": "Hãy kêu cầu Ta trong lúc gian truân, Ta sẽ giải cứu con, và con sẽ tôn vinh Ta.”"
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "50",
+      "verse": "16",
+      "text": "Nhưng Đức Chúa Trời trách những người gian ác: “Sao ngươi được trích dẫn các điều răn và miệng ngươi luôn nhắc lời giao ước?"
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "50",
+      "verse": "17",
+      "text": "Ngươi vốn ghét thi hành mệnh lệnh, bỏ sau lưng các huấn thị Ta."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "50",
+      "verse": "18",
+      "text": "Thấy kẻ trộm, ngươi tán thành hành động của chúng, ngươi đồng mưu với người ngoại tình."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "50",
+      "verse": "19",
+      "text": "Miệng ngươi tuôn những lời ác độc, lưỡi ngươi thêu dệt chuyện dối lừa,"
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "50",
+      "verse": "20",
+      "text": "Đặt chuyện cáo gian em ruột, ngồi lê đôi mách hại anh mình."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "50",
+      "verse": "21",
+      "text": "Ngươi tác hại người khi Ta thinh lặng;50:21 Nt đấy là những công việc ngươi làm ngươi tưởng Ta bỏ mặc làm ngơ.50:21 Nt ngươi tưởng Ta cũng giống như ngươi Nhưng đến ngày Ta sẽ quở phạt, đặt cáo trạng ngay trước mặt ngươi."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "50",
+      "verse": "22",
+      "text": "Bọn người quên Chúa nên lưu ý, kẻo Ta xé nát ngươi từng mảnh, không ai giải cứu được."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "50",
+      "verse": "23",
+      "text": "Ai dâng lời cảm tạ làm tế lễ là tôn kính Ta. Người nào theo đường ngay thẳng, Ta sẽ cho thấy sự cứu chuộc của Đức Chúa Trời.”"
+    }
+  ]
+}

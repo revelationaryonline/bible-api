@@ -1,1 +1,130 @@
-{"data":[{"book":"Gióp","chapter":"18","verse":"1","text":"Binh-đát, người Su-a, đáp:"},{"book":"Gióp","chapter":"18","verse":"2","text":"“Anh cứ luận điệu này cho đến bao giờ?"},{"book":"Gióp","chapter":"18","verse":"3","text":"Sao chúng tôi bị kể vào hàng thú vật?"},{"book":"Gióp","chapter":"18","verse":"4","text":"Anh tự xé nát thân mình trong cơn giận,"},{"book":"Gióp","chapter":"18","verse":"5","text":"Vâng, ánh sáng kẻ gian ác sẽ bị dập tắt."},{"book":"Gióp","chapter":"18","verse":"6","text":"Ánh sáng trong trại nó sẽ tối om."},{"book":"Gióp","chapter":"18","verse":"7","text":"Bước chân mạnh mẽ của kẻ ác sẽ yếu đi."},{"book":"Gióp","chapter":"18","verse":"8","text":"Nó bị chân mình đưa18:8 Nt ném vào lưới rập."},{"book":"Gióp","chapter":"18","verse":"9","text":"Gót chân nó bị mắc vào tròng."},{"book":"Gióp","chapter":"18","verse":"10","text":"Vòng dây chờ sẵn trên mặt đất."},{"book":"Gióp","chapter":"18","verse":"11","text":"Nỗi khủng khiếp vây bọc nó tư bề"},{"book":"Gióp","chapter":"18","verse":"12","text":"Vì cơn đói, nó suy tàn sức lực,"},{"book":"Gióp","chapter":"18","verse":"13","text":"Từng mảng da tai họa tàn phá;"},{"book":"Gióp","chapter":"18","verse":"14","text":"Nó bị đuổi ra ngoài lều trại"},{"book":"Gióp","chapter":"18","verse":"15","text":"Nó sẽ bị giam giữ trong căn nhà xa lạ;"},{"book":"Gióp","chapter":"18","verse":"16","text":"Rễ của nó sẽ bị khô cằn,"},{"book":"Gióp","chapter":"18","verse":"17","text":"Kỷ niệm nó bị xóa nhòa trên đất,"},{"book":"Gióp","chapter":"18","verse":"18","text":"Nó bị đuổi từ vùng ánh sáng vào bóng tối,"},{"book":"Gióp","chapter":"18","verse":"19","text":"Nó chẳng còn con cháu,"},{"book":"Gióp","chapter":"18","verse":"20","text":"Người phương tây kinh ngạc về số phận của nó;"},{"book":"Gióp","chapter":"18","verse":"21","text":"Nó sẽ nói: ‘Đây là nơi ở của kẻ ác,"}]}
+{
+  "data": [
+    {
+      "book": "Gióp",
+      "chapter": "18",
+      "verse": "1",
+      "text": "Binh-đát, người Su-a, đáp:"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "18",
+      "verse": "2",
+      "text": "“Anh cứ luận điệu này cho đến bao giờ? Hãy bình tâm để cùng nhau trò chuyện."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "18",
+      "verse": "3",
+      "text": "Sao chúng tôi bị kể vào hàng thú vật? Sao anh coi chúng tôi là kẻ dại khờ?"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "18",
+      "verse": "4",
+      "text": "Anh tự xé nát thân mình trong cơn giận, không lẽ vì anh mà mặt đất thành hoang vắng? Lẽ nào tảng đá phải dời đi nơi khác?"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "18",
+      "verse": "5",
+      "text": "Vâng, ánh sáng kẻ gian ác sẽ bị dập tắt. Tia lửa của nó không còn chiếu rạng."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "18",
+      "verse": "6",
+      "text": "Ánh sáng trong trại nó sẽ tối om. Ngọn đèn sẽ vụt tắt trên đầu nó."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "18",
+      "verse": "7",
+      "text": "Bước chân mạnh mẽ của kẻ ác sẽ yếu đi. Mưu kế nó sẽ làm nó sụp đổ."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "18",
+      "verse": "8",
+      "text": "Nó bị chân mình đưa18:8 Nt ném vào lưới rập. Dẫn nó bước ngay vào cạm bẫy"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "18",
+      "verse": "9",
+      "text": "Gót chân nó bị mắc vào tròng. Bị thòng lọng thắt chặt hết phương vùng vẫy."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "18",
+      "verse": "10",
+      "text": "Vòng dây chờ sẵn trên mặt đất. Hầm chông gài sẵn trên đường nó đi."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "18",
+      "verse": "11",
+      "text": "Nỗi khủng khiếp vây bọc nó tư bề và bám đuổi theo gót chân nó."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "18",
+      "verse": "12",
+      "text": "Vì cơn đói, nó suy tàn sức lực, tai họa đang chờ chực nó thường xuyên."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "18",
+      "verse": "13",
+      "text": "Từng mảng da tai họa tàn phá; con trưởng của tử thần ăn nuốt toàn thân."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "18",
+      "verse": "14",
+      "text": "Nó bị đuổi ra ngoài lều trại và bị áp giải đến trước vua của những kinh hoàng."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "18",
+      "verse": "15",
+      "text": "Nó sẽ bị giam giữ trong căn nhà xa lạ; còn nhà nó bị trận mưa diêm sinh thiêu hủy."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "18",
+      "verse": "16",
+      "text": "Rễ của nó sẽ bị khô cằn, và các cành của nó sẽ héo tàn."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "18",
+      "verse": "17",
+      "text": "Kỷ niệm nó bị xóa nhòa trên đất, ngoài phố phường chẳng ai nhắc đến tên."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "18",
+      "verse": "18",
+      "text": "Nó bị đuổi từ vùng ánh sáng vào bóng tối, bị trục xuất ra khỏi trần gian."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "18",
+      "verse": "19",
+      "text": "Nó chẳng còn con cháu, không một ai sống sót nơi quê hương nó sống."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "18",
+      "verse": "20",
+      "text": "Người phương tây kinh ngạc về số phận của nó; người phương đông khiếp đảm."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "18",
+      "verse": "21",
+      "text": "Nó sẽ nói: ‘Đây là nơi ở của kẻ ác, là nơi của những kẻ không nhận biết Đức Chúa Trời.’”"
+    }
+  ]
+}

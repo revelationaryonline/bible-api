@@ -1,1 +1,34 @@
-{"data":[{"book":"Thi Thiên","chapter":"15","verse":"1","text":"Lạy Chúa Hằng Hữu, ai có thể thờ phượng trong đền thánh Chúa?"},{"book":"Thi Thiên","chapter":"15","verse":"2","text":"Đó là người bước đi ngay thẳng,"},{"book":"Thi Thiên","chapter":"15","verse":"3","text":"Người không hại bạn, không vu oan,"},{"book":"Thi Thiên","chapter":"15","verse":"4","text":"Người ấy coi khinh người xấu xa tội ác,"},{"book":"Thi Thiên","chapter":"15","verse":"5","text":"Người không cho vay tiền lấy lãi,"}]}
+{
+  "data": [
+    {
+      "book": "Thi Thiên",
+      "chapter": "15",
+      "verse": "1",
+      "text": "Lạy Chúa Hằng Hữu, ai có thể thờ phượng trong đền thánh Chúa? Ai có thể bước vào sự hiện diện trên núi thánh Ngài?"
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "15",
+      "verse": "2",
+      "text": "Đó là người bước đi ngay thẳng, sống thiện lành, suy niệm chân lý trong lòng."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "15",
+      "verse": "3",
+      "text": "Người không hại bạn, không vu oan, không đối xử sai trái với hàng xóm, láng giềng, không nói lời phỉ báng."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "15",
+      "verse": "4",
+      "text": "Người ấy coi khinh người xấu xa tội ác, nhưng tôn quý người kính thờ Chúa Hằng Hữu. Người giữ lời hứa, dù bị tổn hại."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "15",
+      "verse": "5",
+      "text": "Người không cho vay tiền lấy lãi, không ăn hối lộ hại dân lành. Người như thế sẽ đứng vững vàng mãi mãi."
+    }
+  ]
+}

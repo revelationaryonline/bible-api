@@ -1,1 +1,178 @@
-{"data":[{"book":"Châm Ngôn","chapter":"22","verse":"1","text":"Danh thơm tiếng tốt hơn giàu có;"},{"book":"Châm Ngôn","chapter":"22","verse":"2","text":"Chúa Hằng Hữu tạo nên người nghèo lẫn người giàu,"},{"book":"Châm Ngôn","chapter":"22","verse":"3","text":"Người khôn tránh né nguy nan."},{"book":"Châm Ngôn","chapter":"22","verse":"4","text":"Ai kính sợ Chúa Hằng Hữu và khiêm nhường"},{"book":"Châm Ngôn","chapter":"22","verse":"5","text":"Trên đường người gian tà đầy gai góc và cạm bẫy;"},{"book":"Châm Ngôn","chapter":"22","verse":"6","text":"Dạy trẻ thơ nẻo chính đường ngay,"},{"book":"Châm Ngôn","chapter":"22","verse":"7","text":"Giàu cai trị nghèo,"},{"book":"Châm Ngôn","chapter":"22","verse":"8","text":"Người gieo bất công sẽ gặt tai họa,"},{"book":"Châm Ngôn","chapter":"22","verse":"9","text":"Ai rộng lòng nuôi dưỡng người cơ cực"},{"book":"Châm Ngôn","chapter":"22","verse":"10","text":"Đuổi người kiêu cường đi, xung đột sẽ dứt."},{"book":"Châm Ngôn","chapter":"22","verse":"11","text":"Lòng trong sạch, môi thanh nhã,"},{"book":"Châm Ngôn","chapter":"22","verse":"12","text":"Chúa Hằng Hữu bảo vệ người thông sáng,"},{"book":"Châm Ngôn","chapter":"22","verse":"13","text":"Người lười nói: “Sư tử ngoài kia!"},{"book":"Châm Ngôn","chapter":"22","verse":"14","text":"Miệng dâm phụ là cái hố sâu;"},{"book":"Châm Ngôn","chapter":"22","verse":"15","text":"Nghiêm trị, răn dạy trẻ thơ,"},{"book":"Châm Ngôn","chapter":"22","verse":"16","text":"Làm giàu bằng cách bóc lột người nghèo hay bằng hối lộ,"},{"book":"Châm Ngôn","chapter":"22","verse":"17","text":"Con lắng tai nghe lời khôn sáng;"},{"book":"Châm Ngôn","chapter":"22","verse":"18","text":"Con sẽ vui thích khi giữ nó trong lòng,"},{"book":"Châm Ngôn","chapter":"22","verse":"19","text":"Ngày nay ta đã dạy cho con biết điều đó,"},{"book":"Châm Ngôn","chapter":"22","verse":"20","text":"Ta há chẳng viết cho con ba mươi lần,"},{"book":"Châm Ngôn","chapter":"22","verse":"21","text":"Để con tiếp nhận lời chân thật,"},{"book":"Châm Ngôn","chapter":"22","verse":"22","text":"Đừng bóc lột người nghèo vì họ túng quẫn,"},{"book":"Châm Ngôn","chapter":"22","verse":"23","text":"Vì Chúa Hằng Hữu sẽ đứng ra bênh vực."},{"book":"Châm Ngôn","chapter":"22","verse":"24","text":"Thấy ai giận, con đừng phụ họa,"},{"book":"Châm Ngôn","chapter":"22","verse":"25","text":"để con khỏi học tính nóng nảy"},{"book":"Châm Ngôn","chapter":"22","verse":"26","text":"Chớ như người ra tay bảo đảm"},{"book":"Châm Ngôn","chapter":"22","verse":"27","text":"Vì nếu con không có gì để trả"},{"book":"Châm Ngôn","chapter":"22","verse":"28","text":"Chớ dời ranh giới cũ"},{"book":"Châm Ngôn","chapter":"22","verse":"29","text":"Con có thấy người nào cần mẫn trong việc mình không?"}]}
+{
+  "data": [
+    {
+      "book": "Châm Ngôn",
+      "chapter": "22",
+      "verse": "1",
+      "text": "Danh thơm tiếng tốt hơn giàu có; còn ân huệ quý hơn bạc vàng."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "22",
+      "verse": "2",
+      "text": "Chúa Hằng Hữu tạo nên người nghèo lẫn người giàu, dưới mắt Ngài, họ chẳng khác gì nhau."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "22",
+      "verse": "3",
+      "text": "Người khôn tránh né nguy nan. Người dại đâm đầu hướng tới họa tai."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "22",
+      "verse": "4",
+      "text": "Ai kính sợ Chúa Hằng Hữu và khiêm nhường được hưởng danh dự, công lý, và trường thọ."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "22",
+      "verse": "5",
+      "text": "Trên đường người gian tà đầy gai góc và cạm bẫy; người muốn giữ hồn mình phải tránh cho xa."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "22",
+      "verse": "6",
+      "text": "Dạy trẻ thơ nẻo chính đường ngay, cho dù đến già, nó chẳng đổi thay."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "22",
+      "verse": "7",
+      "text": "Giàu cai trị nghèo, người vay làm nô lệ cho người cho vay."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "22",
+      "verse": "8",
+      "text": "Người gieo bất công sẽ gặt tai họa, cây gậy thịnh nộ của nó chắc sẽ tiêu tan."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "22",
+      "verse": "9",
+      "text": "Ai rộng lòng nuôi dưỡng người cơ cực sẽ luôn hưởng được nhiều phước dồi dào."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "22",
+      "verse": "10",
+      "text": "Đuổi người kiêu cường đi, xung đột sẽ dứt. Cũng không còn những tiếng cãi cọ xấu xa."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "22",
+      "verse": "11",
+      "text": "Lòng trong sạch, môi thanh nhã, đức tính ấy, làm bạn của vua."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "22",
+      "verse": "12",
+      "text": "Chúa Hằng Hữu bảo vệ người thông sáng, người dối gian bị Chúa tảo trừ."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "22",
+      "verse": "13",
+      "text": "Người lười nói: “Sư tử ngoài kia! Nếu ra ngoài, ta sẽ bị giết!”"
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "22",
+      "verse": "14",
+      "text": "Miệng dâm phụ là cái hố sâu; chôn vùi người Chúa Hằng Hữu nguyền rủa."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "22",
+      "verse": "15",
+      "text": "Nghiêm trị, răn dạy trẻ thơ, giải thoát lòng chúng khỏi điều khờ dại."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "22",
+      "verse": "16",
+      "text": "Làm giàu bằng cách bóc lột người nghèo hay bằng hối lộ, đều đưa đến túng thiếu cơ hàn."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "22",
+      "verse": "17",
+      "text": "Con lắng tai nghe lời khôn sáng; mở lòng con đón nhận tri thức ta."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "22",
+      "verse": "18",
+      "text": "Con sẽ vui thích khi giữ nó trong lòng, và tập trung nó trên đôi môi con."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "22",
+      "verse": "19",
+      "text": "Ngày nay ta đã dạy cho con biết điều đó, để con đặt hết niềm tin vào Chúa Hằng Hữu."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "22",
+      "verse": "20",
+      "text": "Ta há chẳng viết cho con ba mươi lần, trình bày lời khuyên dạy và tri thức."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "22",
+      "verse": "21",
+      "text": "Để con tiếp nhận lời chân thật, và đem lời đó về cho người sai phái con."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "22",
+      "verse": "22",
+      "text": "Đừng bóc lột người nghèo vì họ túng quẫn, cũng đừng áp bức người khốn khổ nơi tòa."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "22",
+      "verse": "23",
+      "text": "Vì Chúa Hằng Hữu sẽ đứng ra bênh vực. Ngài sẽ diệt trừ những ai ức hiếp họ."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "22",
+      "verse": "24",
+      "text": "Thấy ai giận, con đừng phụ họa, khi người nổi nóng, con đừng tiếp tay,"
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "22",
+      "verse": "25",
+      "text": "để con khỏi học tính nóng nảy và làm hại cho linh hồn con."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "22",
+      "verse": "26",
+      "text": "Chớ như người ra tay bảo đảm hoặc bảo lãnh nợ cho ai."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "22",
+      "verse": "27",
+      "text": "Vì nếu con không có gì để trả thì chủ nợ sẽ xiết cả đến cái giường của con."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "22",
+      "verse": "28",
+      "text": "Chớ dời ranh giới cũ do tổ phụ thiết lập."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "22",
+      "verse": "29",
+      "text": "Con có thấy người nào cần mẫn trong việc mình không? Người ấy sẽ phục vụ trước các vua, chứ không phải trước người tầm thường đâu."
+    }
+  ]
+}

@@ -1,1 +1,136 @@
-{"data":[{"book":"Thi Thiên","chapter":"38","verse":"1","text":"Lạy Chúa Hằng Hữu, xin đừng quở trách con trong cơn giận,"},{"book":"Thi Thiên","chapter":"38","verse":"2","text":"Mũi tên Chúa bắn sâu vào thịt,"},{"book":"Thi Thiên","chapter":"38","verse":"3","text":"Vì Chúa giận, thân con yếu ớt;"},{"book":"Thi Thiên","chapter":"38","verse":"4","text":"Tội ác con ngập đầu—"},{"book":"Thi Thiên","chapter":"38","verse":"5","text":"Vết thương lòng lở loét thối tha,"},{"book":"Thi Thiên","chapter":"38","verse":"6","text":"Con cúi mặt khom mình trong tủi nhục."},{"book":"Thi Thiên","chapter":"38","verse":"7","text":"Đòn vọt, lưng con đau như bỏng,"},{"book":"Thi Thiên","chapter":"38","verse":"8","text":"Con gập người, kiệt lực, nhược suy."},{"book":"Thi Thiên","chapter":"38","verse":"9","text":"Chúa Hằng Hữu ôi, Chúa biết mọi điều con ao ước;"},{"book":"Thi Thiên","chapter":"38","verse":"10","text":"Tim đập dồn, sức tàn lực kiệt,"},{"book":"Thi Thiên","chapter":"38","verse":"11","text":"Bạn hữu, thân sơ đều lảng tránh."},{"book":"Thi Thiên","chapter":"38","verse":"12","text":"Người săn mạng lo chăng bẫy lưới."},{"book":"Thi Thiên","chapter":"38","verse":"13","text":"Con như người điếc, chẳng nghe, chẳng biết,"},{"book":"Thi Thiên","chapter":"38","verse":"14","text":"Phải, con như người điếc chẳng nghe,"},{"book":"Thi Thiên","chapter":"38","verse":"15","text":"Lạy Chúa Hằng Hữu, con đang trông đợi."},{"book":"Thi Thiên","chapter":"38","verse":"16","text":"Con cầu nguyện: “Xin đừng để kẻ thù con hả hê"},{"book":"Thi Thiên","chapter":"38","verse":"17","text":"Con kiệt lực, chân không đứng vững,"},{"book":"Thi Thiên","chapter":"38","verse":"18","text":"Con xưng ra tội lỗi con;"},{"book":"Thi Thiên","chapter":"38","verse":"19","text":"Quân thù đông vây bọc trong ngoài,"},{"book":"Thi Thiên","chapter":"38","verse":"20","text":"Họ lấy điều dữ trả điều lành cho con,"},{"book":"Thi Thiên","chapter":"38","verse":"21","text":"Lạy Chúa Hằng Hữu, xin chớ bỏ rơi con."},{"book":"Thi Thiên","chapter":"38","verse":"22","text":"Xin mau cứu giúp con,"}]}
+{
+  "data": [
+    {
+      "book": "Thi Thiên",
+      "chapter": "38",
+      "verse": "1",
+      "text": "Lạy Chúa Hằng Hữu, xin đừng quở trách con trong cơn giận, lúc Ngài thịnh nộ, xin chớ sửa phạt con."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "38",
+      "verse": "2",
+      "text": "Mũi tên Chúa bắn sâu vào thịt, bàn tay Ngài đè nặng trên con."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "38",
+      "verse": "3",
+      "text": "Vì Chúa giận, thân con yếu ớt; do tội con, xương cốt mỏi mòn."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "38",
+      "verse": "4",
+      "text": "Tội ác con ngập đầu— nặng nề đè bẹp cả tâm thân,"
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "38",
+      "verse": "5",
+      "text": "Vết thương lòng lở loét thối tha, vì khờ dại đòn roi con chịu."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "38",
+      "verse": "6",
+      "text": "Con cúi mặt khom mình trong tủi nhục. Phiền muộn ngày đêm rục cõi lòng."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "38",
+      "verse": "7",
+      "text": "Đòn vọt, lưng con đau như bỏng, những lằn roi cày nát thịt da."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "38",
+      "verse": "8",
+      "text": "Con gập người, kiệt lực, nhược suy. Vì đau đớn nát lòng, con rên rỉ."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "38",
+      "verse": "9",
+      "text": "Chúa Hằng Hữu ôi, Chúa biết mọi điều con ao ước; tiếng thở than chẳng giấu được Ngài."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "38",
+      "verse": "10",
+      "text": "Tim đập dồn, sức tàn lực kiệt, đôi mắt lòa, bóng tối tràn lan."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "38",
+      "verse": "11",
+      "text": "Bạn hữu, thân sơ đều lảng tránh. Gia đình thân thích cũng dang xa."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "38",
+      "verse": "12",
+      "text": "Người săn mạng lo chăng bẫy lưới. Bọn ác nhân mưu kế hại người. Suốt ngày lo tính chuyện dối gian."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "38",
+      "verse": "13",
+      "text": "Con như người điếc, chẳng nghe, chẳng biết, như người câm, không mở miệng."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "38",
+      "verse": "14",
+      "text": "Phải, con như người điếc chẳng nghe, miệng không có lời đối đáp."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "38",
+      "verse": "15",
+      "text": "Lạy Chúa Hằng Hữu, con đang trông đợi. Xin đáp lời, lạy Chúa, Đức Chúa Trời con."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "38",
+      "verse": "16",
+      "text": "Con cầu nguyện: “Xin đừng để kẻ thù con hả hê hay vui mừng vì chân con trượt ngã.”"
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "38",
+      "verse": "17",
+      "text": "Con kiệt lực, chân không đứng vững, nỗi đau thương đeo đẳng không rời."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "38",
+      "verse": "18",
+      "text": "Con xưng ra tội lỗi con; con ăn năn thống hối về những việc con đã làm."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "38",
+      "verse": "19",
+      "text": "Quân thù đông vây bọc trong ngoài, người vô cớ ghét con chẳng hiếm."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "38",
+      "verse": "20",
+      "text": "Họ lấy điều dữ trả điều lành cho con, chỉ vì con làm theo ý Chúa."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "38",
+      "verse": "21",
+      "text": "Lạy Chúa Hằng Hữu, xin chớ bỏ rơi con. Đức Chúa Trời của con, xin đừng ngoảnh mặt."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "38",
+      "verse": "22",
+      "text": "Xin mau cứu giúp con, Lạy Chúa Hằng Hữu, Đấng Cứu Rỗi con."
+    }
+  ]
+}

@@ -1,1 +1,118 @@
-{"data":[{"book":"Ô-sê","chapter":"4","verse":"1","text":"Hỡi dân tộc Ít-ra-ên, hãy nghe lời Chúa Hằng Hữu phán dạy!"},{"book":"Ô-sê","chapter":"4","verse":"2","text":"Các ngươi thề hứa rồi thất hứa;"},{"book":"Ô-sê","chapter":"4","verse":"3","text":"Vì thế đất đai than khóc,"},{"book":"Ô-sê","chapter":"4","verse":"4","text":"Dù vậy, đừng tranh chấp với ai,"},{"book":"Ô-sê","chapter":"4","verse":"5","text":"Vì vậy ngươi sẽ vấp ngã giữa ban ngày,"},{"book":"Ô-sê","chapter":"4","verse":"6","text":"Dân Ta bị tiêu diệt"},{"book":"Ô-sê","chapter":"4","verse":"7","text":"Càng nhiều thầy tế lễ bao nhiêu,"},{"book":"Ô-sê","chapter":"4","verse":"8","text":"Khi dân chúng dâng tế lễ chuộc tội thì các thầy tế lễ nhận được tiền công."},{"book":"Ô-sê","chapter":"4","verse":"9","text":"‘Các thầy tế lễ làm gì, thì dân chúng cũng làm như vậy.’"},{"book":"Ô-sê","chapter":"4","verse":"10","text":"Chúng sẽ ăn nhưng không no."},{"book":"Ô-sê","chapter":"4","verse":"11","text":"để chạy theo các thần khác."},{"book":"Ô-sê","chapter":"4","verse":"12","text":"Chúng cầu vấn thần tượng bằng gỗ!"},{"book":"Ô-sê","chapter":"4","verse":"13","text":"Chúng dâng sinh tế trên các ngọn núi."},{"book":"Ô-sê","chapter":"4","verse":"14","text":"Nhưng tại sao Ta không phạt chúng"},{"book":"Ô-sê","chapter":"4","verse":"15","text":"Dù ngươi, Ít-ra-ên, là gái mãi dâm,"},{"book":"Ô-sê","chapter":"4","verse":"16","text":"Ít-ra-ên ngoan cố"},{"book":"Ô-sê","chapter":"4","verse":"17","text":"Hãy bỏ mặc Ép-ra-im cô độc,"},{"book":"Ô-sê","chapter":"4","verse":"18","text":"Khi những kẻ cai trị Ít-ra-ên uống say sưa,"},{"book":"Ô-sê","chapter":"4","verse":"19","text":"Vì vậy một cơn gió mạnh sẽ quét sạch chúng."}]}
+{
+  "data": [
+    {
+      "book": "Ô-sê",
+      "chapter": "4",
+      "verse": "1",
+      "text": "Hỡi dân tộc Ít-ra-ên, hãy nghe lời Chúa Hằng Hữu phán dạy! Chúa Hằng Hữu đã lên án ngươi, Ngài phán: “Trong xứ này không có sự thành tín, không nhân từ, không hiểu biết Đức Chúa Trời."
+    },
+    {
+      "book": "Ô-sê",
+      "chapter": "4",
+      "verse": "2",
+      "text": "Các ngươi thề hứa rồi thất hứa; ngươi giết người, trộm cắp, và ngoại tình. Bạo lực gia tăng khắp nơi— gây cảnh đổ máu này đến cảnh đổ máu khác."
+    },
+    {
+      "book": "Ô-sê",
+      "chapter": "4",
+      "verse": "3",
+      "text": "Vì thế đất đai than khóc, cư dân chết dần chết mòn. Ngay cả các thú đồng, chim trời, và đến cá biển cũng đều biến mất."
+    },
+    {
+      "book": "Ô-sê",
+      "chapter": "4",
+      "verse": "4",
+      "text": "Dù vậy, đừng tranh chấp với ai, đừng buộc tội người khác! Ta lên án ngươi, hỡi thầy tế lễ, dân ngươi như những người tranh chấp với thầy tế lễ."
+    },
+    {
+      "book": "Ô-sê",
+      "chapter": "4",
+      "verse": "5",
+      "text": "Vì vậy ngươi sẽ vấp ngã giữa ban ngày, và các tiên tri giả sẽ cùng vấp ngã với ngươi vào ban đêm. Ta sẽ diệt Ít-ra-ên, mẹ ngươi."
+    },
+    {
+      "book": "Ô-sê",
+      "chapter": "4",
+      "verse": "6",
+      "text": "Dân Ta bị tiêu diệt vì chúng không biết Ta. Các thầy tế lễ ngươi không chịu hiểu biết Ta, nên Ta cũng không nhận ngươi làm thầy tế lễ cho Ta. Vì ngươi quên luật pháp của Đức Chúa Trời ngươi, nên Ta cũng sẽ quên ban phước cho các con ngươi."
+    },
+    {
+      "book": "Ô-sê",
+      "chapter": "4",
+      "verse": "7",
+      "text": "Càng nhiều thầy tế lễ bao nhiêu, chúng càng phạm tội chống Ta bấy nhiêu. Ta sẽ đổi vinh quang của chúng ra ô nhục."
+    },
+    {
+      "book": "Ô-sê",
+      "chapter": "4",
+      "verse": "8",
+      "text": "Khi dân chúng dâng tế lễ chuộc tội thì các thầy tế lễ nhận được tiền công. Vì vậy các thầy tế lễ vui mừng khi dân chúng phạm tội!"
+    },
+    {
+      "book": "Ô-sê",
+      "chapter": "4",
+      "verse": "9",
+      "text": "‘Các thầy tế lễ làm gì, thì dân chúng cũng làm như vậy.’ Nên bây giờ Ta sẽ phạt cả thầy tế lễ lẫn người dân vì những việc gian ác chúng đã làm."
+    },
+    {
+      "book": "Ô-sê",
+      "chapter": "4",
+      "verse": "10",
+      "text": "Chúng sẽ ăn nhưng không no. Chúng sẽ hành dâm và không được lợi lộc gì, vì chúng đã lìa bỏ Chúa Hằng Hữu"
+    },
+    {
+      "book": "Ô-sê",
+      "chapter": "4",
+      "verse": "11",
+      "text": "để chạy theo các thần khác. Rượu đã cướp dân Ta, đã làm mờ tâm trí chúng nó."
+    },
+    {
+      "book": "Ô-sê",
+      "chapter": "4",
+      "verse": "12",
+      "text": "Chúng cầu vấn thần tượng bằng gỗ! Chúng nghĩ một cây que có thể nói về tương lai! Thờ lạy thần tượng lâu ngày đã khiến chúng ngu muội. Chúng buông mình hành dâm, thờ lạy các thần khác và lìa bỏ Đức Chúa Trời của chúng."
+    },
+    {
+      "book": "Ô-sê",
+      "chapter": "4",
+      "verse": "13",
+      "text": "Chúng dâng sinh tế trên các ngọn núi. Chúng lên các đồi cao để đốt hương dưới bóng rậm cây sồi, cây bạch dương, và cây thông. Vì thế con gái các ngươi mãi dâm, và con dâu các ngươi ngoại tình."
+    },
+    {
+      "book": "Ô-sê",
+      "chapter": "4",
+      "verse": "14",
+      "text": "Nhưng tại sao Ta không phạt chúng vì tội mãi dâm và ngoại tình? Vì chính đàn ông các ngươi cũng làm như vậy kia mà! Chúng phạm tội với phường đĩ điếm và dâng tế lễ với bọn mãi dâm. Hỡi dân ngu muội kia! Các ngươi không chịu hiểu biết, nên các ngươi sẽ bị diệt vong."
+    },
+    {
+      "book": "Ô-sê",
+      "chapter": "4",
+      "verse": "15",
+      "text": "Dù ngươi, Ít-ra-ên, là gái mãi dâm, cũng đừng để Giu-đa phạm tội. Đừng dự vào sự thờ phượng giả dối tại Ghinh-ganh hay Bết-a-ven, dù chúng nhân danh Chúa Hằng Hữu để thề."
+    },
+    {
+      "book": "Ô-sê",
+      "chapter": "4",
+      "verse": "16",
+      "text": "Ít-ra-ên ngoan cố như bò cái tơ bất trị. Vậy Chúa Hằng Hữu có thể nuôi nó như chiên con trong đồng cỏ xanh tươi không?"
+    },
+    {
+      "book": "Ô-sê",
+      "chapter": "4",
+      "verse": "17",
+      "text": "Hãy bỏ mặc Ép-ra-im cô độc, vì nó gắn bó với thần tượng."
+    },
+    {
+      "book": "Ô-sê",
+      "chapter": "4",
+      "verse": "18",
+      "text": "Khi những kẻ cai trị Ít-ra-ên uống say sưa, rồi chúng tìm đến gái mãi dâm. Chúng yêu thích sỉ nhục hơn vinh quang."
+    },
+    {
+      "book": "Ô-sê",
+      "chapter": "4",
+      "verse": "19",
+      "text": "Vì vậy một cơn gió mạnh sẽ quét sạch chúng. Chúng sẽ nhục nhã vì các tế lễ của mình.”"
+    }
+  ]
+}

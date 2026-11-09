@@ -1,1 +1,34 @@
-{"data":[{"book":"Thi Thiên","chapter":"100","verse":"1","text":"Bài ca cảm ta. Hỡi cả trái đất, hãy cất tiếng ca mừng cho Chúa Hằng Hữu!"},{"book":"Thi Thiên","chapter":"100","verse":"2","text":"Phục vụ Chúa Hằng Hữu với lòng vui sướng."},{"book":"Thi Thiên","chapter":"100","verse":"3","text":"Hãy nhận biết Chúa Hằng Hữu là Đức Chúa Trời!"},{"book":"Thi Thiên","chapter":"100","verse":"4","text":"Hãy vào các cửa của Ngài với lời cảm tạ;"},{"book":"Thi Thiên","chapter":"100","verse":"5","text":"Vì Chúa Hằng Hữu là Đấng toàn thiện."}]}
+{
+  "data": [
+    {
+      "book": "Thi Thiên",
+      "chapter": "100",
+      "verse": "1",
+      "text": "Bài ca cảm ta. Hỡi cả trái đất, hãy cất tiếng ca mừng cho Chúa Hằng Hữu!"
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "100",
+      "verse": "2",
+      "text": "Phục vụ Chúa Hằng Hữu với lòng vui sướng. Đến trước mặt Ngài với tiếng hoan ca."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "100",
+      "verse": "3",
+      "text": "Hãy nhận biết Chúa Hằng Hữu là Đức Chúa Trời! Đấng đã tạo dựng chúng ta, chúng ta thuộc về Ngài. Chúng ta là dân Ngài, là chiên của đồng cỏ Ngài."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "100",
+      "verse": "4",
+      "text": "Hãy vào các cửa của Ngài với lời cảm tạ; vào hành lang Ngài với tiếng ngợi ca. Cảm tạ tôn vinh Danh Đấng Cao Cả."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "100",
+      "verse": "5",
+      "text": "Vì Chúa Hằng Hữu là Đấng toàn thiện. Đức bác ái Ngài hằng còn mãi, và đức thành tín Ngài còn đến đời đời."
+    }
+  ]
+}

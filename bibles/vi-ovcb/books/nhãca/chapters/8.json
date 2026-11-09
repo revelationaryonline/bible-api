@@ -1,1 +1,88 @@
-{"data":[{"book":"Nhã Ca","chapter":"8","verse":"1","text":"Ôi, ước gì chàng là anh trai của em,"},{"book":"Nhã Ca","chapter":"8","verse":"2","text":"Em có thể đưa chàng về nhà mẹ em,"},{"book":"Nhã Ca","chapter":"8","verse":"3","text":"Tay trái chàng kê dưới đầu em,"},{"book":"Nhã Ca","chapter":"8","verse":"4","text":"Hãy hứa với em, hỡi các thiếu nữ Giê-ru-sa-lem,"},{"book":"Nhã Ca","chapter":"8","verse":"5","text":"Ai từ hoang mạc đến"},{"book":"Nhã Ca","chapter":"8","verse":"6","text":"Xin đặt em như chiếc ấn trong lòng chàng,"},{"book":"Nhã Ca","chapter":"8","verse":"7","text":"Bao nhiêu nước cũng không thể làm nguội lạnh tình yêu,"},{"book":"Nhã Ca","chapter":"8","verse":"8","text":"Chúng tôi có người em gái nhỏ"},{"book":"Nhã Ca","chapter":"8","verse":"9","text":"Nếu em là trinh nữ, như bức tường,"},{"book":"Nhã Ca","chapter":"8","verse":"10","text":"Em là trinh nữ, như bức tường;"},{"book":"Nhã Ca","chapter":"8","verse":"11","text":"Sa-lô-môn có vườn nho tại Ba-anh Ha-môn,"},{"book":"Nhã Ca","chapter":"8","verse":"12","text":"Nhưng vườn nho của em không phải để bán,"},{"book":"Nhã Ca","chapter":"8","verse":"13","text":"Ôi em yêu dấu, cứ ở trong vườn,"},{"book":"Nhã Ca","chapter":"8","verse":"14","text":"Nhanh lên anh, người yêu của em ơi! Như linh dương"}]}
+{
+  "data": [
+    {
+      "book": "Nhã Ca",
+      "chapter": "8",
+      "verse": "1",
+      "text": "Ôi, ước gì chàng là anh trai của em, người được nuôi từ bầu sữa của mẹ em. Để em có thể hôn chàng dù có người đang nhìn, không bị ai chỉ trích."
+    },
+    {
+      "book": "Nhã Ca",
+      "chapter": "8",
+      "verse": "2",
+      "text": "Em có thể đưa chàng về nhà mẹ em, và nơi đó chàng dạy dỗ em. Em sẽ mời chàng uống rượu thơm, nước rượu ngọt của thạch lựu."
+    },
+    {
+      "book": "Nhã Ca",
+      "chapter": "8",
+      "verse": "3",
+      "text": "Tay trái chàng kê dưới đầu em, Tay phải chàng ôm thân em thật chặt."
+    },
+    {
+      "book": "Nhã Ca",
+      "chapter": "8",
+      "verse": "4",
+      "text": "Hãy hứa với em, hỡi các thiếu nữ Giê-ru-sa-lem, đừng đánh thức ái tình cho đến khi đúng hạn."
+    },
+    {
+      "book": "Nhã Ca",
+      "chapter": "8",
+      "verse": "5",
+      "text": "Ai từ hoang mạc đến tựa mình vào người yêu của nàng? Thiếu Nữ Em đánh thức chàng dưới cây táo, nơi mẹ chàng đã hạ sinh chàng, nơi ấy người sinh chàng trong cơn đau quặn thắt."
+    },
+    {
+      "book": "Nhã Ca",
+      "chapter": "8",
+      "verse": "6",
+      "text": "Xin đặt em như chiếc ấn trong lòng chàng, như chiếc ấn nơi cánh tay chàng. Vì ái tình mạnh như sự chết, lòng ghen tuông bốc cháy như âm phủ. Tình yêu chiếu tia như lửa, như ngọn lửa phừng phừng bốc cháy."
+    },
+    {
+      "book": "Nhã Ca",
+      "chapter": "8",
+      "verse": "7",
+      "text": "Bao nhiêu nước cũng không thể làm nguội lạnh tình yêu, hay nhiều sông cũng không nhấn chìm được nó. Nếu có người đem hết tài sản mình để mua tình yêu, thì cũng chỉ chuốc lấy tiếng đời cười chê."
+    },
+    {
+      "book": "Nhã Ca",
+      "chapter": "8",
+      "verse": "8",
+      "text": "Chúng tôi có người em gái nhỏ chưa đến tuổi cập kê. Chúng tôi sẽ làm gì cho em gái mình khi có người ngõ ý cầu hôn?"
+    },
+    {
+      "book": "Nhã Ca",
+      "chapter": "8",
+      "verse": "9",
+      "text": "Nếu em là trinh nữ, như bức tường, chúng tôi sẽ xây tháp bạc bảo vệ em. Nhưng nếu em là người lả lơi, như cánh cửa đu đưa, chúng tôi sẽ đóng cửa của em bằng gỗ bá hương."
+    },
+    {
+      "book": "Nhã Ca",
+      "chapter": "8",
+      "verse": "10",
+      "text": "Em là trinh nữ, như bức tường; bây giờ ngực em như hai ngọn tháp. Khi người yêu em nhìn em, chàng vui thỏa với những gì chàng thấy."
+    },
+    {
+      "book": "Nhã Ca",
+      "chapter": "8",
+      "verse": "11",
+      "text": "Sa-lô-môn có vườn nho tại Ba-anh Ha-môn, người đã để các đầy tớ thuê mướn. Mỗi người phải trả một nghìn miếng bạc về hoa lợi."
+    },
+    {
+      "book": "Nhã Ca",
+      "chapter": "8",
+      "verse": "12",
+      "text": "Nhưng vườn nho của em không phải để bán, Sa-lô-môn chẳng cần phải trả một nghìn miếng bạc để được mảnh vườn ấy. Còn em sẽ trả hai trăm miếng bạc cho người trông coi vườn."
+    },
+    {
+      "book": "Nhã Ca",
+      "chapter": "8",
+      "verse": "13",
+      "text": "Ôi em yêu dấu, cứ ở trong vườn, các bạn anh may mắn được nghe tiếng của em. Hãy cho anh nghe tiếng của em với!"
+    },
+    {
+      "book": "Nhã Ca",
+      "chapter": "8",
+      "verse": "14",
+      "text": "Nhanh lên anh, người yêu của em ơi! Như linh dương hay nai con trên đồi núi ngào ngạt hương thơm."
+    }
+  ]
+}

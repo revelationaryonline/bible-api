@@ -1,1 +1,106 @@
-{"data":[{"book":"Giê-rê-mi","chapter":"12","verse":"1","text":"Lạy Chúa Hằng Hữu, Ngài luôn xét xử công minh"},{"book":"Giê-rê-mi","chapter":"12","verse":"2","text":"Ngài trồng chúng nó,"},{"book":"Giê-rê-mi","chapter":"12","verse":"3","text":"Lạy Chúa Hằng Hữu, Ngài biết rõ con,"},{"book":"Giê-rê-mi","chapter":"12","verse":"4","text":"Đất nước này sẽ còn khóc than đến bao lâu?"},{"book":"Giê-rê-mi","chapter":"12","verse":"5","text":"“Nếu con chạy đua với người, mà còn mỏi mệt,"},{"book":"Giê-rê-mi","chapter":"12","verse":"6","text":"Chính anh em con, gia đình con"},{"book":"Giê-rê-mi","chapter":"12","verse":"7","text":"Ta đã bỏ dân Ta, tức là cơ nghiệp Ta."},{"book":"Giê-rê-mi","chapter":"12","verse":"8","text":"Dân Ta chọn đã kêu rống nghịch lại Ta như sư tử trong rừng,"},{"book":"Giê-rê-mi","chapter":"12","verse":"9","text":"Dân Ta chọn hành động như kên kên vằn vện,"},{"book":"Giê-rê-mi","chapter":"12","verse":"10","text":"Nhiều người chăn đã phá hoại vườn nho Ta,"},{"book":"Giê-rê-mi","chapter":"12","verse":"11","text":"Chúng đã làm đất ấy ra hoang tàn;"},{"book":"Giê-rê-mi","chapter":"12","verse":"12","text":"Trên các đồi trọc,"},{"book":"Giê-rê-mi","chapter":"12","verse":"13","text":"Dân Ta gieo giống lúa mì"},{"book":"Giê-rê-mi","chapter":"12","verse":"14","text":"Này, đây là điều Chúa Hằng Hữu phán: “Ta sẽ bứng khỏi đất tất cả dân tộc gian ác đã chiếm đoạt sản nghiệp mà Ta đã ban cho Ít-ra-ên, dân Ta. Và Ta sẽ bứng nhà Giu-đa ra khỏi chúng."},{"book":"Giê-rê-mi","chapter":"12","verse":"15","text":"Nhưng về sau, Ta sẽ quay lại và tỏ lòng thương xót chúng. Ta sẽ đem chúng về quê hương, cho mỗi dân tộc được hưởng cơ nghiệp của mình."},{"book":"Giê-rê-mi","chapter":"12","verse":"16","text":"Nếu các dân tộc này học hỏi nhanh chóng đường lối của dân Ta, và nhân danh Ta mà thề rằng: ‘Thật như Chúa Hằng Hữu hằng sống’ (như cách chúng dạy dân Ta thề trước Ba-anh), khi ấy chúng sẽ được vững lập giữa dân Ta."},{"book":"Giê-rê-mi","chapter":"12","verse":"17","text":"Nhưng dân tộc nào không vâng lời Ta sẽ bị bứng lên và tiêu diệt. Ta, Chúa Hằng Hữu, đã phán vậy!”"}]}
+{
+  "data": [
+    {
+      "book": "Giê-rê-mi",
+      "chapter": "12",
+      "verse": "1",
+      "text": "Lạy Chúa Hằng Hữu, Ngài luôn xét xử công minh mỗi khi con đến hầu tòa của Chúa. Tuy nhiên, con xin trình bày một lời khiếu nại: Tại sao người gian ác hưng thịnh? Tại sao bọn phản trắc reo mừng sung sướng?"
+    },
+    {
+      "book": "Giê-rê-mi",
+      "chapter": "12",
+      "verse": "2",
+      "text": "Ngài trồng chúng nó, chúng đâm rễ và nẩy lộc. Miệng chúng luôn luôn nhắc đến Chúa, nhưng lòng chúng xa cách Ngài."
+    },
+    {
+      "book": "Giê-rê-mi",
+      "chapter": "12",
+      "verse": "3",
+      "text": "Lạy Chúa Hằng Hữu, Ngài biết rõ con, Ngài nhìn thấy con và tra xét tư tưởng con. Xin Chúa kéo dân này đi như đàn chiên bị đưa đi làm thịt! Để riêng chúng ra cho lò sát sinh!"
+    },
+    {
+      "book": "Giê-rê-mi",
+      "chapter": "12",
+      "verse": "4",
+      "text": "Đất nước này sẽ còn khóc than đến bao lâu? Ngay cả cây cỏ đồng nội phải khô héo. Các thú rừng và chim chóc bị quét sạch vì sự gian ác lan tràn trong xứ. Thế mà chúng vẫn nói: “Chúa Hằng Hữu sẽ không thấy kết cuộc của chúng ta!”"
+    },
+    {
+      "book": "Giê-rê-mi",
+      "chapter": "12",
+      "verse": "5",
+      "text": "“Nếu con chạy đua với người, mà còn mỏi mệt, làm sao đua nổi với ngựa? Đi giữa đất bằng, con còn vấp ngã, làm sao con qua nổi rừng rậm Giô-đan?"
+    },
+    {
+      "book": "Giê-rê-mi",
+      "chapter": "12",
+      "verse": "6",
+      "text": "Chính anh em con, gia đình con còn trở mặt chống nghịch con. Họ âm mưu xúi quần chúng sát hại con. Con đừng tin chúng dù chúng nói những lời ngon ngọt."
+    },
+    {
+      "book": "Giê-rê-mi",
+      "chapter": "12",
+      "verse": "7",
+      "text": "Ta đã bỏ dân Ta, tức là cơ nghiệp Ta. Ta đã giao nạp những người thân yêu cho quân thù của chúng."
+    },
+    {
+      "book": "Giê-rê-mi",
+      "chapter": "12",
+      "verse": "8",
+      "text": "Dân Ta chọn đã kêu rống nghịch lại Ta như sư tử trong rừng, vì vậy Ta ghét chúng nó."
+    },
+    {
+      "book": "Giê-rê-mi",
+      "chapter": "12",
+      "verse": "9",
+      "text": "Dân Ta chọn hành động như kên kên vằn vện, nhưng chính chúng bị kên kên vây quanh. Hay gom các thú rừng đến rúc rỉa thịt chúng nó!"
+    },
+    {
+      "book": "Giê-rê-mi",
+      "chapter": "12",
+      "verse": "10",
+      "text": "Nhiều người chăn đã phá hoại vườn nho Ta, giẫm đạp những cây nho, biến khu vườn đẹp đẽ thành đồng hoang hiu quạnh."
+    },
+    {
+      "book": "Giê-rê-mi",
+      "chapter": "12",
+      "verse": "11",
+      "text": "Chúng đã làm đất ấy ra hoang tàn; Ta nghe tiếng nó khóc than rên rỉ. Khắp đất điêu tàn, không một ai lưu ý."
+    },
+    {
+      "book": "Giê-rê-mi",
+      "chapter": "12",
+      "verse": "12",
+      "text": "Trên các đồi trọc, có thể thấy quân thù đang cướp phá. Lưỡi gươm của Chúa Hằng Hữu tàn sát dân, từ đầu nước này đến nước khác. Không một ai thoát khỏi!"
+    },
+    {
+      "book": "Giê-rê-mi",
+      "chapter": "12",
+      "verse": "13",
+      "text": "Dân Ta gieo giống lúa mì nhưng chỉ gặt gai gốc. Chúng làm việc đầu tắt mặt tối, nhưng chẳng thu hoạch được gì. Chúng sẽ gặt hái mùa màng của tủi hổ vì cơn thịnh nộ phừng phừng của Chúa Hằng Hữu.”"
+    },
+    {
+      "book": "Giê-rê-mi",
+      "chapter": "12",
+      "verse": "14",
+      "text": "Này, đây là điều Chúa Hằng Hữu phán: “Ta sẽ bứng khỏi đất tất cả dân tộc gian ác đã chiếm đoạt sản nghiệp mà Ta đã ban cho Ít-ra-ên, dân Ta. Và Ta sẽ bứng nhà Giu-đa ra khỏi chúng."
+    },
+    {
+      "book": "Giê-rê-mi",
+      "chapter": "12",
+      "verse": "15",
+      "text": "Nhưng về sau, Ta sẽ quay lại và tỏ lòng thương xót chúng. Ta sẽ đem chúng về quê hương, cho mỗi dân tộc được hưởng cơ nghiệp của mình."
+    },
+    {
+      "book": "Giê-rê-mi",
+      "chapter": "12",
+      "verse": "16",
+      "text": "Nếu các dân tộc này học hỏi nhanh chóng đường lối của dân Ta, và nhân danh Ta mà thề rằng: ‘Thật như Chúa Hằng Hữu hằng sống’ (như cách chúng dạy dân Ta thề trước Ba-anh), khi ấy chúng sẽ được vững lập giữa dân Ta."
+    },
+    {
+      "book": "Giê-rê-mi",
+      "chapter": "12",
+      "verse": "17",
+      "text": "Nhưng dân tộc nào không vâng lời Ta sẽ bị bứng lên và tiêu diệt. Ta, Chúa Hằng Hữu, đã phán vậy!”"
+    }
+  ]
+}

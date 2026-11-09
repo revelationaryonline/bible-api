@@ -1,1 +1,46 @@
-{"data":[{"book":"Thi Thiên","chapter":"120","verse":"1","text":"Lúc khốn cùng, tôi kêu cầu Chúa Hằng Hữu;"},{"book":"Thi Thiên","chapter":"120","verse":"2","text":"Xin Chúa Hằng Hữu cứu con khỏi môi dối trá"},{"book":"Thi Thiên","chapter":"120","verse":"3","text":"Này, lưỡi lừa dối, Đức Chúa Trời sẽ làm gì cho ngươi?"},{"book":"Thi Thiên","chapter":"120","verse":"4","text":"Hẳn là mũi tên nhọn của lính chiến,120:4 Nt của người mạnh"},{"book":"Thi Thiên","chapter":"120","verse":"5","text":"Khốn cho tôi vì ngụ tại Mê-siếc,"},{"book":"Thi Thiên","chapter":"120","verse":"6","text":"Tôi ở đó quá lâu,"},{"book":"Thi Thiên","chapter":"120","verse":"7","text":"Tôi chuộng hòa bình;"}]}
+{
+  "data": [
+    {
+      "book": "Thi Thiên",
+      "chapter": "120",
+      "verse": "1",
+      "text": "Lúc khốn cùng, tôi kêu cầu Chúa Hằng Hữu; tôi kêu khóc, Ngài đáp lời tôi."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "120",
+      "verse": "2",
+      "text": "Xin Chúa Hằng Hữu cứu con khỏi môi dối trá và khỏi lưỡi lừa gạt."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "120",
+      "verse": "3",
+      "text": "Này, lưỡi lừa dối, Đức Chúa Trời sẽ làm gì cho ngươi? Ngài còn thêm cho ngươi điều gì nữa?"
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "120",
+      "verse": "4",
+      "text": "Hẳn là mũi tên nhọn của lính chiến,120:4 Nt của người mạnh với những viên than hồng từ lá chổi.120:4 Nt thân cây kim tước"
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "120",
+      "verse": "5",
+      "text": "Khốn cho tôi vì ngụ tại Mê-siếc, và trú trong lều Kê-đa."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "120",
+      "verse": "6",
+      "text": "Tôi ở đó quá lâu, với những người ghét hòa bình,"
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "120",
+      "verse": "7",
+      "text": "Tôi chuộng hòa bình; nhưng khi tôi nói ra, họ lại muốn chiến tranh!"
+    }
+  ]
+}

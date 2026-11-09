@@ -88,14 +88,14 @@
     "book": "firstKings                              ",
     "chapter": "2",
     "verse": "13",
-    "text": "A-đô-ni-gia, con Hà-ghi đến tìm Bát-sê-ba, mẹ Sa-lô-môn. Bà hỏi: “Anh đến với tinh thần hiếu hòa chứ?”"
+    "text": "A-đô-ni-gia, con Hà-ghi đến tìm Bát-sê-ba, mẹ Sa-lô-môn. Bà hỏi: “Anh đến với tinh thần hiếu hòa chứ?” Thưa: “Vâng, hiếu hòa.”"
   },
   {
     "id": 67,
     "book": "firstKings                              ",
     "chapter": "2",
     "verse": "14",
-    "text": "A-đô-ni-gia tiếp: “Con có lời xin thưa với bà.”"
+    "text": "A-đô-ni-gia tiếp: “Con có lời xin thưa với bà.” Bà bảo: “Nói đi.”"
   },
   {
     "id": 68,
@@ -109,7 +109,7 @@
     "book": "firstKings                              ",
     "chapter": "2",
     "verse": "16",
-    "text": "Bây giờ, con có một lời thỉnh cầu, xin bà đừng từ chối.”"
+    "text": "Bây giờ, con có một lời thỉnh cầu, xin bà đừng từ chối.” Bà đáp: “Cứ nói.”"
   },
   {
     "id": 70,
@@ -137,7 +137,7 @@
     "book": "firstKings                              ",
     "chapter": "2",
     "verse": "20",
-    "text": "Bà nói: “Mẹ có một việc nhỏ xin con, đừng từ chối mẹ.”"
+    "text": "Bà nói: “Mẹ có một việc nhỏ xin con, đừng từ chối mẹ.” Vua đáp: “Mẹ nói đi, con không từ chối đâu.”"
   },
   {
     "id": 74,
@@ -207,7 +207,7 @@
     "book": "firstKings                              ",
     "chapter": "2",
     "verse": "30",
-    "text": "Bê-na-gia đến lều tạm của Chúa Hằng Hữu và nói với Giô-áp: “Vua truyền lệnh cho ông đi ra!”"
+    "text": "Bê-na-gia đến lều tạm của Chúa Hằng Hữu và nói với Giô-áp: “Vua truyền lệnh cho ông đi ra!” Nhưng Giô-áp đáp: “Không, ta chết tại đây.” Bê-na-gia tâu lại với vua những điều Giô-áp nói."
   },
   {
     "id": 84,
@@ -319,6 +319,6 @@
     "book": "firstKings                              ",
     "chapter": "2",
     "verse": "46",
-    "text": "Vua ra lệnh cho Bê-na-gia con trai Giê-hô-gia-đa giết Si-mê-i."
+    "text": "Vua ra lệnh cho Bê-na-gia con trai Giê-hô-gia-đa giết Si-mê-i. Như vậy, Sa-lô-môn củng cố được vương quốc mình."
   }
 ]

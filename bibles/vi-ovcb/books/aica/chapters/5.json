@@ -1,1 +1,136 @@
-{"data":[{"book":"Ai Ca","chapter":"5","verse":"1","text":"Lạy Chúa Hằng Hữu, xin Ngài nhớ đến thảm họa"},{"book":"Ai Ca","chapter":"5","verse":"2","text":"Cơ nghiệp chúng con đã bị giao cho người lạ,"},{"book":"Ai Ca","chapter":"5","verse":"3","text":"Chúng con mồ côi cha."},{"book":"Ai Ca","chapter":"5","verse":"4","text":"Chúng con phải trả tiền mới có nước uống,"},{"book":"Ai Ca","chapter":"5","verse":"5","text":"Những người đuổi theo chúng con đã đuổi tận gót chân;"},{"book":"Ai Ca","chapter":"5","verse":"6","text":"Dân tộc chúng con phải van xin Ai Cập và A-sy-ri"},{"book":"Ai Ca","chapter":"5","verse":"7","text":"Tổ phụ chúng con phạm tội, nhưng đã qua đời—"},{"book":"Ai Ca","chapter":"5","verse":"8","text":"Đầy tớ chúng con giờ đây trở thành chủ của chúng con;"},{"book":"Ai Ca","chapter":"5","verse":"9","text":"Chúng con phải liều mạng xông xáo để kiếm thức ăn,"},{"book":"Ai Ca","chapter":"5","verse":"10","text":"Da chúng con đen đủi vì đói khát"},{"book":"Ai Ca","chapter":"5","verse":"11","text":"Kẻ thù chúng con hãm hiếp các thiếu phụ Giê-ru-sa-lem"},{"book":"Ai Ca","chapter":"5","verse":"12","text":"Tay chúng đã treo các vương tử,"},{"book":"Ai Ca","chapter":"5","verse":"13","text":"Những trai tráng bị bắt làm việc tại cối xay,"},{"book":"Ai Ca","chapter":"5","verse":"14","text":"Các phụ lão thôi ngồi nơi cổng thành;"},{"book":"Ai Ca","chapter":"5","verse":"15","text":"Niềm hân hoan đã rời khỏi lòng chúng con;"},{"book":"Ai Ca","chapter":"5","verse":"16","text":"Mão triều thiên trên đầu chúng con đã rơi xuống đất."},{"book":"Ai Ca","chapter":"5","verse":"17","text":"Lòng dạ chúng con nao sờn và lụn bại,"},{"book":"Ai Ca","chapter":"5","verse":"18","text":"Vì Núi Si-ôn đã hoang tàn và đổ nát,"},{"book":"Ai Ca","chapter":"5","verse":"19","text":"Lạy Chúa Hằng Hữu, Ngài trị vì muôn đời!"},{"book":"Ai Ca","chapter":"5","verse":"20","text":"Vì sao Chúa tiếp tục quên chúng con?"},{"book":"Ai Ca","chapter":"5","verse":"21","text":"Xin phục hồi chúng con, lạy Chúa Hằng Hữu, và đem chúng con trở về với Ngài!"},{"book":"Ai Ca","chapter":"5","verse":"22","text":"Hay Chúa đã dứt khoát khước từ chúng con?"}]}
+{
+  "data": [
+    {
+      "book": "Ai Ca",
+      "chapter": "5",
+      "verse": "1",
+      "text": "Lạy Chúa Hằng Hữu, xin Ngài nhớ đến thảm họa và nỗi sỉ nhục của chúng con."
+    },
+    {
+      "book": "Ai Ca",
+      "chapter": "5",
+      "verse": "2",
+      "text": "Cơ nghiệp chúng con đã bị giao cho người lạ, nhà của chúng con đã bị người nước ngoài chiếm đóng."
+    },
+    {
+      "book": "Ai Ca",
+      "chapter": "5",
+      "verse": "3",
+      "text": "Chúng con mồ côi cha. Mẹ chúng con trở thành quả phụ."
+    },
+    {
+      "book": "Ai Ca",
+      "chapter": "5",
+      "verse": "4",
+      "text": "Chúng con phải trả tiền mới có nước uống, ngay cả củi cũng phải trả giá."
+    },
+    {
+      "book": "Ai Ca",
+      "chapter": "5",
+      "verse": "5",
+      "text": "Những người đuổi theo chúng con đã đuổi tận gót chân; chúng con kiệt quệ chẳng chút nghỉ ngơi."
+    },
+    {
+      "book": "Ai Ca",
+      "chapter": "5",
+      "verse": "6",
+      "text": "Dân tộc chúng con phải van xin Ai Cập và A-sy-ri viện trợ mới có thức ăn để sống."
+    },
+    {
+      "book": "Ai Ca",
+      "chapter": "5",
+      "verse": "7",
+      "text": "Tổ phụ chúng con phạm tội, nhưng đã qua đời— nên chúng con phải chịu hình phạt cho cả tội lỗi của họ."
+    },
+    {
+      "book": "Ai Ca",
+      "chapter": "5",
+      "verse": "8",
+      "text": "Đầy tớ chúng con giờ đây trở thành chủ của chúng con; không có ai còn lại để giải cứu chúng con."
+    },
+    {
+      "book": "Ai Ca",
+      "chapter": "5",
+      "verse": "9",
+      "text": "Chúng con phải liều mạng xông xáo để kiếm thức ăn, dù biết rõ quân thù đang mai phục."
+    },
+    {
+      "book": "Ai Ca",
+      "chapter": "5",
+      "verse": "10",
+      "text": "Da chúng con đen đủi vì đói khát như bị nướng trong lò."
+    },
+    {
+      "book": "Ai Ca",
+      "chapter": "5",
+      "verse": "11",
+      "text": "Kẻ thù chúng con hãm hiếp các thiếu phụ Giê-ru-sa-lem và các thiếu nữ ở mọi thành Giu-đa."
+    },
+    {
+      "book": "Ai Ca",
+      "chapter": "5",
+      "verse": "12",
+      "text": "Tay chúng đã treo các vương tử, các vị trưởng lão bị chà đạp nhân phẩm."
+    },
+    {
+      "book": "Ai Ca",
+      "chapter": "5",
+      "verse": "13",
+      "text": "Những trai tráng bị bắt làm việc tại cối xay, và thiếu nhi xiêu ngã dưới gánh củi nặng nề."
+    },
+    {
+      "book": "Ai Ca",
+      "chapter": "5",
+      "verse": "14",
+      "text": "Các phụ lão thôi ngồi nơi cổng thành; những thanh niên không còn nhảy múa và hát ca nữa."
+    },
+    {
+      "book": "Ai Ca",
+      "chapter": "5",
+      "verse": "15",
+      "text": "Niềm hân hoan đã rời khỏi lòng chúng con; cuộc nhảy múa thay bằng tiếng than khóc."
+    },
+    {
+      "book": "Ai Ca",
+      "chapter": "5",
+      "verse": "16",
+      "text": "Mão triều thiên trên đầu chúng con đã rơi xuống đất. Khốn nạn cho chúng con vì chúng con phạm tội."
+    },
+    {
+      "book": "Ai Ca",
+      "chapter": "5",
+      "verse": "17",
+      "text": "Lòng dạ chúng con nao sờn và lụn bại, và mắt mờ đi vì sầu muộn."
+    },
+    {
+      "book": "Ai Ca",
+      "chapter": "5",
+      "verse": "18",
+      "text": "Vì Núi Si-ôn đã hoang tàn và đổ nát, làm nơi cho chó rừng lẩn quất săn mồi."
+    },
+    {
+      "book": "Ai Ca",
+      "chapter": "5",
+      "verse": "19",
+      "text": "Lạy Chúa Hằng Hữu, Ngài trị vì muôn đời! Ngôi Chúa ngự trị đời này sang đời khác."
+    },
+    {
+      "book": "Ai Ca",
+      "chapter": "5",
+      "verse": "20",
+      "text": "Vì sao Chúa tiếp tục quên chúng con? Vì sao Ngài bỏ chúng con lâu như vậy?"
+    },
+    {
+      "book": "Ai Ca",
+      "chapter": "5",
+      "verse": "21",
+      "text": "Xin phục hồi chúng con, lạy Chúa Hằng Hữu, và đem chúng con trở về với Ngài! Xin đem chúng con trở lại những ngày vinh quang, vui mừng thuở trước!"
+    },
+    {
+      "book": "Ai Ca",
+      "chapter": "5",
+      "verse": "22",
+      "text": "Hay Chúa đã dứt khoát khước từ chúng con? Lẽ nào Ngài giận chúng con đến cùng?"
+    }
+  ]
+}

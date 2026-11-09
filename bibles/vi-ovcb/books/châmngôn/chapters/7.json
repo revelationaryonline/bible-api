@@ -1,1 +1,166 @@
-{"data":[{"book":"Châm Ngôn","chapter":"7","verse":"1","text":"Con ơi, hãy giữ lời ta;"},{"book":"Châm Ngôn","chapter":"7","verse":"2","text":"Vâng giữ mệnh lệnh ta và sống!"},{"book":"Châm Ngôn","chapter":"7","verse":"3","text":"Buộc chặt nó nơi ngón tay để nhắc nhớ."},{"book":"Châm Ngôn","chapter":"7","verse":"4","text":"Phải thương yêu đức khôn ngoan như chị em mình;"},{"book":"Châm Ngôn","chapter":"7","verse":"5","text":"Để con tránh được sự cám dỗ của dâm phụ,"},{"book":"Châm Ngôn","chapter":"7","verse":"6","text":"Vì một hôm ở trong nhà,"},{"book":"Châm Ngôn","chapter":"7","verse":"7","text":"thấy trong bọn ngây thơ,"},{"book":"Châm Ngôn","chapter":"7","verse":"8","text":"Hắn đi ngang đường gần khu dâm phụ ở,"},{"book":"Châm Ngôn","chapter":"7","verse":"9","text":"Nhằm lúc hoàng hôn tối trời,"},{"book":"Châm Ngôn","chapter":"7","verse":"10","text":"Kìa, dâm phụ ra đón chào,"},{"book":"Châm Ngôn","chapter":"7","verse":"11","text":"Tính tình ngang bướng, nói năng sỗ sàng;"},{"book":"Châm Ngôn","chapter":"7","verse":"12","text":"Cứ thả lang thang ngoài hè phố,"},{"book":"Châm Ngôn","chapter":"7","verse":"13","text":"Người đàn bà ôm hắn mà hôn,"},{"book":"Châm Ngôn","chapter":"7","verse":"14","text":"“Em vừa dâng lễ cầu an"},{"book":"Châm Ngôn","chapter":"7","verse":"15","text":"Anh là người mà em tìm kiếm!"},{"book":"Châm Ngôn","chapter":"7","verse":"16","text":"Em đã trải mền Ai Cập"},{"book":"Châm Ngôn","chapter":"7","verse":"17","text":"Và rắc một dược, lô hội, và nhục quế"},{"book":"Châm Ngôn","chapter":"7","verse":"18","text":"Hãy đến, chúng ta cùng tận hưởng khoái lạc yêu đương."},{"book":"Châm Ngôn","chapter":"7","verse":"19","text":"vì chồng em vắng nhà."},{"book":"Châm Ngôn","chapter":"7","verse":"20","text":"Người mang theo rất nhiều tiền bạc,"},{"book":"Châm Ngôn","chapter":"7","verse":"21","text":"Dùng lời đường mật, nàng quyến rũ,"},{"book":"Châm Ngôn","chapter":"7","verse":"22","text":"Lập tức hắn đi theo nàng,"},{"book":"Châm Ngôn","chapter":"7","verse":"23","text":"cho đến chừng mũi tên xuyên vào tim."},{"book":"Châm Ngôn","chapter":"7","verse":"24","text":"Thế thì, con ơi, phải lắng tai,"},{"book":"Châm Ngôn","chapter":"7","verse":"25","text":"Đừng để lòng con bị mê hoặc bởi người đàn bà ấy."},{"book":"Châm Ngôn","chapter":"7","verse":"26","text":"Vì nó đã đánh gục nhiều người;"},{"book":"Châm Ngôn","chapter":"7","verse":"27","text":"Nhà nó là đường đi địa ngục."}]}
+{
+  "data": [
+    {
+      "book": "Châm Ngôn",
+      "chapter": "7",
+      "verse": "1",
+      "text": "Con ơi, hãy giữ lời ta; phải chôn sâu vào lòng."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "7",
+      "verse": "2",
+      "text": "Vâng giữ mệnh lệnh ta và sống! Coi khuôn phép ta như con ngươi của mắt con."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "7",
+      "verse": "3",
+      "text": "Buộc chặt nó nơi ngón tay để nhắc nhớ. Khắc ghi nó vào bia lòng con."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "7",
+      "verse": "4",
+      "text": "Phải thương yêu đức khôn ngoan như chị em mình; Gọi thông sáng là người bà con."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "7",
+      "verse": "5",
+      "text": "Để con tránh được sự cám dỗ của dâm phụ, khỏi sự quyến rũ của vợ người khác."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "7",
+      "verse": "6",
+      "text": "Vì một hôm ở trong nhà, ta nhìn qua song cửa,"
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "7",
+      "verse": "7",
+      "text": "thấy trong bọn ngây thơ, trong nhóm trai trẻ, có một người thiếu suy xét."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "7",
+      "verse": "8",
+      "text": "Hắn đi ngang đường gần khu dâm phụ ở, rồi tiến về hướng nhà dâm phụ,"
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "7",
+      "verse": "9",
+      "text": "Nhằm lúc hoàng hôn tối trời, giữa đêm hôm khuya khoắt."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "7",
+      "verse": "10",
+      "text": "Kìa, dâm phụ ra đón chào, trang điểm lố lăng, mưu mô quỷ quyệt."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "7",
+      "verse": "11",
+      "text": "Tính tình ngang bướng, nói năng sỗ sàng; đôi chân không chịu ở yên trong nhà."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "7",
+      "verse": "12",
+      "text": "Cứ thả lang thang ngoài hè phố, rình rập đợi chờ ở các góc đường."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "7",
+      "verse": "13",
+      "text": "Người đàn bà ôm hắn mà hôn, mặt người trơ trẽn dụ dỗ:"
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "7",
+      "verse": "14",
+      "text": "“Em vừa dâng lễ cầu an và đã trả xong các lời thề nguyện."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "7",
+      "verse": "15",
+      "text": "Anh là người mà em tìm kiếm! Em ra đây tìm và gặp được anh!"
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "7",
+      "verse": "16",
+      "text": "Em đã trải mền Ai Cập màu sặc sỡ lên giường."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "7",
+      "verse": "17",
+      "text": "Và rắc một dược, lô hội, và nhục quế để xông thơm cho giường mình."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "7",
+      "verse": "18",
+      "text": "Hãy đến, chúng ta cùng tận hưởng khoái lạc yêu đương. Cùng vui thú ái ân đến sáng,"
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "7",
+      "verse": "19",
+      "text": "vì chồng em vắng nhà. Anh ấy đã lên đường đi xa."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "7",
+      "verse": "20",
+      "text": "Người mang theo rất nhiều tiền bạc, đến cuối tháng mới trở về.”"
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "7",
+      "verse": "21",
+      "text": "Dùng lời đường mật, nàng quyến rũ, với miệng môi dua nịnh, nàng khiến hắn xiêu lòng."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "7",
+      "verse": "22",
+      "text": "Lập tức hắn đi theo nàng, như trâu bò đến lò sát sinh. Như con nai chui đầu vào thòng lọng,"
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "7",
+      "verse": "23",
+      "text": "cho đến chừng mũi tên xuyên vào tim. Hắn như chim bay mau vào lưới, không ngờ đó là cạm bẫy sập bắt linh hồn mình."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "7",
+      "verse": "24",
+      "text": "Thế thì, con ơi, phải lắng tai, chăm chú nghe lời ta dạy bảo."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "7",
+      "verse": "25",
+      "text": "Đừng để lòng con bị mê hoặc bởi người đàn bà ấy. Hãy tránh xa, đừng lại gần đường nó đi."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "7",
+      "verse": "26",
+      "text": "Vì nó đã đánh gục nhiều người; vô số người trở thành nạn nhân của nó."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "7",
+      "verse": "27",
+      "text": "Nhà nó là đường đi địa ngục. Phòng nó dẫn xuống chốn tử vong."
+    }
+  ]
+}

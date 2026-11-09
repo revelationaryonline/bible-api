@@ -1,1 +1,220 @@
-{"data":[{"book":"Châm Ngôn","chapter":"8","verse":"1","text":"Hãy lắng nghe tiếng Khôn Ngoan kêu gọi!"},{"book":"Châm Ngôn","chapter":"8","verse":"2","text":"Sự khôn ngoan ở trên các đỉnh cao,"},{"book":"Châm Ngôn","chapter":"8","verse":"3","text":"Nơi cổng thành, đường vào đô thị,"},{"book":"Châm Ngôn","chapter":"8","verse":"4","text":"“Ta gọi ngươi, tất cả các ngươi!"},{"book":"Châm Ngôn","chapter":"8","verse":"5","text":"Người đơn sơ nên hiểu lẽ khôn ngoan."},{"book":"Châm Ngôn","chapter":"8","verse":"6","text":"Hãy lắng nghe! Ta có điều quan trọng nói với ngươi."},{"book":"Châm Ngôn","chapter":"8","verse":"7","text":"miệng ta truyền chân lý,"},{"book":"Châm Ngôn","chapter":"8","verse":"8","text":"Mọi lời ta đều ngay thật."},{"book":"Châm Ngôn","chapter":"8","verse":"9","text":"Người thông sáng hiểu ra ngay,"},{"book":"Châm Ngôn","chapter":"8","verse":"10","text":"Đón nhận kiến thức, khuyên dạy ta,"},{"book":"Châm Ngôn","chapter":"8","verse":"11","text":"Vì khôn ngoan quý hơn hồng ngọc."},{"book":"Châm Ngôn","chapter":"8","verse":"12","text":"Ta, Khôn Ngoan, đi chung với trí phán đoán."},{"book":"Châm Ngôn","chapter":"8","verse":"13","text":"Kính sợ Chúa Hằng Hữu thì ghét điều ác."},{"book":"Châm Ngôn","chapter":"8","verse":"14","text":"Mưu lược và khôn khéo thuộc về ta."},{"book":"Châm Ngôn","chapter":"8","verse":"15","text":"Nhờ ta mà các vua cầm quyền,"},{"book":"Châm Ngôn","chapter":"8","verse":"16","text":"Nhờ ta, nhà cầm quyền chăn dân,"},{"book":"Châm Ngôn","chapter":"8","verse":"17","text":"Ta yêu những người yêu ta."},{"book":"Châm Ngôn","chapter":"8","verse":"18","text":"Ta có giàu sang và tôn trọng,"},{"book":"Châm Ngôn","chapter":"8","verse":"19","text":"Bông trái ta quý hơn vàng mười,"},{"book":"Châm Ngôn","chapter":"8","verse":"20","text":"Ta bước đi trong công chính,"},{"book":"Châm Ngôn","chapter":"8","verse":"21","text":"Ta cho người yêu ta hưởng giàu sang."},{"book":"Châm Ngôn","chapter":"8","verse":"22","text":"Chúa Hằng Hữu đã có ta từ buổi ban đầu,"},{"book":"Châm Ngôn","chapter":"8","verse":"23","text":"Ta hiện hữu, đời đời trong quá khứ,"},{"book":"Châm Ngôn","chapter":"8","verse":"24","text":"Ta hiện hữu khi chưa có đại dương vực thẳm,"},{"book":"Châm Ngôn","chapter":"8","verse":"25","text":"Trước khi núi non được hình thành,"},{"book":"Châm Ngôn","chapter":"8","verse":"26","text":"trước khi Chúa dựng trời xanh và đồng ruộng"},{"book":"Châm Ngôn","chapter":"8","verse":"27","text":"Ta đã hiện diện, khi Chúa dựng trời xanh,"},{"book":"Châm Ngôn","chapter":"8","verse":"28","text":"Ta hiện diện khi Ngài giăng mây trời,"},{"book":"Châm Ngôn","chapter":"8","verse":"29","text":"Ta hiện diện khi Ngài định giới ranh biển cả,"},{"book":"Châm Ngôn","chapter":"8","verse":"30","text":"ta đã hiện diện bên Ngài, làm thợ cả."},{"book":"Châm Ngôn","chapter":"8","verse":"31","text":"Vui mừng trong thế giới địa đàng,"},{"book":"Châm Ngôn","chapter":"8","verse":"32","text":"Cho nên các con hãy nghe ta,"},{"book":"Châm Ngôn","chapter":"8","verse":"33","text":"Chịu dạy dỗ, sống khôn ngoan."},{"book":"Châm Ngôn","chapter":"8","verse":"34","text":"Phước cho người nghe lời ta,"},{"book":"Châm Ngôn","chapter":"8","verse":"35","text":"Vì ai tìm ta thì được sự sống,"},{"book":"Châm Ngôn","chapter":"8","verse":"36","text":"Ai xúc phạm ta là tự hủy mình."}]}
+{
+  "data": [
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "1",
+      "text": "Hãy lắng nghe tiếng Khôn Ngoan kêu gọi! Lắng nghe sự thông sáng lên tiếng!"
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "2",
+      "text": "Sự khôn ngoan ở trên các đỉnh cao, nơi các góc đường, và tại các giao lộ."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "3",
+      "text": "Nơi cổng thành, đường vào đô thị, bên thềm cửa, khôn ngoan kêu lớn tiếng:"
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "4",
+      "text": "“Ta gọi ngươi, tất cả các ngươi! Ta gọi toàn thể loài người."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "5",
+      "text": "Người đơn sơ nên hiểu lẽ khôn ngoan. Người dại phải có tâm sáng suốt."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "6",
+      "text": "Hãy lắng nghe! Ta có điều quan trọng nói với ngươi. Mọi điều ta nói là lẽ phải,"
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "7",
+      "text": "miệng ta truyền chân lý, môi ta ghét gian tà."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "8",
+      "text": "Mọi lời ta đều ngay thật. Không có chút gian dối;"
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "9",
+      "text": "Người thông sáng hiểu ra ngay, người tri thức chấp nhận liền."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "10",
+      "text": "Đón nhận kiến thức, khuyên dạy ta, quý cho con hơn bắt được bạc vàng."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "11",
+      "text": "Vì khôn ngoan quý hơn hồng ngọc. Không bảo vật nào có thể sánh với nó."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "12",
+      "text": "Ta, Khôn Ngoan, đi chung với trí phán đoán. Ta biết sự tri thức và thận trọng."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "13",
+      "text": "Kính sợ Chúa Hằng Hữu thì ghét điều ác. Vì thế, ta ghét kiêu căng và ngạo ngược, lối ác và miệng gian tà."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "14",
+      "text": "Mưu lược và khôn khéo thuộc về ta. Ta thông sáng và đầy năng lực."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "15",
+      "text": "Nhờ ta mà các vua cầm quyền, và những người cai trị ban sắc lệnh công bằng."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "16",
+      "text": "Nhờ ta, nhà cầm quyền chăn dân, và các quý tộc xét xử công chính."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "17",
+      "text": "Ta yêu những người yêu ta. Ai sớm tìm kiếm ta hẳn sẽ gặp."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "18",
+      "text": "Ta có giàu sang và tôn trọng, công chính, và thịnh vượng lâu dài."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "19",
+      "text": "Bông trái ta quý hơn vàng mười, hoa lợi ta hơn bạc vàng nguyên chất."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "20",
+      "text": "Ta bước đi trong công chính, trên đường nẻo công bình."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "21",
+      "text": "Ta cho người yêu ta hưởng giàu sang. Ta sẽ cho kho báu người luôn đầy dẫy."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "22",
+      "text": "Chúa Hằng Hữu đã có ta từ buổi ban đầu, trước cả khi khai thiên lập địa."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "23",
+      "text": "Ta hiện hữu, đời đời trong quá khứ, từ ban đầu, khi chưa có địa cầu."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "24",
+      "text": "Ta hiện hữu khi chưa có đại dương vực thẳm, nước chưa tuôn từ nguồn suối mạch sông."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "25",
+      "text": "Trước khi núi non được hình thành, đồi cao góp mặt, thì đã có ta—"
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "26",
+      "text": "trước khi Chúa dựng trời xanh và đồng ruộng cùng cao nguyên trùng điệp."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "27",
+      "text": "Ta đã hiện diện, khi Chúa dựng trời xanh, khi Ngài đặt vòng tròn trên mặt biển."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "28",
+      "text": "Ta hiện diện khi Ngài giăng mây trời, đặt nguồn nước lớn dưới vực đại dương,"
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "29",
+      "text": "Ta hiện diện khi Ngài định giới ranh biển cả, ban lệnh cho nước không được tràn khỏi bờ. Và khi Ngài dựng nền của đất,"
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "30",
+      "text": "ta đã hiện diện bên Ngài, làm thợ cả. Với Chúa, ta là niềm vui hằng ngày, ta luôn hân hoan trước mặt Chúa."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "31",
+      "text": "Vui mừng trong thế giới địa đàng, với loài người, ta thích thú vô cùng."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "32",
+      "text": "Cho nên các con hãy nghe ta, phước cho ai theo đường lối ta."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "33",
+      "text": "Chịu dạy dỗ, sống khôn ngoan. Đừng từ chối lời giáo huấn."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "34",
+      "text": "Phước cho người nghe lời ta, ngày ngày trông ngoài cổng, chờ đợi trước cửa nhà!"
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "35",
+      "text": "Vì ai tìm ta thì được sự sống, và hưởng ân huệ Chúa Hằng Hữu."
+    },
+    {
+      "book": "Châm Ngôn",
+      "chapter": "8",
+      "verse": "36",
+      "text": "Ai xúc phạm ta là tự hủy mình. Người ghét ta là yêu sự chết.”"
+    }
+  ]
+}

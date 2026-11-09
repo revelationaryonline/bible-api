@@ -1,1 +1,136 @@
-{"data":[{"book":"Gióp","chapter":"8","verse":"1","text":"Kế đến, Binh-đát, người Su-a, trả lời Gióp:"},{"book":"Gióp","chapter":"8","verse":"2","text":"“Anh nói mãi những điều ấy cho đến khi nào?"},{"book":"Gióp","chapter":"8","verse":"3","text":"Có khi nào Đức Chúa Trời bẻ cong công lý?"},{"book":"Gióp","chapter":"8","verse":"4","text":"Con cái anh chắc đã phạm tội với Chúa,"},{"book":"Gióp","chapter":"8","verse":"5","text":"Nhưng nếu anh kêu cầu Đức Chúa Trời"},{"book":"Gióp","chapter":"8","verse":"6","text":"nếu anh trong sạch và sống ngay lành,"},{"book":"Gióp","chapter":"8","verse":"7","text":"Dù mới đầu chẳng có bao nhiêu,"},{"book":"Gióp","chapter":"8","verse":"8","text":"Hãy hỏi các thế hệ đi trước."},{"book":"Gióp","chapter":"8","verse":"9","text":"Vì chúng ta mới ra đời hôm qua nên chẳng biết chi."},{"book":"Gióp","chapter":"8","verse":"10","text":"Nhưng những người đến trước chúng ta sẽ dạy dỗ anh."},{"book":"Gióp","chapter":"8","verse":"11","text":"Có thể nào cây cói giấy mọc nơi không đầm lầy?"},{"book":"Gióp","chapter":"8","verse":"12","text":"Trong khi chúng vẫn còn xanh tươi, chưa bị cắt bỏ,"},{"book":"Gióp","chapter":"8","verse":"13","text":"Số phận người quên Đức Chúa Trời cũng thế,"},{"book":"Gióp","chapter":"8","verse":"14","text":"Những điều họ tin tưởng thật mong manh."},{"book":"Gióp","chapter":"8","verse":"15","text":"Họ níu lấy nhà mình, nhưng nó không vững."},{"book":"Gióp","chapter":"8","verse":"16","text":"Người vô thần như cây xanh tốt trong nắng ấm,"},{"book":"Gióp","chapter":"8","verse":"17","text":"Rễ cây ăn sâu quanh đống đá;"},{"book":"Gióp","chapter":"8","verse":"18","text":"Nhưng khi cây bị nhổ lên,"},{"book":"Gióp","chapter":"8","verse":"19","text":"Đó là luật chung của muôn loài,"},{"book":"Gióp","chapter":"8","verse":"20","text":"Nhưng kìa, Đức Chúa Trời chẳng bỏ người ngay lành,"},{"book":"Gióp","chapter":"8","verse":"21","text":"Chúa sẽ cho miệng anh đầy tiếng cười"},{"book":"Gióp","chapter":"8","verse":"22","text":"Những ai ghét anh sẽ hổ thẹn cúi đầu,"}]}
+{
+  "data": [
+    {
+      "book": "Gióp",
+      "chapter": "8",
+      "verse": "1",
+      "text": "Kế đến, Binh-đát, người Su-a, trả lời Gióp:"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "8",
+      "verse": "2",
+      "text": "“Anh nói mãi những điều ấy cho đến khi nào? Tiếng của anh ào ào như gió."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "8",
+      "verse": "3",
+      "text": "Có khi nào Đức Chúa Trời bẻ cong công lý? Hay là Đấng Toàn Năng làm sai lệch điều ngay thẳng?"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "8",
+      "verse": "4",
+      "text": "Con cái anh chắc đã phạm tội với Chúa, nên Ngài đã phó giao chúng cho án phạt của tội lỗi."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "8",
+      "verse": "5",
+      "text": "Nhưng nếu anh kêu cầu Đức Chúa Trời và tìm kiếm Đấng Toàn Năng,"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "8",
+      "verse": "6",
+      "text": "nếu anh trong sạch và sống ngay lành, hẳn Chúa sẽ vực anh dậy và phục hồi gia đình của anh."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "8",
+      "verse": "7",
+      "text": "Dù mới đầu chẳng có bao nhiêu, nhưng về sau sẽ gia tăng gấp bội."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "8",
+      "verse": "8",
+      "text": "Hãy hỏi các thế hệ đi trước. Hãy suy ngẫm kinh nghiệm của bậc tổ tiên."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "8",
+      "verse": "9",
+      "text": "Vì chúng ta mới ra đời hôm qua nên chẳng biết chi. Ngày chúng ta sống trên đất như cái bóng."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "8",
+      "verse": "10",
+      "text": "Nhưng những người đến trước chúng ta sẽ dạy dỗ anh. Họ sẽ dạy anh những lời hiểu biết của họ."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "8",
+      "verse": "11",
+      "text": "Có thể nào cây cói giấy mọc nơi không đầm lầy? Chẳng lẽ cây sậy có thể phát triển không cần nước?"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "8",
+      "verse": "12",
+      "text": "Trong khi chúng vẫn còn xanh tươi, chưa bị cắt bỏ, thì chúng bắt đầu héo khô nhanh hơn các loài cỏ."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "8",
+      "verse": "13",
+      "text": "Số phận người quên Đức Chúa Trời cũng thế, bao hy vọng của họ rồi cũng tiêu tan."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "8",
+      "verse": "14",
+      "text": "Những điều họ tin tưởng thật mong manh. Những điều họ tin cậy chỉ như mạng nhện."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "8",
+      "verse": "15",
+      "text": "Họ níu lấy nhà mình, nhưng nó không vững. Họ cố bám chặt, nhưng nó chẳng chịu nổi."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "8",
+      "verse": "16",
+      "text": "Người vô thần như cây xanh tốt trong nắng ấm, cành lá sum suê phủ cả vườn."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "8",
+      "verse": "17",
+      "text": "Rễ cây ăn sâu quanh đống đá; mọc chìa giữa đám sỏi."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "8",
+      "verse": "18",
+      "text": "Nhưng khi cây bị nhổ lên, nó bị xem như chưa bao giờ tồn tại,"
+    },
+    {
+      "book": "Gióp",
+      "chapter": "8",
+      "verse": "19",
+      "text": "Đó là luật chung của muôn loài, chết cây này, cây khác mọc lên."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "8",
+      "verse": "20",
+      "text": "Nhưng kìa, Đức Chúa Trời chẳng bỏ người ngay lành, và Ngài cũng không đưa tay giúp kẻ ác."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "8",
+      "verse": "21",
+      "text": "Chúa sẽ cho miệng anh đầy tiếng cười và môi anh tuôn tràn suối reo vui."
+    },
+    {
+      "book": "Gióp",
+      "chapter": "8",
+      "verse": "22",
+      "text": "Những ai ghét anh sẽ hổ thẹn cúi đầu, và nhà của kẻ gian ác sẽ bị phá hủy.”"
+    }
+  ]
+}

@@ -1,1 +1,40 @@
-{"data":[{"book":"Thi Thiên","chapter":"150","verse":"1","text":"Tán dương Chúa Hằng Hữu!"},{"book":"Thi Thiên","chapter":"150","verse":"2","text":"Hãy ca tụng Chúa vì các việc kỳ diệu;"},{"book":"Thi Thiên","chapter":"150","verse":"3","text":"Ca tụng Chúa bằng tiếng kèn rộn rã;"},{"book":"Thi Thiên","chapter":"150","verse":"4","text":"Ca tụng Chúa bằng trống cơm và điệu vũ,"},{"book":"Thi Thiên","chapter":"150","verse":"5","text":"Ca tụng Chúa bằng tiếng chập chõa,"},{"book":"Thi Thiên","chapter":"150","verse":"6","text":"Hỡi mọi sinh vật có hơi thở, hãy ca tụng Chúa Hằng Hữu!"}]}
+{
+  "data": [
+    {
+      "book": "Thi Thiên",
+      "chapter": "150",
+      "verse": "1",
+      "text": "Tán dương Chúa Hằng Hữu! Hãy ca tụng Đức Chúa Trời trong nơi thánh Ngài; ca tụng Chúa trên khung trời uy linh."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "150",
+      "verse": "2",
+      "text": "Hãy ca tụng Chúa vì các việc kỳ diệu; ca tụng Ngài vì lòng cao cả vô biên."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "150",
+      "verse": "3",
+      "text": "Ca tụng Chúa bằng tiếng kèn rộn rã; ca tụng Ngài với đàn lia và đàn hạc."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "150",
+      "verse": "4",
+      "text": "Ca tụng Chúa bằng trống cơm và điệu vũ, ca tụng Ngài với đàn dây và ống tiêu."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "150",
+      "verse": "5",
+      "text": "Ca tụng Chúa bằng tiếng chập chõa, ca tụng Ngài với phèng la vang rền."
+    },
+    {
+      "book": "Thi Thiên",
+      "chapter": "150",
+      "verse": "6",
+      "text": "Hỡi mọi sinh vật có hơi thở, hãy ca tụng Chúa Hằng Hữu! Ngợi tôn Chúa Hằng Hữu!"
+    }
+  ]
+}

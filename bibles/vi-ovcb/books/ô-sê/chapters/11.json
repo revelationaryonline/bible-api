@@ -1,1 +1,76 @@
-{"data":[{"book":"Ô-sê","chapter":"11","verse":"1","text":"“Khi Ít-ra-ên còn thơ dại, Ta yêu thương nó,"},{"book":"Ô-sê","chapter":"11","verse":"2","text":"Nhưng Ta càng gọi nó,"},{"book":"Ô-sê","chapter":"11","verse":"3","text":"Chính Ta đã dạy cho Ép-ra-im biết đi,"},{"book":"Ô-sê","chapter":"11","verse":"4","text":"Ta đã dắt Ít-ra-ên đi"},{"book":"Ô-sê","chapter":"11","verse":"5","text":"Nhưng từ khi dân Ta không chịu quay về cùng Ta,"},{"book":"Ô-sê","chapter":"11","verse":"6","text":"Chiến tranh sẽ bao phủ các thành phố chúng;"},{"book":"Ô-sê","chapter":"11","verse":"7","text":"Dân Ta nhất quyết lìa xa Ta."},{"book":"Ô-sê","chapter":"11","verse":"8","text":"Ôi, làm sao Ta từ bỏ ngươi được, hỡi Ép-ra-im?"},{"book":"Ô-sê","chapter":"11","verse":"9","text":"Không, Ta sẽ không phạt ngươi cho hả giận đâu."},{"book":"Ô-sê","chapter":"11","verse":"10","text":"Vì có ngày dân chúng sẽ bước theo Ta."},{"book":"Ô-sê","chapter":"11","verse":"11","text":"Như đàn chim, chúng sẽ bay về từ Ai Cập."},{"book":"Ô-sê","chapter":"11","verse":"12","text":"Ép-ra-im bao bọc Ta bằng lời dối trá và lừa gạt,"}]}
+{
+  "data": [
+    {
+      "book": "Ô-sê",
+      "chapter": "11",
+      "verse": "1",
+      "text": "“Khi Ít-ra-ên còn thơ dại, Ta yêu thương nó, và Ta đã gọi con trai Ta ra khỏi Ai Cập."
+    },
+    {
+      "book": "Ô-sê",
+      "chapter": "11",
+      "verse": "2",
+      "text": "Nhưng Ta càng gọi nó, nó càng rời xa Ta, để dâng tế lễ cho các thần Ba-anh và dâng hương cho các tượng chạm."
+    },
+    {
+      "book": "Ô-sê",
+      "chapter": "11",
+      "verse": "3",
+      "text": "Chính Ta đã dạy cho Ép-ra-im biết đi, lấy cánh tay mà dìu dắt nó. Nhưng nó chẳng biết hay quan tâm rằng chính Ta đã chữa lành cho nó."
+    },
+    {
+      "book": "Ô-sê",
+      "chapter": "11",
+      "verse": "4",
+      "text": "Ta đã dắt Ít-ra-ên đi bằng sợi dây nhân ái và yêu thương. Ta đã tháo bỏ ách khỏi cổ nó, và chính Ta cúi xuống cho nó ăn."
+    },
+    {
+      "book": "Ô-sê",
+      "chapter": "11",
+      "verse": "5",
+      "text": "Nhưng từ khi dân Ta không chịu quay về cùng Ta, nên chúng sẽ trở lại đất Ai Cập và bị buộc phải phục tùng A-sy-ri."
+    },
+    {
+      "book": "Ô-sê",
+      "chapter": "11",
+      "verse": "6",
+      "text": "Chiến tranh sẽ bao phủ các thành phố chúng; quân thù của chúng sẽ phá tan các cổng thành. Quân thù sẽ thiêu rụi chúng, gài bẫy chúng trong chính âm mưu của chúng."
+    },
+    {
+      "book": "Ô-sê",
+      "chapter": "11",
+      "verse": "7",
+      "text": "Dân Ta nhất quyết lìa xa Ta. Chúng gọi Ta là Đấng Tối Cao, nhưng chúng không thật sự tôn trọng Ta."
+    },
+    {
+      "book": "Ô-sê",
+      "chapter": "11",
+      "verse": "8",
+      "text": "Ôi, làm sao Ta từ bỏ ngươi được, hỡi Ép-ra-im? Làm sao Ta có thể giao ngươi cho kẻ thù? Làm sao Ta tiêu diệt ngươi như Át-ma hay đánh đổ ngươi như Sê-bô-im? Tim Ta quặn thắt trong lòng, và sự thương xót Ta bốc cháy phừng phừng."
+    },
+    {
+      "book": "Ô-sê",
+      "chapter": "11",
+      "verse": "9",
+      "text": "Không, Ta sẽ không phạt ngươi cho hả giận đâu. Ta sẽ không hoàn toàn tiêu diệt Ép-ra-im, vì Ta là Đức Chúa Trời, không phải con người. Ta là Đấng Thánh đang ngự giữa dân Ta. Ta sẽ không đến để hủy diệt."
+    },
+    {
+      "book": "Ô-sê",
+      "chapter": "11",
+      "verse": "10",
+      "text": "Vì có ngày dân chúng sẽ bước theo Ta. Ta, Chúa Hằng Hữu, sẽ gầm như sư tử. Và khi Ta gầm thét dân Ta sẽ run sợ quay về từ phương tây."
+    },
+    {
+      "book": "Ô-sê",
+      "chapter": "11",
+      "verse": "11",
+      "text": "Như đàn chim, chúng sẽ bay về từ Ai Cập. Run rẩy như bồ câu, chúng sẽ trở về từ A-sy-ri. Và Ta sẽ cho chúng về tổ ấm,” Chúa Hằng Hữu phán vậy."
+    },
+    {
+      "book": "Ô-sê",
+      "chapter": "11",
+      "verse": "12",
+      "text": "Ép-ra-im bao bọc Ta bằng lời dối trá và lừa gạt, nhưng Giu-đa vẫn vâng phục Đức Chúa Trời và trung tín với Đấng Thánh."
+    }
+  ]
+}

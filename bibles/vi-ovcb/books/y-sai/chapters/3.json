@@ -1,1 +1,160 @@
-{"data":[{"book":"Y-sai","chapter":"3","verse":"1","text":"Chúa, Chúa Hằng Hữu Vạn Quân,"},{"book":"Y-sai","chapter":"3","verse":"2","text":"tất cả anh hùng và chiến sĩ,"},{"book":"Y-sai","chapter":"3","verse":"3","text":"quan chỉ huy quân đội và tướng lãnh,"},{"book":"Y-sai","chapter":"3","verse":"4","text":"Ta sẽ khiến những bé trai lãnh đạo họ,"},{"book":"Y-sai","chapter":"3","verse":"5","text":"Dân chúng áp bức nhau—"},{"book":"Y-sai","chapter":"3","verse":"6","text":"Trong những ngày ấy, một người sẽ nói với anh em của mình:"},{"book":"Y-sai","chapter":"3","verse":"7","text":"Nhưng người ấy đáp:"},{"book":"Y-sai","chapter":"3","verse":"8","text":"Bởi Giê-ru-sa-lem sẽ chao đảo,"},{"book":"Y-sai","chapter":"3","verse":"9","text":"Sắc mặt họ đủ làm chứng cớ buộc tội họ."},{"book":"Y-sai","chapter":"3","verse":"10","text":"Hãy nói với những người tin kính rằng"},{"book":"Y-sai","chapter":"3","verse":"11","text":"Nhưng khốn thay cho người gian ác,"},{"book":"Y-sai","chapter":"3","verse":"12","text":"Dân ta bị bọn trẻ áp bức"},{"book":"Y-sai","chapter":"3","verse":"13","text":"Chúa Hằng Hữu ngự tại tòa phán xét"},{"book":"Y-sai","chapter":"3","verse":"14","text":"Chúa Hằng Hữu đến để xét xử các trưởng lão"},{"book":"Y-sai","chapter":"3","verse":"15","text":"Sao các ngươi dám đàn áp dân Ta,"},{"book":"Y-sai","chapter":"3","verse":"16","text":"Chúa Hằng Hữu phán:"},{"book":"Y-sai","chapter":"3","verse":"17","text":"Vì thế, Chúa sẽ làm cho đầu họ đóng vảy"},{"book":"Y-sai","chapter":"3","verse":"18","text":"Trong ngày phán xét"},{"book":"Y-sai","chapter":"3","verse":"19","text":"hoa tai, xuyến, và khăn che mặt;"},{"book":"Y-sai","chapter":"3","verse":"20","text":"khăn choàng, vòng đeo chân, khăn thắt lưng,"},{"book":"Y-sai","chapter":"3","verse":"21","text":"nhẫn, ngọc quý,"},{"book":"Y-sai","chapter":"3","verse":"22","text":"trang phục dạ tiệc, áo dài, áo choàng, và túi,"},{"book":"Y-sai","chapter":"3","verse":"23","text":"gương soi, vải gai mịn,"},{"book":"Y-sai","chapter":"3","verse":"24","text":"Thay vì tỏa mùi thơm, ngươi sẽ bị hôi thối."},{"book":"Y-sai","chapter":"3","verse":"25","text":"Những đàn ông trong thành sẽ bị giết bởi gươm,"},{"book":"Y-sai","chapter":"3","verse":"26","text":"Các cổng Si-ôn sẽ khóc lóc và kêu than."}]}
+{
+  "data": [
+    {
+      "book": "Y-sai",
+      "chapter": "3",
+      "verse": "1",
+      "text": "Chúa, Chúa Hằng Hữu Vạn Quân, sẽ cất đi khỏi Giê-ru-sa-lem và Giu-đa mọi thứ mà họ cần đến như: mỗi mẩu bánh và mỗi giọt nước,"
+    },
+    {
+      "book": "Y-sai",
+      "chapter": "3",
+      "verse": "2",
+      "text": "tất cả anh hùng và chiến sĩ, quan án và tiên tri, thầy bói và trưởng lão,"
+    },
+    {
+      "book": "Y-sai",
+      "chapter": "3",
+      "verse": "3",
+      "text": "quan chỉ huy quân đội và tướng lãnh, cố vấn, nghệ nhân, và chiêm tinh."
+    },
+    {
+      "book": "Y-sai",
+      "chapter": "3",
+      "verse": "4",
+      "text": "Ta sẽ khiến những bé trai lãnh đạo họ, và trẻ con cai trị họ."
+    },
+    {
+      "book": "Y-sai",
+      "chapter": "3",
+      "verse": "5",
+      "text": "Dân chúng áp bức nhau— người này hại người kia, láng giềng hại láng giềng. Thanh niên sẽ nổi lên chống người già, và người thấp hèn lấn lướt người tôn trọng."
+    },
+    {
+      "book": "Y-sai",
+      "chapter": "3",
+      "verse": "6",
+      "text": "Trong những ngày ấy, một người sẽ nói với anh em của mình: “Anh có áo choàng, anh hãy lãnh đạo chúng tôi! Hãy nhận trách nhiệm về đống đổ nát này!”"
+    },
+    {
+      "book": "Y-sai",
+      "chapter": "3",
+      "verse": "7",
+      "text": "Nhưng người ấy đáp: “Không! Tôi không thể giúp được. Tôi không có bất cứ thức ăn hay y phục nào. Đừng lập tôi làm lãnh đạo!”"
+    },
+    {
+      "book": "Y-sai",
+      "chapter": "3",
+      "verse": "8",
+      "text": "Bởi Giê-ru-sa-lem sẽ chao đảo, và Giu-đa sẽ suy sụp vì lời nói và hành động của họ chống lại Chúa Hằng Hữu. Họ thách thức Ngài trước mặt Ngài."
+    },
+    {
+      "book": "Y-sai",
+      "chapter": "3",
+      "verse": "9",
+      "text": "Sắc mặt họ đủ làm chứng cớ buộc tội họ. Họ phơi bày tội lỗi mình như người Sô-đôm, không hề giấu diếm. Khốn nạn cho họ! Họ đã chuốc lấy tai họa vào thân!"
+    },
+    {
+      "book": "Y-sai",
+      "chapter": "3",
+      "verse": "10",
+      "text": "Hãy nói với những người tin kính rằng mọi sự sẽ tốt cho họ. Họ sẽ hưởng được kết quả của việc mình làm."
+    },
+    {
+      "book": "Y-sai",
+      "chapter": "3",
+      "verse": "11",
+      "text": "Nhưng khốn thay cho người gian ác, vì họ sẽ bị báo trả những gì chính họ gây ra."
+    },
+    {
+      "book": "Y-sai",
+      "chapter": "3",
+      "verse": "12",
+      "text": "Dân ta bị bọn trẻ áp bức và đàn bà cai trị họ. Ôi dân ta, lãnh đạo con đã dẫn con lầm lạc; họ đưa con vào đường sai trái."
+    },
+    {
+      "book": "Y-sai",
+      "chapter": "3",
+      "verse": "13",
+      "text": "Chúa Hằng Hữu ngự tại tòa phán xét Ngài đứng lên xét xử chúng dân!"
+    },
+    {
+      "book": "Y-sai",
+      "chapter": "3",
+      "verse": "14",
+      "text": "Chúa Hằng Hữu đến để xét xử các trưởng lão và những người cai trị dân Ngài rằng: “Chính các ngươi đã làm tàn hại vườn nho Ta. Nhà các ngươi cất đầy vật trộm cướp từ người nghèo."
+    },
+    {
+      "book": "Y-sai",
+      "chapter": "3",
+      "verse": "15",
+      "text": "Sao các ngươi dám đàn áp dân Ta, nghiền nát mặt người nghèo vào bụi đất?” Chúa là Chúa Hằng Hữu Vạn Quân phán vậy."
+    },
+    {
+      "book": "Y-sai",
+      "chapter": "3",
+      "verse": "16",
+      "text": "Chúa Hằng Hữu phán: “Vì con gái Si-ôn kiêu kỳ: Nhướng cổ cao, liếc mắt trêu người, bước đi õng ẹo, khua chân vòng vàng nơi mắt cá."
+    },
+    {
+      "book": "Y-sai",
+      "chapter": "3",
+      "verse": "17",
+      "text": "Vì thế, Chúa sẽ làm cho đầu họ đóng vảy và Chúa Hằng Hữu sẽ cho con gái Si-ôn bị hói đầu."
+    },
+    {
+      "book": "Y-sai",
+      "chapter": "3",
+      "verse": "18",
+      "text": "Trong ngày phán xét Chúa sẽ lột hết những vật trang sức làm ngươi xinh đẹp như khăn quấn đầu, chuỗi hạt trăng lưỡi liềm,"
+    },
+    {
+      "book": "Y-sai",
+      "chapter": "3",
+      "verse": "19",
+      "text": "hoa tai, xuyến, và khăn che mặt;"
+    },
+    {
+      "book": "Y-sai",
+      "chapter": "3",
+      "verse": "20",
+      "text": "khăn choàng, vòng đeo chân, khăn thắt lưng, túi thơm, và bùa đeo;"
+    },
+    {
+      "book": "Y-sai",
+      "chapter": "3",
+      "verse": "21",
+      "text": "nhẫn, ngọc quý,"
+    },
+    {
+      "book": "Y-sai",
+      "chapter": "3",
+      "verse": "22",
+      "text": "trang phục dạ tiệc, áo dài, áo choàng, và túi,"
+    },
+    {
+      "book": "Y-sai",
+      "chapter": "3",
+      "verse": "23",
+      "text": "gương soi, vải gai mịn, đồ trang sức trên đầu, và khăn trùm đầu."
+    },
+    {
+      "book": "Y-sai",
+      "chapter": "3",
+      "verse": "24",
+      "text": "Thay vì tỏa mùi thơm, ngươi sẽ bị hôi thối. Ngươi sẽ mang dây trói thay vì khăn thắt lưng, và mái tóc mượt mà của ngươi sẽ bị rụng hết. Ngươi sẽ mặc vải thô thay vì áo dài sặc sỡ. Sự hổ thẹn sẽ thay cho sắc đẹp của ngươi."
+    },
+    {
+      "book": "Y-sai",
+      "chapter": "3",
+      "verse": "25",
+      "text": "Những đàn ông trong thành sẽ bị giết bởi gươm, những anh hùng của ngươi sẽ chết nơi chiến trường."
+    },
+    {
+      "book": "Y-sai",
+      "chapter": "3",
+      "verse": "26",
+      "text": "Các cổng Si-ôn sẽ khóc lóc và kêu than. Thành phố sẽ như người đàn bà tàn héo, bị vứt trên đất.”"
+    }
+  ]
+}
